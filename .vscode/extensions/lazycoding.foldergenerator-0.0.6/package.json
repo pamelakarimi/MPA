@@ -1,0 +1,85 @@
+{
+	"name": "foldergenerator",
+	"icon": "lotus.png",
+	"author": "LazyCoding",
+	"publisher": "LazyCoding",
+	"displayName": "Simple React Component Generator",
+	"description": "Simple tool to create a folder containing a jsx component file and a sass file",
+	"repository": {
+		"url": "https://github.com/FakhrTarabay/generateFolderExtension"
+	},
+	"version": "0.0.6",
+	"engines": {
+		"vscode": "^1.72.0"
+	},
+	"categories": [
+		"Other"
+	],
+	"activationEvents": [
+		"onCommand:folderGenerator.GenerateFolder"
+	],
+	"main": "./extension.js",
+	"contributes": {
+		"configuration": {
+			"title": "Simple React Component Generator",
+			"properties": {
+				"foldergenerator.SelectTemplate": {
+					"type": "string",
+					"default": "JavaScript",
+					"description": "Change the language of the generated component.",
+					"enum": [
+						"JavaScript",
+						"TypeScript"
+					]
+				}
+			}
+		},
+		"commands": [
+			{
+				"command": "folderGenerator.GenerateFolder",
+				"title": "Generate component folder",
+				"shortTitle": "generateReactFolder",
+				"category": "extension"
+			}
+		],
+		"menus": {
+			"explorer/context": [
+				{
+					"when": "explorerResourceIsFolder",
+					"command": "folderGenerator.GenerateFolder",
+					"group": "MyGroup@1"
+				}
+			]
+		}
+	},
+	"scripts": {
+		"lint": "eslint .",
+		"pretest": "npm run lint",
+		"test": "node ./test/runTest.js"
+	},
+	"devDependencies": {
+		"@types/vscode": "^1.72.0",
+		"@types/glob": "^8.0.0",
+		"@types/mocha": "^10.0.0",
+		"@types/node": "16.x",
+		"eslint": "^8.24.0",
+		"glob": "^8.0.3",
+		"mocha": "^10.0.0",
+		"typescript": "^4.8.4",
+		"@vscode/test-electron": "^2.1.5"
+	},
+	"__metadata": {
+		"id": "06ab646b-af6b-4e84-ac2b-840a5545464a",
+		"publisherId": "b9b6deca-95f1-48ee-b159-9210e0ee38d5",
+		"publisherDisplayName": "LazyCoding",
+		"targetPlatform": "undefined",
+		"isApplicationScoped": false,
+		"isPreReleaseVersion": false,
+		"hasPreReleaseVersion": false,
+		"installedTimestamp": 1732253288712,
+		"pinned": false,
+		"preRelease": false,
+		"source": "gallery",
+		"size": 21935
+	}
+}

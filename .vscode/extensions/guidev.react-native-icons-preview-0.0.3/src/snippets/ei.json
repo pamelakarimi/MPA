@@ -1,0 +1,422 @@
+{
+  "ei-archive": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "ei-archive",
+    "body": "<EvilIcons name=\"archive\" color=\"black\" size={25}/>$0",
+    "description": "archive icon from EvilIcons font."
+  },
+  "ei-arrow-down": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "ei-arrow-down",
+    "body": "<EvilIcons name=\"arrow-down\" color=\"black\" size={25}/>$0",
+    "description": "arrow-down icon from EvilIcons font."
+  },
+  "ei-arrow-left": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "ei-arrow-left",
+    "body": "<EvilIcons name=\"arrow-left\" color=\"black\" size={25}/>$0",
+    "description": "arrow-left icon from EvilIcons font."
+  },
+  "ei-arrow-right": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "ei-arrow-right",
+    "body": "<EvilIcons name=\"arrow-right\" color=\"black\" size={25}/>$0",
+    "description": "arrow-right icon from EvilIcons font."
+  },
+  "ei-arrow-up": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "ei-arrow-up",
+    "body": "<EvilIcons name=\"arrow-up\" color=\"black\" size={25}/>$0",
+    "description": "arrow-up icon from EvilIcons font."
+  },
+  "ei-bell": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "ei-bell",
+    "body": "<EvilIcons name=\"bell\" color=\"black\" size={25}/>$0",
+    "description": "bell icon from EvilIcons font."
+  },
+  "ei-calendar": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "ei-calendar",
+    "body": "<EvilIcons name=\"calendar\" color=\"black\" size={25}/>$0",
+    "description": "calendar icon from EvilIcons font."
+  },
+  "ei-camera": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "ei-camera",
+    "body": "<EvilIcons name=\"camera\" color=\"black\" size={25}/>$0",
+    "description": "camera icon from EvilIcons font."
+  },
+  "ei-cart": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "ei-cart",
+    "body": "<EvilIcons name=\"cart\" color=\"black\" size={25}/>$0",
+    "description": "cart icon from EvilIcons font."
+  },
+  "ei-chart": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "ei-chart",
+    "body": "<EvilIcons name=\"chart\" color=\"black\" size={25}/>$0",
+    "description": "chart icon from EvilIcons font."
+  },
+  "ei-check": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "ei-check",
+    "body": "<EvilIcons name=\"check\" color=\"black\" size={25}/>$0",
+    "description": "check icon from EvilIcons font."
+  },
+  "ei-chevron-down": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "ei-chevron-down",
+    "body": "<EvilIcons name=\"chevron-down\" color=\"black\" size={25}/>$0",
+    "description": "chevron-down icon from EvilIcons font."
+  },
+  "ei-chevron-left": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "ei-chevron-left",
+    "body": "<EvilIcons name=\"chevron-left\" color=\"black\" size={25}/>$0",
+    "description": "chevron-left icon from EvilIcons font."
+  },
+  "ei-chevron-right": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "ei-chevron-right",
+    "body": "<EvilIcons name=\"chevron-right\" color=\"black\" size={25}/>$0",
+    "description": "chevron-right icon from EvilIcons font."
+  },
+  "ei-chevron-up": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "ei-chevron-up",
+    "body": "<EvilIcons name=\"chevron-up\" color=\"black\" size={25}/>$0",
+    "description": "chevron-up icon from EvilIcons font."
+  },
+  "ei-clock": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "ei-clock",
+    "body": "<EvilIcons name=\"clock\" color=\"black\" size={25}/>$0",
+    "description": "clock icon from EvilIcons font."
+  },
+  "ei-close": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "ei-close",
+    "body": "<EvilIcons name=\"close\" color=\"black\" size={25}/>$0",
+    "description": "close icon from EvilIcons font."
+  },
+  "ei-close-o": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "ei-close-o",
+    "body": "<EvilIcons name=\"close-o\" color=\"black\" size={25}/>$0",
+    "description": "close-o icon from EvilIcons font."
+  },
+  "ei-comment": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "ei-comment",
+    "body": "<EvilIcons name=\"comment\" color=\"black\" size={25}/>$0",
+    "description": "comment icon from EvilIcons font."
+  },
+  "ei-credit-card": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "ei-credit-card",
+    "body": "<EvilIcons name=\"credit-card\" color=\"black\" size={25}/>$0",
+    "description": "credit-card icon from EvilIcons font."
+  },
+  "ei-envelope": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "ei-envelope",
+    "body": "<EvilIcons name=\"envelope\" color=\"black\" size={25}/>$0",
+    "description": "envelope icon from EvilIcons font."
+  },
+  "ei-exclamation": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "ei-exclamation",
+    "body": "<EvilIcons name=\"exclamation\" color=\"black\" size={25}/>$0",
+    "description": "exclamation icon from EvilIcons font."
+  },
+  "ei-external-link": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "ei-external-link",
+    "body": "<EvilIcons name=\"external-link\" color=\"black\" size={25}/>$0",
+    "description": "external-link icon from EvilIcons font."
+  },
+  "ei-eye": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "ei-eye",
+    "body": "<EvilIcons name=\"eye\" color=\"black\" size={25}/>$0",
+    "description": "eye icon from EvilIcons font."
+  },
+  "ei-gear": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "ei-gear",
+    "body": "<EvilIcons name=\"gear\" color=\"black\" size={25}/>$0",
+    "description": "gear icon from EvilIcons font."
+  },
+  "ei-heart": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "ei-heart",
+    "body": "<EvilIcons name=\"heart\" color=\"black\" size={25}/>$0",
+    "description": "heart icon from EvilIcons font."
+  },
+  "ei-image": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "ei-image",
+    "body": "<EvilIcons name=\"image\" color=\"black\" size={25}/>$0",
+    "description": "image icon from EvilIcons font."
+  },
+  "ei-like": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "ei-like",
+    "body": "<EvilIcons name=\"like\" color=\"black\" size={25}/>$0",
+    "description": "like icon from EvilIcons font."
+  },
+  "ei-link": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "ei-link",
+    "body": "<EvilIcons name=\"link\" color=\"black\" size={25}/>$0",
+    "description": "link icon from EvilIcons font."
+  },
+  "ei-location": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "ei-location",
+    "body": "<EvilIcons name=\"location\" color=\"black\" size={25}/>$0",
+    "description": "location icon from EvilIcons font."
+  },
+  "ei-lock": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "ei-lock",
+    "body": "<EvilIcons name=\"lock\" color=\"black\" size={25}/>$0",
+    "description": "lock icon from EvilIcons font."
+  },
+  "ei-minus": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "ei-minus",
+    "body": "<EvilIcons name=\"minus\" color=\"black\" size={25}/>$0",
+    "description": "minus icon from EvilIcons font."
+  },
+  "ei-navicon": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "ei-navicon",
+    "body": "<EvilIcons name=\"navicon\" color=\"black\" size={25}/>$0",
+    "description": "navicon icon from EvilIcons font."
+  },
+  "ei-paperclip": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "ei-paperclip",
+    "body": "<EvilIcons name=\"paperclip\" color=\"black\" size={25}/>$0",
+    "description": "paperclip icon from EvilIcons font."
+  },
+  "ei-pencil": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "ei-pencil",
+    "body": "<EvilIcons name=\"pencil\" color=\"black\" size={25}/>$0",
+    "description": "pencil icon from EvilIcons font."
+  },
+  "ei-play": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "ei-play",
+    "body": "<EvilIcons name=\"play\" color=\"black\" size={25}/>$0",
+    "description": "play icon from EvilIcons font."
+  },
+  "ei-plus": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "ei-plus",
+    "body": "<EvilIcons name=\"plus\" color=\"black\" size={25}/>$0",
+    "description": "plus icon from EvilIcons font."
+  },
+  "ei-pointer": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "ei-pointer",
+    "body": "<EvilIcons name=\"pointer\" color=\"black\" size={25}/>$0",
+    "description": "pointer icon from EvilIcons font."
+  },
+  "ei-question": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "ei-question",
+    "body": "<EvilIcons name=\"question\" color=\"black\" size={25}/>$0",
+    "description": "question icon from EvilIcons font."
+  },
+  "ei-redo": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "ei-redo",
+    "body": "<EvilIcons name=\"redo\" color=\"black\" size={25}/>$0",
+    "description": "redo icon from EvilIcons font."
+  },
+  "ei-refresh": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "ei-refresh",
+    "body": "<EvilIcons name=\"refresh\" color=\"black\" size={25}/>$0",
+    "description": "refresh icon from EvilIcons font."
+  },
+  "ei-retweet": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "ei-retweet",
+    "body": "<EvilIcons name=\"retweet\" color=\"black\" size={25}/>$0",
+    "description": "retweet icon from EvilIcons font."
+  },
+  "ei-sc-facebook": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "ei-sc-facebook",
+    "body": "<EvilIcons name=\"sc-facebook\" color=\"black\" size={25}/>$0",
+    "description": "sc-facebook icon from EvilIcons font."
+  },
+  "ei-sc-github": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "ei-sc-github",
+    "body": "<EvilIcons name=\"sc-github\" color=\"black\" size={25}/>$0",
+    "description": "sc-github icon from EvilIcons font."
+  },
+  "ei-sc-google-plus": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "ei-sc-google-plus",
+    "body": "<EvilIcons name=\"sc-google-plus\" color=\"black\" size={25}/>$0",
+    "description": "sc-google-plus icon from EvilIcons font."
+  },
+  "ei-sc-instagram": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "ei-sc-instagram",
+    "body": "<EvilIcons name=\"sc-instagram\" color=\"black\" size={25}/>$0",
+    "description": "sc-instagram icon from EvilIcons font."
+  },
+  "ei-sc-linkedin": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "ei-sc-linkedin",
+    "body": "<EvilIcons name=\"sc-linkedin\" color=\"black\" size={25}/>$0",
+    "description": "sc-linkedin icon from EvilIcons font."
+  },
+  "ei-sc-odnoklassniki": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "ei-sc-odnoklassniki",
+    "body": "<EvilIcons name=\"sc-odnoklassniki\" color=\"black\" size={25}/>$0",
+    "description": "sc-odnoklassniki icon from EvilIcons font."
+  },
+  "ei-sc-pinterest": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "ei-sc-pinterest",
+    "body": "<EvilIcons name=\"sc-pinterest\" color=\"black\" size={25}/>$0",
+    "description": "sc-pinterest icon from EvilIcons font."
+  },
+  "ei-sc-skype": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "ei-sc-skype",
+    "body": "<EvilIcons name=\"sc-skype\" color=\"black\" size={25}/>$0",
+    "description": "sc-skype icon from EvilIcons font."
+  },
+  "ei-sc-soundcloud": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "ei-sc-soundcloud",
+    "body": "<EvilIcons name=\"sc-soundcloud\" color=\"black\" size={25}/>$0",
+    "description": "sc-soundcloud icon from EvilIcons font."
+  },
+  "ei-sc-telegram": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "ei-sc-telegram",
+    "body": "<EvilIcons name=\"sc-telegram\" color=\"black\" size={25}/>$0",
+    "description": "sc-telegram icon from EvilIcons font."
+  },
+  "ei-sc-tumblr": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "ei-sc-tumblr",
+    "body": "<EvilIcons name=\"sc-tumblr\" color=\"black\" size={25}/>$0",
+    "description": "sc-tumblr icon from EvilIcons font."
+  },
+  "ei-sc-twitter": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "ei-sc-twitter",
+    "body": "<EvilIcons name=\"sc-twitter\" color=\"black\" size={25}/>$0",
+    "description": "sc-twitter icon from EvilIcons font."
+  },
+  "ei-sc-vimeo": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "ei-sc-vimeo",
+    "body": "<EvilIcons name=\"sc-vimeo\" color=\"black\" size={25}/>$0",
+    "description": "sc-vimeo icon from EvilIcons font."
+  },
+  "ei-sc-vk": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "ei-sc-vk",
+    "body": "<EvilIcons name=\"sc-vk\" color=\"black\" size={25}/>$0",
+    "description": "sc-vk icon from EvilIcons font."
+  },
+  "ei-sc-youtube": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "ei-sc-youtube",
+    "body": "<EvilIcons name=\"sc-youtube\" color=\"black\" size={25}/>$0",
+    "description": "sc-youtube icon from EvilIcons font."
+  },
+  "ei-search": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "ei-search",
+    "body": "<EvilIcons name=\"search\" color=\"black\" size={25}/>$0",
+    "description": "search icon from EvilIcons font."
+  },
+  "ei-share-apple": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "ei-share-apple",
+    "body": "<EvilIcons name=\"share-apple\" color=\"black\" size={25}/>$0",
+    "description": "share-apple icon from EvilIcons font."
+  },
+  "ei-share-google": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "ei-share-google",
+    "body": "<EvilIcons name=\"share-google\" color=\"black\" size={25}/>$0",
+    "description": "share-google icon from EvilIcons font."
+  },
+  "ei-spinner": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "ei-spinner",
+    "body": "<EvilIcons name=\"spinner\" color=\"black\" size={25}/>$0",
+    "description": "spinner icon from EvilIcons font."
+  },
+  "ei-spinner-2": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "ei-spinner-2",
+    "body": "<EvilIcons name=\"spinner-2\" color=\"black\" size={25}/>$0",
+    "description": "spinner-2 icon from EvilIcons font."
+  },
+  "ei-spinner-3": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "ei-spinner-3",
+    "body": "<EvilIcons name=\"spinner-3\" color=\"black\" size={25}/>$0",
+    "description": "spinner-3 icon from EvilIcons font."
+  },
+  "ei-star": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "ei-star",
+    "body": "<EvilIcons name=\"star\" color=\"black\" size={25}/>$0",
+    "description": "star icon from EvilIcons font."
+  },
+  "ei-tag": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "ei-tag",
+    "body": "<EvilIcons name=\"tag\" color=\"black\" size={25}/>$0",
+    "description": "tag icon from EvilIcons font."
+  },
+  "ei-trash": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "ei-trash",
+    "body": "<EvilIcons name=\"trash\" color=\"black\" size={25}/>$0",
+    "description": "trash icon from EvilIcons font."
+  },
+  "ei-trophy": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "ei-trophy",
+    "body": "<EvilIcons name=\"trophy\" color=\"black\" size={25}/>$0",
+    "description": "trophy icon from EvilIcons font."
+  },
+  "ei-undo": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "ei-undo",
+    "body": "<EvilIcons name=\"undo\" color=\"black\" size={25}/>$0",
+    "description": "undo icon from EvilIcons font."
+  },
+  "ei-unlock": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "ei-unlock",
+    "body": "<EvilIcons name=\"unlock\" color=\"black\" size={25}/>$0",
+    "description": "unlock icon from EvilIcons font."
+  },
+  "ei-user": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "ei-user",
+    "body": "<EvilIcons name=\"user\" color=\"black\" size={25}/>$0",
+    "description": "user icon from EvilIcons font."
+  }
+}

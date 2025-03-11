@@ -1,0 +1,141 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>React Icon Finder</title>
+  <style>
+    .icon { cursor: pointer; padding: 10px; display: inline-block; }
+    .icon svg { width: 50px; height: 50px; }
+    #search { margin-bottom: 20px; padding: 10px; width: 100%; box-sizing: border-box; }
+    #pagination { margin-top: 20px; }
+    .page { cursor: pointer; padding: 5px 10px; border: 1px solid #ccc; margin: 5px 5px; display: inline-block; }
+
+
+    #loading,
+    #loading:after {
+      box-sizing: border-box;
+      position: fixed;
+      top: 50%;
+      left: 50%;
+      transform: translate(-50%, -50%);
+    }
+    #loading {
+      display: inline-block;
+      width: 80px;
+      height: 80px;
+    }
+    #loading:after {
+      content: " ";
+      display: block;
+      width: 64px;
+      height: 64px;
+      margin: 8px;
+      border-radius: 50%;
+      border: 6.4px solid currentColor;
+      border-color: currentColor transparent currentColor transparent;
+      animation: loading 1.2s linear infinite;
+    }
+    @keyframes loading {
+      0% {
+        transform: rotate(0deg);
+      }
+      100% {
+        transform: rotate(360deg);
+      }
+    }
+    #icons, #pagination{
+      display: none;
+    }
+  </style>
+</head>
+<body>
+    <div id="loading"></div>
+
+  <input type="text" id="search" placeholder="Search icons..." />
+  <div id="icons"></div>
+  <div id="pagination"></div>
+
+  <script>
+    const vscode = acquireVsCodeApi();
+    const searchInput = document.getElementById('search');
+    const iconsPerPage = 300;
+    let currentPage = 1;
+    let filteredIcons = [];
+
+    function renderIcons(page, iconsToRender) {
+      const start = (page - 1) * iconsPerPage;
+      const end = start + iconsPerPage;
+      document.querySelectorAll('.icon').forEach(icon => icon.style.display = 'none');
+      iconsToRender.slice(start, end).forEach(icon => icon.style.display = 'inline-block');
+    }
+
+    function renderPagination(totalIcons) {
+      const totalPages = Math.ceil(totalIcons / iconsPerPage);
+      const pagination = document.getElementById('pagination');
+      pagination.innerHTML = '';
+      for (let i = 1; i <= totalPages; i++) {
+        const pageElement = document.createElement('span');
+        pageElement.textContent = i;
+        pageElement.className = 'page';
+        pageElement.addEventListener('click', () => {
+          currentPage = i;
+          renderIcons(currentPage, filteredIcons);
+        });
+        pagination.appendChild(pageElement);
+      }
+    }
+
+    searchInput.addEventListener('input', () => {
+      const query = searchInput.value.toLowerCase();
+      filteredIcons = Array.from(document.querySelectorAll('.icon')).filter(icon => {
+        const name = icon.getAttribute('data-name');
+        return name.includes(query);
+      });
+      renderPagination(filteredIcons.length);
+      currentPage = 1;
+      renderIcons(currentPage, filteredIcons);
+    });
+
+    window.addEventListener('message', event => {
+      const icons = event.data.icons;
+      const iconsContainer = document.getElementById('icons');
+      iconsContainer.innerHTML = icons;
+      filteredIcons = Array.from(document.querySelectorAll('.icon'));
+      renderPagination(filteredIcons.length);
+      renderIcons(currentPage, filteredIcons);
+
+      filteredIcons.forEach(icon => {
+        icon.addEventListener('click', () => {
+          const iconName = icon.getAttribute('data-icon');
+          const iconPackage = icon.getAttribute('data-package');
+          const importStatement = `import { ${iconName} } from 'react-icons/${iconPackage}';`;
+          vscode.postMessage({ icon: importStatement });
+        });
+      });
+      filteredIcons.forEach(icon => {
+        icon.addEventListener('click', (event) => {
+          if (event.shiftKey) {
+            const svgElement = icon.querySelector('svg');
+            const svgContent = new XMLSerializer().serializeToString(svgElement);
+            navigator.clipboard.writeText(svgContent).then(() => {
+              vscode.postMessage({ message: 'SVG copied to clipboard' });
+            }).catch(err => {
+              console.error('Failed to copy SVG: ', err);
+            });
+          } else {
+            const iconName = icon.getAttribute('data-icon');
+            const iconPackage = icon.getAttribute('data-package');
+            const importStatement = `import { ${iconName} } from 'react-icons/${iconPackage}';`;
+            vscode.postMessage({ icon: importStatement });
+          }
+        });
+      });
+
+      document.getElementById('loading').style.display = 'none';
+      document.getElementById('icons').style.display = 'block';
+      document.getElementById('pagination').style.display = 'block';
+    });
+  </script>
+</body>
+</html>

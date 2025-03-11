@@ -1,0 +1,36 @@
+{
+	"name": "ejs-snippets",
+	"displayName": "EJS Snippets",
+	"description": "Set of EJS Snippets to make life easier.",
+	"version": "0.7.0",
+	"publisher": "Theran",
+	"repository": "https://github.com/theranbrig/ejs-snippets.git",
+	"engines": {
+		"vscode": "^1.26.0"
+	},
+	"categories": [
+		"Snippets"
+	],
+	"contributes": {
+		"snippets": [
+			{
+				"language": "ejs",
+				"path": "./snippets/snippets.json"
+			}
+		]
+	},
+	"__metadata": {
+		"id": "1f764790-61a7-4033-9191-826881bb5ef2",
+		"publisherId": "77f1ebbc-4ed8-4ab2-900a-c6d35e82f238",
+		"publisherDisplayName": "Theran",
+		"targetPlatform": "undefined",
+		"isApplicationScoped": false,
+		"isPreReleaseVersion": false,
+		"hasPreReleaseVersion": false,
+		"installedTimestamp": 1737112800841,
+		"pinned": false,
+		"preRelease": false,
+		"source": "gallery",
+		"size": 7313
+	}
+}

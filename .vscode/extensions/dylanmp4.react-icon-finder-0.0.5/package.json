@@ -1,0 +1,108 @@
+{
+	"name": "react-icon-finder",
+	"displayName": "React Icon Finder",
+	"icon": "images/icon.png",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/dylan-mp4/react-icon-finder"
+	},
+	"publisher": "Dylanmp4",
+	"description": "Finds react icons and displays them for ease of use",
+	"version": "0.0.5",
+	"engines": {
+		"vscode": "^1.92.0"
+	},
+	"categories": [
+		"Other"
+	],
+	"activationEvents": [],
+	"main": "./dist/extension.js",
+	"contributes": {
+		"commands": [
+			{
+				"command": "react-icon-finder.findIcons",
+				"title": "Find React Icons"
+			}
+		],
+		"configuration": {
+			"type": "object",
+			"properties": {
+				"iconHelper.iconKeys": {
+					"type": "array",
+					"items": {
+						"type": "string"
+					},
+					"default": [
+						"fa",
+						"md",
+						"io",
+						"ti",
+						"go",
+						"fi",
+						"gi",
+						"wi",
+						"ai",
+						"bs",
+						"bi",
+						"ci",
+						"cg",
+						"di",
+						"fa6",
+						"gr",
+						"hi",
+						"hi2",
+						"lia",
+						"io5",
+						"lu",
+						"pi",
+						"im",
+						"rx",
+						"ri",
+						"si",
+						"sl",
+						"tb",
+						"tfi",
+						"vsc"
+					],
+					"markdownDescription": "Currently active icon packages. Find more on [React Icons](https://react-icons.github.io/react-icons) official website, then enter the character code here."
+				}
+			}
+		}
+	},
+	"dependencies": {
+		"react": "^18.3.1",
+		"react-dom": "^18.3.1",
+		"react-icons": "^5.3.0"
+	},
+	"scripts": {
+		"lint": "eslint .",
+		"pretest": "npm run lint",
+		"test": "vscode-test",
+		"build": "node esbuild.config.js"
+	},
+	"devDependencies": {
+		"@types/mocha": "^10.0.7",
+		"@types/node": "20.x",
+		"@types/vscode": "^1.92.0",
+		"@vscode/test-cli": "^0.0.9",
+		"@vscode/test-electron": "^2.4.0",
+		"esbuild": "^0.23.1",
+		"eslint": "^8.57.0",
+		"sinon": "^18.0.0",
+		"typescript": "^5.4.5"
+	},
+	"__metadata": {
+		"id": "ffea3c3f-c4ac-4a5e-853b-1b4073168559",
+		"publisherId": "ef6277f5-865b-44d0-b19d-a4f887eba3a3",
+		"publisherDisplayName": "Dylanmp4",
+		"targetPlatform": "undefined",
+		"isApplicationScoped": false,
+		"isPreReleaseVersion": false,
+		"hasPreReleaseVersion": false,
+		"installedTimestamp": 1738591753028,
+		"pinned": false,
+		"preRelease": false,
+		"source": "gallery",
+		"size": 90580914
+	}
+}

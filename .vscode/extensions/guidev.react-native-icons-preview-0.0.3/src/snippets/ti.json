@@ -1,0 +1,2468 @@
+{
+  "ti-500px": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "ti-500px",
+    "body": "<Entypo name=\"500px\" color=\"black\" size={25}/>$0",
+    "description": "500px icon from Entypo font."
+  },
+  "ti-500px-with-circle": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "ti-500px-with-circle",
+    "body": "<Entypo name=\"500px-with-circle\" color=\"black\" size={25}/>$0",
+    "description": "500px-with-circle icon from Entypo font."
+  },
+  "ti-add-to-list": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "ti-add-to-list",
+    "body": "<Entypo name=\"add-to-list\" color=\"black\" size={25}/>$0",
+    "description": "add-to-list icon from Entypo font."
+  },
+  "ti-add-user": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "ti-add-user",
+    "body": "<Entypo name=\"add-user\" color=\"black\" size={25}/>$0",
+    "description": "add-user icon from Entypo font."
+  },
+  "ti-address": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "ti-address",
+    "body": "<Entypo name=\"address\" color=\"black\" size={25}/>$0",
+    "description": "address icon from Entypo font."
+  },
+  "ti-adjust": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "ti-adjust",
+    "body": "<Entypo name=\"adjust\" color=\"black\" size={25}/>$0",
+    "description": "adjust icon from Entypo font."
+  },
+  "ti-air": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "ti-air",
+    "body": "<Entypo name=\"air\" color=\"black\" size={25}/>$0",
+    "description": "air icon from Entypo font."
+  },
+  "ti-aircraft": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "ti-aircraft",
+    "body": "<Entypo name=\"aircraft\" color=\"black\" size={25}/>$0",
+    "description": "aircraft icon from Entypo font."
+  },
+  "ti-aircraft-landing": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "ti-aircraft-landing",
+    "body": "<Entypo name=\"aircraft-landing\" color=\"black\" size={25}/>$0",
+    "description": "aircraft-landing icon from Entypo font."
+  },
+  "ti-aircraft-take-off": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "ti-aircraft-take-off",
+    "body": "<Entypo name=\"aircraft-take-off\" color=\"black\" size={25}/>$0",
+    "description": "aircraft-take-off icon from Entypo font."
+  },
+  "ti-align-bottom": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "ti-align-bottom",
+    "body": "<Entypo name=\"align-bottom\" color=\"black\" size={25}/>$0",
+    "description": "align-bottom icon from Entypo font."
+  },
+  "ti-align-horizontal-middle": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "ti-align-horizontal-middle",
+    "body": "<Entypo name=\"align-horizontal-middle\" color=\"black\" size={25}/>$0",
+    "description": "align-horizontal-middle icon from Entypo font."
+  },
+  "ti-align-left": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "ti-align-left",
+    "body": "<Entypo name=\"align-left\" color=\"black\" size={25}/>$0",
+    "description": "align-left icon from Entypo font."
+  },
+  "ti-align-right": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "ti-align-right",
+    "body": "<Entypo name=\"align-right\" color=\"black\" size={25}/>$0",
+    "description": "align-right icon from Entypo font."
+  },
+  "ti-align-top": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "ti-align-top",
+    "body": "<Entypo name=\"align-top\" color=\"black\" size={25}/>$0",
+    "description": "align-top icon from Entypo font."
+  },
+  "ti-align-vertical-middle": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "ti-align-vertical-middle",
+    "body": "<Entypo name=\"align-vertical-middle\" color=\"black\" size={25}/>$0",
+    "description": "align-vertical-middle icon from Entypo font."
+  },
+  "ti-app-store": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "ti-app-store",
+    "body": "<Entypo name=\"app-store\" color=\"black\" size={25}/>$0",
+    "description": "app-store icon from Entypo font."
+  },
+  "ti-archive": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "ti-archive",
+    "body": "<Entypo name=\"archive\" color=\"black\" size={25}/>$0",
+    "description": "archive icon from Entypo font."
+  },
+  "ti-area-graph": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "ti-area-graph",
+    "body": "<Entypo name=\"area-graph\" color=\"black\" size={25}/>$0",
+    "description": "area-graph icon from Entypo font."
+  },
+  "ti-arrow-bold-down": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "ti-arrow-bold-down",
+    "body": "<Entypo name=\"arrow-bold-down\" color=\"black\" size={25}/>$0",
+    "description": "arrow-bold-down icon from Entypo font."
+  },
+  "ti-arrow-bold-left": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "ti-arrow-bold-left",
+    "body": "<Entypo name=\"arrow-bold-left\" color=\"black\" size={25}/>$0",
+    "description": "arrow-bold-left icon from Entypo font."
+  },
+  "ti-arrow-bold-right": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "ti-arrow-bold-right",
+    "body": "<Entypo name=\"arrow-bold-right\" color=\"black\" size={25}/>$0",
+    "description": "arrow-bold-right icon from Entypo font."
+  },
+  "ti-arrow-bold-up": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "ti-arrow-bold-up",
+    "body": "<Entypo name=\"arrow-bold-up\" color=\"black\" size={25}/>$0",
+    "description": "arrow-bold-up icon from Entypo font."
+  },
+  "ti-arrow-down": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "ti-arrow-down",
+    "body": "<Entypo name=\"arrow-down\" color=\"black\" size={25}/>$0",
+    "description": "arrow-down icon from Entypo font."
+  },
+  "ti-arrow-left": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "ti-arrow-left",
+    "body": "<Entypo name=\"arrow-left\" color=\"black\" size={25}/>$0",
+    "description": "arrow-left icon from Entypo font."
+  },
+  "ti-arrow-long-down": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "ti-arrow-long-down",
+    "body": "<Entypo name=\"arrow-long-down\" color=\"black\" size={25}/>$0",
+    "description": "arrow-long-down icon from Entypo font."
+  },
+  "ti-arrow-long-left": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "ti-arrow-long-left",
+    "body": "<Entypo name=\"arrow-long-left\" color=\"black\" size={25}/>$0",
+    "description": "arrow-long-left icon from Entypo font."
+  },
+  "ti-arrow-long-right": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "ti-arrow-long-right",
+    "body": "<Entypo name=\"arrow-long-right\" color=\"black\" size={25}/>$0",
+    "description": "arrow-long-right icon from Entypo font."
+  },
+  "ti-arrow-long-up": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "ti-arrow-long-up",
+    "body": "<Entypo name=\"arrow-long-up\" color=\"black\" size={25}/>$0",
+    "description": "arrow-long-up icon from Entypo font."
+  },
+  "ti-arrow-right": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "ti-arrow-right",
+    "body": "<Entypo name=\"arrow-right\" color=\"black\" size={25}/>$0",
+    "description": "arrow-right icon from Entypo font."
+  },
+  "ti-arrow-up": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "ti-arrow-up",
+    "body": "<Entypo name=\"arrow-up\" color=\"black\" size={25}/>$0",
+    "description": "arrow-up icon from Entypo font."
+  },
+  "ti-arrow-with-circle-down": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "ti-arrow-with-circle-down",
+    "body": "<Entypo name=\"arrow-with-circle-down\" color=\"black\" size={25}/>$0",
+    "description": "arrow-with-circle-down icon from Entypo font."
+  },
+  "ti-arrow-with-circle-left": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "ti-arrow-with-circle-left",
+    "body": "<Entypo name=\"arrow-with-circle-left\" color=\"black\" size={25}/>$0",
+    "description": "arrow-with-circle-left icon from Entypo font."
+  },
+  "ti-arrow-with-circle-right": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "ti-arrow-with-circle-right",
+    "body": "<Entypo name=\"arrow-with-circle-right\" color=\"black\" size={25}/>$0",
+    "description": "arrow-with-circle-right icon from Entypo font."
+  },
+  "ti-arrow-with-circle-up": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "ti-arrow-with-circle-up",
+    "body": "<Entypo name=\"arrow-with-circle-up\" color=\"black\" size={25}/>$0",
+    "description": "arrow-with-circle-up icon from Entypo font."
+  },
+  "ti-attachment": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "ti-attachment",
+    "body": "<Entypo name=\"attachment\" color=\"black\" size={25}/>$0",
+    "description": "attachment icon from Entypo font."
+  },
+  "ti-awareness-ribbon": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "ti-awareness-ribbon",
+    "body": "<Entypo name=\"awareness-ribbon\" color=\"black\" size={25}/>$0",
+    "description": "awareness-ribbon icon from Entypo font."
+  },
+  "ti-back": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "ti-back",
+    "body": "<Entypo name=\"back\" color=\"black\" size={25}/>$0",
+    "description": "back icon from Entypo font."
+  },
+  "ti-back-in-time": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "ti-back-in-time",
+    "body": "<Entypo name=\"back-in-time\" color=\"black\" size={25}/>$0",
+    "description": "back-in-time icon from Entypo font."
+  },
+  "ti-baidu": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "ti-baidu",
+    "body": "<Entypo name=\"baidu\" color=\"black\" size={25}/>$0",
+    "description": "baidu icon from Entypo font."
+  },
+  "ti-bar-graph": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "ti-bar-graph",
+    "body": "<Entypo name=\"bar-graph\" color=\"black\" size={25}/>$0",
+    "description": "bar-graph icon from Entypo font."
+  },
+  "ti-basecamp": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "ti-basecamp",
+    "body": "<Entypo name=\"basecamp\" color=\"black\" size={25}/>$0",
+    "description": "basecamp icon from Entypo font."
+  },
+  "ti-battery": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "ti-battery",
+    "body": "<Entypo name=\"battery\" color=\"black\" size={25}/>$0",
+    "description": "battery icon from Entypo font."
+  },
+  "ti-beamed-note": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "ti-beamed-note",
+    "body": "<Entypo name=\"beamed-note\" color=\"black\" size={25}/>$0",
+    "description": "beamed-note icon from Entypo font."
+  },
+  "ti-behance": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "ti-behance",
+    "body": "<Entypo name=\"behance\" color=\"black\" size={25}/>$0",
+    "description": "behance icon from Entypo font."
+  },
+  "ti-bell": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "ti-bell",
+    "body": "<Entypo name=\"bell\" color=\"black\" size={25}/>$0",
+    "description": "bell icon from Entypo font."
+  },
+  "ti-blackboard": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "ti-blackboard",
+    "body": "<Entypo name=\"blackboard\" color=\"black\" size={25}/>$0",
+    "description": "blackboard icon from Entypo font."
+  },
+  "ti-block": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "ti-block",
+    "body": "<Entypo name=\"block\" color=\"black\" size={25}/>$0",
+    "description": "block icon from Entypo font."
+  },
+  "ti-book": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "ti-book",
+    "body": "<Entypo name=\"book\" color=\"black\" size={25}/>$0",
+    "description": "book icon from Entypo font."
+  },
+  "ti-bookmark": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "ti-bookmark",
+    "body": "<Entypo name=\"bookmark\" color=\"black\" size={25}/>$0",
+    "description": "bookmark icon from Entypo font."
+  },
+  "ti-bookmarks": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "ti-bookmarks",
+    "body": "<Entypo name=\"bookmarks\" color=\"black\" size={25}/>$0",
+    "description": "bookmarks icon from Entypo font."
+  },
+  "ti-bowl": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "ti-bowl",
+    "body": "<Entypo name=\"bowl\" color=\"black\" size={25}/>$0",
+    "description": "bowl icon from Entypo font."
+  },
+  "ti-box": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "ti-box",
+    "body": "<Entypo name=\"box\" color=\"black\" size={25}/>$0",
+    "description": "box icon from Entypo font."
+  },
+  "ti-briefcase": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "ti-briefcase",
+    "body": "<Entypo name=\"briefcase\" color=\"black\" size={25}/>$0",
+    "description": "briefcase icon from Entypo font."
+  },
+  "ti-browser": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "ti-browser",
+    "body": "<Entypo name=\"browser\" color=\"black\" size={25}/>$0",
+    "description": "browser icon from Entypo font."
+  },
+  "ti-brush": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "ti-brush",
+    "body": "<Entypo name=\"brush\" color=\"black\" size={25}/>$0",
+    "description": "brush icon from Entypo font."
+  },
+  "ti-bucket": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "ti-bucket",
+    "body": "<Entypo name=\"bucket\" color=\"black\" size={25}/>$0",
+    "description": "bucket icon from Entypo font."
+  },
+  "ti-bug": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "ti-bug",
+    "body": "<Entypo name=\"bug\" color=\"black\" size={25}/>$0",
+    "description": "bug icon from Entypo font."
+  },
+  "ti-cake": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "ti-cake",
+    "body": "<Entypo name=\"cake\" color=\"black\" size={25}/>$0",
+    "description": "cake icon from Entypo font."
+  },
+  "ti-calculator": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "ti-calculator",
+    "body": "<Entypo name=\"calculator\" color=\"black\" size={25}/>$0",
+    "description": "calculator icon from Entypo font."
+  },
+  "ti-calendar": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "ti-calendar",
+    "body": "<Entypo name=\"calendar\" color=\"black\" size={25}/>$0",
+    "description": "calendar icon from Entypo font."
+  },
+  "ti-camera": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "ti-camera",
+    "body": "<Entypo name=\"camera\" color=\"black\" size={25}/>$0",
+    "description": "camera icon from Entypo font."
+  },
+  "ti-ccw": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "ti-ccw",
+    "body": "<Entypo name=\"ccw\" color=\"black\" size={25}/>$0",
+    "description": "ccw icon from Entypo font."
+  },
+  "ti-chat": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "ti-chat",
+    "body": "<Entypo name=\"chat\" color=\"black\" size={25}/>$0",
+    "description": "chat icon from Entypo font."
+  },
+  "ti-check": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "ti-check",
+    "body": "<Entypo name=\"check\" color=\"black\" size={25}/>$0",
+    "description": "check icon from Entypo font."
+  },
+  "ti-chevron-down": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "ti-chevron-down",
+    "body": "<Entypo name=\"chevron-down\" color=\"black\" size={25}/>$0",
+    "description": "chevron-down icon from Entypo font."
+  },
+  "ti-chevron-left": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "ti-chevron-left",
+    "body": "<Entypo name=\"chevron-left\" color=\"black\" size={25}/>$0",
+    "description": "chevron-left icon from Entypo font."
+  },
+  "ti-chevron-right": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "ti-chevron-right",
+    "body": "<Entypo name=\"chevron-right\" color=\"black\" size={25}/>$0",
+    "description": "chevron-right icon from Entypo font."
+  },
+  "ti-chevron-small-down": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "ti-chevron-small-down",
+    "body": "<Entypo name=\"chevron-small-down\" color=\"black\" size={25}/>$0",
+    "description": "chevron-small-down icon from Entypo font."
+  },
+  "ti-chevron-small-left": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "ti-chevron-small-left",
+    "body": "<Entypo name=\"chevron-small-left\" color=\"black\" size={25}/>$0",
+    "description": "chevron-small-left icon from Entypo font."
+  },
+  "ti-chevron-small-right": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "ti-chevron-small-right",
+    "body": "<Entypo name=\"chevron-small-right\" color=\"black\" size={25}/>$0",
+    "description": "chevron-small-right icon from Entypo font."
+  },
+  "ti-chevron-small-up": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "ti-chevron-small-up",
+    "body": "<Entypo name=\"chevron-small-up\" color=\"black\" size={25}/>$0",
+    "description": "chevron-small-up icon from Entypo font."
+  },
+  "ti-chevron-thin-down": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "ti-chevron-thin-down",
+    "body": "<Entypo name=\"chevron-thin-down\" color=\"black\" size={25}/>$0",
+    "description": "chevron-thin-down icon from Entypo font."
+  },
+  "ti-chevron-thin-left": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "ti-chevron-thin-left",
+    "body": "<Entypo name=\"chevron-thin-left\" color=\"black\" size={25}/>$0",
+    "description": "chevron-thin-left icon from Entypo font."
+  },
+  "ti-chevron-thin-right": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "ti-chevron-thin-right",
+    "body": "<Entypo name=\"chevron-thin-right\" color=\"black\" size={25}/>$0",
+    "description": "chevron-thin-right icon from Entypo font."
+  },
+  "ti-chevron-thin-up": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "ti-chevron-thin-up",
+    "body": "<Entypo name=\"chevron-thin-up\" color=\"black\" size={25}/>$0",
+    "description": "chevron-thin-up icon from Entypo font."
+  },
+  "ti-chevron-up": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "ti-chevron-up",
+    "body": "<Entypo name=\"chevron-up\" color=\"black\" size={25}/>$0",
+    "description": "chevron-up icon from Entypo font."
+  },
+  "ti-chevron-with-circle-down": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "ti-chevron-with-circle-down",
+    "body": "<Entypo name=\"chevron-with-circle-down\" color=\"black\" size={25}/>$0",
+    "description": "chevron-with-circle-down icon from Entypo font."
+  },
+  "ti-chevron-with-circle-left": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "ti-chevron-with-circle-left",
+    "body": "<Entypo name=\"chevron-with-circle-left\" color=\"black\" size={25}/>$0",
+    "description": "chevron-with-circle-left icon from Entypo font."
+  },
+  "ti-chevron-with-circle-right": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "ti-chevron-with-circle-right",
+    "body": "<Entypo name=\"chevron-with-circle-right\" color=\"black\" size={25}/>$0",
+    "description": "chevron-with-circle-right icon from Entypo font."
+  },
+  "ti-chevron-with-circle-up": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "ti-chevron-with-circle-up",
+    "body": "<Entypo name=\"chevron-with-circle-up\" color=\"black\" size={25}/>$0",
+    "description": "chevron-with-circle-up icon from Entypo font."
+  },
+  "ti-circle": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "ti-circle",
+    "body": "<Entypo name=\"circle\" color=\"black\" size={25}/>$0",
+    "description": "circle icon from Entypo font."
+  },
+  "ti-circle-with-cross": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "ti-circle-with-cross",
+    "body": "<Entypo name=\"circle-with-cross\" color=\"black\" size={25}/>$0",
+    "description": "circle-with-cross icon from Entypo font."
+  },
+  "ti-circle-with-minus": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "ti-circle-with-minus",
+    "body": "<Entypo name=\"circle-with-minus\" color=\"black\" size={25}/>$0",
+    "description": "circle-with-minus icon from Entypo font."
+  },
+  "ti-circle-with-plus": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "ti-circle-with-plus",
+    "body": "<Entypo name=\"circle-with-plus\" color=\"black\" size={25}/>$0",
+    "description": "circle-with-plus icon from Entypo font."
+  },
+  "ti-circular-graph": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "ti-circular-graph",
+    "body": "<Entypo name=\"circular-graph\" color=\"black\" size={25}/>$0",
+    "description": "circular-graph icon from Entypo font."
+  },
+  "ti-clapperboard": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "ti-clapperboard",
+    "body": "<Entypo name=\"clapperboard\" color=\"black\" size={25}/>$0",
+    "description": "clapperboard icon from Entypo font."
+  },
+  "ti-classic-computer": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "ti-classic-computer",
+    "body": "<Entypo name=\"classic-computer\" color=\"black\" size={25}/>$0",
+    "description": "classic-computer icon from Entypo font."
+  },
+  "ti-clipboard": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "ti-clipboard",
+    "body": "<Entypo name=\"clipboard\" color=\"black\" size={25}/>$0",
+    "description": "clipboard icon from Entypo font."
+  },
+  "ti-clock": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "ti-clock",
+    "body": "<Entypo name=\"clock\" color=\"black\" size={25}/>$0",
+    "description": "clock icon from Entypo font."
+  },
+  "ti-cloud": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "ti-cloud",
+    "body": "<Entypo name=\"cloud\" color=\"black\" size={25}/>$0",
+    "description": "cloud icon from Entypo font."
+  },
+  "ti-code": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "ti-code",
+    "body": "<Entypo name=\"code\" color=\"black\" size={25}/>$0",
+    "description": "code icon from Entypo font."
+  },
+  "ti-cog": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "ti-cog",
+    "body": "<Entypo name=\"cog\" color=\"black\" size={25}/>$0",
+    "description": "cog icon from Entypo font."
+  },
+  "ti-colours": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "ti-colours",
+    "body": "<Entypo name=\"colours\" color=\"black\" size={25}/>$0",
+    "description": "colours icon from Entypo font."
+  },
+  "ti-compass": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "ti-compass",
+    "body": "<Entypo name=\"compass\" color=\"black\" size={25}/>$0",
+    "description": "compass icon from Entypo font."
+  },
+  "ti-controller-fast-backward": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "ti-controller-fast-backward",
+    "body": "<Entypo name=\"controller-fast-backward\" color=\"black\" size={25}/>$0",
+    "description": "controller-fast-backward icon from Entypo font."
+  },
+  "ti-controller-fast-forward": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "ti-controller-fast-forward",
+    "body": "<Entypo name=\"controller-fast-forward\" color=\"black\" size={25}/>$0",
+    "description": "controller-fast-forward icon from Entypo font."
+  },
+  "ti-controller-jump-to-start": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "ti-controller-jump-to-start",
+    "body": "<Entypo name=\"controller-jump-to-start\" color=\"black\" size={25}/>$0",
+    "description": "controller-jump-to-start icon from Entypo font."
+  },
+  "ti-controller-next": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "ti-controller-next",
+    "body": "<Entypo name=\"controller-next\" color=\"black\" size={25}/>$0",
+    "description": "controller-next icon from Entypo font."
+  },
+  "ti-controller-paus": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "ti-controller-paus",
+    "body": "<Entypo name=\"controller-paus\" color=\"black\" size={25}/>$0",
+    "description": "controller-paus icon from Entypo font."
+  },
+  "ti-controller-play": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "ti-controller-play",
+    "body": "<Entypo name=\"controller-play\" color=\"black\" size={25}/>$0",
+    "description": "controller-play icon from Entypo font."
+  },
+  "ti-controller-record": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "ti-controller-record",
+    "body": "<Entypo name=\"controller-record\" color=\"black\" size={25}/>$0",
+    "description": "controller-record icon from Entypo font."
+  },
+  "ti-controller-stop": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "ti-controller-stop",
+    "body": "<Entypo name=\"controller-stop\" color=\"black\" size={25}/>$0",
+    "description": "controller-stop icon from Entypo font."
+  },
+  "ti-controller-volume": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "ti-controller-volume",
+    "body": "<Entypo name=\"controller-volume\" color=\"black\" size={25}/>$0",
+    "description": "controller-volume icon from Entypo font."
+  },
+  "ti-copy": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "ti-copy",
+    "body": "<Entypo name=\"copy\" color=\"black\" size={25}/>$0",
+    "description": "copy icon from Entypo font."
+  },
+  "ti-creative-cloud": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "ti-creative-cloud",
+    "body": "<Entypo name=\"creative-cloud\" color=\"black\" size={25}/>$0",
+    "description": "creative-cloud icon from Entypo font."
+  },
+  "ti-creative-commons": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "ti-creative-commons",
+    "body": "<Entypo name=\"creative-commons\" color=\"black\" size={25}/>$0",
+    "description": "creative-commons icon from Entypo font."
+  },
+  "ti-creative-commons-attribution": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "ti-creative-commons-attribution",
+    "body": "<Entypo name=\"creative-commons-attribution\" color=\"black\" size={25}/>$0",
+    "description": "creative-commons-attribution icon from Entypo font."
+  },
+  "ti-creative-commons-noderivs": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "ti-creative-commons-noderivs",
+    "body": "<Entypo name=\"creative-commons-noderivs\" color=\"black\" size={25}/>$0",
+    "description": "creative-commons-noderivs icon from Entypo font."
+  },
+  "ti-creative-commons-noncommercial-eu": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "ti-creative-commons-noncommercial-eu",
+    "body": "<Entypo name=\"creative-commons-noncommercial-eu\" color=\"black\" size={25}/>$0",
+    "description": "creative-commons-noncommercial-eu icon from Entypo font."
+  },
+  "ti-creative-commons-noncommercial-us": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "ti-creative-commons-noncommercial-us",
+    "body": "<Entypo name=\"creative-commons-noncommercial-us\" color=\"black\" size={25}/>$0",
+    "description": "creative-commons-noncommercial-us icon from Entypo font."
+  },
+  "ti-creative-commons-public-domain": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "ti-creative-commons-public-domain",
+    "body": "<Entypo name=\"creative-commons-public-domain\" color=\"black\" size={25}/>$0",
+    "description": "creative-commons-public-domain icon from Entypo font."
+  },
+  "ti-creative-commons-remix": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "ti-creative-commons-remix",
+    "body": "<Entypo name=\"creative-commons-remix\" color=\"black\" size={25}/>$0",
+    "description": "creative-commons-remix icon from Entypo font."
+  },
+  "ti-creative-commons-share": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "ti-creative-commons-share",
+    "body": "<Entypo name=\"creative-commons-share\" color=\"black\" size={25}/>$0",
+    "description": "creative-commons-share icon from Entypo font."
+  },
+  "ti-creative-commons-sharealike": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "ti-creative-commons-sharealike",
+    "body": "<Entypo name=\"creative-commons-sharealike\" color=\"black\" size={25}/>$0",
+    "description": "creative-commons-sharealike icon from Entypo font."
+  },
+  "ti-credit": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "ti-credit",
+    "body": "<Entypo name=\"credit\" color=\"black\" size={25}/>$0",
+    "description": "credit icon from Entypo font."
+  },
+  "ti-credit-card": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "ti-credit-card",
+    "body": "<Entypo name=\"credit-card\" color=\"black\" size={25}/>$0",
+    "description": "credit-card icon from Entypo font."
+  },
+  "ti-crop": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "ti-crop",
+    "body": "<Entypo name=\"crop\" color=\"black\" size={25}/>$0",
+    "description": "crop icon from Entypo font."
+  },
+  "ti-cross": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "ti-cross",
+    "body": "<Entypo name=\"cross\" color=\"black\" size={25}/>$0",
+    "description": "cross icon from Entypo font."
+  },
+  "ti-cup": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "ti-cup",
+    "body": "<Entypo name=\"cup\" color=\"black\" size={25}/>$0",
+    "description": "cup icon from Entypo font."
+  },
+  "ti-cw": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "ti-cw",
+    "body": "<Entypo name=\"cw\" color=\"black\" size={25}/>$0",
+    "description": "cw icon from Entypo font."
+  },
+  "ti-cycle": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "ti-cycle",
+    "body": "<Entypo name=\"cycle\" color=\"black\" size={25}/>$0",
+    "description": "cycle icon from Entypo font."
+  },
+  "ti-database": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "ti-database",
+    "body": "<Entypo name=\"database\" color=\"black\" size={25}/>$0",
+    "description": "database icon from Entypo font."
+  },
+  "ti-dial-pad": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "ti-dial-pad",
+    "body": "<Entypo name=\"dial-pad\" color=\"black\" size={25}/>$0",
+    "description": "dial-pad icon from Entypo font."
+  },
+  "ti-direction": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "ti-direction",
+    "body": "<Entypo name=\"direction\" color=\"black\" size={25}/>$0",
+    "description": "direction icon from Entypo font."
+  },
+  "ti-document": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "ti-document",
+    "body": "<Entypo name=\"document\" color=\"black\" size={25}/>$0",
+    "description": "document icon from Entypo font."
+  },
+  "ti-document-landscape": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "ti-document-landscape",
+    "body": "<Entypo name=\"document-landscape\" color=\"black\" size={25}/>$0",
+    "description": "document-landscape icon from Entypo font."
+  },
+  "ti-documents": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "ti-documents",
+    "body": "<Entypo name=\"documents\" color=\"black\" size={25}/>$0",
+    "description": "documents icon from Entypo font."
+  },
+  "ti-dot-single": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "ti-dot-single",
+    "body": "<Entypo name=\"dot-single\" color=\"black\" size={25}/>$0",
+    "description": "dot-single icon from Entypo font."
+  },
+  "ti-dots-three-horizontal": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "ti-dots-three-horizontal",
+    "body": "<Entypo name=\"dots-three-horizontal\" color=\"black\" size={25}/>$0",
+    "description": "dots-three-horizontal icon from Entypo font."
+  },
+  "ti-dots-three-vertical": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "ti-dots-three-vertical",
+    "body": "<Entypo name=\"dots-three-vertical\" color=\"black\" size={25}/>$0",
+    "description": "dots-three-vertical icon from Entypo font."
+  },
+  "ti-dots-two-horizontal": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "ti-dots-two-horizontal",
+    "body": "<Entypo name=\"dots-two-horizontal\" color=\"black\" size={25}/>$0",
+    "description": "dots-two-horizontal icon from Entypo font."
+  },
+  "ti-dots-two-vertical": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "ti-dots-two-vertical",
+    "body": "<Entypo name=\"dots-two-vertical\" color=\"black\" size={25}/>$0",
+    "description": "dots-two-vertical icon from Entypo font."
+  },
+  "ti-download": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "ti-download",
+    "body": "<Entypo name=\"download\" color=\"black\" size={25}/>$0",
+    "description": "download icon from Entypo font."
+  },
+  "ti-dribbble": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "ti-dribbble",
+    "body": "<Entypo name=\"dribbble\" color=\"black\" size={25}/>$0",
+    "description": "dribbble icon from Entypo font."
+  },
+  "ti-dribbble-with-circle": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "ti-dribbble-with-circle",
+    "body": "<Entypo name=\"dribbble-with-circle\" color=\"black\" size={25}/>$0",
+    "description": "dribbble-with-circle icon from Entypo font."
+  },
+  "ti-drink": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "ti-drink",
+    "body": "<Entypo name=\"drink\" color=\"black\" size={25}/>$0",
+    "description": "drink icon from Entypo font."
+  },
+  "ti-drive": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "ti-drive",
+    "body": "<Entypo name=\"drive\" color=\"black\" size={25}/>$0",
+    "description": "drive icon from Entypo font."
+  },
+  "ti-drop": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "ti-drop",
+    "body": "<Entypo name=\"drop\" color=\"black\" size={25}/>$0",
+    "description": "drop icon from Entypo font."
+  },
+  "ti-dropbox": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "ti-dropbox",
+    "body": "<Entypo name=\"dropbox\" color=\"black\" size={25}/>$0",
+    "description": "dropbox icon from Entypo font."
+  },
+  "ti-edit": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "ti-edit",
+    "body": "<Entypo name=\"edit\" color=\"black\" size={25}/>$0",
+    "description": "edit icon from Entypo font."
+  },
+  "ti-email": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "ti-email",
+    "body": "<Entypo name=\"email\" color=\"black\" size={25}/>$0",
+    "description": "email icon from Entypo font."
+  },
+  "ti-emoji-flirt": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "ti-emoji-flirt",
+    "body": "<Entypo name=\"emoji-flirt\" color=\"black\" size={25}/>$0",
+    "description": "emoji-flirt icon from Entypo font."
+  },
+  "ti-emoji-happy": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "ti-emoji-happy",
+    "body": "<Entypo name=\"emoji-happy\" color=\"black\" size={25}/>$0",
+    "description": "emoji-happy icon from Entypo font."
+  },
+  "ti-emoji-neutral": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "ti-emoji-neutral",
+    "body": "<Entypo name=\"emoji-neutral\" color=\"black\" size={25}/>$0",
+    "description": "emoji-neutral icon from Entypo font."
+  },
+  "ti-emoji-sad": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "ti-emoji-sad",
+    "body": "<Entypo name=\"emoji-sad\" color=\"black\" size={25}/>$0",
+    "description": "emoji-sad icon from Entypo font."
+  },
+  "ti-erase": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "ti-erase",
+    "body": "<Entypo name=\"erase\" color=\"black\" size={25}/>$0",
+    "description": "erase icon from Entypo font."
+  },
+  "ti-eraser": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "ti-eraser",
+    "body": "<Entypo name=\"eraser\" color=\"black\" size={25}/>$0",
+    "description": "eraser icon from Entypo font."
+  },
+  "ti-evernote": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "ti-evernote",
+    "body": "<Entypo name=\"evernote\" color=\"black\" size={25}/>$0",
+    "description": "evernote icon from Entypo font."
+  },
+  "ti-export": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "ti-export",
+    "body": "<Entypo name=\"export\" color=\"black\" size={25}/>$0",
+    "description": "export icon from Entypo font."
+  },
+  "ti-eye": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "ti-eye",
+    "body": "<Entypo name=\"eye\" color=\"black\" size={25}/>$0",
+    "description": "eye icon from Entypo font."
+  },
+  "ti-eye-with-line": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "ti-eye-with-line",
+    "body": "<Entypo name=\"eye-with-line\" color=\"black\" size={25}/>$0",
+    "description": "eye-with-line icon from Entypo font."
+  },
+  "ti-facebook": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "ti-facebook",
+    "body": "<Entypo name=\"facebook\" color=\"black\" size={25}/>$0",
+    "description": "facebook icon from Entypo font."
+  },
+  "ti-facebook-with-circle": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "ti-facebook-with-circle",
+    "body": "<Entypo name=\"facebook-with-circle\" color=\"black\" size={25}/>$0",
+    "description": "facebook-with-circle icon from Entypo font."
+  },
+  "ti-feather": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "ti-feather",
+    "body": "<Entypo name=\"feather\" color=\"black\" size={25}/>$0",
+    "description": "feather icon from Entypo font."
+  },
+  "ti-fingerprint": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "ti-fingerprint",
+    "body": "<Entypo name=\"fingerprint\" color=\"black\" size={25}/>$0",
+    "description": "fingerprint icon from Entypo font."
+  },
+  "ti-flag": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "ti-flag",
+    "body": "<Entypo name=\"flag\" color=\"black\" size={25}/>$0",
+    "description": "flag icon from Entypo font."
+  },
+  "ti-flash": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "ti-flash",
+    "body": "<Entypo name=\"flash\" color=\"black\" size={25}/>$0",
+    "description": "flash icon from Entypo font."
+  },
+  "ti-flashlight": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "ti-flashlight",
+    "body": "<Entypo name=\"flashlight\" color=\"black\" size={25}/>$0",
+    "description": "flashlight icon from Entypo font."
+  },
+  "ti-flat-brush": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "ti-flat-brush",
+    "body": "<Entypo name=\"flat-brush\" color=\"black\" size={25}/>$0",
+    "description": "flat-brush icon from Entypo font."
+  },
+  "ti-flattr": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "ti-flattr",
+    "body": "<Entypo name=\"flattr\" color=\"black\" size={25}/>$0",
+    "description": "flattr icon from Entypo font."
+  },
+  "ti-flickr": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "ti-flickr",
+    "body": "<Entypo name=\"flickr\" color=\"black\" size={25}/>$0",
+    "description": "flickr icon from Entypo font."
+  },
+  "ti-flickr-with-circle": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "ti-flickr-with-circle",
+    "body": "<Entypo name=\"flickr-with-circle\" color=\"black\" size={25}/>$0",
+    "description": "flickr-with-circle icon from Entypo font."
+  },
+  "ti-flow-branch": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "ti-flow-branch",
+    "body": "<Entypo name=\"flow-branch\" color=\"black\" size={25}/>$0",
+    "description": "flow-branch icon from Entypo font."
+  },
+  "ti-flow-cascade": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "ti-flow-cascade",
+    "body": "<Entypo name=\"flow-cascade\" color=\"black\" size={25}/>$0",
+    "description": "flow-cascade icon from Entypo font."
+  },
+  "ti-flow-line": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "ti-flow-line",
+    "body": "<Entypo name=\"flow-line\" color=\"black\" size={25}/>$0",
+    "description": "flow-line icon from Entypo font."
+  },
+  "ti-flow-parallel": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "ti-flow-parallel",
+    "body": "<Entypo name=\"flow-parallel\" color=\"black\" size={25}/>$0",
+    "description": "flow-parallel icon from Entypo font."
+  },
+  "ti-flow-tree": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "ti-flow-tree",
+    "body": "<Entypo name=\"flow-tree\" color=\"black\" size={25}/>$0",
+    "description": "flow-tree icon from Entypo font."
+  },
+  "ti-flower": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "ti-flower",
+    "body": "<Entypo name=\"flower\" color=\"black\" size={25}/>$0",
+    "description": "flower icon from Entypo font."
+  },
+  "ti-folder": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "ti-folder",
+    "body": "<Entypo name=\"folder\" color=\"black\" size={25}/>$0",
+    "description": "folder icon from Entypo font."
+  },
+  "ti-folder-images": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "ti-folder-images",
+    "body": "<Entypo name=\"folder-images\" color=\"black\" size={25}/>$0",
+    "description": "folder-images icon from Entypo font."
+  },
+  "ti-folder-music": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "ti-folder-music",
+    "body": "<Entypo name=\"folder-music\" color=\"black\" size={25}/>$0",
+    "description": "folder-music icon from Entypo font."
+  },
+  "ti-folder-video": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "ti-folder-video",
+    "body": "<Entypo name=\"folder-video\" color=\"black\" size={25}/>$0",
+    "description": "folder-video icon from Entypo font."
+  },
+  "ti-forward": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "ti-forward",
+    "body": "<Entypo name=\"forward\" color=\"black\" size={25}/>$0",
+    "description": "forward icon from Entypo font."
+  },
+  "ti-foursquare": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "ti-foursquare",
+    "body": "<Entypo name=\"foursquare\" color=\"black\" size={25}/>$0",
+    "description": "foursquare icon from Entypo font."
+  },
+  "ti-funnel": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "ti-funnel",
+    "body": "<Entypo name=\"funnel\" color=\"black\" size={25}/>$0",
+    "description": "funnel icon from Entypo font."
+  },
+  "ti-game-controller": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "ti-game-controller",
+    "body": "<Entypo name=\"game-controller\" color=\"black\" size={25}/>$0",
+    "description": "game-controller icon from Entypo font."
+  },
+  "ti-gauge": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "ti-gauge",
+    "body": "<Entypo name=\"gauge\" color=\"black\" size={25}/>$0",
+    "description": "gauge icon from Entypo font."
+  },
+  "ti-github": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "ti-github",
+    "body": "<Entypo name=\"github\" color=\"black\" size={25}/>$0",
+    "description": "github icon from Entypo font."
+  },
+  "ti-github-with-circle": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "ti-github-with-circle",
+    "body": "<Entypo name=\"github-with-circle\" color=\"black\" size={25}/>$0",
+    "description": "github-with-circle icon from Entypo font."
+  },
+  "ti-globe": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "ti-globe",
+    "body": "<Entypo name=\"globe\" color=\"black\" size={25}/>$0",
+    "description": "globe icon from Entypo font."
+  },
+  "ti-google-": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "ti-google-",
+    "body": "<Entypo name=\"google-\" color=\"black\" size={25}/>$0",
+    "description": "google- icon from Entypo font."
+  },
+  "ti-google--with-circle": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "ti-google--with-circle",
+    "body": "<Entypo name=\"google--with-circle\" color=\"black\" size={25}/>$0",
+    "description": "google--with-circle icon from Entypo font."
+  },
+  "ti-google-drive": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "ti-google-drive",
+    "body": "<Entypo name=\"google-drive\" color=\"black\" size={25}/>$0",
+    "description": "google-drive icon from Entypo font."
+  },
+  "ti-google-hangouts": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "ti-google-hangouts",
+    "body": "<Entypo name=\"google-hangouts\" color=\"black\" size={25}/>$0",
+    "description": "google-hangouts icon from Entypo font."
+  },
+  "ti-google-play": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "ti-google-play",
+    "body": "<Entypo name=\"google-play\" color=\"black\" size={25}/>$0",
+    "description": "google-play icon from Entypo font."
+  },
+  "ti-graduation-cap": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "ti-graduation-cap",
+    "body": "<Entypo name=\"graduation-cap\" color=\"black\" size={25}/>$0",
+    "description": "graduation-cap icon from Entypo font."
+  },
+  "ti-grid": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "ti-grid",
+    "body": "<Entypo name=\"grid\" color=\"black\" size={25}/>$0",
+    "description": "grid icon from Entypo font."
+  },
+  "ti-grooveshark": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "ti-grooveshark",
+    "body": "<Entypo name=\"grooveshark\" color=\"black\" size={25}/>$0",
+    "description": "grooveshark icon from Entypo font."
+  },
+  "ti-hair-cross": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "ti-hair-cross",
+    "body": "<Entypo name=\"hair-cross\" color=\"black\" size={25}/>$0",
+    "description": "hair-cross icon from Entypo font."
+  },
+  "ti-hand": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "ti-hand",
+    "body": "<Entypo name=\"hand\" color=\"black\" size={25}/>$0",
+    "description": "hand icon from Entypo font."
+  },
+  "ti-heart": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "ti-heart",
+    "body": "<Entypo name=\"heart\" color=\"black\" size={25}/>$0",
+    "description": "heart icon from Entypo font."
+  },
+  "ti-heart-outlined": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "ti-heart-outlined",
+    "body": "<Entypo name=\"heart-outlined\" color=\"black\" size={25}/>$0",
+    "description": "heart-outlined icon from Entypo font."
+  },
+  "ti-help": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "ti-help",
+    "body": "<Entypo name=\"help\" color=\"black\" size={25}/>$0",
+    "description": "help icon from Entypo font."
+  },
+  "ti-help-with-circle": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "ti-help-with-circle",
+    "body": "<Entypo name=\"help-with-circle\" color=\"black\" size={25}/>$0",
+    "description": "help-with-circle icon from Entypo font."
+  },
+  "ti-home": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "ti-home",
+    "body": "<Entypo name=\"home\" color=\"black\" size={25}/>$0",
+    "description": "home icon from Entypo font."
+  },
+  "ti-hour-glass": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "ti-hour-glass",
+    "body": "<Entypo name=\"hour-glass\" color=\"black\" size={25}/>$0",
+    "description": "hour-glass icon from Entypo font."
+  },
+  "ti-houzz": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "ti-houzz",
+    "body": "<Entypo name=\"houzz\" color=\"black\" size={25}/>$0",
+    "description": "houzz icon from Entypo font."
+  },
+  "ti-icloud": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "ti-icloud",
+    "body": "<Entypo name=\"icloud\" color=\"black\" size={25}/>$0",
+    "description": "icloud icon from Entypo font."
+  },
+  "ti-image": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "ti-image",
+    "body": "<Entypo name=\"image\" color=\"black\" size={25}/>$0",
+    "description": "image icon from Entypo font."
+  },
+  "ti-image-inverted": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "ti-image-inverted",
+    "body": "<Entypo name=\"image-inverted\" color=\"black\" size={25}/>$0",
+    "description": "image-inverted icon from Entypo font."
+  },
+  "ti-images": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "ti-images",
+    "body": "<Entypo name=\"images\" color=\"black\" size={25}/>$0",
+    "description": "images icon from Entypo font."
+  },
+  "ti-inbox": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "ti-inbox",
+    "body": "<Entypo name=\"inbox\" color=\"black\" size={25}/>$0",
+    "description": "inbox icon from Entypo font."
+  },
+  "ti-infinity": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "ti-infinity",
+    "body": "<Entypo name=\"infinity\" color=\"black\" size={25}/>$0",
+    "description": "infinity icon from Entypo font."
+  },
+  "ti-info": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "ti-info",
+    "body": "<Entypo name=\"info\" color=\"black\" size={25}/>$0",
+    "description": "info icon from Entypo font."
+  },
+  "ti-info-with-circle": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "ti-info-with-circle",
+    "body": "<Entypo name=\"info-with-circle\" color=\"black\" size={25}/>$0",
+    "description": "info-with-circle icon from Entypo font."
+  },
+  "ti-instagram": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "ti-instagram",
+    "body": "<Entypo name=\"instagram\" color=\"black\" size={25}/>$0",
+    "description": "instagram icon from Entypo font."
+  },
+  "ti-instagram-with-circle": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "ti-instagram-with-circle",
+    "body": "<Entypo name=\"instagram-with-circle\" color=\"black\" size={25}/>$0",
+    "description": "instagram-with-circle icon from Entypo font."
+  },
+  "ti-install": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "ti-install",
+    "body": "<Entypo name=\"install\" color=\"black\" size={25}/>$0",
+    "description": "install icon from Entypo font."
+  },
+  "ti-key": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "ti-key",
+    "body": "<Entypo name=\"key\" color=\"black\" size={25}/>$0",
+    "description": "key icon from Entypo font."
+  },
+  "ti-keyboard": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "ti-keyboard",
+    "body": "<Entypo name=\"keyboard\" color=\"black\" size={25}/>$0",
+    "description": "keyboard icon from Entypo font."
+  },
+  "ti-lab-flask": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "ti-lab-flask",
+    "body": "<Entypo name=\"lab-flask\" color=\"black\" size={25}/>$0",
+    "description": "lab-flask icon from Entypo font."
+  },
+  "ti-landline": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "ti-landline",
+    "body": "<Entypo name=\"landline\" color=\"black\" size={25}/>$0",
+    "description": "landline icon from Entypo font."
+  },
+  "ti-language": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "ti-language",
+    "body": "<Entypo name=\"language\" color=\"black\" size={25}/>$0",
+    "description": "language icon from Entypo font."
+  },
+  "ti-laptop": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "ti-laptop",
+    "body": "<Entypo name=\"laptop\" color=\"black\" size={25}/>$0",
+    "description": "laptop icon from Entypo font."
+  },
+  "ti-lastfm": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "ti-lastfm",
+    "body": "<Entypo name=\"lastfm\" color=\"black\" size={25}/>$0",
+    "description": "lastfm icon from Entypo font."
+  },
+  "ti-lastfm-with-circle": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "ti-lastfm-with-circle",
+    "body": "<Entypo name=\"lastfm-with-circle\" color=\"black\" size={25}/>$0",
+    "description": "lastfm-with-circle icon from Entypo font."
+  },
+  "ti-layers": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "ti-layers",
+    "body": "<Entypo name=\"layers\" color=\"black\" size={25}/>$0",
+    "description": "layers icon from Entypo font."
+  },
+  "ti-leaf": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "ti-leaf",
+    "body": "<Entypo name=\"leaf\" color=\"black\" size={25}/>$0",
+    "description": "leaf icon from Entypo font."
+  },
+  "ti-level-down": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "ti-level-down",
+    "body": "<Entypo name=\"level-down\" color=\"black\" size={25}/>$0",
+    "description": "level-down icon from Entypo font."
+  },
+  "ti-level-up": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "ti-level-up",
+    "body": "<Entypo name=\"level-up\" color=\"black\" size={25}/>$0",
+    "description": "level-up icon from Entypo font."
+  },
+  "ti-lifebuoy": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "ti-lifebuoy",
+    "body": "<Entypo name=\"lifebuoy\" color=\"black\" size={25}/>$0",
+    "description": "lifebuoy icon from Entypo font."
+  },
+  "ti-light-bulb": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "ti-light-bulb",
+    "body": "<Entypo name=\"light-bulb\" color=\"black\" size={25}/>$0",
+    "description": "light-bulb icon from Entypo font."
+  },
+  "ti-light-down": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "ti-light-down",
+    "body": "<Entypo name=\"light-down\" color=\"black\" size={25}/>$0",
+    "description": "light-down icon from Entypo font."
+  },
+  "ti-light-up": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "ti-light-up",
+    "body": "<Entypo name=\"light-up\" color=\"black\" size={25}/>$0",
+    "description": "light-up icon from Entypo font."
+  },
+  "ti-line-graph": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "ti-line-graph",
+    "body": "<Entypo name=\"line-graph\" color=\"black\" size={25}/>$0",
+    "description": "line-graph icon from Entypo font."
+  },
+  "ti-link": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "ti-link",
+    "body": "<Entypo name=\"link\" color=\"black\" size={25}/>$0",
+    "description": "link icon from Entypo font."
+  },
+  "ti-linkedin": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "ti-linkedin",
+    "body": "<Entypo name=\"linkedin\" color=\"black\" size={25}/>$0",
+    "description": "linkedin icon from Entypo font."
+  },
+  "ti-linkedin-with-circle": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "ti-linkedin-with-circle",
+    "body": "<Entypo name=\"linkedin-with-circle\" color=\"black\" size={25}/>$0",
+    "description": "linkedin-with-circle icon from Entypo font."
+  },
+  "ti-list": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "ti-list",
+    "body": "<Entypo name=\"list\" color=\"black\" size={25}/>$0",
+    "description": "list icon from Entypo font."
+  },
+  "ti-location": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "ti-location",
+    "body": "<Entypo name=\"location\" color=\"black\" size={25}/>$0",
+    "description": "location icon from Entypo font."
+  },
+  "ti-location-pin": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "ti-location-pin",
+    "body": "<Entypo name=\"location-pin\" color=\"black\" size={25}/>$0",
+    "description": "location-pin icon from Entypo font."
+  },
+  "ti-lock": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "ti-lock",
+    "body": "<Entypo name=\"lock\" color=\"black\" size={25}/>$0",
+    "description": "lock icon from Entypo font."
+  },
+  "ti-lock-open": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "ti-lock-open",
+    "body": "<Entypo name=\"lock-open\" color=\"black\" size={25}/>$0",
+    "description": "lock-open icon from Entypo font."
+  },
+  "ti-log-out": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "ti-log-out",
+    "body": "<Entypo name=\"log-out\" color=\"black\" size={25}/>$0",
+    "description": "log-out icon from Entypo font."
+  },
+  "ti-login": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "ti-login",
+    "body": "<Entypo name=\"login\" color=\"black\" size={25}/>$0",
+    "description": "login icon from Entypo font."
+  },
+  "ti-loop": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "ti-loop",
+    "body": "<Entypo name=\"loop\" color=\"black\" size={25}/>$0",
+    "description": "loop icon from Entypo font."
+  },
+  "ti-magnet": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "ti-magnet",
+    "body": "<Entypo name=\"magnet\" color=\"black\" size={25}/>$0",
+    "description": "magnet icon from Entypo font."
+  },
+  "ti-magnifying-glass": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "ti-magnifying-glass",
+    "body": "<Entypo name=\"magnifying-glass\" color=\"black\" size={25}/>$0",
+    "description": "magnifying-glass icon from Entypo font."
+  },
+  "ti-mail": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "ti-mail",
+    "body": "<Entypo name=\"mail\" color=\"black\" size={25}/>$0",
+    "description": "mail icon from Entypo font."
+  },
+  "ti-mail-with-circle": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "ti-mail-with-circle",
+    "body": "<Entypo name=\"mail-with-circle\" color=\"black\" size={25}/>$0",
+    "description": "mail-with-circle icon from Entypo font."
+  },
+  "ti-man": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "ti-man",
+    "body": "<Entypo name=\"man\" color=\"black\" size={25}/>$0",
+    "description": "man icon from Entypo font."
+  },
+  "ti-map": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "ti-map",
+    "body": "<Entypo name=\"map\" color=\"black\" size={25}/>$0",
+    "description": "map icon from Entypo font."
+  },
+  "ti-mask": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "ti-mask",
+    "body": "<Entypo name=\"mask\" color=\"black\" size={25}/>$0",
+    "description": "mask icon from Entypo font."
+  },
+  "ti-medal": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "ti-medal",
+    "body": "<Entypo name=\"medal\" color=\"black\" size={25}/>$0",
+    "description": "medal icon from Entypo font."
+  },
+  "ti-medium": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "ti-medium",
+    "body": "<Entypo name=\"medium\" color=\"black\" size={25}/>$0",
+    "description": "medium icon from Entypo font."
+  },
+  "ti-medium-with-circle": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "ti-medium-with-circle",
+    "body": "<Entypo name=\"medium-with-circle\" color=\"black\" size={25}/>$0",
+    "description": "medium-with-circle icon from Entypo font."
+  },
+  "ti-megaphone": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "ti-megaphone",
+    "body": "<Entypo name=\"megaphone\" color=\"black\" size={25}/>$0",
+    "description": "megaphone icon from Entypo font."
+  },
+  "ti-menu": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "ti-menu",
+    "body": "<Entypo name=\"menu\" color=\"black\" size={25}/>$0",
+    "description": "menu icon from Entypo font."
+  },
+  "ti-merge": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "ti-merge",
+    "body": "<Entypo name=\"merge\" color=\"black\" size={25}/>$0",
+    "description": "merge icon from Entypo font."
+  },
+  "ti-message": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "ti-message",
+    "body": "<Entypo name=\"message\" color=\"black\" size={25}/>$0",
+    "description": "message icon from Entypo font."
+  },
+  "ti-mic": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "ti-mic",
+    "body": "<Entypo name=\"mic\" color=\"black\" size={25}/>$0",
+    "description": "mic icon from Entypo font."
+  },
+  "ti-minus": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "ti-minus",
+    "body": "<Entypo name=\"minus\" color=\"black\" size={25}/>$0",
+    "description": "minus icon from Entypo font."
+  },
+  "ti-mixi": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "ti-mixi",
+    "body": "<Entypo name=\"mixi\" color=\"black\" size={25}/>$0",
+    "description": "mixi icon from Entypo font."
+  },
+  "ti-mobile": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "ti-mobile",
+    "body": "<Entypo name=\"mobile\" color=\"black\" size={25}/>$0",
+    "description": "mobile icon from Entypo font."
+  },
+  "ti-modern-mic": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "ti-modern-mic",
+    "body": "<Entypo name=\"modern-mic\" color=\"black\" size={25}/>$0",
+    "description": "modern-mic icon from Entypo font."
+  },
+  "ti-moon": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "ti-moon",
+    "body": "<Entypo name=\"moon\" color=\"black\" size={25}/>$0",
+    "description": "moon icon from Entypo font."
+  },
+  "ti-mouse": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "ti-mouse",
+    "body": "<Entypo name=\"mouse\" color=\"black\" size={25}/>$0",
+    "description": "mouse icon from Entypo font."
+  },
+  "ti-mouse-pointer": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "ti-mouse-pointer",
+    "body": "<Entypo name=\"mouse-pointer\" color=\"black\" size={25}/>$0",
+    "description": "mouse-pointer icon from Entypo font."
+  },
+  "ti-music": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "ti-music",
+    "body": "<Entypo name=\"music\" color=\"black\" size={25}/>$0",
+    "description": "music icon from Entypo font."
+  },
+  "ti-network": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "ti-network",
+    "body": "<Entypo name=\"network\" color=\"black\" size={25}/>$0",
+    "description": "network icon from Entypo font."
+  },
+  "ti-new": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "ti-new",
+    "body": "<Entypo name=\"new\" color=\"black\" size={25}/>$0",
+    "description": "new icon from Entypo font."
+  },
+  "ti-new-message": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "ti-new-message",
+    "body": "<Entypo name=\"new-message\" color=\"black\" size={25}/>$0",
+    "description": "new-message icon from Entypo font."
+  },
+  "ti-news": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "ti-news",
+    "body": "<Entypo name=\"news\" color=\"black\" size={25}/>$0",
+    "description": "news icon from Entypo font."
+  },
+  "ti-newsletter": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "ti-newsletter",
+    "body": "<Entypo name=\"newsletter\" color=\"black\" size={25}/>$0",
+    "description": "newsletter icon from Entypo font."
+  },
+  "ti-note": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "ti-note",
+    "body": "<Entypo name=\"note\" color=\"black\" size={25}/>$0",
+    "description": "note icon from Entypo font."
+  },
+  "ti-notification": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "ti-notification",
+    "body": "<Entypo name=\"notification\" color=\"black\" size={25}/>$0",
+    "description": "notification icon from Entypo font."
+  },
+  "ti-notifications-off": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "ti-notifications-off",
+    "body": "<Entypo name=\"notifications-off\" color=\"black\" size={25}/>$0",
+    "description": "notifications-off icon from Entypo font."
+  },
+  "ti-old-mobile": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "ti-old-mobile",
+    "body": "<Entypo name=\"old-mobile\" color=\"black\" size={25}/>$0",
+    "description": "old-mobile icon from Entypo font."
+  },
+  "ti-old-phone": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "ti-old-phone",
+    "body": "<Entypo name=\"old-phone\" color=\"black\" size={25}/>$0",
+    "description": "old-phone icon from Entypo font."
+  },
+  "ti-onedrive": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "ti-onedrive",
+    "body": "<Entypo name=\"onedrive\" color=\"black\" size={25}/>$0",
+    "description": "onedrive icon from Entypo font."
+  },
+  "ti-open-book": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "ti-open-book",
+    "body": "<Entypo name=\"open-book\" color=\"black\" size={25}/>$0",
+    "description": "open-book icon from Entypo font."
+  },
+  "ti-palette": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "ti-palette",
+    "body": "<Entypo name=\"palette\" color=\"black\" size={25}/>$0",
+    "description": "palette icon from Entypo font."
+  },
+  "ti-paper-plane": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "ti-paper-plane",
+    "body": "<Entypo name=\"paper-plane\" color=\"black\" size={25}/>$0",
+    "description": "paper-plane icon from Entypo font."
+  },
+  "ti-paypal": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "ti-paypal",
+    "body": "<Entypo name=\"paypal\" color=\"black\" size={25}/>$0",
+    "description": "paypal icon from Entypo font."
+  },
+  "ti-pencil": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "ti-pencil",
+    "body": "<Entypo name=\"pencil\" color=\"black\" size={25}/>$0",
+    "description": "pencil icon from Entypo font."
+  },
+  "ti-phone": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "ti-phone",
+    "body": "<Entypo name=\"phone\" color=\"black\" size={25}/>$0",
+    "description": "phone icon from Entypo font."
+  },
+  "ti-picasa": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "ti-picasa",
+    "body": "<Entypo name=\"picasa\" color=\"black\" size={25}/>$0",
+    "description": "picasa icon from Entypo font."
+  },
+  "ti-pie-chart": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "ti-pie-chart",
+    "body": "<Entypo name=\"pie-chart\" color=\"black\" size={25}/>$0",
+    "description": "pie-chart icon from Entypo font."
+  },
+  "ti-pin": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "ti-pin",
+    "body": "<Entypo name=\"pin\" color=\"black\" size={25}/>$0",
+    "description": "pin icon from Entypo font."
+  },
+  "ti-pinterest": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "ti-pinterest",
+    "body": "<Entypo name=\"pinterest\" color=\"black\" size={25}/>$0",
+    "description": "pinterest icon from Entypo font."
+  },
+  "ti-pinterest-with-circle": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "ti-pinterest-with-circle",
+    "body": "<Entypo name=\"pinterest-with-circle\" color=\"black\" size={25}/>$0",
+    "description": "pinterest-with-circle icon from Entypo font."
+  },
+  "ti-plus": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "ti-plus",
+    "body": "<Entypo name=\"plus\" color=\"black\" size={25}/>$0",
+    "description": "plus icon from Entypo font."
+  },
+  "ti-popup": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "ti-popup",
+    "body": "<Entypo name=\"popup\" color=\"black\" size={25}/>$0",
+    "description": "popup icon from Entypo font."
+  },
+  "ti-power-plug": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "ti-power-plug",
+    "body": "<Entypo name=\"power-plug\" color=\"black\" size={25}/>$0",
+    "description": "power-plug icon from Entypo font."
+  },
+  "ti-price-ribbon": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "ti-price-ribbon",
+    "body": "<Entypo name=\"price-ribbon\" color=\"black\" size={25}/>$0",
+    "description": "price-ribbon icon from Entypo font."
+  },
+  "ti-price-tag": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "ti-price-tag",
+    "body": "<Entypo name=\"price-tag\" color=\"black\" size={25}/>$0",
+    "description": "price-tag icon from Entypo font."
+  },
+  "ti-print": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "ti-print",
+    "body": "<Entypo name=\"print\" color=\"black\" size={25}/>$0",
+    "description": "print icon from Entypo font."
+  },
+  "ti-progress-empty": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "ti-progress-empty",
+    "body": "<Entypo name=\"progress-empty\" color=\"black\" size={25}/>$0",
+    "description": "progress-empty icon from Entypo font."
+  },
+  "ti-progress-full": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "ti-progress-full",
+    "body": "<Entypo name=\"progress-full\" color=\"black\" size={25}/>$0",
+    "description": "progress-full icon from Entypo font."
+  },
+  "ti-progress-one": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "ti-progress-one",
+    "body": "<Entypo name=\"progress-one\" color=\"black\" size={25}/>$0",
+    "description": "progress-one icon from Entypo font."
+  },
+  "ti-progress-two": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "ti-progress-two",
+    "body": "<Entypo name=\"progress-two\" color=\"black\" size={25}/>$0",
+    "description": "progress-two icon from Entypo font."
+  },
+  "ti-publish": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "ti-publish",
+    "body": "<Entypo name=\"publish\" color=\"black\" size={25}/>$0",
+    "description": "publish icon from Entypo font."
+  },
+  "ti-qq": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "ti-qq",
+    "body": "<Entypo name=\"qq\" color=\"black\" size={25}/>$0",
+    "description": "qq icon from Entypo font."
+  },
+  "ti-qq-with-circle": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "ti-qq-with-circle",
+    "body": "<Entypo name=\"qq-with-circle\" color=\"black\" size={25}/>$0",
+    "description": "qq-with-circle icon from Entypo font."
+  },
+  "ti-quote": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "ti-quote",
+    "body": "<Entypo name=\"quote\" color=\"black\" size={25}/>$0",
+    "description": "quote icon from Entypo font."
+  },
+  "ti-radio": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "ti-radio",
+    "body": "<Entypo name=\"radio\" color=\"black\" size={25}/>$0",
+    "description": "radio icon from Entypo font."
+  },
+  "ti-raft": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "ti-raft",
+    "body": "<Entypo name=\"raft\" color=\"black\" size={25}/>$0",
+    "description": "raft icon from Entypo font."
+  },
+  "ti-raft-with-circle": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "ti-raft-with-circle",
+    "body": "<Entypo name=\"raft-with-circle\" color=\"black\" size={25}/>$0",
+    "description": "raft-with-circle icon from Entypo font."
+  },
+  "ti-rainbow": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "ti-rainbow",
+    "body": "<Entypo name=\"rainbow\" color=\"black\" size={25}/>$0",
+    "description": "rainbow icon from Entypo font."
+  },
+  "ti-rdio": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "ti-rdio",
+    "body": "<Entypo name=\"rdio\" color=\"black\" size={25}/>$0",
+    "description": "rdio icon from Entypo font."
+  },
+  "ti-rdio-with-circle": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "ti-rdio-with-circle",
+    "body": "<Entypo name=\"rdio-with-circle\" color=\"black\" size={25}/>$0",
+    "description": "rdio-with-circle icon from Entypo font."
+  },
+  "ti-remove-user": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "ti-remove-user",
+    "body": "<Entypo name=\"remove-user\" color=\"black\" size={25}/>$0",
+    "description": "remove-user icon from Entypo font."
+  },
+  "ti-renren": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "ti-renren",
+    "body": "<Entypo name=\"renren\" color=\"black\" size={25}/>$0",
+    "description": "renren icon from Entypo font."
+  },
+  "ti-reply": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "ti-reply",
+    "body": "<Entypo name=\"reply\" color=\"black\" size={25}/>$0",
+    "description": "reply icon from Entypo font."
+  },
+  "ti-reply-all": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "ti-reply-all",
+    "body": "<Entypo name=\"reply-all\" color=\"black\" size={25}/>$0",
+    "description": "reply-all icon from Entypo font."
+  },
+  "ti-resize-100": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "ti-resize-100",
+    "body": "<Entypo name=\"resize-100\" color=\"black\" size={25}/>$0",
+    "description": "resize-100 icon from Entypo font."
+  },
+  "ti-resize-full-screen": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "ti-resize-full-screen",
+    "body": "<Entypo name=\"resize-full-screen\" color=\"black\" size={25}/>$0",
+    "description": "resize-full-screen icon from Entypo font."
+  },
+  "ti-retweet": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "ti-retweet",
+    "body": "<Entypo name=\"retweet\" color=\"black\" size={25}/>$0",
+    "description": "retweet icon from Entypo font."
+  },
+  "ti-rocket": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "ti-rocket",
+    "body": "<Entypo name=\"rocket\" color=\"black\" size={25}/>$0",
+    "description": "rocket icon from Entypo font."
+  },
+  "ti-round-brush": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "ti-round-brush",
+    "body": "<Entypo name=\"round-brush\" color=\"black\" size={25}/>$0",
+    "description": "round-brush icon from Entypo font."
+  },
+  "ti-rss": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "ti-rss",
+    "body": "<Entypo name=\"rss\" color=\"black\" size={25}/>$0",
+    "description": "rss icon from Entypo font."
+  },
+  "ti-ruler": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "ti-ruler",
+    "body": "<Entypo name=\"ruler\" color=\"black\" size={25}/>$0",
+    "description": "ruler icon from Entypo font."
+  },
+  "ti-save": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "ti-save",
+    "body": "<Entypo name=\"save\" color=\"black\" size={25}/>$0",
+    "description": "save icon from Entypo font."
+  },
+  "ti-scissors": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "ti-scissors",
+    "body": "<Entypo name=\"scissors\" color=\"black\" size={25}/>$0",
+    "description": "scissors icon from Entypo font."
+  },
+  "ti-scribd": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "ti-scribd",
+    "body": "<Entypo name=\"scribd\" color=\"black\" size={25}/>$0",
+    "description": "scribd icon from Entypo font."
+  },
+  "ti-select-arrows": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "ti-select-arrows",
+    "body": "<Entypo name=\"select-arrows\" color=\"black\" size={25}/>$0",
+    "description": "select-arrows icon from Entypo font."
+  },
+  "ti-share": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "ti-share",
+    "body": "<Entypo name=\"share\" color=\"black\" size={25}/>$0",
+    "description": "share icon from Entypo font."
+  },
+  "ti-share-alternative": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "ti-share-alternative",
+    "body": "<Entypo name=\"share-alternative\" color=\"black\" size={25}/>$0",
+    "description": "share-alternative icon from Entypo font."
+  },
+  "ti-shareable": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "ti-shareable",
+    "body": "<Entypo name=\"shareable\" color=\"black\" size={25}/>$0",
+    "description": "shareable icon from Entypo font."
+  },
+  "ti-shield": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "ti-shield",
+    "body": "<Entypo name=\"shield\" color=\"black\" size={25}/>$0",
+    "description": "shield icon from Entypo font."
+  },
+  "ti-shop": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "ti-shop",
+    "body": "<Entypo name=\"shop\" color=\"black\" size={25}/>$0",
+    "description": "shop icon from Entypo font."
+  },
+  "ti-shopping-bag": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "ti-shopping-bag",
+    "body": "<Entypo name=\"shopping-bag\" color=\"black\" size={25}/>$0",
+    "description": "shopping-bag icon from Entypo font."
+  },
+  "ti-shopping-basket": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "ti-shopping-basket",
+    "body": "<Entypo name=\"shopping-basket\" color=\"black\" size={25}/>$0",
+    "description": "shopping-basket icon from Entypo font."
+  },
+  "ti-shopping-cart": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "ti-shopping-cart",
+    "body": "<Entypo name=\"shopping-cart\" color=\"black\" size={25}/>$0",
+    "description": "shopping-cart icon from Entypo font."
+  },
+  "ti-shuffle": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "ti-shuffle",
+    "body": "<Entypo name=\"shuffle\" color=\"black\" size={25}/>$0",
+    "description": "shuffle icon from Entypo font."
+  },
+  "ti-signal": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "ti-signal",
+    "body": "<Entypo name=\"signal\" color=\"black\" size={25}/>$0",
+    "description": "signal icon from Entypo font."
+  },
+  "ti-sina-weibo": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "ti-sina-weibo",
+    "body": "<Entypo name=\"sina-weibo\" color=\"black\" size={25}/>$0",
+    "description": "sina-weibo icon from Entypo font."
+  },
+  "ti-skype": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "ti-skype",
+    "body": "<Entypo name=\"skype\" color=\"black\" size={25}/>$0",
+    "description": "skype icon from Entypo font."
+  },
+  "ti-skype-with-circle": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "ti-skype-with-circle",
+    "body": "<Entypo name=\"skype-with-circle\" color=\"black\" size={25}/>$0",
+    "description": "skype-with-circle icon from Entypo font."
+  },
+  "ti-slideshare": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "ti-slideshare",
+    "body": "<Entypo name=\"slideshare\" color=\"black\" size={25}/>$0",
+    "description": "slideshare icon from Entypo font."
+  },
+  "ti-smashing": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "ti-smashing",
+    "body": "<Entypo name=\"smashing\" color=\"black\" size={25}/>$0",
+    "description": "smashing icon from Entypo font."
+  },
+  "ti-sound": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "ti-sound",
+    "body": "<Entypo name=\"sound\" color=\"black\" size={25}/>$0",
+    "description": "sound icon from Entypo font."
+  },
+  "ti-sound-mix": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "ti-sound-mix",
+    "body": "<Entypo name=\"sound-mix\" color=\"black\" size={25}/>$0",
+    "description": "sound-mix icon from Entypo font."
+  },
+  "ti-sound-mute": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "ti-sound-mute",
+    "body": "<Entypo name=\"sound-mute\" color=\"black\" size={25}/>$0",
+    "description": "sound-mute icon from Entypo font."
+  },
+  "ti-soundcloud": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "ti-soundcloud",
+    "body": "<Entypo name=\"soundcloud\" color=\"black\" size={25}/>$0",
+    "description": "soundcloud icon from Entypo font."
+  },
+  "ti-sports-club": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "ti-sports-club",
+    "body": "<Entypo name=\"sports-club\" color=\"black\" size={25}/>$0",
+    "description": "sports-club icon from Entypo font."
+  },
+  "ti-spotify": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "ti-spotify",
+    "body": "<Entypo name=\"spotify\" color=\"black\" size={25}/>$0",
+    "description": "spotify icon from Entypo font."
+  },
+  "ti-spotify-with-circle": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "ti-spotify-with-circle",
+    "body": "<Entypo name=\"spotify-with-circle\" color=\"black\" size={25}/>$0",
+    "description": "spotify-with-circle icon from Entypo font."
+  },
+  "ti-spreadsheet": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "ti-spreadsheet",
+    "body": "<Entypo name=\"spreadsheet\" color=\"black\" size={25}/>$0",
+    "description": "spreadsheet icon from Entypo font."
+  },
+  "ti-squared-cross": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "ti-squared-cross",
+    "body": "<Entypo name=\"squared-cross\" color=\"black\" size={25}/>$0",
+    "description": "squared-cross icon from Entypo font."
+  },
+  "ti-squared-minus": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "ti-squared-minus",
+    "body": "<Entypo name=\"squared-minus\" color=\"black\" size={25}/>$0",
+    "description": "squared-minus icon from Entypo font."
+  },
+  "ti-squared-plus": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "ti-squared-plus",
+    "body": "<Entypo name=\"squared-plus\" color=\"black\" size={25}/>$0",
+    "description": "squared-plus icon from Entypo font."
+  },
+  "ti-star": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "ti-star",
+    "body": "<Entypo name=\"star\" color=\"black\" size={25}/>$0",
+    "description": "star icon from Entypo font."
+  },
+  "ti-star-outlined": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "ti-star-outlined",
+    "body": "<Entypo name=\"star-outlined\" color=\"black\" size={25}/>$0",
+    "description": "star-outlined icon from Entypo font."
+  },
+  "ti-stopwatch": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "ti-stopwatch",
+    "body": "<Entypo name=\"stopwatch\" color=\"black\" size={25}/>$0",
+    "description": "stopwatch icon from Entypo font."
+  },
+  "ti-stumbleupon": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "ti-stumbleupon",
+    "body": "<Entypo name=\"stumbleupon\" color=\"black\" size={25}/>$0",
+    "description": "stumbleupon icon from Entypo font."
+  },
+  "ti-stumbleupon-with-circle": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "ti-stumbleupon-with-circle",
+    "body": "<Entypo name=\"stumbleupon-with-circle\" color=\"black\" size={25}/>$0",
+    "description": "stumbleupon-with-circle icon from Entypo font."
+  },
+  "ti-suitcase": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "ti-suitcase",
+    "body": "<Entypo name=\"suitcase\" color=\"black\" size={25}/>$0",
+    "description": "suitcase icon from Entypo font."
+  },
+  "ti-swap": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "ti-swap",
+    "body": "<Entypo name=\"swap\" color=\"black\" size={25}/>$0",
+    "description": "swap icon from Entypo font."
+  },
+  "ti-swarm": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "ti-swarm",
+    "body": "<Entypo name=\"swarm\" color=\"black\" size={25}/>$0",
+    "description": "swarm icon from Entypo font."
+  },
+  "ti-sweden": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "ti-sweden",
+    "body": "<Entypo name=\"sweden\" color=\"black\" size={25}/>$0",
+    "description": "sweden icon from Entypo font."
+  },
+  "ti-switch": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "ti-switch",
+    "body": "<Entypo name=\"switch\" color=\"black\" size={25}/>$0",
+    "description": "switch icon from Entypo font."
+  },
+  "ti-tablet": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "ti-tablet",
+    "body": "<Entypo name=\"tablet\" color=\"black\" size={25}/>$0",
+    "description": "tablet icon from Entypo font."
+  },
+  "ti-tablet-mobile-combo": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "ti-tablet-mobile-combo",
+    "body": "<Entypo name=\"tablet-mobile-combo\" color=\"black\" size={25}/>$0",
+    "description": "tablet-mobile-combo icon from Entypo font."
+  },
+  "ti-tag": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "ti-tag",
+    "body": "<Entypo name=\"tag\" color=\"black\" size={25}/>$0",
+    "description": "tag icon from Entypo font."
+  },
+  "ti-text": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "ti-text",
+    "body": "<Entypo name=\"text\" color=\"black\" size={25}/>$0",
+    "description": "text icon from Entypo font."
+  },
+  "ti-text-document": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "ti-text-document",
+    "body": "<Entypo name=\"text-document\" color=\"black\" size={25}/>$0",
+    "description": "text-document icon from Entypo font."
+  },
+  "ti-text-document-inverted": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "ti-text-document-inverted",
+    "body": "<Entypo name=\"text-document-inverted\" color=\"black\" size={25}/>$0",
+    "description": "text-document-inverted icon from Entypo font."
+  },
+  "ti-thermometer": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "ti-thermometer",
+    "body": "<Entypo name=\"thermometer\" color=\"black\" size={25}/>$0",
+    "description": "thermometer icon from Entypo font."
+  },
+  "ti-thumbs-down": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "ti-thumbs-down",
+    "body": "<Entypo name=\"thumbs-down\" color=\"black\" size={25}/>$0",
+    "description": "thumbs-down icon from Entypo font."
+  },
+  "ti-thumbs-up": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "ti-thumbs-up",
+    "body": "<Entypo name=\"thumbs-up\" color=\"black\" size={25}/>$0",
+    "description": "thumbs-up icon from Entypo font."
+  },
+  "ti-thunder-cloud": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "ti-thunder-cloud",
+    "body": "<Entypo name=\"thunder-cloud\" color=\"black\" size={25}/>$0",
+    "description": "thunder-cloud icon from Entypo font."
+  },
+  "ti-ticket": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "ti-ticket",
+    "body": "<Entypo name=\"ticket\" color=\"black\" size={25}/>$0",
+    "description": "ticket icon from Entypo font."
+  },
+  "ti-time-slot": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "ti-time-slot",
+    "body": "<Entypo name=\"time-slot\" color=\"black\" size={25}/>$0",
+    "description": "time-slot icon from Entypo font."
+  },
+  "ti-tools": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "ti-tools",
+    "body": "<Entypo name=\"tools\" color=\"black\" size={25}/>$0",
+    "description": "tools icon from Entypo font."
+  },
+  "ti-traffic-cone": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "ti-traffic-cone",
+    "body": "<Entypo name=\"traffic-cone\" color=\"black\" size={25}/>$0",
+    "description": "traffic-cone icon from Entypo font."
+  },
+  "ti-trash": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "ti-trash",
+    "body": "<Entypo name=\"trash\" color=\"black\" size={25}/>$0",
+    "description": "trash icon from Entypo font."
+  },
+  "ti-tree": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "ti-tree",
+    "body": "<Entypo name=\"tree\" color=\"black\" size={25}/>$0",
+    "description": "tree icon from Entypo font."
+  },
+  "ti-triangle-down": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "ti-triangle-down",
+    "body": "<Entypo name=\"triangle-down\" color=\"black\" size={25}/>$0",
+    "description": "triangle-down icon from Entypo font."
+  },
+  "ti-triangle-left": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "ti-triangle-left",
+    "body": "<Entypo name=\"triangle-left\" color=\"black\" size={25}/>$0",
+    "description": "triangle-left icon from Entypo font."
+  },
+  "ti-triangle-right": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "ti-triangle-right",
+    "body": "<Entypo name=\"triangle-right\" color=\"black\" size={25}/>$0",
+    "description": "triangle-right icon from Entypo font."
+  },
+  "ti-triangle-up": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "ti-triangle-up",
+    "body": "<Entypo name=\"triangle-up\" color=\"black\" size={25}/>$0",
+    "description": "triangle-up icon from Entypo font."
+  },
+  "ti-tripadvisor": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "ti-tripadvisor",
+    "body": "<Entypo name=\"tripadvisor\" color=\"black\" size={25}/>$0",
+    "description": "tripadvisor icon from Entypo font."
+  },
+  "ti-trophy": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "ti-trophy",
+    "body": "<Entypo name=\"trophy\" color=\"black\" size={25}/>$0",
+    "description": "trophy icon from Entypo font."
+  },
+  "ti-tumblr": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "ti-tumblr",
+    "body": "<Entypo name=\"tumblr\" color=\"black\" size={25}/>$0",
+    "description": "tumblr icon from Entypo font."
+  },
+  "ti-tumblr-with-circle": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "ti-tumblr-with-circle",
+    "body": "<Entypo name=\"tumblr-with-circle\" color=\"black\" size={25}/>$0",
+    "description": "tumblr-with-circle icon from Entypo font."
+  },
+  "ti-tv": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "ti-tv",
+    "body": "<Entypo name=\"tv\" color=\"black\" size={25}/>$0",
+    "description": "tv icon from Entypo font."
+  },
+  "ti-twitter": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "ti-twitter",
+    "body": "<Entypo name=\"twitter\" color=\"black\" size={25}/>$0",
+    "description": "twitter icon from Entypo font."
+  },
+  "ti-twitter-with-circle": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "ti-twitter-with-circle",
+    "body": "<Entypo name=\"twitter-with-circle\" color=\"black\" size={25}/>$0",
+    "description": "twitter-with-circle icon from Entypo font."
+  },
+  "ti-typing": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "ti-typing",
+    "body": "<Entypo name=\"typing\" color=\"black\" size={25}/>$0",
+    "description": "typing icon from Entypo font."
+  },
+  "ti-uninstall": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "ti-uninstall",
+    "body": "<Entypo name=\"uninstall\" color=\"black\" size={25}/>$0",
+    "description": "uninstall icon from Entypo font."
+  },
+  "ti-unread": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "ti-unread",
+    "body": "<Entypo name=\"unread\" color=\"black\" size={25}/>$0",
+    "description": "unread icon from Entypo font."
+  },
+  "ti-untag": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "ti-untag",
+    "body": "<Entypo name=\"untag\" color=\"black\" size={25}/>$0",
+    "description": "untag icon from Entypo font."
+  },
+  "ti-upload": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "ti-upload",
+    "body": "<Entypo name=\"upload\" color=\"black\" size={25}/>$0",
+    "description": "upload icon from Entypo font."
+  },
+  "ti-upload-to-cloud": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "ti-upload-to-cloud",
+    "body": "<Entypo name=\"upload-to-cloud\" color=\"black\" size={25}/>$0",
+    "description": "upload-to-cloud icon from Entypo font."
+  },
+  "ti-user": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "ti-user",
+    "body": "<Entypo name=\"user\" color=\"black\" size={25}/>$0",
+    "description": "user icon from Entypo font."
+  },
+  "ti-users": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "ti-users",
+    "body": "<Entypo name=\"users\" color=\"black\" size={25}/>$0",
+    "description": "users icon from Entypo font."
+  },
+  "ti-v-card": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "ti-v-card",
+    "body": "<Entypo name=\"v-card\" color=\"black\" size={25}/>$0",
+    "description": "v-card icon from Entypo font."
+  },
+  "ti-video": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "ti-video",
+    "body": "<Entypo name=\"video\" color=\"black\" size={25}/>$0",
+    "description": "video icon from Entypo font."
+  },
+  "ti-video-camera": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "ti-video-camera",
+    "body": "<Entypo name=\"video-camera\" color=\"black\" size={25}/>$0",
+    "description": "video-camera icon from Entypo font."
+  },
+  "ti-vimeo": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "ti-vimeo",
+    "body": "<Entypo name=\"vimeo\" color=\"black\" size={25}/>$0",
+    "description": "vimeo icon from Entypo font."
+  },
+  "ti-vimeo-with-circle": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "ti-vimeo-with-circle",
+    "body": "<Entypo name=\"vimeo-with-circle\" color=\"black\" size={25}/>$0",
+    "description": "vimeo-with-circle icon from Entypo font."
+  },
+  "ti-vine": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "ti-vine",
+    "body": "<Entypo name=\"vine\" color=\"black\" size={25}/>$0",
+    "description": "vine icon from Entypo font."
+  },
+  "ti-vine-with-circle": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "ti-vine-with-circle",
+    "body": "<Entypo name=\"vine-with-circle\" color=\"black\" size={25}/>$0",
+    "description": "vine-with-circle icon from Entypo font."
+  },
+  "ti-vinyl": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "ti-vinyl",
+    "body": "<Entypo name=\"vinyl\" color=\"black\" size={25}/>$0",
+    "description": "vinyl icon from Entypo font."
+  },
+  "ti-vk": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "ti-vk",
+    "body": "<Entypo name=\"vk\" color=\"black\" size={25}/>$0",
+    "description": "vk icon from Entypo font."
+  },
+  "ti-vk-alternitive": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "ti-vk-alternitive",
+    "body": "<Entypo name=\"vk-alternitive\" color=\"black\" size={25}/>$0",
+    "description": "vk-alternitive icon from Entypo font."
+  },
+  "ti-vk-with-circle": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "ti-vk-with-circle",
+    "body": "<Entypo name=\"vk-with-circle\" color=\"black\" size={25}/>$0",
+    "description": "vk-with-circle icon from Entypo font."
+  },
+  "ti-voicemail": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "ti-voicemail",
+    "body": "<Entypo name=\"voicemail\" color=\"black\" size={25}/>$0",
+    "description": "voicemail icon from Entypo font."
+  },
+  "ti-wallet": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "ti-wallet",
+    "body": "<Entypo name=\"wallet\" color=\"black\" size={25}/>$0",
+    "description": "wallet icon from Entypo font."
+  },
+  "ti-warning": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "ti-warning",
+    "body": "<Entypo name=\"warning\" color=\"black\" size={25}/>$0",
+    "description": "warning icon from Entypo font."
+  },
+  "ti-water": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "ti-water",
+    "body": "<Entypo name=\"water\" color=\"black\" size={25}/>$0",
+    "description": "water icon from Entypo font."
+  },
+  "ti-windows-store": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "ti-windows-store",
+    "body": "<Entypo name=\"windows-store\" color=\"black\" size={25}/>$0",
+    "description": "windows-store icon from Entypo font."
+  },
+  "ti-xing": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "ti-xing",
+    "body": "<Entypo name=\"xing\" color=\"black\" size={25}/>$0",
+    "description": "xing icon from Entypo font."
+  },
+  "ti-xing-with-circle": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "ti-xing-with-circle",
+    "body": "<Entypo name=\"xing-with-circle\" color=\"black\" size={25}/>$0",
+    "description": "xing-with-circle icon from Entypo font."
+  },
+  "ti-yelp": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "ti-yelp",
+    "body": "<Entypo name=\"yelp\" color=\"black\" size={25}/>$0",
+    "description": "yelp icon from Entypo font."
+  },
+  "ti-youko": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "ti-youko",
+    "body": "<Entypo name=\"youko\" color=\"black\" size={25}/>$0",
+    "description": "youko icon from Entypo font."
+  },
+  "ti-youko-with-circle": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "ti-youko-with-circle",
+    "body": "<Entypo name=\"youko-with-circle\" color=\"black\" size={25}/>$0",
+    "description": "youko-with-circle icon from Entypo font."
+  },
+  "ti-youtube": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "ti-youtube",
+    "body": "<Entypo name=\"youtube\" color=\"black\" size={25}/>$0",
+    "description": "youtube icon from Entypo font."
+  },
+  "ti-youtube-with-circle": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "ti-youtube-with-circle",
+    "body": "<Entypo name=\"youtube-with-circle\" color=\"black\" size={25}/>$0",
+    "description": "youtube-with-circle icon from Entypo font."
+  }
+}

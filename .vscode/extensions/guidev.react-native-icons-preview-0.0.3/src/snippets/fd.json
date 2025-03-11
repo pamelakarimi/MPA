@@ -1,0 +1,1700 @@
+{
+  "fd-address-book": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fd-address-book",
+    "body": "<Foundation name=\"address-book\" color=\"black\" size={25}/>$0",
+    "description": "address-book icon from Foundation font."
+  },
+  "fd-alert": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fd-alert",
+    "body": "<Foundation name=\"alert\" color=\"black\" size={25}/>$0",
+    "description": "alert icon from Foundation font."
+  },
+  "fd-align-center": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fd-align-center",
+    "body": "<Foundation name=\"align-center\" color=\"black\" size={25}/>$0",
+    "description": "align-center icon from Foundation font."
+  },
+  "fd-align-justify": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fd-align-justify",
+    "body": "<Foundation name=\"align-justify\" color=\"black\" size={25}/>$0",
+    "description": "align-justify icon from Foundation font."
+  },
+  "fd-align-left": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fd-align-left",
+    "body": "<Foundation name=\"align-left\" color=\"black\" size={25}/>$0",
+    "description": "align-left icon from Foundation font."
+  },
+  "fd-align-right": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fd-align-right",
+    "body": "<Foundation name=\"align-right\" color=\"black\" size={25}/>$0",
+    "description": "align-right icon from Foundation font."
+  },
+  "fd-anchor": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fd-anchor",
+    "body": "<Foundation name=\"anchor\" color=\"black\" size={25}/>$0",
+    "description": "anchor icon from Foundation font."
+  },
+  "fd-annotate": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fd-annotate",
+    "body": "<Foundation name=\"annotate\" color=\"black\" size={25}/>$0",
+    "description": "annotate icon from Foundation font."
+  },
+  "fd-archive": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fd-archive",
+    "body": "<Foundation name=\"archive\" color=\"black\" size={25}/>$0",
+    "description": "archive icon from Foundation font."
+  },
+  "fd-arrow-down": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fd-arrow-down",
+    "body": "<Foundation name=\"arrow-down\" color=\"black\" size={25}/>$0",
+    "description": "arrow-down icon from Foundation font."
+  },
+  "fd-arrow-left": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fd-arrow-left",
+    "body": "<Foundation name=\"arrow-left\" color=\"black\" size={25}/>$0",
+    "description": "arrow-left icon from Foundation font."
+  },
+  "fd-arrow-right": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fd-arrow-right",
+    "body": "<Foundation name=\"arrow-right\" color=\"black\" size={25}/>$0",
+    "description": "arrow-right icon from Foundation font."
+  },
+  "fd-arrow-up": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fd-arrow-up",
+    "body": "<Foundation name=\"arrow-up\" color=\"black\" size={25}/>$0",
+    "description": "arrow-up icon from Foundation font."
+  },
+  "fd-arrows-compress": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fd-arrows-compress",
+    "body": "<Foundation name=\"arrows-compress\" color=\"black\" size={25}/>$0",
+    "description": "arrows-compress icon from Foundation font."
+  },
+  "fd-arrows-expand": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fd-arrows-expand",
+    "body": "<Foundation name=\"arrows-expand\" color=\"black\" size={25}/>$0",
+    "description": "arrows-expand icon from Foundation font."
+  },
+  "fd-arrows-in": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fd-arrows-in",
+    "body": "<Foundation name=\"arrows-in\" color=\"black\" size={25}/>$0",
+    "description": "arrows-in icon from Foundation font."
+  },
+  "fd-arrows-out": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fd-arrows-out",
+    "body": "<Foundation name=\"arrows-out\" color=\"black\" size={25}/>$0",
+    "description": "arrows-out icon from Foundation font."
+  },
+  "fd-asl": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fd-asl",
+    "body": "<Foundation name=\"asl\" color=\"black\" size={25}/>$0",
+    "description": "asl icon from Foundation font."
+  },
+  "fd-asterisk": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fd-asterisk",
+    "body": "<Foundation name=\"asterisk\" color=\"black\" size={25}/>$0",
+    "description": "asterisk icon from Foundation font."
+  },
+  "fd-at-sign": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fd-at-sign",
+    "body": "<Foundation name=\"at-sign\" color=\"black\" size={25}/>$0",
+    "description": "at-sign icon from Foundation font."
+  },
+  "fd-background-color": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fd-background-color",
+    "body": "<Foundation name=\"background-color\" color=\"black\" size={25}/>$0",
+    "description": "background-color icon from Foundation font."
+  },
+  "fd-battery-empty": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fd-battery-empty",
+    "body": "<Foundation name=\"battery-empty\" color=\"black\" size={25}/>$0",
+    "description": "battery-empty icon from Foundation font."
+  },
+  "fd-battery-full": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fd-battery-full",
+    "body": "<Foundation name=\"battery-full\" color=\"black\" size={25}/>$0",
+    "description": "battery-full icon from Foundation font."
+  },
+  "fd-battery-half": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fd-battery-half",
+    "body": "<Foundation name=\"battery-half\" color=\"black\" size={25}/>$0",
+    "description": "battery-half icon from Foundation font."
+  },
+  "fd-bitcoin-circle": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fd-bitcoin-circle",
+    "body": "<Foundation name=\"bitcoin-circle\" color=\"black\" size={25}/>$0",
+    "description": "bitcoin-circle icon from Foundation font."
+  },
+  "fd-bitcoin": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fd-bitcoin",
+    "body": "<Foundation name=\"bitcoin\" color=\"black\" size={25}/>$0",
+    "description": "bitcoin icon from Foundation font."
+  },
+  "fd-blind": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fd-blind",
+    "body": "<Foundation name=\"blind\" color=\"black\" size={25}/>$0",
+    "description": "blind icon from Foundation font."
+  },
+  "fd-bluetooth": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fd-bluetooth",
+    "body": "<Foundation name=\"bluetooth\" color=\"black\" size={25}/>$0",
+    "description": "bluetooth icon from Foundation font."
+  },
+  "fd-bold": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fd-bold",
+    "body": "<Foundation name=\"bold\" color=\"black\" size={25}/>$0",
+    "description": "bold icon from Foundation font."
+  },
+  "fd-book-bookmark": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fd-book-bookmark",
+    "body": "<Foundation name=\"book-bookmark\" color=\"black\" size={25}/>$0",
+    "description": "book-bookmark icon from Foundation font."
+  },
+  "fd-book": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fd-book",
+    "body": "<Foundation name=\"book\" color=\"black\" size={25}/>$0",
+    "description": "book icon from Foundation font."
+  },
+  "fd-bookmark": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fd-bookmark",
+    "body": "<Foundation name=\"bookmark\" color=\"black\" size={25}/>$0",
+    "description": "bookmark icon from Foundation font."
+  },
+  "fd-braille": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fd-braille",
+    "body": "<Foundation name=\"braille\" color=\"black\" size={25}/>$0",
+    "description": "braille icon from Foundation font."
+  },
+  "fd-burst-new": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fd-burst-new",
+    "body": "<Foundation name=\"burst-new\" color=\"black\" size={25}/>$0",
+    "description": "burst-new icon from Foundation font."
+  },
+  "fd-burst-sale": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fd-burst-sale",
+    "body": "<Foundation name=\"burst-sale\" color=\"black\" size={25}/>$0",
+    "description": "burst-sale icon from Foundation font."
+  },
+  "fd-burst": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fd-burst",
+    "body": "<Foundation name=\"burst\" color=\"black\" size={25}/>$0",
+    "description": "burst icon from Foundation font."
+  },
+  "fd-calendar": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fd-calendar",
+    "body": "<Foundation name=\"calendar\" color=\"black\" size={25}/>$0",
+    "description": "calendar icon from Foundation font."
+  },
+  "fd-camera": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fd-camera",
+    "body": "<Foundation name=\"camera\" color=\"black\" size={25}/>$0",
+    "description": "camera icon from Foundation font."
+  },
+  "fd-check": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fd-check",
+    "body": "<Foundation name=\"check\" color=\"black\" size={25}/>$0",
+    "description": "check icon from Foundation font."
+  },
+  "fd-checkbox": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fd-checkbox",
+    "body": "<Foundation name=\"checkbox\" color=\"black\" size={25}/>$0",
+    "description": "checkbox icon from Foundation font."
+  },
+  "fd-clipboard-notes": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fd-clipboard-notes",
+    "body": "<Foundation name=\"clipboard-notes\" color=\"black\" size={25}/>$0",
+    "description": "clipboard-notes icon from Foundation font."
+  },
+  "fd-clipboard-pencil": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fd-clipboard-pencil",
+    "body": "<Foundation name=\"clipboard-pencil\" color=\"black\" size={25}/>$0",
+    "description": "clipboard-pencil icon from Foundation font."
+  },
+  "fd-clipboard": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fd-clipboard",
+    "body": "<Foundation name=\"clipboard\" color=\"black\" size={25}/>$0",
+    "description": "clipboard icon from Foundation font."
+  },
+  "fd-clock": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fd-clock",
+    "body": "<Foundation name=\"clock\" color=\"black\" size={25}/>$0",
+    "description": "clock icon from Foundation font."
+  },
+  "fd-closed-caption": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fd-closed-caption",
+    "body": "<Foundation name=\"closed-caption\" color=\"black\" size={25}/>$0",
+    "description": "closed-caption icon from Foundation font."
+  },
+  "fd-cloud": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fd-cloud",
+    "body": "<Foundation name=\"cloud\" color=\"black\" size={25}/>$0",
+    "description": "cloud icon from Foundation font."
+  },
+  "fd-comment-minus": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fd-comment-minus",
+    "body": "<Foundation name=\"comment-minus\" color=\"black\" size={25}/>$0",
+    "description": "comment-minus icon from Foundation font."
+  },
+  "fd-comment-quotes": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fd-comment-quotes",
+    "body": "<Foundation name=\"comment-quotes\" color=\"black\" size={25}/>$0",
+    "description": "comment-quotes icon from Foundation font."
+  },
+  "fd-comment-video": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fd-comment-video",
+    "body": "<Foundation name=\"comment-video\" color=\"black\" size={25}/>$0",
+    "description": "comment-video icon from Foundation font."
+  },
+  "fd-comment": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fd-comment",
+    "body": "<Foundation name=\"comment\" color=\"black\" size={25}/>$0",
+    "description": "comment icon from Foundation font."
+  },
+  "fd-comments": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fd-comments",
+    "body": "<Foundation name=\"comments\" color=\"black\" size={25}/>$0",
+    "description": "comments icon from Foundation font."
+  },
+  "fd-compass": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fd-compass",
+    "body": "<Foundation name=\"compass\" color=\"black\" size={25}/>$0",
+    "description": "compass icon from Foundation font."
+  },
+  "fd-contrast": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fd-contrast",
+    "body": "<Foundation name=\"contrast\" color=\"black\" size={25}/>$0",
+    "description": "contrast icon from Foundation font."
+  },
+  "fd-credit-card": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fd-credit-card",
+    "body": "<Foundation name=\"credit-card\" color=\"black\" size={25}/>$0",
+    "description": "credit-card icon from Foundation font."
+  },
+  "fd-crop": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fd-crop",
+    "body": "<Foundation name=\"crop\" color=\"black\" size={25}/>$0",
+    "description": "crop icon from Foundation font."
+  },
+  "fd-crown": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fd-crown",
+    "body": "<Foundation name=\"crown\" color=\"black\" size={25}/>$0",
+    "description": "crown icon from Foundation font."
+  },
+  "fd-css3": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fd-css3",
+    "body": "<Foundation name=\"css3\" color=\"black\" size={25}/>$0",
+    "description": "css3 icon from Foundation font."
+  },
+  "fd-database": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fd-database",
+    "body": "<Foundation name=\"database\" color=\"black\" size={25}/>$0",
+    "description": "database icon from Foundation font."
+  },
+  "fd-die-five": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fd-die-five",
+    "body": "<Foundation name=\"die-five\" color=\"black\" size={25}/>$0",
+    "description": "die-five icon from Foundation font."
+  },
+  "fd-die-four": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fd-die-four",
+    "body": "<Foundation name=\"die-four\" color=\"black\" size={25}/>$0",
+    "description": "die-four icon from Foundation font."
+  },
+  "fd-die-one": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fd-die-one",
+    "body": "<Foundation name=\"die-one\" color=\"black\" size={25}/>$0",
+    "description": "die-one icon from Foundation font."
+  },
+  "fd-die-six": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fd-die-six",
+    "body": "<Foundation name=\"die-six\" color=\"black\" size={25}/>$0",
+    "description": "die-six icon from Foundation font."
+  },
+  "fd-die-three": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fd-die-three",
+    "body": "<Foundation name=\"die-three\" color=\"black\" size={25}/>$0",
+    "description": "die-three icon from Foundation font."
+  },
+  "fd-die-two": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fd-die-two",
+    "body": "<Foundation name=\"die-two\" color=\"black\" size={25}/>$0",
+    "description": "die-two icon from Foundation font."
+  },
+  "fd-dislike": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fd-dislike",
+    "body": "<Foundation name=\"dislike\" color=\"black\" size={25}/>$0",
+    "description": "dislike icon from Foundation font."
+  },
+  "fd-dollar-bill": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fd-dollar-bill",
+    "body": "<Foundation name=\"dollar-bill\" color=\"black\" size={25}/>$0",
+    "description": "dollar-bill icon from Foundation font."
+  },
+  "fd-dollar": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fd-dollar",
+    "body": "<Foundation name=\"dollar\" color=\"black\" size={25}/>$0",
+    "description": "dollar icon from Foundation font."
+  },
+  "fd-download": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fd-download",
+    "body": "<Foundation name=\"download\" color=\"black\" size={25}/>$0",
+    "description": "download icon from Foundation font."
+  },
+  "fd-eject": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fd-eject",
+    "body": "<Foundation name=\"eject\" color=\"black\" size={25}/>$0",
+    "description": "eject icon from Foundation font."
+  },
+  "fd-elevator": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fd-elevator",
+    "body": "<Foundation name=\"elevator\" color=\"black\" size={25}/>$0",
+    "description": "elevator icon from Foundation font."
+  },
+  "fd-euro": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fd-euro",
+    "body": "<Foundation name=\"euro\" color=\"black\" size={25}/>$0",
+    "description": "euro icon from Foundation font."
+  },
+  "fd-eye": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fd-eye",
+    "body": "<Foundation name=\"eye\" color=\"black\" size={25}/>$0",
+    "description": "eye icon from Foundation font."
+  },
+  "fd-fast-forward": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fd-fast-forward",
+    "body": "<Foundation name=\"fast-forward\" color=\"black\" size={25}/>$0",
+    "description": "fast-forward icon from Foundation font."
+  },
+  "fd-female-symbol": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fd-female-symbol",
+    "body": "<Foundation name=\"female-symbol\" color=\"black\" size={25}/>$0",
+    "description": "female-symbol icon from Foundation font."
+  },
+  "fd-female": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fd-female",
+    "body": "<Foundation name=\"female\" color=\"black\" size={25}/>$0",
+    "description": "female icon from Foundation font."
+  },
+  "fd-filter": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fd-filter",
+    "body": "<Foundation name=\"filter\" color=\"black\" size={25}/>$0",
+    "description": "filter icon from Foundation font."
+  },
+  "fd-first-aid": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fd-first-aid",
+    "body": "<Foundation name=\"first-aid\" color=\"black\" size={25}/>$0",
+    "description": "first-aid icon from Foundation font."
+  },
+  "fd-flag": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fd-flag",
+    "body": "<Foundation name=\"flag\" color=\"black\" size={25}/>$0",
+    "description": "flag icon from Foundation font."
+  },
+  "fd-folder-add": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fd-folder-add",
+    "body": "<Foundation name=\"folder-add\" color=\"black\" size={25}/>$0",
+    "description": "folder-add icon from Foundation font."
+  },
+  "fd-folder-lock": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fd-folder-lock",
+    "body": "<Foundation name=\"folder-lock\" color=\"black\" size={25}/>$0",
+    "description": "folder-lock icon from Foundation font."
+  },
+  "fd-folder": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fd-folder",
+    "body": "<Foundation name=\"folder\" color=\"black\" size={25}/>$0",
+    "description": "folder icon from Foundation font."
+  },
+  "fd-foot": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fd-foot",
+    "body": "<Foundation name=\"foot\" color=\"black\" size={25}/>$0",
+    "description": "foot icon from Foundation font."
+  },
+  "fd-foundation": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fd-foundation",
+    "body": "<Foundation name=\"foundation\" color=\"black\" size={25}/>$0",
+    "description": "foundation icon from Foundation font."
+  },
+  "fd-graph-bar": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fd-graph-bar",
+    "body": "<Foundation name=\"graph-bar\" color=\"black\" size={25}/>$0",
+    "description": "graph-bar icon from Foundation font."
+  },
+  "fd-graph-horizontal": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fd-graph-horizontal",
+    "body": "<Foundation name=\"graph-horizontal\" color=\"black\" size={25}/>$0",
+    "description": "graph-horizontal icon from Foundation font."
+  },
+  "fd-graph-pie": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fd-graph-pie",
+    "body": "<Foundation name=\"graph-pie\" color=\"black\" size={25}/>$0",
+    "description": "graph-pie icon from Foundation font."
+  },
+  "fd-graph-trend": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fd-graph-trend",
+    "body": "<Foundation name=\"graph-trend\" color=\"black\" size={25}/>$0",
+    "description": "graph-trend icon from Foundation font."
+  },
+  "fd-guide-dog": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fd-guide-dog",
+    "body": "<Foundation name=\"guide-dog\" color=\"black\" size={25}/>$0",
+    "description": "guide-dog icon from Foundation font."
+  },
+  "fd-hearing-aid": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fd-hearing-aid",
+    "body": "<Foundation name=\"hearing-aid\" color=\"black\" size={25}/>$0",
+    "description": "hearing-aid icon from Foundation font."
+  },
+  "fd-heart": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fd-heart",
+    "body": "<Foundation name=\"heart\" color=\"black\" size={25}/>$0",
+    "description": "heart icon from Foundation font."
+  },
+  "fd-home": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fd-home",
+    "body": "<Foundation name=\"home\" color=\"black\" size={25}/>$0",
+    "description": "home icon from Foundation font."
+  },
+  "fd-html5": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fd-html5",
+    "body": "<Foundation name=\"html5\" color=\"black\" size={25}/>$0",
+    "description": "html5 icon from Foundation font."
+  },
+  "fd-indent-less": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fd-indent-less",
+    "body": "<Foundation name=\"indent-less\" color=\"black\" size={25}/>$0",
+    "description": "indent-less icon from Foundation font."
+  },
+  "fd-indent-more": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fd-indent-more",
+    "body": "<Foundation name=\"indent-more\" color=\"black\" size={25}/>$0",
+    "description": "indent-more icon from Foundation font."
+  },
+  "fd-info": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fd-info",
+    "body": "<Foundation name=\"info\" color=\"black\" size={25}/>$0",
+    "description": "info icon from Foundation font."
+  },
+  "fd-italic": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fd-italic",
+    "body": "<Foundation name=\"italic\" color=\"black\" size={25}/>$0",
+    "description": "italic icon from Foundation font."
+  },
+  "fd-key": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fd-key",
+    "body": "<Foundation name=\"key\" color=\"black\" size={25}/>$0",
+    "description": "key icon from Foundation font."
+  },
+  "fd-laptop": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fd-laptop",
+    "body": "<Foundation name=\"laptop\" color=\"black\" size={25}/>$0",
+    "description": "laptop icon from Foundation font."
+  },
+  "fd-layout": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fd-layout",
+    "body": "<Foundation name=\"layout\" color=\"black\" size={25}/>$0",
+    "description": "layout icon from Foundation font."
+  },
+  "fd-lightbulb": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fd-lightbulb",
+    "body": "<Foundation name=\"lightbulb\" color=\"black\" size={25}/>$0",
+    "description": "lightbulb icon from Foundation font."
+  },
+  "fd-like": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fd-like",
+    "body": "<Foundation name=\"like\" color=\"black\" size={25}/>$0",
+    "description": "like icon from Foundation font."
+  },
+  "fd-link": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fd-link",
+    "body": "<Foundation name=\"link\" color=\"black\" size={25}/>$0",
+    "description": "link icon from Foundation font."
+  },
+  "fd-list-bullet": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fd-list-bullet",
+    "body": "<Foundation name=\"list-bullet\" color=\"black\" size={25}/>$0",
+    "description": "list-bullet icon from Foundation font."
+  },
+  "fd-list-number": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fd-list-number",
+    "body": "<Foundation name=\"list-number\" color=\"black\" size={25}/>$0",
+    "description": "list-number icon from Foundation font."
+  },
+  "fd-list-thumbnails": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fd-list-thumbnails",
+    "body": "<Foundation name=\"list-thumbnails\" color=\"black\" size={25}/>$0",
+    "description": "list-thumbnails icon from Foundation font."
+  },
+  "fd-list": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fd-list",
+    "body": "<Foundation name=\"list\" color=\"black\" size={25}/>$0",
+    "description": "list icon from Foundation font."
+  },
+  "fd-lock": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fd-lock",
+    "body": "<Foundation name=\"lock\" color=\"black\" size={25}/>$0",
+    "description": "lock icon from Foundation font."
+  },
+  "fd-loop": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fd-loop",
+    "body": "<Foundation name=\"loop\" color=\"black\" size={25}/>$0",
+    "description": "loop icon from Foundation font."
+  },
+  "fd-magnifying-glass": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fd-magnifying-glass",
+    "body": "<Foundation name=\"magnifying-glass\" color=\"black\" size={25}/>$0",
+    "description": "magnifying-glass icon from Foundation font."
+  },
+  "fd-mail": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fd-mail",
+    "body": "<Foundation name=\"mail\" color=\"black\" size={25}/>$0",
+    "description": "mail icon from Foundation font."
+  },
+  "fd-male-female": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fd-male-female",
+    "body": "<Foundation name=\"male-female\" color=\"black\" size={25}/>$0",
+    "description": "male-female icon from Foundation font."
+  },
+  "fd-male-symbol": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fd-male-symbol",
+    "body": "<Foundation name=\"male-symbol\" color=\"black\" size={25}/>$0",
+    "description": "male-symbol icon from Foundation font."
+  },
+  "fd-male": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fd-male",
+    "body": "<Foundation name=\"male\" color=\"black\" size={25}/>$0",
+    "description": "male icon from Foundation font."
+  },
+  "fd-map": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fd-map",
+    "body": "<Foundation name=\"map\" color=\"black\" size={25}/>$0",
+    "description": "map icon from Foundation font."
+  },
+  "fd-marker": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fd-marker",
+    "body": "<Foundation name=\"marker\" color=\"black\" size={25}/>$0",
+    "description": "marker icon from Foundation font."
+  },
+  "fd-megaphone": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fd-megaphone",
+    "body": "<Foundation name=\"megaphone\" color=\"black\" size={25}/>$0",
+    "description": "megaphone icon from Foundation font."
+  },
+  "fd-microphone": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fd-microphone",
+    "body": "<Foundation name=\"microphone\" color=\"black\" size={25}/>$0",
+    "description": "microphone icon from Foundation font."
+  },
+  "fd-minus-circle": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fd-minus-circle",
+    "body": "<Foundation name=\"minus-circle\" color=\"black\" size={25}/>$0",
+    "description": "minus-circle icon from Foundation font."
+  },
+  "fd-minus": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fd-minus",
+    "body": "<Foundation name=\"minus\" color=\"black\" size={25}/>$0",
+    "description": "minus icon from Foundation font."
+  },
+  "fd-mobile-signal": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fd-mobile-signal",
+    "body": "<Foundation name=\"mobile-signal\" color=\"black\" size={25}/>$0",
+    "description": "mobile-signal icon from Foundation font."
+  },
+  "fd-mobile": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fd-mobile",
+    "body": "<Foundation name=\"mobile\" color=\"black\" size={25}/>$0",
+    "description": "mobile icon from Foundation font."
+  },
+  "fd-monitor": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fd-monitor",
+    "body": "<Foundation name=\"monitor\" color=\"black\" size={25}/>$0",
+    "description": "monitor icon from Foundation font."
+  },
+  "fd-mountains": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fd-mountains",
+    "body": "<Foundation name=\"mountains\" color=\"black\" size={25}/>$0",
+    "description": "mountains icon from Foundation font."
+  },
+  "fd-music": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fd-music",
+    "body": "<Foundation name=\"music\" color=\"black\" size={25}/>$0",
+    "description": "music icon from Foundation font."
+  },
+  "fd-next": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fd-next",
+    "body": "<Foundation name=\"next\" color=\"black\" size={25}/>$0",
+    "description": "next icon from Foundation font."
+  },
+  "fd-no-dogs": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fd-no-dogs",
+    "body": "<Foundation name=\"no-dogs\" color=\"black\" size={25}/>$0",
+    "description": "no-dogs icon from Foundation font."
+  },
+  "fd-no-smoking": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fd-no-smoking",
+    "body": "<Foundation name=\"no-smoking\" color=\"black\" size={25}/>$0",
+    "description": "no-smoking icon from Foundation font."
+  },
+  "fd-page-add": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fd-page-add",
+    "body": "<Foundation name=\"page-add\" color=\"black\" size={25}/>$0",
+    "description": "page-add icon from Foundation font."
+  },
+  "fd-page-copy": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fd-page-copy",
+    "body": "<Foundation name=\"page-copy\" color=\"black\" size={25}/>$0",
+    "description": "page-copy icon from Foundation font."
+  },
+  "fd-page-csv": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fd-page-csv",
+    "body": "<Foundation name=\"page-csv\" color=\"black\" size={25}/>$0",
+    "description": "page-csv icon from Foundation font."
+  },
+  "fd-page-delete": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fd-page-delete",
+    "body": "<Foundation name=\"page-delete\" color=\"black\" size={25}/>$0",
+    "description": "page-delete icon from Foundation font."
+  },
+  "fd-page-doc": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fd-page-doc",
+    "body": "<Foundation name=\"page-doc\" color=\"black\" size={25}/>$0",
+    "description": "page-doc icon from Foundation font."
+  },
+  "fd-page-edit": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fd-page-edit",
+    "body": "<Foundation name=\"page-edit\" color=\"black\" size={25}/>$0",
+    "description": "page-edit icon from Foundation font."
+  },
+  "fd-page-export-csv": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fd-page-export-csv",
+    "body": "<Foundation name=\"page-export-csv\" color=\"black\" size={25}/>$0",
+    "description": "page-export-csv icon from Foundation font."
+  },
+  "fd-page-export-doc": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fd-page-export-doc",
+    "body": "<Foundation name=\"page-export-doc\" color=\"black\" size={25}/>$0",
+    "description": "page-export-doc icon from Foundation font."
+  },
+  "fd-page-export-pdf": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fd-page-export-pdf",
+    "body": "<Foundation name=\"page-export-pdf\" color=\"black\" size={25}/>$0",
+    "description": "page-export-pdf icon from Foundation font."
+  },
+  "fd-page-export": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fd-page-export",
+    "body": "<Foundation name=\"page-export\" color=\"black\" size={25}/>$0",
+    "description": "page-export icon from Foundation font."
+  },
+  "fd-page-filled": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fd-page-filled",
+    "body": "<Foundation name=\"page-filled\" color=\"black\" size={25}/>$0",
+    "description": "page-filled icon from Foundation font."
+  },
+  "fd-page-multiple": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fd-page-multiple",
+    "body": "<Foundation name=\"page-multiple\" color=\"black\" size={25}/>$0",
+    "description": "page-multiple icon from Foundation font."
+  },
+  "fd-page-pdf": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fd-page-pdf",
+    "body": "<Foundation name=\"page-pdf\" color=\"black\" size={25}/>$0",
+    "description": "page-pdf icon from Foundation font."
+  },
+  "fd-page-remove": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fd-page-remove",
+    "body": "<Foundation name=\"page-remove\" color=\"black\" size={25}/>$0",
+    "description": "page-remove icon from Foundation font."
+  },
+  "fd-page-search": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fd-page-search",
+    "body": "<Foundation name=\"page-search\" color=\"black\" size={25}/>$0",
+    "description": "page-search icon from Foundation font."
+  },
+  "fd-page": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fd-page",
+    "body": "<Foundation name=\"page\" color=\"black\" size={25}/>$0",
+    "description": "page icon from Foundation font."
+  },
+  "fd-paint-bucket": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fd-paint-bucket",
+    "body": "<Foundation name=\"paint-bucket\" color=\"black\" size={25}/>$0",
+    "description": "paint-bucket icon from Foundation font."
+  },
+  "fd-paperclip": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fd-paperclip",
+    "body": "<Foundation name=\"paperclip\" color=\"black\" size={25}/>$0",
+    "description": "paperclip icon from Foundation font."
+  },
+  "fd-pause": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fd-pause",
+    "body": "<Foundation name=\"pause\" color=\"black\" size={25}/>$0",
+    "description": "pause icon from Foundation font."
+  },
+  "fd-paw": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fd-paw",
+    "body": "<Foundation name=\"paw\" color=\"black\" size={25}/>$0",
+    "description": "paw icon from Foundation font."
+  },
+  "fd-paypal": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fd-paypal",
+    "body": "<Foundation name=\"paypal\" color=\"black\" size={25}/>$0",
+    "description": "paypal icon from Foundation font."
+  },
+  "fd-pencil": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fd-pencil",
+    "body": "<Foundation name=\"pencil\" color=\"black\" size={25}/>$0",
+    "description": "pencil icon from Foundation font."
+  },
+  "fd-photo": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fd-photo",
+    "body": "<Foundation name=\"photo\" color=\"black\" size={25}/>$0",
+    "description": "photo icon from Foundation font."
+  },
+  "fd-play-circle": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fd-play-circle",
+    "body": "<Foundation name=\"play-circle\" color=\"black\" size={25}/>$0",
+    "description": "play-circle icon from Foundation font."
+  },
+  "fd-play-video": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fd-play-video",
+    "body": "<Foundation name=\"play-video\" color=\"black\" size={25}/>$0",
+    "description": "play-video icon from Foundation font."
+  },
+  "fd-play": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fd-play",
+    "body": "<Foundation name=\"play\" color=\"black\" size={25}/>$0",
+    "description": "play icon from Foundation font."
+  },
+  "fd-plus": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fd-plus",
+    "body": "<Foundation name=\"plus\" color=\"black\" size={25}/>$0",
+    "description": "plus icon from Foundation font."
+  },
+  "fd-pound": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fd-pound",
+    "body": "<Foundation name=\"pound\" color=\"black\" size={25}/>$0",
+    "description": "pound icon from Foundation font."
+  },
+  "fd-power": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fd-power",
+    "body": "<Foundation name=\"power\" color=\"black\" size={25}/>$0",
+    "description": "power icon from Foundation font."
+  },
+  "fd-previous": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fd-previous",
+    "body": "<Foundation name=\"previous\" color=\"black\" size={25}/>$0",
+    "description": "previous icon from Foundation font."
+  },
+  "fd-price-tag": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fd-price-tag",
+    "body": "<Foundation name=\"price-tag\" color=\"black\" size={25}/>$0",
+    "description": "price-tag icon from Foundation font."
+  },
+  "fd-pricetag-multiple": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fd-pricetag-multiple",
+    "body": "<Foundation name=\"pricetag-multiple\" color=\"black\" size={25}/>$0",
+    "description": "pricetag-multiple icon from Foundation font."
+  },
+  "fd-print": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fd-print",
+    "body": "<Foundation name=\"print\" color=\"black\" size={25}/>$0",
+    "description": "print icon from Foundation font."
+  },
+  "fd-prohibited": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fd-prohibited",
+    "body": "<Foundation name=\"prohibited\" color=\"black\" size={25}/>$0",
+    "description": "prohibited icon from Foundation font."
+  },
+  "fd-projection-screen": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fd-projection-screen",
+    "body": "<Foundation name=\"projection-screen\" color=\"black\" size={25}/>$0",
+    "description": "projection-screen icon from Foundation font."
+  },
+  "fd-puzzle": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fd-puzzle",
+    "body": "<Foundation name=\"puzzle\" color=\"black\" size={25}/>$0",
+    "description": "puzzle icon from Foundation font."
+  },
+  "fd-quote": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fd-quote",
+    "body": "<Foundation name=\"quote\" color=\"black\" size={25}/>$0",
+    "description": "quote icon from Foundation font."
+  },
+  "fd-record": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fd-record",
+    "body": "<Foundation name=\"record\" color=\"black\" size={25}/>$0",
+    "description": "record icon from Foundation font."
+  },
+  "fd-refresh": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fd-refresh",
+    "body": "<Foundation name=\"refresh\" color=\"black\" size={25}/>$0",
+    "description": "refresh icon from Foundation font."
+  },
+  "fd-results-demographics": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fd-results-demographics",
+    "body": "<Foundation name=\"results-demographics\" color=\"black\" size={25}/>$0",
+    "description": "results-demographics icon from Foundation font."
+  },
+  "fd-results": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fd-results",
+    "body": "<Foundation name=\"results\" color=\"black\" size={25}/>$0",
+    "description": "results icon from Foundation font."
+  },
+  "fd-rewind-ten": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fd-rewind-ten",
+    "body": "<Foundation name=\"rewind-ten\" color=\"black\" size={25}/>$0",
+    "description": "rewind-ten icon from Foundation font."
+  },
+  "fd-rewind": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fd-rewind",
+    "body": "<Foundation name=\"rewind\" color=\"black\" size={25}/>$0",
+    "description": "rewind icon from Foundation font."
+  },
+  "fd-rss": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fd-rss",
+    "body": "<Foundation name=\"rss\" color=\"black\" size={25}/>$0",
+    "description": "rss icon from Foundation font."
+  },
+  "fd-safety-cone": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fd-safety-cone",
+    "body": "<Foundation name=\"safety-cone\" color=\"black\" size={25}/>$0",
+    "description": "safety-cone icon from Foundation font."
+  },
+  "fd-save": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fd-save",
+    "body": "<Foundation name=\"save\" color=\"black\" size={25}/>$0",
+    "description": "save icon from Foundation font."
+  },
+  "fd-share": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fd-share",
+    "body": "<Foundation name=\"share\" color=\"black\" size={25}/>$0",
+    "description": "share icon from Foundation font."
+  },
+  "fd-sheriff-badge": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fd-sheriff-badge",
+    "body": "<Foundation name=\"sheriff-badge\" color=\"black\" size={25}/>$0",
+    "description": "sheriff-badge icon from Foundation font."
+  },
+  "fd-shield": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fd-shield",
+    "body": "<Foundation name=\"shield\" color=\"black\" size={25}/>$0",
+    "description": "shield icon from Foundation font."
+  },
+  "fd-shopping-bag": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fd-shopping-bag",
+    "body": "<Foundation name=\"shopping-bag\" color=\"black\" size={25}/>$0",
+    "description": "shopping-bag icon from Foundation font."
+  },
+  "fd-shopping-cart": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fd-shopping-cart",
+    "body": "<Foundation name=\"shopping-cart\" color=\"black\" size={25}/>$0",
+    "description": "shopping-cart icon from Foundation font."
+  },
+  "fd-shuffle": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fd-shuffle",
+    "body": "<Foundation name=\"shuffle\" color=\"black\" size={25}/>$0",
+    "description": "shuffle icon from Foundation font."
+  },
+  "fd-skull": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fd-skull",
+    "body": "<Foundation name=\"skull\" color=\"black\" size={25}/>$0",
+    "description": "skull icon from Foundation font."
+  },
+  "fd-social-500px": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fd-social-500px",
+    "body": "<Foundation name=\"social-500px\" color=\"black\" size={25}/>$0",
+    "description": "social-500px icon from Foundation font."
+  },
+  "fd-social-adobe": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fd-social-adobe",
+    "body": "<Foundation name=\"social-adobe\" color=\"black\" size={25}/>$0",
+    "description": "social-adobe icon from Foundation font."
+  },
+  "fd-social-amazon": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fd-social-amazon",
+    "body": "<Foundation name=\"social-amazon\" color=\"black\" size={25}/>$0",
+    "description": "social-amazon icon from Foundation font."
+  },
+  "fd-social-android": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fd-social-android",
+    "body": "<Foundation name=\"social-android\" color=\"black\" size={25}/>$0",
+    "description": "social-android icon from Foundation font."
+  },
+  "fd-social-apple": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fd-social-apple",
+    "body": "<Foundation name=\"social-apple\" color=\"black\" size={25}/>$0",
+    "description": "social-apple icon from Foundation font."
+  },
+  "fd-social-behance": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fd-social-behance",
+    "body": "<Foundation name=\"social-behance\" color=\"black\" size={25}/>$0",
+    "description": "social-behance icon from Foundation font."
+  },
+  "fd-social-bing": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fd-social-bing",
+    "body": "<Foundation name=\"social-bing\" color=\"black\" size={25}/>$0",
+    "description": "social-bing icon from Foundation font."
+  },
+  "fd-social-blogger": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fd-social-blogger",
+    "body": "<Foundation name=\"social-blogger\" color=\"black\" size={25}/>$0",
+    "description": "social-blogger icon from Foundation font."
+  },
+  "fd-social-delicious": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fd-social-delicious",
+    "body": "<Foundation name=\"social-delicious\" color=\"black\" size={25}/>$0",
+    "description": "social-delicious icon from Foundation font."
+  },
+  "fd-social-designer-news": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fd-social-designer-news",
+    "body": "<Foundation name=\"social-designer-news\" color=\"black\" size={25}/>$0",
+    "description": "social-designer-news icon from Foundation font."
+  },
+  "fd-social-deviant-art": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fd-social-deviant-art",
+    "body": "<Foundation name=\"social-deviant-art\" color=\"black\" size={25}/>$0",
+    "description": "social-deviant-art icon from Foundation font."
+  },
+  "fd-social-digg": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fd-social-digg",
+    "body": "<Foundation name=\"social-digg\" color=\"black\" size={25}/>$0",
+    "description": "social-digg icon from Foundation font."
+  },
+  "fd-social-dribbble": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fd-social-dribbble",
+    "body": "<Foundation name=\"social-dribbble\" color=\"black\" size={25}/>$0",
+    "description": "social-dribbble icon from Foundation font."
+  },
+  "fd-social-drive": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fd-social-drive",
+    "body": "<Foundation name=\"social-drive\" color=\"black\" size={25}/>$0",
+    "description": "social-drive icon from Foundation font."
+  },
+  "fd-social-dropbox": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fd-social-dropbox",
+    "body": "<Foundation name=\"social-dropbox\" color=\"black\" size={25}/>$0",
+    "description": "social-dropbox icon from Foundation font."
+  },
+  "fd-social-evernote": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fd-social-evernote",
+    "body": "<Foundation name=\"social-evernote\" color=\"black\" size={25}/>$0",
+    "description": "social-evernote icon from Foundation font."
+  },
+  "fd-social-facebook": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fd-social-facebook",
+    "body": "<Foundation name=\"social-facebook\" color=\"black\" size={25}/>$0",
+    "description": "social-facebook icon from Foundation font."
+  },
+  "fd-social-flickr": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fd-social-flickr",
+    "body": "<Foundation name=\"social-flickr\" color=\"black\" size={25}/>$0",
+    "description": "social-flickr icon from Foundation font."
+  },
+  "fd-social-forrst": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fd-social-forrst",
+    "body": "<Foundation name=\"social-forrst\" color=\"black\" size={25}/>$0",
+    "description": "social-forrst icon from Foundation font."
+  },
+  "fd-social-foursquare": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fd-social-foursquare",
+    "body": "<Foundation name=\"social-foursquare\" color=\"black\" size={25}/>$0",
+    "description": "social-foursquare icon from Foundation font."
+  },
+  "fd-social-game-center": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fd-social-game-center",
+    "body": "<Foundation name=\"social-game-center\" color=\"black\" size={25}/>$0",
+    "description": "social-game-center icon from Foundation font."
+  },
+  "fd-social-github": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fd-social-github",
+    "body": "<Foundation name=\"social-github\" color=\"black\" size={25}/>$0",
+    "description": "social-github icon from Foundation font."
+  },
+  "fd-social-google-plus": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fd-social-google-plus",
+    "body": "<Foundation name=\"social-google-plus\" color=\"black\" size={25}/>$0",
+    "description": "social-google-plus icon from Foundation font."
+  },
+  "fd-social-hacker-news": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fd-social-hacker-news",
+    "body": "<Foundation name=\"social-hacker-news\" color=\"black\" size={25}/>$0",
+    "description": "social-hacker-news icon from Foundation font."
+  },
+  "fd-social-hi5": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fd-social-hi5",
+    "body": "<Foundation name=\"social-hi5\" color=\"black\" size={25}/>$0",
+    "description": "social-hi5 icon from Foundation font."
+  },
+  "fd-social-instagram": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fd-social-instagram",
+    "body": "<Foundation name=\"social-instagram\" color=\"black\" size={25}/>$0",
+    "description": "social-instagram icon from Foundation font."
+  },
+  "fd-social-joomla": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fd-social-joomla",
+    "body": "<Foundation name=\"social-joomla\" color=\"black\" size={25}/>$0",
+    "description": "social-joomla icon from Foundation font."
+  },
+  "fd-social-lastfm": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fd-social-lastfm",
+    "body": "<Foundation name=\"social-lastfm\" color=\"black\" size={25}/>$0",
+    "description": "social-lastfm icon from Foundation font."
+  },
+  "fd-social-linkedin": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fd-social-linkedin",
+    "body": "<Foundation name=\"social-linkedin\" color=\"black\" size={25}/>$0",
+    "description": "social-linkedin icon from Foundation font."
+  },
+  "fd-social-medium": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fd-social-medium",
+    "body": "<Foundation name=\"social-medium\" color=\"black\" size={25}/>$0",
+    "description": "social-medium icon from Foundation font."
+  },
+  "fd-social-myspace": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fd-social-myspace",
+    "body": "<Foundation name=\"social-myspace\" color=\"black\" size={25}/>$0",
+    "description": "social-myspace icon from Foundation font."
+  },
+  "fd-social-orkut": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fd-social-orkut",
+    "body": "<Foundation name=\"social-orkut\" color=\"black\" size={25}/>$0",
+    "description": "social-orkut icon from Foundation font."
+  },
+  "fd-social-path": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fd-social-path",
+    "body": "<Foundation name=\"social-path\" color=\"black\" size={25}/>$0",
+    "description": "social-path icon from Foundation font."
+  },
+  "fd-social-picasa": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fd-social-picasa",
+    "body": "<Foundation name=\"social-picasa\" color=\"black\" size={25}/>$0",
+    "description": "social-picasa icon from Foundation font."
+  },
+  "fd-social-pinterest": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fd-social-pinterest",
+    "body": "<Foundation name=\"social-pinterest\" color=\"black\" size={25}/>$0",
+    "description": "social-pinterest icon from Foundation font."
+  },
+  "fd-social-rdio": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fd-social-rdio",
+    "body": "<Foundation name=\"social-rdio\" color=\"black\" size={25}/>$0",
+    "description": "social-rdio icon from Foundation font."
+  },
+  "fd-social-reddit": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fd-social-reddit",
+    "body": "<Foundation name=\"social-reddit\" color=\"black\" size={25}/>$0",
+    "description": "social-reddit icon from Foundation font."
+  },
+  "fd-social-skillshare": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fd-social-skillshare",
+    "body": "<Foundation name=\"social-skillshare\" color=\"black\" size={25}/>$0",
+    "description": "social-skillshare icon from Foundation font."
+  },
+  "fd-social-skype": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fd-social-skype",
+    "body": "<Foundation name=\"social-skype\" color=\"black\" size={25}/>$0",
+    "description": "social-skype icon from Foundation font."
+  },
+  "fd-social-smashing-mag": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fd-social-smashing-mag",
+    "body": "<Foundation name=\"social-smashing-mag\" color=\"black\" size={25}/>$0",
+    "description": "social-smashing-mag icon from Foundation font."
+  },
+  "fd-social-snapchat": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fd-social-snapchat",
+    "body": "<Foundation name=\"social-snapchat\" color=\"black\" size={25}/>$0",
+    "description": "social-snapchat icon from Foundation font."
+  },
+  "fd-social-spotify": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fd-social-spotify",
+    "body": "<Foundation name=\"social-spotify\" color=\"black\" size={25}/>$0",
+    "description": "social-spotify icon from Foundation font."
+  },
+  "fd-social-squidoo": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fd-social-squidoo",
+    "body": "<Foundation name=\"social-squidoo\" color=\"black\" size={25}/>$0",
+    "description": "social-squidoo icon from Foundation font."
+  },
+  "fd-social-stack-overflow": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fd-social-stack-overflow",
+    "body": "<Foundation name=\"social-stack-overflow\" color=\"black\" size={25}/>$0",
+    "description": "social-stack-overflow icon from Foundation font."
+  },
+  "fd-social-steam": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fd-social-steam",
+    "body": "<Foundation name=\"social-steam\" color=\"black\" size={25}/>$0",
+    "description": "social-steam icon from Foundation font."
+  },
+  "fd-social-stumbleupon": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fd-social-stumbleupon",
+    "body": "<Foundation name=\"social-stumbleupon\" color=\"black\" size={25}/>$0",
+    "description": "social-stumbleupon icon from Foundation font."
+  },
+  "fd-social-treehouse": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fd-social-treehouse",
+    "body": "<Foundation name=\"social-treehouse\" color=\"black\" size={25}/>$0",
+    "description": "social-treehouse icon from Foundation font."
+  },
+  "fd-social-tumblr": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fd-social-tumblr",
+    "body": "<Foundation name=\"social-tumblr\" color=\"black\" size={25}/>$0",
+    "description": "social-tumblr icon from Foundation font."
+  },
+  "fd-social-twitter": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fd-social-twitter",
+    "body": "<Foundation name=\"social-twitter\" color=\"black\" size={25}/>$0",
+    "description": "social-twitter icon from Foundation font."
+  },
+  "fd-social-vimeo": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fd-social-vimeo",
+    "body": "<Foundation name=\"social-vimeo\" color=\"black\" size={25}/>$0",
+    "description": "social-vimeo icon from Foundation font."
+  },
+  "fd-social-windows": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fd-social-windows",
+    "body": "<Foundation name=\"social-windows\" color=\"black\" size={25}/>$0",
+    "description": "social-windows icon from Foundation font."
+  },
+  "fd-social-xbox": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fd-social-xbox",
+    "body": "<Foundation name=\"social-xbox\" color=\"black\" size={25}/>$0",
+    "description": "social-xbox icon from Foundation font."
+  },
+  "fd-social-yahoo": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fd-social-yahoo",
+    "body": "<Foundation name=\"social-yahoo\" color=\"black\" size={25}/>$0",
+    "description": "social-yahoo icon from Foundation font."
+  },
+  "fd-social-yelp": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fd-social-yelp",
+    "body": "<Foundation name=\"social-yelp\" color=\"black\" size={25}/>$0",
+    "description": "social-yelp icon from Foundation font."
+  },
+  "fd-social-youtube": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fd-social-youtube",
+    "body": "<Foundation name=\"social-youtube\" color=\"black\" size={25}/>$0",
+    "description": "social-youtube icon from Foundation font."
+  },
+  "fd-social-zerply": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fd-social-zerply",
+    "body": "<Foundation name=\"social-zerply\" color=\"black\" size={25}/>$0",
+    "description": "social-zerply icon from Foundation font."
+  },
+  "fd-social-zurb": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fd-social-zurb",
+    "body": "<Foundation name=\"social-zurb\" color=\"black\" size={25}/>$0",
+    "description": "social-zurb icon from Foundation font."
+  },
+  "fd-sound": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fd-sound",
+    "body": "<Foundation name=\"sound\" color=\"black\" size={25}/>$0",
+    "description": "sound icon from Foundation font."
+  },
+  "fd-star": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fd-star",
+    "body": "<Foundation name=\"star\" color=\"black\" size={25}/>$0",
+    "description": "star icon from Foundation font."
+  },
+  "fd-stop": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fd-stop",
+    "body": "<Foundation name=\"stop\" color=\"black\" size={25}/>$0",
+    "description": "stop icon from Foundation font."
+  },
+  "fd-strikethrough": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fd-strikethrough",
+    "body": "<Foundation name=\"strikethrough\" color=\"black\" size={25}/>$0",
+    "description": "strikethrough icon from Foundation font."
+  },
+  "fd-subscript": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fd-subscript",
+    "body": "<Foundation name=\"subscript\" color=\"black\" size={25}/>$0",
+    "description": "subscript icon from Foundation font."
+  },
+  "fd-superscript": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fd-superscript",
+    "body": "<Foundation name=\"superscript\" color=\"black\" size={25}/>$0",
+    "description": "superscript icon from Foundation font."
+  },
+  "fd-tablet-landscape": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fd-tablet-landscape",
+    "body": "<Foundation name=\"tablet-landscape\" color=\"black\" size={25}/>$0",
+    "description": "tablet-landscape icon from Foundation font."
+  },
+  "fd-tablet-portrait": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fd-tablet-portrait",
+    "body": "<Foundation name=\"tablet-portrait\" color=\"black\" size={25}/>$0",
+    "description": "tablet-portrait icon from Foundation font."
+  },
+  "fd-target-two": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fd-target-two",
+    "body": "<Foundation name=\"target-two\" color=\"black\" size={25}/>$0",
+    "description": "target-two icon from Foundation font."
+  },
+  "fd-target": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fd-target",
+    "body": "<Foundation name=\"target\" color=\"black\" size={25}/>$0",
+    "description": "target icon from Foundation font."
+  },
+  "fd-telephone-accessible": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fd-telephone-accessible",
+    "body": "<Foundation name=\"telephone-accessible\" color=\"black\" size={25}/>$0",
+    "description": "telephone-accessible icon from Foundation font."
+  },
+  "fd-telephone": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fd-telephone",
+    "body": "<Foundation name=\"telephone\" color=\"black\" size={25}/>$0",
+    "description": "telephone icon from Foundation font."
+  },
+  "fd-text-color": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fd-text-color",
+    "body": "<Foundation name=\"text-color\" color=\"black\" size={25}/>$0",
+    "description": "text-color icon from Foundation font."
+  },
+  "fd-thumbnails": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fd-thumbnails",
+    "body": "<Foundation name=\"thumbnails\" color=\"black\" size={25}/>$0",
+    "description": "thumbnails icon from Foundation font."
+  },
+  "fd-ticket": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fd-ticket",
+    "body": "<Foundation name=\"ticket\" color=\"black\" size={25}/>$0",
+    "description": "ticket icon from Foundation font."
+  },
+  "fd-torso-business": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fd-torso-business",
+    "body": "<Foundation name=\"torso-business\" color=\"black\" size={25}/>$0",
+    "description": "torso-business icon from Foundation font."
+  },
+  "fd-torso-female": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fd-torso-female",
+    "body": "<Foundation name=\"torso-female\" color=\"black\" size={25}/>$0",
+    "description": "torso-female icon from Foundation font."
+  },
+  "fd-torso": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fd-torso",
+    "body": "<Foundation name=\"torso\" color=\"black\" size={25}/>$0",
+    "description": "torso icon from Foundation font."
+  },
+  "fd-torsos-all-female": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fd-torsos-all-female",
+    "body": "<Foundation name=\"torsos-all-female\" color=\"black\" size={25}/>$0",
+    "description": "torsos-all-female icon from Foundation font."
+  },
+  "fd-torsos-all": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fd-torsos-all",
+    "body": "<Foundation name=\"torsos-all\" color=\"black\" size={25}/>$0",
+    "description": "torsos-all icon from Foundation font."
+  },
+  "fd-torsos-female-male": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fd-torsos-female-male",
+    "body": "<Foundation name=\"torsos-female-male\" color=\"black\" size={25}/>$0",
+    "description": "torsos-female-male icon from Foundation font."
+  },
+  "fd-torsos-male-female": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fd-torsos-male-female",
+    "body": "<Foundation name=\"torsos-male-female\" color=\"black\" size={25}/>$0",
+    "description": "torsos-male-female icon from Foundation font."
+  },
+  "fd-torsos": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fd-torsos",
+    "body": "<Foundation name=\"torsos\" color=\"black\" size={25}/>$0",
+    "description": "torsos icon from Foundation font."
+  },
+  "fd-trash": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fd-trash",
+    "body": "<Foundation name=\"trash\" color=\"black\" size={25}/>$0",
+    "description": "trash icon from Foundation font."
+  },
+  "fd-trees": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fd-trees",
+    "body": "<Foundation name=\"trees\" color=\"black\" size={25}/>$0",
+    "description": "trees icon from Foundation font."
+  },
+  "fd-trophy": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fd-trophy",
+    "body": "<Foundation name=\"trophy\" color=\"black\" size={25}/>$0",
+    "description": "trophy icon from Foundation font."
+  },
+  "fd-underline": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fd-underline",
+    "body": "<Foundation name=\"underline\" color=\"black\" size={25}/>$0",
+    "description": "underline icon from Foundation font."
+  },
+  "fd-universal-access": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fd-universal-access",
+    "body": "<Foundation name=\"universal-access\" color=\"black\" size={25}/>$0",
+    "description": "universal-access icon from Foundation font."
+  },
+  "fd-unlink": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fd-unlink",
+    "body": "<Foundation name=\"unlink\" color=\"black\" size={25}/>$0",
+    "description": "unlink icon from Foundation font."
+  },
+  "fd-unlock": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fd-unlock",
+    "body": "<Foundation name=\"unlock\" color=\"black\" size={25}/>$0",
+    "description": "unlock icon from Foundation font."
+  },
+  "fd-upload-cloud": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fd-upload-cloud",
+    "body": "<Foundation name=\"upload-cloud\" color=\"black\" size={25}/>$0",
+    "description": "upload-cloud icon from Foundation font."
+  },
+  "fd-upload": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fd-upload",
+    "body": "<Foundation name=\"upload\" color=\"black\" size={25}/>$0",
+    "description": "upload icon from Foundation font."
+  },
+  "fd-usb": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fd-usb",
+    "body": "<Foundation name=\"usb\" color=\"black\" size={25}/>$0",
+    "description": "usb icon from Foundation font."
+  },
+  "fd-video": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fd-video",
+    "body": "<Foundation name=\"video\" color=\"black\" size={25}/>$0",
+    "description": "video icon from Foundation font."
+  },
+  "fd-volume-none": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fd-volume-none",
+    "body": "<Foundation name=\"volume-none\" color=\"black\" size={25}/>$0",
+    "description": "volume-none icon from Foundation font."
+  },
+  "fd-volume-strike": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fd-volume-strike",
+    "body": "<Foundation name=\"volume-strike\" color=\"black\" size={25}/>$0",
+    "description": "volume-strike icon from Foundation font."
+  },
+  "fd-volume": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fd-volume",
+    "body": "<Foundation name=\"volume\" color=\"black\" size={25}/>$0",
+    "description": "volume icon from Foundation font."
+  },
+  "fd-web": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fd-web",
+    "body": "<Foundation name=\"web\" color=\"black\" size={25}/>$0",
+    "description": "web icon from Foundation font."
+  },
+  "fd-wheelchair": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fd-wheelchair",
+    "body": "<Foundation name=\"wheelchair\" color=\"black\" size={25}/>$0",
+    "description": "wheelchair icon from Foundation font."
+  },
+  "fd-widget": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fd-widget",
+    "body": "<Foundation name=\"widget\" color=\"black\" size={25}/>$0",
+    "description": "widget icon from Foundation font."
+  },
+  "fd-wrench": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fd-wrench",
+    "body": "<Foundation name=\"wrench\" color=\"black\" size={25}/>$0",
+    "description": "wrench icon from Foundation font."
+  },
+  "fd-x-circle": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fd-x-circle",
+    "body": "<Foundation name=\"x-circle\" color=\"black\" size={25}/>$0",
+    "description": "x-circle icon from Foundation font."
+  },
+  "fd-x": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fd-x",
+    "body": "<Foundation name=\"x\" color=\"black\" size={25}/>$0",
+    "description": "x icon from Foundation font."
+  },
+  "fd-yen": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fd-yen",
+    "body": "<Foundation name=\"yen\" color=\"black\" size={25}/>$0",
+    "description": "yen icon from Foundation font."
+  },
+  "fd-zoom-in": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fd-zoom-in",
+    "body": "<Foundation name=\"zoom-in\" color=\"black\" size={25}/>$0",
+    "description": "zoom-in icon from Foundation font."
+  },
+  "fd-zoom-out": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fd-zoom-out",
+    "body": "<Foundation name=\"zoom-out\" color=\"black\" size={25}/>$0",
+    "description": "zoom-out icon from Foundation font."
+  }
+}

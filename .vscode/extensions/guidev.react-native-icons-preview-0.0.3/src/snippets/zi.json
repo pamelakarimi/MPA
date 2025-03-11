@@ -1,0 +1,602 @@
+{
+  "zi-acrobat": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "zi-acrobat",
+    "body": "<Zocial name=\"acrobat\" color=\"black\" size={25}/>$0",
+    "description": "acrobat icon from Zocial font."
+  },
+  "zi-amazon": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "zi-amazon",
+    "body": "<Zocial name=\"amazon\" color=\"black\" size={25}/>$0",
+    "description": "amazon icon from Zocial font."
+  },
+  "zi-android": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "zi-android",
+    "body": "<Zocial name=\"android\" color=\"black\" size={25}/>$0",
+    "description": "android icon from Zocial font."
+  },
+  "zi-angellist": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "zi-angellist",
+    "body": "<Zocial name=\"angellist\" color=\"black\" size={25}/>$0",
+    "description": "angellist icon from Zocial font."
+  },
+  "zi-aol": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "zi-aol",
+    "body": "<Zocial name=\"aol\" color=\"black\" size={25}/>$0",
+    "description": "aol icon from Zocial font."
+  },
+  "zi-appnet": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "zi-appnet",
+    "body": "<Zocial name=\"appnet\" color=\"black\" size={25}/>$0",
+    "description": "appnet icon from Zocial font."
+  },
+  "zi-appstore": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "zi-appstore",
+    "body": "<Zocial name=\"appstore\" color=\"black\" size={25}/>$0",
+    "description": "appstore icon from Zocial font."
+  },
+  "zi-bitbucket": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "zi-bitbucket",
+    "body": "<Zocial name=\"bitbucket\" color=\"black\" size={25}/>$0",
+    "description": "bitbucket icon from Zocial font."
+  },
+  "zi-bitcoin": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "zi-bitcoin",
+    "body": "<Zocial name=\"bitcoin\" color=\"black\" size={25}/>$0",
+    "description": "bitcoin icon from Zocial font."
+  },
+  "zi-blogger": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "zi-blogger",
+    "body": "<Zocial name=\"blogger\" color=\"black\" size={25}/>$0",
+    "description": "blogger icon from Zocial font."
+  },
+  "zi-buffer": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "zi-buffer",
+    "body": "<Zocial name=\"buffer\" color=\"black\" size={25}/>$0",
+    "description": "buffer icon from Zocial font."
+  },
+  "zi-cal": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "zi-cal",
+    "body": "<Zocial name=\"cal\" color=\"black\" size={25}/>$0",
+    "description": "cal icon from Zocial font."
+  },
+  "zi-call": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "zi-call",
+    "body": "<Zocial name=\"call\" color=\"black\" size={25}/>$0",
+    "description": "call icon from Zocial font."
+  },
+  "zi-cart": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "zi-cart",
+    "body": "<Zocial name=\"cart\" color=\"black\" size={25}/>$0",
+    "description": "cart icon from Zocial font."
+  },
+  "zi-chrome": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "zi-chrome",
+    "body": "<Zocial name=\"chrome\" color=\"black\" size={25}/>$0",
+    "description": "chrome icon from Zocial font."
+  },
+  "zi-cloudapp": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "zi-cloudapp",
+    "body": "<Zocial name=\"cloudapp\" color=\"black\" size={25}/>$0",
+    "description": "cloudapp icon from Zocial font."
+  },
+  "zi-creativecommons": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "zi-creativecommons",
+    "body": "<Zocial name=\"creativecommons\" color=\"black\" size={25}/>$0",
+    "description": "creativecommons icon from Zocial font."
+  },
+  "zi-delicious": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "zi-delicious",
+    "body": "<Zocial name=\"delicious\" color=\"black\" size={25}/>$0",
+    "description": "delicious icon from Zocial font."
+  },
+  "zi-digg": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "zi-digg",
+    "body": "<Zocial name=\"digg\" color=\"black\" size={25}/>$0",
+    "description": "digg icon from Zocial font."
+  },
+  "zi-disqus": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "zi-disqus",
+    "body": "<Zocial name=\"disqus\" color=\"black\" size={25}/>$0",
+    "description": "disqus icon from Zocial font."
+  },
+  "zi-dribbble": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "zi-dribbble",
+    "body": "<Zocial name=\"dribbble\" color=\"black\" size={25}/>$0",
+    "description": "dribbble icon from Zocial font."
+  },
+  "zi-dropbox": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "zi-dropbox",
+    "body": "<Zocial name=\"dropbox\" color=\"black\" size={25}/>$0",
+    "description": "dropbox icon from Zocial font."
+  },
+  "zi-drupal": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "zi-drupal",
+    "body": "<Zocial name=\"drupal\" color=\"black\" size={25}/>$0",
+    "description": "drupal icon from Zocial font."
+  },
+  "zi-dwolla": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "zi-dwolla",
+    "body": "<Zocial name=\"dwolla\" color=\"black\" size={25}/>$0",
+    "description": "dwolla icon from Zocial font."
+  },
+  "zi-email": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "zi-email",
+    "body": "<Zocial name=\"email\" color=\"black\" size={25}/>$0",
+    "description": "email icon from Zocial font."
+  },
+  "zi-eventasaurus": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "zi-eventasaurus",
+    "body": "<Zocial name=\"eventasaurus\" color=\"black\" size={25}/>$0",
+    "description": "eventasaurus icon from Zocial font."
+  },
+  "zi-eventbrite": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "zi-eventbrite",
+    "body": "<Zocial name=\"eventbrite\" color=\"black\" size={25}/>$0",
+    "description": "eventbrite icon from Zocial font."
+  },
+  "zi-eventful": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "zi-eventful",
+    "body": "<Zocial name=\"eventful\" color=\"black\" size={25}/>$0",
+    "description": "eventful icon from Zocial font."
+  },
+  "zi-evernote": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "zi-evernote",
+    "body": "<Zocial name=\"evernote\" color=\"black\" size={25}/>$0",
+    "description": "evernote icon from Zocial font."
+  },
+  "zi-facebook": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "zi-facebook",
+    "body": "<Zocial name=\"facebook\" color=\"black\" size={25}/>$0",
+    "description": "facebook icon from Zocial font."
+  },
+  "zi-fivehundredpx": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "zi-fivehundredpx",
+    "body": "<Zocial name=\"fivehundredpx\" color=\"black\" size={25}/>$0",
+    "description": "fivehundredpx icon from Zocial font."
+  },
+  "zi-flattr": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "zi-flattr",
+    "body": "<Zocial name=\"flattr\" color=\"black\" size={25}/>$0",
+    "description": "flattr icon from Zocial font."
+  },
+  "zi-flickr": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "zi-flickr",
+    "body": "<Zocial name=\"flickr\" color=\"black\" size={25}/>$0",
+    "description": "flickr icon from Zocial font."
+  },
+  "zi-forrst": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "zi-forrst",
+    "body": "<Zocial name=\"forrst\" color=\"black\" size={25}/>$0",
+    "description": "forrst icon from Zocial font."
+  },
+  "zi-foursquare": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "zi-foursquare",
+    "body": "<Zocial name=\"foursquare\" color=\"black\" size={25}/>$0",
+    "description": "foursquare icon from Zocial font."
+  },
+  "zi-github": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "zi-github",
+    "body": "<Zocial name=\"github\" color=\"black\" size={25}/>$0",
+    "description": "github icon from Zocial font."
+  },
+  "zi-gmail": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "zi-gmail",
+    "body": "<Zocial name=\"gmail\" color=\"black\" size={25}/>$0",
+    "description": "gmail icon from Zocial font."
+  },
+  "zi-google": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "zi-google",
+    "body": "<Zocial name=\"google\" color=\"black\" size={25}/>$0",
+    "description": "google icon from Zocial font."
+  },
+  "zi-googleplay": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "zi-googleplay",
+    "body": "<Zocial name=\"googleplay\" color=\"black\" size={25}/>$0",
+    "description": "googleplay icon from Zocial font."
+  },
+  "zi-googleplus": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "zi-googleplus",
+    "body": "<Zocial name=\"googleplus\" color=\"black\" size={25}/>$0",
+    "description": "googleplus icon from Zocial font."
+  },
+  "zi-gowalla": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "zi-gowalla",
+    "body": "<Zocial name=\"gowalla\" color=\"black\" size={25}/>$0",
+    "description": "gowalla icon from Zocial font."
+  },
+  "zi-grooveshark": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "zi-grooveshark",
+    "body": "<Zocial name=\"grooveshark\" color=\"black\" size={25}/>$0",
+    "description": "grooveshark icon from Zocial font."
+  },
+  "zi-guest": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "zi-guest",
+    "body": "<Zocial name=\"guest\" color=\"black\" size={25}/>$0",
+    "description": "guest icon from Zocial font."
+  },
+  "zi-html5": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "zi-html5",
+    "body": "<Zocial name=\"html5\" color=\"black\" size={25}/>$0",
+    "description": "html5 icon from Zocial font."
+  },
+  "zi-ie": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "zi-ie",
+    "body": "<Zocial name=\"ie\" color=\"black\" size={25}/>$0",
+    "description": "ie icon from Zocial font."
+  },
+  "zi-instagram": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "zi-instagram",
+    "body": "<Zocial name=\"instagram\" color=\"black\" size={25}/>$0",
+    "description": "instagram icon from Zocial font."
+  },
+  "zi-instapaper": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "zi-instapaper",
+    "body": "<Zocial name=\"instapaper\" color=\"black\" size={25}/>$0",
+    "description": "instapaper icon from Zocial font."
+  },
+  "zi-intensedebate": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "zi-intensedebate",
+    "body": "<Zocial name=\"intensedebate\" color=\"black\" size={25}/>$0",
+    "description": "intensedebate icon from Zocial font."
+  },
+  "zi-itunes": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "zi-itunes",
+    "body": "<Zocial name=\"itunes\" color=\"black\" size={25}/>$0",
+    "description": "itunes icon from Zocial font."
+  },
+  "zi-klout": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "zi-klout",
+    "body": "<Zocial name=\"klout\" color=\"black\" size={25}/>$0",
+    "description": "klout icon from Zocial font."
+  },
+  "zi-lanyrd": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "zi-lanyrd",
+    "body": "<Zocial name=\"lanyrd\" color=\"black\" size={25}/>$0",
+    "description": "lanyrd icon from Zocial font."
+  },
+  "zi-lastfm": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "zi-lastfm",
+    "body": "<Zocial name=\"lastfm\" color=\"black\" size={25}/>$0",
+    "description": "lastfm icon from Zocial font."
+  },
+  "zi-lego": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "zi-lego",
+    "body": "<Zocial name=\"lego\" color=\"black\" size={25}/>$0",
+    "description": "lego icon from Zocial font."
+  },
+  "zi-linkedin": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "zi-linkedin",
+    "body": "<Zocial name=\"linkedin\" color=\"black\" size={25}/>$0",
+    "description": "linkedin icon from Zocial font."
+  },
+  "zi-lkdto": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "zi-lkdto",
+    "body": "<Zocial name=\"lkdto\" color=\"black\" size={25}/>$0",
+    "description": "lkdto icon from Zocial font."
+  },
+  "zi-logmein": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "zi-logmein",
+    "body": "<Zocial name=\"logmein\" color=\"black\" size={25}/>$0",
+    "description": "logmein icon from Zocial font."
+  },
+  "zi-macstore": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "zi-macstore",
+    "body": "<Zocial name=\"macstore\" color=\"black\" size={25}/>$0",
+    "description": "macstore icon from Zocial font."
+  },
+  "zi-meetup": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "zi-meetup",
+    "body": "<Zocial name=\"meetup\" color=\"black\" size={25}/>$0",
+    "description": "meetup icon from Zocial font."
+  },
+  "zi-myspace": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "zi-myspace",
+    "body": "<Zocial name=\"myspace\" color=\"black\" size={25}/>$0",
+    "description": "myspace icon from Zocial font."
+  },
+  "zi-ninetyninedesigns": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "zi-ninetyninedesigns",
+    "body": "<Zocial name=\"ninetyninedesigns\" color=\"black\" size={25}/>$0",
+    "description": "ninetyninedesigns icon from Zocial font."
+  },
+  "zi-openid": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "zi-openid",
+    "body": "<Zocial name=\"openid\" color=\"black\" size={25}/>$0",
+    "description": "openid icon from Zocial font."
+  },
+  "zi-opentable": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "zi-opentable",
+    "body": "<Zocial name=\"opentable\" color=\"black\" size={25}/>$0",
+    "description": "opentable icon from Zocial font."
+  },
+  "zi-paypal": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "zi-paypal",
+    "body": "<Zocial name=\"paypal\" color=\"black\" size={25}/>$0",
+    "description": "paypal icon from Zocial font."
+  },
+  "zi-persona": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "zi-persona",
+    "body": "<Zocial name=\"persona\" color=\"black\" size={25}/>$0",
+    "description": "persona icon from Zocial font."
+  },
+  "zi-pinboard": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "zi-pinboard",
+    "body": "<Zocial name=\"pinboard\" color=\"black\" size={25}/>$0",
+    "description": "pinboard icon from Zocial font."
+  },
+  "zi-pinterest": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "zi-pinterest",
+    "body": "<Zocial name=\"pinterest\" color=\"black\" size={25}/>$0",
+    "description": "pinterest icon from Zocial font."
+  },
+  "zi-plancast": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "zi-plancast",
+    "body": "<Zocial name=\"plancast\" color=\"black\" size={25}/>$0",
+    "description": "plancast icon from Zocial font."
+  },
+  "zi-plurk": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "zi-plurk",
+    "body": "<Zocial name=\"plurk\" color=\"black\" size={25}/>$0",
+    "description": "plurk icon from Zocial font."
+  },
+  "zi-pocket": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "zi-pocket",
+    "body": "<Zocial name=\"pocket\" color=\"black\" size={25}/>$0",
+    "description": "pocket icon from Zocial font."
+  },
+  "zi-podcast": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "zi-podcast",
+    "body": "<Zocial name=\"podcast\" color=\"black\" size={25}/>$0",
+    "description": "podcast icon from Zocial font."
+  },
+  "zi-posterous": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "zi-posterous",
+    "body": "<Zocial name=\"posterous\" color=\"black\" size={25}/>$0",
+    "description": "posterous icon from Zocial font."
+  },
+  "zi-print": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "zi-print",
+    "body": "<Zocial name=\"print\" color=\"black\" size={25}/>$0",
+    "description": "print icon from Zocial font."
+  },
+  "zi-quora": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "zi-quora",
+    "body": "<Zocial name=\"quora\" color=\"black\" size={25}/>$0",
+    "description": "quora icon from Zocial font."
+  },
+  "zi-reddit": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "zi-reddit",
+    "body": "<Zocial name=\"reddit\" color=\"black\" size={25}/>$0",
+    "description": "reddit icon from Zocial font."
+  },
+  "zi-rss": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "zi-rss",
+    "body": "<Zocial name=\"rss\" color=\"black\" size={25}/>$0",
+    "description": "rss icon from Zocial font."
+  },
+  "zi-scribd": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "zi-scribd",
+    "body": "<Zocial name=\"scribd\" color=\"black\" size={25}/>$0",
+    "description": "scribd icon from Zocial font."
+  },
+  "zi-skype": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "zi-skype",
+    "body": "<Zocial name=\"skype\" color=\"black\" size={25}/>$0",
+    "description": "skype icon from Zocial font."
+  },
+  "zi-smashing": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "zi-smashing",
+    "body": "<Zocial name=\"smashing\" color=\"black\" size={25}/>$0",
+    "description": "smashing icon from Zocial font."
+  },
+  "zi-songkick": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "zi-songkick",
+    "body": "<Zocial name=\"songkick\" color=\"black\" size={25}/>$0",
+    "description": "songkick icon from Zocial font."
+  },
+  "zi-soundcloud": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "zi-soundcloud",
+    "body": "<Zocial name=\"soundcloud\" color=\"black\" size={25}/>$0",
+    "description": "soundcloud icon from Zocial font."
+  },
+  "zi-spotify": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "zi-spotify",
+    "body": "<Zocial name=\"spotify\" color=\"black\" size={25}/>$0",
+    "description": "spotify icon from Zocial font."
+  },
+  "zi-stackoverflow": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "zi-stackoverflow",
+    "body": "<Zocial name=\"stackoverflow\" color=\"black\" size={25}/>$0",
+    "description": "stackoverflow icon from Zocial font."
+  },
+  "zi-statusnet": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "zi-statusnet",
+    "body": "<Zocial name=\"statusnet\" color=\"black\" size={25}/>$0",
+    "description": "statusnet icon from Zocial font."
+  },
+  "zi-steam": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "zi-steam",
+    "body": "<Zocial name=\"steam\" color=\"black\" size={25}/>$0",
+    "description": "steam icon from Zocial font."
+  },
+  "zi-stripe": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "zi-stripe",
+    "body": "<Zocial name=\"stripe\" color=\"black\" size={25}/>$0",
+    "description": "stripe icon from Zocial font."
+  },
+  "zi-stumbleupon": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "zi-stumbleupon",
+    "body": "<Zocial name=\"stumbleupon\" color=\"black\" size={25}/>$0",
+    "description": "stumbleupon icon from Zocial font."
+  },
+  "zi-tumblr": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "zi-tumblr",
+    "body": "<Zocial name=\"tumblr\" color=\"black\" size={25}/>$0",
+    "description": "tumblr icon from Zocial font."
+  },
+  "zi-twitter": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "zi-twitter",
+    "body": "<Zocial name=\"twitter\" color=\"black\" size={25}/>$0",
+    "description": "twitter icon from Zocial font."
+  },
+  "zi-viadeo": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "zi-viadeo",
+    "body": "<Zocial name=\"viadeo\" color=\"black\" size={25}/>$0",
+    "description": "viadeo icon from Zocial font."
+  },
+  "zi-vimeo": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "zi-vimeo",
+    "body": "<Zocial name=\"vimeo\" color=\"black\" size={25}/>$0",
+    "description": "vimeo icon from Zocial font."
+  },
+  "zi-vk": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "zi-vk",
+    "body": "<Zocial name=\"vk\" color=\"black\" size={25}/>$0",
+    "description": "vk icon from Zocial font."
+  },
+  "zi-weibo": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "zi-weibo",
+    "body": "<Zocial name=\"weibo\" color=\"black\" size={25}/>$0",
+    "description": "weibo icon from Zocial font."
+  },
+  "zi-wikipedia": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "zi-wikipedia",
+    "body": "<Zocial name=\"wikipedia\" color=\"black\" size={25}/>$0",
+    "description": "wikipedia icon from Zocial font."
+  },
+  "zi-windows": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "zi-windows",
+    "body": "<Zocial name=\"windows\" color=\"black\" size={25}/>$0",
+    "description": "windows icon from Zocial font."
+  },
+  "zi-wordpress": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "zi-wordpress",
+    "body": "<Zocial name=\"wordpress\" color=\"black\" size={25}/>$0",
+    "description": "wordpress icon from Zocial font."
+  },
+  "zi-xing": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "zi-xing",
+    "body": "<Zocial name=\"xing\" color=\"black\" size={25}/>$0",
+    "description": "xing icon from Zocial font."
+  },
+  "zi-yahoo": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "zi-yahoo",
+    "body": "<Zocial name=\"yahoo\" color=\"black\" size={25}/>$0",
+    "description": "yahoo icon from Zocial font."
+  },
+  "zi-ycombinator": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "zi-ycombinator",
+    "body": "<Zocial name=\"ycombinator\" color=\"black\" size={25}/>$0",
+    "description": "ycombinator icon from Zocial font."
+  },
+  "zi-yelp": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "zi-yelp",
+    "body": "<Zocial name=\"yelp\" color=\"black\" size={25}/>$0",
+    "description": "yelp icon from Zocial font."
+  },
+  "zi-youtube": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "zi-youtube",
+    "body": "<Zocial name=\"youtube\" color=\"black\" size={25}/>$0",
+    "description": "youtube icon from Zocial font."
+  }
+}

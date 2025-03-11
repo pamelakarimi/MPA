@@ -1,0 +1,22 @@
+{
+  "browsers": [],
+  "drivers": [
+    {
+      "major_browser_version": "129",
+      "driver_name": "chromedriver",
+      "driver_version": "129.0.6668.89",
+      "driver_ttl": 1728239699
+    }
+  ],
+  "stats": [
+    {
+      "browser": "chrome",
+      "browser_version": "",
+      "os": "windows",
+      "arch": "amd64",
+      "lang": "javascript",
+      "selenium_version": "4.25",
+      "stats_ttl": 1728239694
+    }
+  ]
+}

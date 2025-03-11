@@ -1,0 +1,56 @@
+{
+	"useRef": {
+		"body": "const ${1}Ref = React.useRef(${2:null});",
+		"prefix": "uref"
+	},
+	"useState": {
+		"body": "const [${1}, set${1/(.*)/${1:/capitalize}/}] = React.useState(${2});",
+		"prefix": "ust"
+	},
+	"useEffect": {
+		"body": ["React.useEffect(() => {", "\t${1}", "}, [${2}]);"],
+		"prefix": "ueff"
+	},
+	"useLayoutEffect": {
+		"body": ["React.useLayoutEffect(() => {", "\t${1}", "}, [${2}]);"],
+		"prefix": "ulay"
+	},
+	"useContext": {
+		"body": "const ${1} = React.useContext(${2});",
+		"prefix": "ucon"
+	},
+	"useCallback": {
+		"body": [
+			"const ${1} = React.useCallback((${2:args}) => {",
+			"\t${3}",
+			"}, [${4}]);"
+		],
+		"prefix": "ucall"
+	},
+	"useMemo": {
+		"body": ["const ${1} = React.useMemo(() => {", "\t${2}", "}, [${3}]);"],
+		"prefix": "umem"
+	},
+	"useImperativeHandle": {
+		"body": [
+			"React.useImperativeHandle(${1:ref}, () => ({",
+			"\t${2:focus}: () => {",
+			"\t\t${3}",
+			"\t},",
+			"}));"
+		],
+		"prefix": "uimp"
+	},
+	"useReducer": {
+		"body": "const [${1:state}, ${2:dispatch}] = React.useReducer(${3:reducer}, ${4:initialState});",
+		"prefix": "ured"
+	},
+	"useDebugValue": {
+		"body": "React.useDebugValue(${1});",
+		"prefix": "udebug"
+	},
+	"use*": {
+		"body": "React.use${1|State,Effect,Ref,Memo,Context,Callback|}(${2});",
+		"prefix": "use"
+	}
+}

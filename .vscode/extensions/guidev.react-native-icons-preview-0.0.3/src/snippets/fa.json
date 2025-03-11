@@ -1,0 +1,4718 @@
+{
+  "fa-glass": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fa-glass",
+    "body": "<FontAwesome name=\"glass\" color=\"black\" size={25}/>$0",
+    "description": "glass icon from FontAwesome font."
+  },
+  "fa-music": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fa-music",
+    "body": "<FontAwesome name=\"music\" color=\"black\" size={25}/>$0",
+    "description": "music icon from FontAwesome font."
+  },
+  "fa-search": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fa-search",
+    "body": "<FontAwesome name=\"search\" color=\"black\" size={25}/>$0",
+    "description": "search icon from FontAwesome font."
+  },
+  "fa-envelope-o": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fa-envelope-o",
+    "body": "<FontAwesome name=\"envelope-o\" color=\"black\" size={25}/>$0",
+    "description": "envelope-o icon from FontAwesome font."
+  },
+  "fa-heart": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fa-heart",
+    "body": "<FontAwesome name=\"heart\" color=\"black\" size={25}/>$0",
+    "description": "heart icon from FontAwesome font."
+  },
+  "fa-star": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fa-star",
+    "body": "<FontAwesome name=\"star\" color=\"black\" size={25}/>$0",
+    "description": "star icon from FontAwesome font."
+  },
+  "fa-star-o": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fa-star-o",
+    "body": "<FontAwesome name=\"star-o\" color=\"black\" size={25}/>$0",
+    "description": "star-o icon from FontAwesome font."
+  },
+  "fa-user": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fa-user",
+    "body": "<FontAwesome name=\"user\" color=\"black\" size={25}/>$0",
+    "description": "user icon from FontAwesome font."
+  },
+  "fa-film": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fa-film",
+    "body": "<FontAwesome name=\"film\" color=\"black\" size={25}/>$0",
+    "description": "film icon from FontAwesome font."
+  },
+  "fa-th-large": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fa-th-large",
+    "body": "<FontAwesome name=\"th-large\" color=\"black\" size={25}/>$0",
+    "description": "th-large icon from FontAwesome font."
+  },
+  "fa-th": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fa-th",
+    "body": "<FontAwesome name=\"th\" color=\"black\" size={25}/>$0",
+    "description": "th icon from FontAwesome font."
+  },
+  "fa-th-list": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fa-th-list",
+    "body": "<FontAwesome name=\"th-list\" color=\"black\" size={25}/>$0",
+    "description": "th-list icon from FontAwesome font."
+  },
+  "fa-check": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fa-check",
+    "body": "<FontAwesome name=\"check\" color=\"black\" size={25}/>$0",
+    "description": "check icon from FontAwesome font."
+  },
+  "fa-remove": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fa-remove",
+    "body": "<FontAwesome name=\"remove\" color=\"black\" size={25}/>$0",
+    "description": "remove icon from FontAwesome font."
+  },
+  "fa-close": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fa-close",
+    "body": "<FontAwesome name=\"close\" color=\"black\" size={25}/>$0",
+    "description": "close icon from FontAwesome font."
+  },
+  "fa-times": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fa-times",
+    "body": "<FontAwesome name=\"times\" color=\"black\" size={25}/>$0",
+    "description": "times icon from FontAwesome font."
+  },
+  "fa-search-plus": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fa-search-plus",
+    "body": "<FontAwesome name=\"search-plus\" color=\"black\" size={25}/>$0",
+    "description": "search-plus icon from FontAwesome font."
+  },
+  "fa-search-minus": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fa-search-minus",
+    "body": "<FontAwesome name=\"search-minus\" color=\"black\" size={25}/>$0",
+    "description": "search-minus icon from FontAwesome font."
+  },
+  "fa-power-off": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fa-power-off",
+    "body": "<FontAwesome name=\"power-off\" color=\"black\" size={25}/>$0",
+    "description": "power-off icon from FontAwesome font."
+  },
+  "fa-signal": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fa-signal",
+    "body": "<FontAwesome name=\"signal\" color=\"black\" size={25}/>$0",
+    "description": "signal icon from FontAwesome font."
+  },
+  "fa-gear": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fa-gear",
+    "body": "<FontAwesome name=\"gear\" color=\"black\" size={25}/>$0",
+    "description": "gear icon from FontAwesome font."
+  },
+  "fa-cog": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fa-cog",
+    "body": "<FontAwesome name=\"cog\" color=\"black\" size={25}/>$0",
+    "description": "cog icon from FontAwesome font."
+  },
+  "fa-trash-o": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fa-trash-o",
+    "body": "<FontAwesome name=\"trash-o\" color=\"black\" size={25}/>$0",
+    "description": "trash-o icon from FontAwesome font."
+  },
+  "fa-home": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fa-home",
+    "body": "<FontAwesome name=\"home\" color=\"black\" size={25}/>$0",
+    "description": "home icon from FontAwesome font."
+  },
+  "fa-file-o": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fa-file-o",
+    "body": "<FontAwesome name=\"file-o\" color=\"black\" size={25}/>$0",
+    "description": "file-o icon from FontAwesome font."
+  },
+  "fa-clock-o": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fa-clock-o",
+    "body": "<FontAwesome name=\"clock-o\" color=\"black\" size={25}/>$0",
+    "description": "clock-o icon from FontAwesome font."
+  },
+  "fa-road": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fa-road",
+    "body": "<FontAwesome name=\"road\" color=\"black\" size={25}/>$0",
+    "description": "road icon from FontAwesome font."
+  },
+  "fa-download": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fa-download",
+    "body": "<FontAwesome name=\"download\" color=\"black\" size={25}/>$0",
+    "description": "download icon from FontAwesome font."
+  },
+  "fa-arrow-circle-o-down": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fa-arrow-circle-o-down",
+    "body": "<FontAwesome name=\"arrow-circle-o-down\" color=\"black\" size={25}/>$0",
+    "description": "arrow-circle-o-down icon from FontAwesome font."
+  },
+  "fa-arrow-circle-o-up": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fa-arrow-circle-o-up",
+    "body": "<FontAwesome name=\"arrow-circle-o-up\" color=\"black\" size={25}/>$0",
+    "description": "arrow-circle-o-up icon from FontAwesome font."
+  },
+  "fa-inbox": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fa-inbox",
+    "body": "<FontAwesome name=\"inbox\" color=\"black\" size={25}/>$0",
+    "description": "inbox icon from FontAwesome font."
+  },
+  "fa-play-circle-o": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fa-play-circle-o",
+    "body": "<FontAwesome name=\"play-circle-o\" color=\"black\" size={25}/>$0",
+    "description": "play-circle-o icon from FontAwesome font."
+  },
+  "fa-rotate-right": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fa-rotate-right",
+    "body": "<FontAwesome name=\"rotate-right\" color=\"black\" size={25}/>$0",
+    "description": "rotate-right icon from FontAwesome font."
+  },
+  "fa-repeat": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fa-repeat",
+    "body": "<FontAwesome name=\"repeat\" color=\"black\" size={25}/>$0",
+    "description": "repeat icon from FontAwesome font."
+  },
+  "fa-refresh": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fa-refresh",
+    "body": "<FontAwesome name=\"refresh\" color=\"black\" size={25}/>$0",
+    "description": "refresh icon from FontAwesome font."
+  },
+  "fa-list-alt": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fa-list-alt",
+    "body": "<FontAwesome name=\"list-alt\" color=\"black\" size={25}/>$0",
+    "description": "list-alt icon from FontAwesome font."
+  },
+  "fa-lock": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fa-lock",
+    "body": "<FontAwesome name=\"lock\" color=\"black\" size={25}/>$0",
+    "description": "lock icon from FontAwesome font."
+  },
+  "fa-flag": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fa-flag",
+    "body": "<FontAwesome name=\"flag\" color=\"black\" size={25}/>$0",
+    "description": "flag icon from FontAwesome font."
+  },
+  "fa-headphones": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fa-headphones",
+    "body": "<FontAwesome name=\"headphones\" color=\"black\" size={25}/>$0",
+    "description": "headphones icon from FontAwesome font."
+  },
+  "fa-volume-off": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fa-volume-off",
+    "body": "<FontAwesome name=\"volume-off\" color=\"black\" size={25}/>$0",
+    "description": "volume-off icon from FontAwesome font."
+  },
+  "fa-volume-down": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fa-volume-down",
+    "body": "<FontAwesome name=\"volume-down\" color=\"black\" size={25}/>$0",
+    "description": "volume-down icon from FontAwesome font."
+  },
+  "fa-volume-up": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fa-volume-up",
+    "body": "<FontAwesome name=\"volume-up\" color=\"black\" size={25}/>$0",
+    "description": "volume-up icon from FontAwesome font."
+  },
+  "fa-qrcode": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fa-qrcode",
+    "body": "<FontAwesome name=\"qrcode\" color=\"black\" size={25}/>$0",
+    "description": "qrcode icon from FontAwesome font."
+  },
+  "fa-barcode": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fa-barcode",
+    "body": "<FontAwesome name=\"barcode\" color=\"black\" size={25}/>$0",
+    "description": "barcode icon from FontAwesome font."
+  },
+  "fa-tag": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fa-tag",
+    "body": "<FontAwesome name=\"tag\" color=\"black\" size={25}/>$0",
+    "description": "tag icon from FontAwesome font."
+  },
+  "fa-tags": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fa-tags",
+    "body": "<FontAwesome name=\"tags\" color=\"black\" size={25}/>$0",
+    "description": "tags icon from FontAwesome font."
+  },
+  "fa-book": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fa-book",
+    "body": "<FontAwesome name=\"book\" color=\"black\" size={25}/>$0",
+    "description": "book icon from FontAwesome font."
+  },
+  "fa-bookmark": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fa-bookmark",
+    "body": "<FontAwesome name=\"bookmark\" color=\"black\" size={25}/>$0",
+    "description": "bookmark icon from FontAwesome font."
+  },
+  "fa-print": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fa-print",
+    "body": "<FontAwesome name=\"print\" color=\"black\" size={25}/>$0",
+    "description": "print icon from FontAwesome font."
+  },
+  "fa-camera": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fa-camera",
+    "body": "<FontAwesome name=\"camera\" color=\"black\" size={25}/>$0",
+    "description": "camera icon from FontAwesome font."
+  },
+  "fa-font": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fa-font",
+    "body": "<FontAwesome name=\"font\" color=\"black\" size={25}/>$0",
+    "description": "font icon from FontAwesome font."
+  },
+  "fa-bold": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fa-bold",
+    "body": "<FontAwesome name=\"bold\" color=\"black\" size={25}/>$0",
+    "description": "bold icon from FontAwesome font."
+  },
+  "fa-italic": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fa-italic",
+    "body": "<FontAwesome name=\"italic\" color=\"black\" size={25}/>$0",
+    "description": "italic icon from FontAwesome font."
+  },
+  "fa-text-height": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fa-text-height",
+    "body": "<FontAwesome name=\"text-height\" color=\"black\" size={25}/>$0",
+    "description": "text-height icon from FontAwesome font."
+  },
+  "fa-text-width": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fa-text-width",
+    "body": "<FontAwesome name=\"text-width\" color=\"black\" size={25}/>$0",
+    "description": "text-width icon from FontAwesome font."
+  },
+  "fa-align-left": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fa-align-left",
+    "body": "<FontAwesome name=\"align-left\" color=\"black\" size={25}/>$0",
+    "description": "align-left icon from FontAwesome font."
+  },
+  "fa-align-center": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fa-align-center",
+    "body": "<FontAwesome name=\"align-center\" color=\"black\" size={25}/>$0",
+    "description": "align-center icon from FontAwesome font."
+  },
+  "fa-align-right": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fa-align-right",
+    "body": "<FontAwesome name=\"align-right\" color=\"black\" size={25}/>$0",
+    "description": "align-right icon from FontAwesome font."
+  },
+  "fa-align-justify": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fa-align-justify",
+    "body": "<FontAwesome name=\"align-justify\" color=\"black\" size={25}/>$0",
+    "description": "align-justify icon from FontAwesome font."
+  },
+  "fa-list": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fa-list",
+    "body": "<FontAwesome name=\"list\" color=\"black\" size={25}/>$0",
+    "description": "list icon from FontAwesome font."
+  },
+  "fa-dedent": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fa-dedent",
+    "body": "<FontAwesome name=\"dedent\" color=\"black\" size={25}/>$0",
+    "description": "dedent icon from FontAwesome font."
+  },
+  "fa-outdent": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fa-outdent",
+    "body": "<FontAwesome name=\"outdent\" color=\"black\" size={25}/>$0",
+    "description": "outdent icon from FontAwesome font."
+  },
+  "fa-indent": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fa-indent",
+    "body": "<FontAwesome name=\"indent\" color=\"black\" size={25}/>$0",
+    "description": "indent icon from FontAwesome font."
+  },
+  "fa-video-camera": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fa-video-camera",
+    "body": "<FontAwesome name=\"video-camera\" color=\"black\" size={25}/>$0",
+    "description": "video-camera icon from FontAwesome font."
+  },
+  "fa-photo": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fa-photo",
+    "body": "<FontAwesome name=\"photo\" color=\"black\" size={25}/>$0",
+    "description": "photo icon from FontAwesome font."
+  },
+  "fa-image": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fa-image",
+    "body": "<FontAwesome name=\"image\" color=\"black\" size={25}/>$0",
+    "description": "image icon from FontAwesome font."
+  },
+  "fa-picture-o": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fa-picture-o",
+    "body": "<FontAwesome name=\"picture-o\" color=\"black\" size={25}/>$0",
+    "description": "picture-o icon from FontAwesome font."
+  },
+  "fa-pencil": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fa-pencil",
+    "body": "<FontAwesome name=\"pencil\" color=\"black\" size={25}/>$0",
+    "description": "pencil icon from FontAwesome font."
+  },
+  "fa-map-marker": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fa-map-marker",
+    "body": "<FontAwesome name=\"map-marker\" color=\"black\" size={25}/>$0",
+    "description": "map-marker icon from FontAwesome font."
+  },
+  "fa-adjust": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fa-adjust",
+    "body": "<FontAwesome name=\"adjust\" color=\"black\" size={25}/>$0",
+    "description": "adjust icon from FontAwesome font."
+  },
+  "fa-tint": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fa-tint",
+    "body": "<FontAwesome name=\"tint\" color=\"black\" size={25}/>$0",
+    "description": "tint icon from FontAwesome font."
+  },
+  "fa-edit": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fa-edit",
+    "body": "<FontAwesome name=\"edit\" color=\"black\" size={25}/>$0",
+    "description": "edit icon from FontAwesome font."
+  },
+  "fa-pencil-square-o": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fa-pencil-square-o",
+    "body": "<FontAwesome name=\"pencil-square-o\" color=\"black\" size={25}/>$0",
+    "description": "pencil-square-o icon from FontAwesome font."
+  },
+  "fa-share-square-o": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fa-share-square-o",
+    "body": "<FontAwesome name=\"share-square-o\" color=\"black\" size={25}/>$0",
+    "description": "share-square-o icon from FontAwesome font."
+  },
+  "fa-check-square-o": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fa-check-square-o",
+    "body": "<FontAwesome name=\"check-square-o\" color=\"black\" size={25}/>$0",
+    "description": "check-square-o icon from FontAwesome font."
+  },
+  "fa-arrows": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fa-arrows",
+    "body": "<FontAwesome name=\"arrows\" color=\"black\" size={25}/>$0",
+    "description": "arrows icon from FontAwesome font."
+  },
+  "fa-step-backward": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fa-step-backward",
+    "body": "<FontAwesome name=\"step-backward\" color=\"black\" size={25}/>$0",
+    "description": "step-backward icon from FontAwesome font."
+  },
+  "fa-fast-backward": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fa-fast-backward",
+    "body": "<FontAwesome name=\"fast-backward\" color=\"black\" size={25}/>$0",
+    "description": "fast-backward icon from FontAwesome font."
+  },
+  "fa-backward": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fa-backward",
+    "body": "<FontAwesome name=\"backward\" color=\"black\" size={25}/>$0",
+    "description": "backward icon from FontAwesome font."
+  },
+  "fa-play": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fa-play",
+    "body": "<FontAwesome name=\"play\" color=\"black\" size={25}/>$0",
+    "description": "play icon from FontAwesome font."
+  },
+  "fa-pause": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fa-pause",
+    "body": "<FontAwesome name=\"pause\" color=\"black\" size={25}/>$0",
+    "description": "pause icon from FontAwesome font."
+  },
+  "fa-stop": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fa-stop",
+    "body": "<FontAwesome name=\"stop\" color=\"black\" size={25}/>$0",
+    "description": "stop icon from FontAwesome font."
+  },
+  "fa-forward": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fa-forward",
+    "body": "<FontAwesome name=\"forward\" color=\"black\" size={25}/>$0",
+    "description": "forward icon from FontAwesome font."
+  },
+  "fa-fast-forward": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fa-fast-forward",
+    "body": "<FontAwesome name=\"fast-forward\" color=\"black\" size={25}/>$0",
+    "description": "fast-forward icon from FontAwesome font."
+  },
+  "fa-step-forward": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fa-step-forward",
+    "body": "<FontAwesome name=\"step-forward\" color=\"black\" size={25}/>$0",
+    "description": "step-forward icon from FontAwesome font."
+  },
+  "fa-eject": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fa-eject",
+    "body": "<FontAwesome name=\"eject\" color=\"black\" size={25}/>$0",
+    "description": "eject icon from FontAwesome font."
+  },
+  "fa-chevron-left": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fa-chevron-left",
+    "body": "<FontAwesome name=\"chevron-left\" color=\"black\" size={25}/>$0",
+    "description": "chevron-left icon from FontAwesome font."
+  },
+  "fa-chevron-right": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fa-chevron-right",
+    "body": "<FontAwesome name=\"chevron-right\" color=\"black\" size={25}/>$0",
+    "description": "chevron-right icon from FontAwesome font."
+  },
+  "fa-plus-circle": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fa-plus-circle",
+    "body": "<FontAwesome name=\"plus-circle\" color=\"black\" size={25}/>$0",
+    "description": "plus-circle icon from FontAwesome font."
+  },
+  "fa-minus-circle": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fa-minus-circle",
+    "body": "<FontAwesome name=\"minus-circle\" color=\"black\" size={25}/>$0",
+    "description": "minus-circle icon from FontAwesome font."
+  },
+  "fa-times-circle": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fa-times-circle",
+    "body": "<FontAwesome name=\"times-circle\" color=\"black\" size={25}/>$0",
+    "description": "times-circle icon from FontAwesome font."
+  },
+  "fa-check-circle": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fa-check-circle",
+    "body": "<FontAwesome name=\"check-circle\" color=\"black\" size={25}/>$0",
+    "description": "check-circle icon from FontAwesome font."
+  },
+  "fa-question-circle": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fa-question-circle",
+    "body": "<FontAwesome name=\"question-circle\" color=\"black\" size={25}/>$0",
+    "description": "question-circle icon from FontAwesome font."
+  },
+  "fa-info-circle": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fa-info-circle",
+    "body": "<FontAwesome name=\"info-circle\" color=\"black\" size={25}/>$0",
+    "description": "info-circle icon from FontAwesome font."
+  },
+  "fa-crosshairs": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fa-crosshairs",
+    "body": "<FontAwesome name=\"crosshairs\" color=\"black\" size={25}/>$0",
+    "description": "crosshairs icon from FontAwesome font."
+  },
+  "fa-times-circle-o": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fa-times-circle-o",
+    "body": "<FontAwesome name=\"times-circle-o\" color=\"black\" size={25}/>$0",
+    "description": "times-circle-o icon from FontAwesome font."
+  },
+  "fa-check-circle-o": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fa-check-circle-o",
+    "body": "<FontAwesome name=\"check-circle-o\" color=\"black\" size={25}/>$0",
+    "description": "check-circle-o icon from FontAwesome font."
+  },
+  "fa-ban": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fa-ban",
+    "body": "<FontAwesome name=\"ban\" color=\"black\" size={25}/>$0",
+    "description": "ban icon from FontAwesome font."
+  },
+  "fa-arrow-left": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fa-arrow-left",
+    "body": "<FontAwesome name=\"arrow-left\" color=\"black\" size={25}/>$0",
+    "description": "arrow-left icon from FontAwesome font."
+  },
+  "fa-arrow-right": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fa-arrow-right",
+    "body": "<FontAwesome name=\"arrow-right\" color=\"black\" size={25}/>$0",
+    "description": "arrow-right icon from FontAwesome font."
+  },
+  "fa-arrow-up": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fa-arrow-up",
+    "body": "<FontAwesome name=\"arrow-up\" color=\"black\" size={25}/>$0",
+    "description": "arrow-up icon from FontAwesome font."
+  },
+  "fa-arrow-down": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fa-arrow-down",
+    "body": "<FontAwesome name=\"arrow-down\" color=\"black\" size={25}/>$0",
+    "description": "arrow-down icon from FontAwesome font."
+  },
+  "fa-mail-forward": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fa-mail-forward",
+    "body": "<FontAwesome name=\"mail-forward\" color=\"black\" size={25}/>$0",
+    "description": "mail-forward icon from FontAwesome font."
+  },
+  "fa-share": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fa-share",
+    "body": "<FontAwesome name=\"share\" color=\"black\" size={25}/>$0",
+    "description": "share icon from FontAwesome font."
+  },
+  "fa-expand": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fa-expand",
+    "body": "<FontAwesome name=\"expand\" color=\"black\" size={25}/>$0",
+    "description": "expand icon from FontAwesome font."
+  },
+  "fa-compress": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fa-compress",
+    "body": "<FontAwesome name=\"compress\" color=\"black\" size={25}/>$0",
+    "description": "compress icon from FontAwesome font."
+  },
+  "fa-plus": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fa-plus",
+    "body": "<FontAwesome name=\"plus\" color=\"black\" size={25}/>$0",
+    "description": "plus icon from FontAwesome font."
+  },
+  "fa-minus": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fa-minus",
+    "body": "<FontAwesome name=\"minus\" color=\"black\" size={25}/>$0",
+    "description": "minus icon from FontAwesome font."
+  },
+  "fa-asterisk": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fa-asterisk",
+    "body": "<FontAwesome name=\"asterisk\" color=\"black\" size={25}/>$0",
+    "description": "asterisk icon from FontAwesome font."
+  },
+  "fa-exclamation-circle": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fa-exclamation-circle",
+    "body": "<FontAwesome name=\"exclamation-circle\" color=\"black\" size={25}/>$0",
+    "description": "exclamation-circle icon from FontAwesome font."
+  },
+  "fa-gift": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fa-gift",
+    "body": "<FontAwesome name=\"gift\" color=\"black\" size={25}/>$0",
+    "description": "gift icon from FontAwesome font."
+  },
+  "fa-leaf": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fa-leaf",
+    "body": "<FontAwesome name=\"leaf\" color=\"black\" size={25}/>$0",
+    "description": "leaf icon from FontAwesome font."
+  },
+  "fa-fire": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fa-fire",
+    "body": "<FontAwesome name=\"fire\" color=\"black\" size={25}/>$0",
+    "description": "fire icon from FontAwesome font."
+  },
+  "fa-eye": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fa-eye",
+    "body": "<FontAwesome name=\"eye\" color=\"black\" size={25}/>$0",
+    "description": "eye icon from FontAwesome font."
+  },
+  "fa-eye-slash": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fa-eye-slash",
+    "body": "<FontAwesome name=\"eye-slash\" color=\"black\" size={25}/>$0",
+    "description": "eye-slash icon from FontAwesome font."
+  },
+  "fa-warning": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fa-warning",
+    "body": "<FontAwesome name=\"warning\" color=\"black\" size={25}/>$0",
+    "description": "warning icon from FontAwesome font."
+  },
+  "fa-exclamation-triangle": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fa-exclamation-triangle",
+    "body": "<FontAwesome name=\"exclamation-triangle\" color=\"black\" size={25}/>$0",
+    "description": "exclamation-triangle icon from FontAwesome font."
+  },
+  "fa-plane": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fa-plane",
+    "body": "<FontAwesome name=\"plane\" color=\"black\" size={25}/>$0",
+    "description": "plane icon from FontAwesome font."
+  },
+  "fa-calendar": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fa-calendar",
+    "body": "<FontAwesome name=\"calendar\" color=\"black\" size={25}/>$0",
+    "description": "calendar icon from FontAwesome font."
+  },
+  "fa-random": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fa-random",
+    "body": "<FontAwesome name=\"random\" color=\"black\" size={25}/>$0",
+    "description": "random icon from FontAwesome font."
+  },
+  "fa-comment": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fa-comment",
+    "body": "<FontAwesome name=\"comment\" color=\"black\" size={25}/>$0",
+    "description": "comment icon from FontAwesome font."
+  },
+  "fa-magnet": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fa-magnet",
+    "body": "<FontAwesome name=\"magnet\" color=\"black\" size={25}/>$0",
+    "description": "magnet icon from FontAwesome font."
+  },
+  "fa-chevron-up": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fa-chevron-up",
+    "body": "<FontAwesome name=\"chevron-up\" color=\"black\" size={25}/>$0",
+    "description": "chevron-up icon from FontAwesome font."
+  },
+  "fa-chevron-down": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fa-chevron-down",
+    "body": "<FontAwesome name=\"chevron-down\" color=\"black\" size={25}/>$0",
+    "description": "chevron-down icon from FontAwesome font."
+  },
+  "fa-retweet": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fa-retweet",
+    "body": "<FontAwesome name=\"retweet\" color=\"black\" size={25}/>$0",
+    "description": "retweet icon from FontAwesome font."
+  },
+  "fa-shopping-cart": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fa-shopping-cart",
+    "body": "<FontAwesome name=\"shopping-cart\" color=\"black\" size={25}/>$0",
+    "description": "shopping-cart icon from FontAwesome font."
+  },
+  "fa-folder": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fa-folder",
+    "body": "<FontAwesome name=\"folder\" color=\"black\" size={25}/>$0",
+    "description": "folder icon from FontAwesome font."
+  },
+  "fa-folder-open": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fa-folder-open",
+    "body": "<FontAwesome name=\"folder-open\" color=\"black\" size={25}/>$0",
+    "description": "folder-open icon from FontAwesome font."
+  },
+  "fa-arrows-v": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fa-arrows-v",
+    "body": "<FontAwesome name=\"arrows-v\" color=\"black\" size={25}/>$0",
+    "description": "arrows-v icon from FontAwesome font."
+  },
+  "fa-arrows-h": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fa-arrows-h",
+    "body": "<FontAwesome name=\"arrows-h\" color=\"black\" size={25}/>$0",
+    "description": "arrows-h icon from FontAwesome font."
+  },
+  "fa-bar-chart-o": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fa-bar-chart-o",
+    "body": "<FontAwesome name=\"bar-chart-o\" color=\"black\" size={25}/>$0",
+    "description": "bar-chart-o icon from FontAwesome font."
+  },
+  "fa-bar-chart": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fa-bar-chart",
+    "body": "<FontAwesome name=\"bar-chart\" color=\"black\" size={25}/>$0",
+    "description": "bar-chart icon from FontAwesome font."
+  },
+  "fa-twitter-square": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fa-twitter-square",
+    "body": "<FontAwesome name=\"twitter-square\" color=\"black\" size={25}/>$0",
+    "description": "twitter-square icon from FontAwesome font."
+  },
+  "fa-facebook-square": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fa-facebook-square",
+    "body": "<FontAwesome name=\"facebook-square\" color=\"black\" size={25}/>$0",
+    "description": "facebook-square icon from FontAwesome font."
+  },
+  "fa-camera-retro": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fa-camera-retro",
+    "body": "<FontAwesome name=\"camera-retro\" color=\"black\" size={25}/>$0",
+    "description": "camera-retro icon from FontAwesome font."
+  },
+  "fa-key": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fa-key",
+    "body": "<FontAwesome name=\"key\" color=\"black\" size={25}/>$0",
+    "description": "key icon from FontAwesome font."
+  },
+  "fa-gears": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fa-gears",
+    "body": "<FontAwesome name=\"gears\" color=\"black\" size={25}/>$0",
+    "description": "gears icon from FontAwesome font."
+  },
+  "fa-cogs": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fa-cogs",
+    "body": "<FontAwesome name=\"cogs\" color=\"black\" size={25}/>$0",
+    "description": "cogs icon from FontAwesome font."
+  },
+  "fa-comments": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fa-comments",
+    "body": "<FontAwesome name=\"comments\" color=\"black\" size={25}/>$0",
+    "description": "comments icon from FontAwesome font."
+  },
+  "fa-thumbs-o-up": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fa-thumbs-o-up",
+    "body": "<FontAwesome name=\"thumbs-o-up\" color=\"black\" size={25}/>$0",
+    "description": "thumbs-o-up icon from FontAwesome font."
+  },
+  "fa-thumbs-o-down": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fa-thumbs-o-down",
+    "body": "<FontAwesome name=\"thumbs-o-down\" color=\"black\" size={25}/>$0",
+    "description": "thumbs-o-down icon from FontAwesome font."
+  },
+  "fa-star-half": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fa-star-half",
+    "body": "<FontAwesome name=\"star-half\" color=\"black\" size={25}/>$0",
+    "description": "star-half icon from FontAwesome font."
+  },
+  "fa-heart-o": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fa-heart-o",
+    "body": "<FontAwesome name=\"heart-o\" color=\"black\" size={25}/>$0",
+    "description": "heart-o icon from FontAwesome font."
+  },
+  "fa-sign-out": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fa-sign-out",
+    "body": "<FontAwesome name=\"sign-out\" color=\"black\" size={25}/>$0",
+    "description": "sign-out icon from FontAwesome font."
+  },
+  "fa-linkedin-square": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fa-linkedin-square",
+    "body": "<FontAwesome name=\"linkedin-square\" color=\"black\" size={25}/>$0",
+    "description": "linkedin-square icon from FontAwesome font."
+  },
+  "fa-thumb-tack": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fa-thumb-tack",
+    "body": "<FontAwesome name=\"thumb-tack\" color=\"black\" size={25}/>$0",
+    "description": "thumb-tack icon from FontAwesome font."
+  },
+  "fa-external-link": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fa-external-link",
+    "body": "<FontAwesome name=\"external-link\" color=\"black\" size={25}/>$0",
+    "description": "external-link icon from FontAwesome font."
+  },
+  "fa-sign-in": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fa-sign-in",
+    "body": "<FontAwesome name=\"sign-in\" color=\"black\" size={25}/>$0",
+    "description": "sign-in icon from FontAwesome font."
+  },
+  "fa-trophy": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fa-trophy",
+    "body": "<FontAwesome name=\"trophy\" color=\"black\" size={25}/>$0",
+    "description": "trophy icon from FontAwesome font."
+  },
+  "fa-github-square": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fa-github-square",
+    "body": "<FontAwesome name=\"github-square\" color=\"black\" size={25}/>$0",
+    "description": "github-square icon from FontAwesome font."
+  },
+  "fa-upload": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fa-upload",
+    "body": "<FontAwesome name=\"upload\" color=\"black\" size={25}/>$0",
+    "description": "upload icon from FontAwesome font."
+  },
+  "fa-lemon-o": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fa-lemon-o",
+    "body": "<FontAwesome name=\"lemon-o\" color=\"black\" size={25}/>$0",
+    "description": "lemon-o icon from FontAwesome font."
+  },
+  "fa-phone": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fa-phone",
+    "body": "<FontAwesome name=\"phone\" color=\"black\" size={25}/>$0",
+    "description": "phone icon from FontAwesome font."
+  },
+  "fa-square-o": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fa-square-o",
+    "body": "<FontAwesome name=\"square-o\" color=\"black\" size={25}/>$0",
+    "description": "square-o icon from FontAwesome font."
+  },
+  "fa-bookmark-o": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fa-bookmark-o",
+    "body": "<FontAwesome name=\"bookmark-o\" color=\"black\" size={25}/>$0",
+    "description": "bookmark-o icon from FontAwesome font."
+  },
+  "fa-phone-square": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fa-phone-square",
+    "body": "<FontAwesome name=\"phone-square\" color=\"black\" size={25}/>$0",
+    "description": "phone-square icon from FontAwesome font."
+  },
+  "fa-twitter": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fa-twitter",
+    "body": "<FontAwesome name=\"twitter\" color=\"black\" size={25}/>$0",
+    "description": "twitter icon from FontAwesome font."
+  },
+  "fa-facebook-f": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fa-facebook-f",
+    "body": "<FontAwesome name=\"facebook-f\" color=\"black\" size={25}/>$0",
+    "description": "facebook-f icon from FontAwesome font."
+  },
+  "fa-facebook": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fa-facebook",
+    "body": "<FontAwesome name=\"facebook\" color=\"black\" size={25}/>$0",
+    "description": "facebook icon from FontAwesome font."
+  },
+  "fa-github": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fa-github",
+    "body": "<FontAwesome name=\"github\" color=\"black\" size={25}/>$0",
+    "description": "github icon from FontAwesome font."
+  },
+  "fa-unlock": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fa-unlock",
+    "body": "<FontAwesome name=\"unlock\" color=\"black\" size={25}/>$0",
+    "description": "unlock icon from FontAwesome font."
+  },
+  "fa-credit-card": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fa-credit-card",
+    "body": "<FontAwesome name=\"credit-card\" color=\"black\" size={25}/>$0",
+    "description": "credit-card icon from FontAwesome font."
+  },
+  "fa-feed": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fa-feed",
+    "body": "<FontAwesome name=\"feed\" color=\"black\" size={25}/>$0",
+    "description": "feed icon from FontAwesome font."
+  },
+  "fa-rss": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fa-rss",
+    "body": "<FontAwesome name=\"rss\" color=\"black\" size={25}/>$0",
+    "description": "rss icon from FontAwesome font."
+  },
+  "fa-hdd-o": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fa-hdd-o",
+    "body": "<FontAwesome name=\"hdd-o\" color=\"black\" size={25}/>$0",
+    "description": "hdd-o icon from FontAwesome font."
+  },
+  "fa-bullhorn": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fa-bullhorn",
+    "body": "<FontAwesome name=\"bullhorn\" color=\"black\" size={25}/>$0",
+    "description": "bullhorn icon from FontAwesome font."
+  },
+  "fa-bell": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fa-bell",
+    "body": "<FontAwesome name=\"bell\" color=\"black\" size={25}/>$0",
+    "description": "bell icon from FontAwesome font."
+  },
+  "fa-certificate": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fa-certificate",
+    "body": "<FontAwesome name=\"certificate\" color=\"black\" size={25}/>$0",
+    "description": "certificate icon from FontAwesome font."
+  },
+  "fa-hand-o-right": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fa-hand-o-right",
+    "body": "<FontAwesome name=\"hand-o-right\" color=\"black\" size={25}/>$0",
+    "description": "hand-o-right icon from FontAwesome font."
+  },
+  "fa-hand-o-left": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fa-hand-o-left",
+    "body": "<FontAwesome name=\"hand-o-left\" color=\"black\" size={25}/>$0",
+    "description": "hand-o-left icon from FontAwesome font."
+  },
+  "fa-hand-o-up": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fa-hand-o-up",
+    "body": "<FontAwesome name=\"hand-o-up\" color=\"black\" size={25}/>$0",
+    "description": "hand-o-up icon from FontAwesome font."
+  },
+  "fa-hand-o-down": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fa-hand-o-down",
+    "body": "<FontAwesome name=\"hand-o-down\" color=\"black\" size={25}/>$0",
+    "description": "hand-o-down icon from FontAwesome font."
+  },
+  "fa-arrow-circle-left": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fa-arrow-circle-left",
+    "body": "<FontAwesome name=\"arrow-circle-left\" color=\"black\" size={25}/>$0",
+    "description": "arrow-circle-left icon from FontAwesome font."
+  },
+  "fa-arrow-circle-right": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fa-arrow-circle-right",
+    "body": "<FontAwesome name=\"arrow-circle-right\" color=\"black\" size={25}/>$0",
+    "description": "arrow-circle-right icon from FontAwesome font."
+  },
+  "fa-arrow-circle-up": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fa-arrow-circle-up",
+    "body": "<FontAwesome name=\"arrow-circle-up\" color=\"black\" size={25}/>$0",
+    "description": "arrow-circle-up icon from FontAwesome font."
+  },
+  "fa-arrow-circle-down": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fa-arrow-circle-down",
+    "body": "<FontAwesome name=\"arrow-circle-down\" color=\"black\" size={25}/>$0",
+    "description": "arrow-circle-down icon from FontAwesome font."
+  },
+  "fa-globe": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fa-globe",
+    "body": "<FontAwesome name=\"globe\" color=\"black\" size={25}/>$0",
+    "description": "globe icon from FontAwesome font."
+  },
+  "fa-wrench": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fa-wrench",
+    "body": "<FontAwesome name=\"wrench\" color=\"black\" size={25}/>$0",
+    "description": "wrench icon from FontAwesome font."
+  },
+  "fa-tasks": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fa-tasks",
+    "body": "<FontAwesome name=\"tasks\" color=\"black\" size={25}/>$0",
+    "description": "tasks icon from FontAwesome font."
+  },
+  "fa-filter": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fa-filter",
+    "body": "<FontAwesome name=\"filter\" color=\"black\" size={25}/>$0",
+    "description": "filter icon from FontAwesome font."
+  },
+  "fa-briefcase": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fa-briefcase",
+    "body": "<FontAwesome name=\"briefcase\" color=\"black\" size={25}/>$0",
+    "description": "briefcase icon from FontAwesome font."
+  },
+  "fa-arrows-alt": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fa-arrows-alt",
+    "body": "<FontAwesome name=\"arrows-alt\" color=\"black\" size={25}/>$0",
+    "description": "arrows-alt icon from FontAwesome font."
+  },
+  "fa-group": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fa-group",
+    "body": "<FontAwesome name=\"group\" color=\"black\" size={25}/>$0",
+    "description": "group icon from FontAwesome font."
+  },
+  "fa-users": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fa-users",
+    "body": "<FontAwesome name=\"users\" color=\"black\" size={25}/>$0",
+    "description": "users icon from FontAwesome font."
+  },
+  "fa-chain": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fa-chain",
+    "body": "<FontAwesome name=\"chain\" color=\"black\" size={25}/>$0",
+    "description": "chain icon from FontAwesome font."
+  },
+  "fa-link": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fa-link",
+    "body": "<FontAwesome name=\"link\" color=\"black\" size={25}/>$0",
+    "description": "link icon from FontAwesome font."
+  },
+  "fa-cloud": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fa-cloud",
+    "body": "<FontAwesome name=\"cloud\" color=\"black\" size={25}/>$0",
+    "description": "cloud icon from FontAwesome font."
+  },
+  "fa-flask": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fa-flask",
+    "body": "<FontAwesome name=\"flask\" color=\"black\" size={25}/>$0",
+    "description": "flask icon from FontAwesome font."
+  },
+  "fa-cut": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fa-cut",
+    "body": "<FontAwesome name=\"cut\" color=\"black\" size={25}/>$0",
+    "description": "cut icon from FontAwesome font."
+  },
+  "fa-scissors": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fa-scissors",
+    "body": "<FontAwesome name=\"scissors\" color=\"black\" size={25}/>$0",
+    "description": "scissors icon from FontAwesome font."
+  },
+  "fa-copy": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fa-copy",
+    "body": "<FontAwesome name=\"copy\" color=\"black\" size={25}/>$0",
+    "description": "copy icon from FontAwesome font."
+  },
+  "fa-files-o": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fa-files-o",
+    "body": "<FontAwesome name=\"files-o\" color=\"black\" size={25}/>$0",
+    "description": "files-o icon from FontAwesome font."
+  },
+  "fa-paperclip": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fa-paperclip",
+    "body": "<FontAwesome name=\"paperclip\" color=\"black\" size={25}/>$0",
+    "description": "paperclip icon from FontAwesome font."
+  },
+  "fa-save": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fa-save",
+    "body": "<FontAwesome name=\"save\" color=\"black\" size={25}/>$0",
+    "description": "save icon from FontAwesome font."
+  },
+  "fa-floppy-o": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fa-floppy-o",
+    "body": "<FontAwesome name=\"floppy-o\" color=\"black\" size={25}/>$0",
+    "description": "floppy-o icon from FontAwesome font."
+  },
+  "fa-square": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fa-square",
+    "body": "<FontAwesome name=\"square\" color=\"black\" size={25}/>$0",
+    "description": "square icon from FontAwesome font."
+  },
+  "fa-navicon": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fa-navicon",
+    "body": "<FontAwesome name=\"navicon\" color=\"black\" size={25}/>$0",
+    "description": "navicon icon from FontAwesome font."
+  },
+  "fa-reorder": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fa-reorder",
+    "body": "<FontAwesome name=\"reorder\" color=\"black\" size={25}/>$0",
+    "description": "reorder icon from FontAwesome font."
+  },
+  "fa-bars": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fa-bars",
+    "body": "<FontAwesome name=\"bars\" color=\"black\" size={25}/>$0",
+    "description": "bars icon from FontAwesome font."
+  },
+  "fa-list-ul": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fa-list-ul",
+    "body": "<FontAwesome name=\"list-ul\" color=\"black\" size={25}/>$0",
+    "description": "list-ul icon from FontAwesome font."
+  },
+  "fa-list-ol": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fa-list-ol",
+    "body": "<FontAwesome name=\"list-ol\" color=\"black\" size={25}/>$0",
+    "description": "list-ol icon from FontAwesome font."
+  },
+  "fa-strikethrough": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fa-strikethrough",
+    "body": "<FontAwesome name=\"strikethrough\" color=\"black\" size={25}/>$0",
+    "description": "strikethrough icon from FontAwesome font."
+  },
+  "fa-underline": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fa-underline",
+    "body": "<FontAwesome name=\"underline\" color=\"black\" size={25}/>$0",
+    "description": "underline icon from FontAwesome font."
+  },
+  "fa-table": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fa-table",
+    "body": "<FontAwesome name=\"table\" color=\"black\" size={25}/>$0",
+    "description": "table icon from FontAwesome font."
+  },
+  "fa-magic": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fa-magic",
+    "body": "<FontAwesome name=\"magic\" color=\"black\" size={25}/>$0",
+    "description": "magic icon from FontAwesome font."
+  },
+  "fa-truck": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fa-truck",
+    "body": "<FontAwesome name=\"truck\" color=\"black\" size={25}/>$0",
+    "description": "truck icon from FontAwesome font."
+  },
+  "fa-pinterest": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fa-pinterest",
+    "body": "<FontAwesome name=\"pinterest\" color=\"black\" size={25}/>$0",
+    "description": "pinterest icon from FontAwesome font."
+  },
+  "fa-pinterest-square": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fa-pinterest-square",
+    "body": "<FontAwesome name=\"pinterest-square\" color=\"black\" size={25}/>$0",
+    "description": "pinterest-square icon from FontAwesome font."
+  },
+  "fa-google-plus-square": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fa-google-plus-square",
+    "body": "<FontAwesome name=\"google-plus-square\" color=\"black\" size={25}/>$0",
+    "description": "google-plus-square icon from FontAwesome font."
+  },
+  "fa-google-plus": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fa-google-plus",
+    "body": "<FontAwesome name=\"google-plus\" color=\"black\" size={25}/>$0",
+    "description": "google-plus icon from FontAwesome font."
+  },
+  "fa-money": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fa-money",
+    "body": "<FontAwesome name=\"money\" color=\"black\" size={25}/>$0",
+    "description": "money icon from FontAwesome font."
+  },
+  "fa-caret-down": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fa-caret-down",
+    "body": "<FontAwesome name=\"caret-down\" color=\"black\" size={25}/>$0",
+    "description": "caret-down icon from FontAwesome font."
+  },
+  "fa-caret-up": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fa-caret-up",
+    "body": "<FontAwesome name=\"caret-up\" color=\"black\" size={25}/>$0",
+    "description": "caret-up icon from FontAwesome font."
+  },
+  "fa-caret-left": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fa-caret-left",
+    "body": "<FontAwesome name=\"caret-left\" color=\"black\" size={25}/>$0",
+    "description": "caret-left icon from FontAwesome font."
+  },
+  "fa-caret-right": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fa-caret-right",
+    "body": "<FontAwesome name=\"caret-right\" color=\"black\" size={25}/>$0",
+    "description": "caret-right icon from FontAwesome font."
+  },
+  "fa-columns": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fa-columns",
+    "body": "<FontAwesome name=\"columns\" color=\"black\" size={25}/>$0",
+    "description": "columns icon from FontAwesome font."
+  },
+  "fa-unsorted": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fa-unsorted",
+    "body": "<FontAwesome name=\"unsorted\" color=\"black\" size={25}/>$0",
+    "description": "unsorted icon from FontAwesome font."
+  },
+  "fa-sort": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fa-sort",
+    "body": "<FontAwesome name=\"sort\" color=\"black\" size={25}/>$0",
+    "description": "sort icon from FontAwesome font."
+  },
+  "fa-sort-down": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fa-sort-down",
+    "body": "<FontAwesome name=\"sort-down\" color=\"black\" size={25}/>$0",
+    "description": "sort-down icon from FontAwesome font."
+  },
+  "fa-sort-desc": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fa-sort-desc",
+    "body": "<FontAwesome name=\"sort-desc\" color=\"black\" size={25}/>$0",
+    "description": "sort-desc icon from FontAwesome font."
+  },
+  "fa-sort-up": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fa-sort-up",
+    "body": "<FontAwesome name=\"sort-up\" color=\"black\" size={25}/>$0",
+    "description": "sort-up icon from FontAwesome font."
+  },
+  "fa-sort-asc": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fa-sort-asc",
+    "body": "<FontAwesome name=\"sort-asc\" color=\"black\" size={25}/>$0",
+    "description": "sort-asc icon from FontAwesome font."
+  },
+  "fa-envelope": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fa-envelope",
+    "body": "<FontAwesome name=\"envelope\" color=\"black\" size={25}/>$0",
+    "description": "envelope icon from FontAwesome font."
+  },
+  "fa-linkedin": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fa-linkedin",
+    "body": "<FontAwesome name=\"linkedin\" color=\"black\" size={25}/>$0",
+    "description": "linkedin icon from FontAwesome font."
+  },
+  "fa-rotate-left": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fa-rotate-left",
+    "body": "<FontAwesome name=\"rotate-left\" color=\"black\" size={25}/>$0",
+    "description": "rotate-left icon from FontAwesome font."
+  },
+  "fa-undo": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fa-undo",
+    "body": "<FontAwesome name=\"undo\" color=\"black\" size={25}/>$0",
+    "description": "undo icon from FontAwesome font."
+  },
+  "fa-legal": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fa-legal",
+    "body": "<FontAwesome name=\"legal\" color=\"black\" size={25}/>$0",
+    "description": "legal icon from FontAwesome font."
+  },
+  "fa-gavel": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fa-gavel",
+    "body": "<FontAwesome name=\"gavel\" color=\"black\" size={25}/>$0",
+    "description": "gavel icon from FontAwesome font."
+  },
+  "fa-dashboard": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fa-dashboard",
+    "body": "<FontAwesome name=\"dashboard\" color=\"black\" size={25}/>$0",
+    "description": "dashboard icon from FontAwesome font."
+  },
+  "fa-tachometer": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fa-tachometer",
+    "body": "<FontAwesome name=\"tachometer\" color=\"black\" size={25}/>$0",
+    "description": "tachometer icon from FontAwesome font."
+  },
+  "fa-comment-o": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fa-comment-o",
+    "body": "<FontAwesome name=\"comment-o\" color=\"black\" size={25}/>$0",
+    "description": "comment-o icon from FontAwesome font."
+  },
+  "fa-comments-o": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fa-comments-o",
+    "body": "<FontAwesome name=\"comments-o\" color=\"black\" size={25}/>$0",
+    "description": "comments-o icon from FontAwesome font."
+  },
+  "fa-flash": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fa-flash",
+    "body": "<FontAwesome name=\"flash\" color=\"black\" size={25}/>$0",
+    "description": "flash icon from FontAwesome font."
+  },
+  "fa-bolt": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fa-bolt",
+    "body": "<FontAwesome name=\"bolt\" color=\"black\" size={25}/>$0",
+    "description": "bolt icon from FontAwesome font."
+  },
+  "fa-sitemap": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fa-sitemap",
+    "body": "<FontAwesome name=\"sitemap\" color=\"black\" size={25}/>$0",
+    "description": "sitemap icon from FontAwesome font."
+  },
+  "fa-umbrella": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fa-umbrella",
+    "body": "<FontAwesome name=\"umbrella\" color=\"black\" size={25}/>$0",
+    "description": "umbrella icon from FontAwesome font."
+  },
+  "fa-paste": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fa-paste",
+    "body": "<FontAwesome name=\"paste\" color=\"black\" size={25}/>$0",
+    "description": "paste icon from FontAwesome font."
+  },
+  "fa-clipboard": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fa-clipboard",
+    "body": "<FontAwesome name=\"clipboard\" color=\"black\" size={25}/>$0",
+    "description": "clipboard icon from FontAwesome font."
+  },
+  "fa-lightbulb-o": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fa-lightbulb-o",
+    "body": "<FontAwesome name=\"lightbulb-o\" color=\"black\" size={25}/>$0",
+    "description": "lightbulb-o icon from FontAwesome font."
+  },
+  "fa-exchange": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fa-exchange",
+    "body": "<FontAwesome name=\"exchange\" color=\"black\" size={25}/>$0",
+    "description": "exchange icon from FontAwesome font."
+  },
+  "fa-cloud-download": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fa-cloud-download",
+    "body": "<FontAwesome name=\"cloud-download\" color=\"black\" size={25}/>$0",
+    "description": "cloud-download icon from FontAwesome font."
+  },
+  "fa-cloud-upload": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fa-cloud-upload",
+    "body": "<FontAwesome name=\"cloud-upload\" color=\"black\" size={25}/>$0",
+    "description": "cloud-upload icon from FontAwesome font."
+  },
+  "fa-user-md": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fa-user-md",
+    "body": "<FontAwesome name=\"user-md\" color=\"black\" size={25}/>$0",
+    "description": "user-md icon from FontAwesome font."
+  },
+  "fa-stethoscope": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fa-stethoscope",
+    "body": "<FontAwesome name=\"stethoscope\" color=\"black\" size={25}/>$0",
+    "description": "stethoscope icon from FontAwesome font."
+  },
+  "fa-suitcase": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fa-suitcase",
+    "body": "<FontAwesome name=\"suitcase\" color=\"black\" size={25}/>$0",
+    "description": "suitcase icon from FontAwesome font."
+  },
+  "fa-bell-o": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fa-bell-o",
+    "body": "<FontAwesome name=\"bell-o\" color=\"black\" size={25}/>$0",
+    "description": "bell-o icon from FontAwesome font."
+  },
+  "fa-coffee": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fa-coffee",
+    "body": "<FontAwesome name=\"coffee\" color=\"black\" size={25}/>$0",
+    "description": "coffee icon from FontAwesome font."
+  },
+  "fa-cutlery": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fa-cutlery",
+    "body": "<FontAwesome name=\"cutlery\" color=\"black\" size={25}/>$0",
+    "description": "cutlery icon from FontAwesome font."
+  },
+  "fa-file-text-o": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fa-file-text-o",
+    "body": "<FontAwesome name=\"file-text-o\" color=\"black\" size={25}/>$0",
+    "description": "file-text-o icon from FontAwesome font."
+  },
+  "fa-building-o": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fa-building-o",
+    "body": "<FontAwesome name=\"building-o\" color=\"black\" size={25}/>$0",
+    "description": "building-o icon from FontAwesome font."
+  },
+  "fa-hospital-o": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fa-hospital-o",
+    "body": "<FontAwesome name=\"hospital-o\" color=\"black\" size={25}/>$0",
+    "description": "hospital-o icon from FontAwesome font."
+  },
+  "fa-ambulance": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fa-ambulance",
+    "body": "<FontAwesome name=\"ambulance\" color=\"black\" size={25}/>$0",
+    "description": "ambulance icon from FontAwesome font."
+  },
+  "fa-medkit": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fa-medkit",
+    "body": "<FontAwesome name=\"medkit\" color=\"black\" size={25}/>$0",
+    "description": "medkit icon from FontAwesome font."
+  },
+  "fa-fighter-jet": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fa-fighter-jet",
+    "body": "<FontAwesome name=\"fighter-jet\" color=\"black\" size={25}/>$0",
+    "description": "fighter-jet icon from FontAwesome font."
+  },
+  "fa-beer": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fa-beer",
+    "body": "<FontAwesome name=\"beer\" color=\"black\" size={25}/>$0",
+    "description": "beer icon from FontAwesome font."
+  },
+  "fa-h-square": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fa-h-square",
+    "body": "<FontAwesome name=\"h-square\" color=\"black\" size={25}/>$0",
+    "description": "h-square icon from FontAwesome font."
+  },
+  "fa-plus-square": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fa-plus-square",
+    "body": "<FontAwesome name=\"plus-square\" color=\"black\" size={25}/>$0",
+    "description": "plus-square icon from FontAwesome font."
+  },
+  "fa-angle-double-left": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fa-angle-double-left",
+    "body": "<FontAwesome name=\"angle-double-left\" color=\"black\" size={25}/>$0",
+    "description": "angle-double-left icon from FontAwesome font."
+  },
+  "fa-angle-double-right": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fa-angle-double-right",
+    "body": "<FontAwesome name=\"angle-double-right\" color=\"black\" size={25}/>$0",
+    "description": "angle-double-right icon from FontAwesome font."
+  },
+  "fa-angle-double-up": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fa-angle-double-up",
+    "body": "<FontAwesome name=\"angle-double-up\" color=\"black\" size={25}/>$0",
+    "description": "angle-double-up icon from FontAwesome font."
+  },
+  "fa-angle-double-down": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fa-angle-double-down",
+    "body": "<FontAwesome name=\"angle-double-down\" color=\"black\" size={25}/>$0",
+    "description": "angle-double-down icon from FontAwesome font."
+  },
+  "fa-angle-left": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fa-angle-left",
+    "body": "<FontAwesome name=\"angle-left\" color=\"black\" size={25}/>$0",
+    "description": "angle-left icon from FontAwesome font."
+  },
+  "fa-angle-right": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fa-angle-right",
+    "body": "<FontAwesome name=\"angle-right\" color=\"black\" size={25}/>$0",
+    "description": "angle-right icon from FontAwesome font."
+  },
+  "fa-angle-up": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fa-angle-up",
+    "body": "<FontAwesome name=\"angle-up\" color=\"black\" size={25}/>$0",
+    "description": "angle-up icon from FontAwesome font."
+  },
+  "fa-angle-down": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fa-angle-down",
+    "body": "<FontAwesome name=\"angle-down\" color=\"black\" size={25}/>$0",
+    "description": "angle-down icon from FontAwesome font."
+  },
+  "fa-desktop": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fa-desktop",
+    "body": "<FontAwesome name=\"desktop\" color=\"black\" size={25}/>$0",
+    "description": "desktop icon from FontAwesome font."
+  },
+  "fa-laptop": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fa-laptop",
+    "body": "<FontAwesome name=\"laptop\" color=\"black\" size={25}/>$0",
+    "description": "laptop icon from FontAwesome font."
+  },
+  "fa-tablet": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fa-tablet",
+    "body": "<FontAwesome name=\"tablet\" color=\"black\" size={25}/>$0",
+    "description": "tablet icon from FontAwesome font."
+  },
+  "fa-mobile-phone": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fa-mobile-phone",
+    "body": "<FontAwesome name=\"mobile-phone\" color=\"black\" size={25}/>$0",
+    "description": "mobile-phone icon from FontAwesome font."
+  },
+  "fa-mobile": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fa-mobile",
+    "body": "<FontAwesome name=\"mobile\" color=\"black\" size={25}/>$0",
+    "description": "mobile icon from FontAwesome font."
+  },
+  "fa-circle-o": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fa-circle-o",
+    "body": "<FontAwesome name=\"circle-o\" color=\"black\" size={25}/>$0",
+    "description": "circle-o icon from FontAwesome font."
+  },
+  "fa-quote-left": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fa-quote-left",
+    "body": "<FontAwesome name=\"quote-left\" color=\"black\" size={25}/>$0",
+    "description": "quote-left icon from FontAwesome font."
+  },
+  "fa-quote-right": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fa-quote-right",
+    "body": "<FontAwesome name=\"quote-right\" color=\"black\" size={25}/>$0",
+    "description": "quote-right icon from FontAwesome font."
+  },
+  "fa-spinner": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fa-spinner",
+    "body": "<FontAwesome name=\"spinner\" color=\"black\" size={25}/>$0",
+    "description": "spinner icon from FontAwesome font."
+  },
+  "fa-circle": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fa-circle",
+    "body": "<FontAwesome name=\"circle\" color=\"black\" size={25}/>$0",
+    "description": "circle icon from FontAwesome font."
+  },
+  "fa-mail-reply": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fa-mail-reply",
+    "body": "<FontAwesome name=\"mail-reply\" color=\"black\" size={25}/>$0",
+    "description": "mail-reply icon from FontAwesome font."
+  },
+  "fa-reply": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fa-reply",
+    "body": "<FontAwesome name=\"reply\" color=\"black\" size={25}/>$0",
+    "description": "reply icon from FontAwesome font."
+  },
+  "fa-github-alt": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fa-github-alt",
+    "body": "<FontAwesome name=\"github-alt\" color=\"black\" size={25}/>$0",
+    "description": "github-alt icon from FontAwesome font."
+  },
+  "fa-folder-o": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fa-folder-o",
+    "body": "<FontAwesome name=\"folder-o\" color=\"black\" size={25}/>$0",
+    "description": "folder-o icon from FontAwesome font."
+  },
+  "fa-folder-open-o": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fa-folder-open-o",
+    "body": "<FontAwesome name=\"folder-open-o\" color=\"black\" size={25}/>$0",
+    "description": "folder-open-o icon from FontAwesome font."
+  },
+  "fa-smile-o": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fa-smile-o",
+    "body": "<FontAwesome name=\"smile-o\" color=\"black\" size={25}/>$0",
+    "description": "smile-o icon from FontAwesome font."
+  },
+  "fa-frown-o": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fa-frown-o",
+    "body": "<FontAwesome name=\"frown-o\" color=\"black\" size={25}/>$0",
+    "description": "frown-o icon from FontAwesome font."
+  },
+  "fa-meh-o": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fa-meh-o",
+    "body": "<FontAwesome name=\"meh-o\" color=\"black\" size={25}/>$0",
+    "description": "meh-o icon from FontAwesome font."
+  },
+  "fa-gamepad": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fa-gamepad",
+    "body": "<FontAwesome name=\"gamepad\" color=\"black\" size={25}/>$0",
+    "description": "gamepad icon from FontAwesome font."
+  },
+  "fa-keyboard-o": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fa-keyboard-o",
+    "body": "<FontAwesome name=\"keyboard-o\" color=\"black\" size={25}/>$0",
+    "description": "keyboard-o icon from FontAwesome font."
+  },
+  "fa-flag-o": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fa-flag-o",
+    "body": "<FontAwesome name=\"flag-o\" color=\"black\" size={25}/>$0",
+    "description": "flag-o icon from FontAwesome font."
+  },
+  "fa-flag-checkered": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fa-flag-checkered",
+    "body": "<FontAwesome name=\"flag-checkered\" color=\"black\" size={25}/>$0",
+    "description": "flag-checkered icon from FontAwesome font."
+  },
+  "fa-terminal": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fa-terminal",
+    "body": "<FontAwesome name=\"terminal\" color=\"black\" size={25}/>$0",
+    "description": "terminal icon from FontAwesome font."
+  },
+  "fa-code": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fa-code",
+    "body": "<FontAwesome name=\"code\" color=\"black\" size={25}/>$0",
+    "description": "code icon from FontAwesome font."
+  },
+  "fa-mail-reply-all": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fa-mail-reply-all",
+    "body": "<FontAwesome name=\"mail-reply-all\" color=\"black\" size={25}/>$0",
+    "description": "mail-reply-all icon from FontAwesome font."
+  },
+  "fa-reply-all": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fa-reply-all",
+    "body": "<FontAwesome name=\"reply-all\" color=\"black\" size={25}/>$0",
+    "description": "reply-all icon from FontAwesome font."
+  },
+  "fa-star-half-empty": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fa-star-half-empty",
+    "body": "<FontAwesome name=\"star-half-empty\" color=\"black\" size={25}/>$0",
+    "description": "star-half-empty icon from FontAwesome font."
+  },
+  "fa-star-half-full": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fa-star-half-full",
+    "body": "<FontAwesome name=\"star-half-full\" color=\"black\" size={25}/>$0",
+    "description": "star-half-full icon from FontAwesome font."
+  },
+  "fa-star-half-o": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fa-star-half-o",
+    "body": "<FontAwesome name=\"star-half-o\" color=\"black\" size={25}/>$0",
+    "description": "star-half-o icon from FontAwesome font."
+  },
+  "fa-location-arrow": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fa-location-arrow",
+    "body": "<FontAwesome name=\"location-arrow\" color=\"black\" size={25}/>$0",
+    "description": "location-arrow icon from FontAwesome font."
+  },
+  "fa-crop": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fa-crop",
+    "body": "<FontAwesome name=\"crop\" color=\"black\" size={25}/>$0",
+    "description": "crop icon from FontAwesome font."
+  },
+  "fa-code-fork": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fa-code-fork",
+    "body": "<FontAwesome name=\"code-fork\" color=\"black\" size={25}/>$0",
+    "description": "code-fork icon from FontAwesome font."
+  },
+  "fa-unlink": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fa-unlink",
+    "body": "<FontAwesome name=\"unlink\" color=\"black\" size={25}/>$0",
+    "description": "unlink icon from FontAwesome font."
+  },
+  "fa-chain-broken": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fa-chain-broken",
+    "body": "<FontAwesome name=\"chain-broken\" color=\"black\" size={25}/>$0",
+    "description": "chain-broken icon from FontAwesome font."
+  },
+  "fa-question": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fa-question",
+    "body": "<FontAwesome name=\"question\" color=\"black\" size={25}/>$0",
+    "description": "question icon from FontAwesome font."
+  },
+  "fa-info": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fa-info",
+    "body": "<FontAwesome name=\"info\" color=\"black\" size={25}/>$0",
+    "description": "info icon from FontAwesome font."
+  },
+  "fa-exclamation": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fa-exclamation",
+    "body": "<FontAwesome name=\"exclamation\" color=\"black\" size={25}/>$0",
+    "description": "exclamation icon from FontAwesome font."
+  },
+  "fa-superscript": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fa-superscript",
+    "body": "<FontAwesome name=\"superscript\" color=\"black\" size={25}/>$0",
+    "description": "superscript icon from FontAwesome font."
+  },
+  "fa-subscript": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fa-subscript",
+    "body": "<FontAwesome name=\"subscript\" color=\"black\" size={25}/>$0",
+    "description": "subscript icon from FontAwesome font."
+  },
+  "fa-eraser": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fa-eraser",
+    "body": "<FontAwesome name=\"eraser\" color=\"black\" size={25}/>$0",
+    "description": "eraser icon from FontAwesome font."
+  },
+  "fa-puzzle-piece": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fa-puzzle-piece",
+    "body": "<FontAwesome name=\"puzzle-piece\" color=\"black\" size={25}/>$0",
+    "description": "puzzle-piece icon from FontAwesome font."
+  },
+  "fa-microphone": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fa-microphone",
+    "body": "<FontAwesome name=\"microphone\" color=\"black\" size={25}/>$0",
+    "description": "microphone icon from FontAwesome font."
+  },
+  "fa-microphone-slash": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fa-microphone-slash",
+    "body": "<FontAwesome name=\"microphone-slash\" color=\"black\" size={25}/>$0",
+    "description": "microphone-slash icon from FontAwesome font."
+  },
+  "fa-shield": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fa-shield",
+    "body": "<FontAwesome name=\"shield\" color=\"black\" size={25}/>$0",
+    "description": "shield icon from FontAwesome font."
+  },
+  "fa-calendar-o": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fa-calendar-o",
+    "body": "<FontAwesome name=\"calendar-o\" color=\"black\" size={25}/>$0",
+    "description": "calendar-o icon from FontAwesome font."
+  },
+  "fa-fire-extinguisher": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fa-fire-extinguisher",
+    "body": "<FontAwesome name=\"fire-extinguisher\" color=\"black\" size={25}/>$0",
+    "description": "fire-extinguisher icon from FontAwesome font."
+  },
+  "fa-rocket": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fa-rocket",
+    "body": "<FontAwesome name=\"rocket\" color=\"black\" size={25}/>$0",
+    "description": "rocket icon from FontAwesome font."
+  },
+  "fa-maxcdn": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fa-maxcdn",
+    "body": "<FontAwesome name=\"maxcdn\" color=\"black\" size={25}/>$0",
+    "description": "maxcdn icon from FontAwesome font."
+  },
+  "fa-chevron-circle-left": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fa-chevron-circle-left",
+    "body": "<FontAwesome name=\"chevron-circle-left\" color=\"black\" size={25}/>$0",
+    "description": "chevron-circle-left icon from FontAwesome font."
+  },
+  "fa-chevron-circle-right": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fa-chevron-circle-right",
+    "body": "<FontAwesome name=\"chevron-circle-right\" color=\"black\" size={25}/>$0",
+    "description": "chevron-circle-right icon from FontAwesome font."
+  },
+  "fa-chevron-circle-up": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fa-chevron-circle-up",
+    "body": "<FontAwesome name=\"chevron-circle-up\" color=\"black\" size={25}/>$0",
+    "description": "chevron-circle-up icon from FontAwesome font."
+  },
+  "fa-chevron-circle-down": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fa-chevron-circle-down",
+    "body": "<FontAwesome name=\"chevron-circle-down\" color=\"black\" size={25}/>$0",
+    "description": "chevron-circle-down icon from FontAwesome font."
+  },
+  "fa-html5": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fa-html5",
+    "body": "<FontAwesome name=\"html5\" color=\"black\" size={25}/>$0",
+    "description": "html5 icon from FontAwesome font."
+  },
+  "fa-css3": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fa-css3",
+    "body": "<FontAwesome name=\"css3\" color=\"black\" size={25}/>$0",
+    "description": "css3 icon from FontAwesome font."
+  },
+  "fa-anchor": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fa-anchor",
+    "body": "<FontAwesome name=\"anchor\" color=\"black\" size={25}/>$0",
+    "description": "anchor icon from FontAwesome font."
+  },
+  "fa-unlock-alt": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fa-unlock-alt",
+    "body": "<FontAwesome name=\"unlock-alt\" color=\"black\" size={25}/>$0",
+    "description": "unlock-alt icon from FontAwesome font."
+  },
+  "fa-bullseye": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fa-bullseye",
+    "body": "<FontAwesome name=\"bullseye\" color=\"black\" size={25}/>$0",
+    "description": "bullseye icon from FontAwesome font."
+  },
+  "fa-ellipsis-h": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fa-ellipsis-h",
+    "body": "<FontAwesome name=\"ellipsis-h\" color=\"black\" size={25}/>$0",
+    "description": "ellipsis-h icon from FontAwesome font."
+  },
+  "fa-ellipsis-v": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fa-ellipsis-v",
+    "body": "<FontAwesome name=\"ellipsis-v\" color=\"black\" size={25}/>$0",
+    "description": "ellipsis-v icon from FontAwesome font."
+  },
+  "fa-rss-square": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fa-rss-square",
+    "body": "<FontAwesome name=\"rss-square\" color=\"black\" size={25}/>$0",
+    "description": "rss-square icon from FontAwesome font."
+  },
+  "fa-play-circle": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fa-play-circle",
+    "body": "<FontAwesome name=\"play-circle\" color=\"black\" size={25}/>$0",
+    "description": "play-circle icon from FontAwesome font."
+  },
+  "fa-ticket": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fa-ticket",
+    "body": "<FontAwesome name=\"ticket\" color=\"black\" size={25}/>$0",
+    "description": "ticket icon from FontAwesome font."
+  },
+  "fa-minus-square": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fa-minus-square",
+    "body": "<FontAwesome name=\"minus-square\" color=\"black\" size={25}/>$0",
+    "description": "minus-square icon from FontAwesome font."
+  },
+  "fa-minus-square-o": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fa-minus-square-o",
+    "body": "<FontAwesome name=\"minus-square-o\" color=\"black\" size={25}/>$0",
+    "description": "minus-square-o icon from FontAwesome font."
+  },
+  "fa-level-up": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fa-level-up",
+    "body": "<FontAwesome name=\"level-up\" color=\"black\" size={25}/>$0",
+    "description": "level-up icon from FontAwesome font."
+  },
+  "fa-level-down": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fa-level-down",
+    "body": "<FontAwesome name=\"level-down\" color=\"black\" size={25}/>$0",
+    "description": "level-down icon from FontAwesome font."
+  },
+  "fa-check-square": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fa-check-square",
+    "body": "<FontAwesome name=\"check-square\" color=\"black\" size={25}/>$0",
+    "description": "check-square icon from FontAwesome font."
+  },
+  "fa-pencil-square": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fa-pencil-square",
+    "body": "<FontAwesome name=\"pencil-square\" color=\"black\" size={25}/>$0",
+    "description": "pencil-square icon from FontAwesome font."
+  },
+  "fa-external-link-square": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fa-external-link-square",
+    "body": "<FontAwesome name=\"external-link-square\" color=\"black\" size={25}/>$0",
+    "description": "external-link-square icon from FontAwesome font."
+  },
+  "fa-share-square": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fa-share-square",
+    "body": "<FontAwesome name=\"share-square\" color=\"black\" size={25}/>$0",
+    "description": "share-square icon from FontAwesome font."
+  },
+  "fa-compass": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fa-compass",
+    "body": "<FontAwesome name=\"compass\" color=\"black\" size={25}/>$0",
+    "description": "compass icon from FontAwesome font."
+  },
+  "fa-toggle-down": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fa-toggle-down",
+    "body": "<FontAwesome name=\"toggle-down\" color=\"black\" size={25}/>$0",
+    "description": "toggle-down icon from FontAwesome font."
+  },
+  "fa-caret-square-o-down": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fa-caret-square-o-down",
+    "body": "<FontAwesome name=\"caret-square-o-down\" color=\"black\" size={25}/>$0",
+    "description": "caret-square-o-down icon from FontAwesome font."
+  },
+  "fa-toggle-up": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fa-toggle-up",
+    "body": "<FontAwesome name=\"toggle-up\" color=\"black\" size={25}/>$0",
+    "description": "toggle-up icon from FontAwesome font."
+  },
+  "fa-caret-square-o-up": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fa-caret-square-o-up",
+    "body": "<FontAwesome name=\"caret-square-o-up\" color=\"black\" size={25}/>$0",
+    "description": "caret-square-o-up icon from FontAwesome font."
+  },
+  "fa-toggle-right": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fa-toggle-right",
+    "body": "<FontAwesome name=\"toggle-right\" color=\"black\" size={25}/>$0",
+    "description": "toggle-right icon from FontAwesome font."
+  },
+  "fa-caret-square-o-right": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fa-caret-square-o-right",
+    "body": "<FontAwesome name=\"caret-square-o-right\" color=\"black\" size={25}/>$0",
+    "description": "caret-square-o-right icon from FontAwesome font."
+  },
+  "fa-euro": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fa-euro",
+    "body": "<FontAwesome name=\"euro\" color=\"black\" size={25}/>$0",
+    "description": "euro icon from FontAwesome font."
+  },
+  "fa-eur": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fa-eur",
+    "body": "<FontAwesome name=\"eur\" color=\"black\" size={25}/>$0",
+    "description": "eur icon from FontAwesome font."
+  },
+  "fa-gbp": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fa-gbp",
+    "body": "<FontAwesome name=\"gbp\" color=\"black\" size={25}/>$0",
+    "description": "gbp icon from FontAwesome font."
+  },
+  "fa-dollar": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fa-dollar",
+    "body": "<FontAwesome name=\"dollar\" color=\"black\" size={25}/>$0",
+    "description": "dollar icon from FontAwesome font."
+  },
+  "fa-usd": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fa-usd",
+    "body": "<FontAwesome name=\"usd\" color=\"black\" size={25}/>$0",
+    "description": "usd icon from FontAwesome font."
+  },
+  "fa-rupee": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fa-rupee",
+    "body": "<FontAwesome name=\"rupee\" color=\"black\" size={25}/>$0",
+    "description": "rupee icon from FontAwesome font."
+  },
+  "fa-inr": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fa-inr",
+    "body": "<FontAwesome name=\"inr\" color=\"black\" size={25}/>$0",
+    "description": "inr icon from FontAwesome font."
+  },
+  "fa-cny": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fa-cny",
+    "body": "<FontAwesome name=\"cny\" color=\"black\" size={25}/>$0",
+    "description": "cny icon from FontAwesome font."
+  },
+  "fa-rmb": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fa-rmb",
+    "body": "<FontAwesome name=\"rmb\" color=\"black\" size={25}/>$0",
+    "description": "rmb icon from FontAwesome font."
+  },
+  "fa-yen": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fa-yen",
+    "body": "<FontAwesome name=\"yen\" color=\"black\" size={25}/>$0",
+    "description": "yen icon from FontAwesome font."
+  },
+  "fa-jpy": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fa-jpy",
+    "body": "<FontAwesome name=\"jpy\" color=\"black\" size={25}/>$0",
+    "description": "jpy icon from FontAwesome font."
+  },
+  "fa-ruble": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fa-ruble",
+    "body": "<FontAwesome name=\"ruble\" color=\"black\" size={25}/>$0",
+    "description": "ruble icon from FontAwesome font."
+  },
+  "fa-rouble": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fa-rouble",
+    "body": "<FontAwesome name=\"rouble\" color=\"black\" size={25}/>$0",
+    "description": "rouble icon from FontAwesome font."
+  },
+  "fa-rub": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fa-rub",
+    "body": "<FontAwesome name=\"rub\" color=\"black\" size={25}/>$0",
+    "description": "rub icon from FontAwesome font."
+  },
+  "fa-won": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fa-won",
+    "body": "<FontAwesome name=\"won\" color=\"black\" size={25}/>$0",
+    "description": "won icon from FontAwesome font."
+  },
+  "fa-krw": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fa-krw",
+    "body": "<FontAwesome name=\"krw\" color=\"black\" size={25}/>$0",
+    "description": "krw icon from FontAwesome font."
+  },
+  "fa-bitcoin": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fa-bitcoin",
+    "body": "<FontAwesome name=\"bitcoin\" color=\"black\" size={25}/>$0",
+    "description": "bitcoin icon from FontAwesome font."
+  },
+  "fa-btc": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fa-btc",
+    "body": "<FontAwesome name=\"btc\" color=\"black\" size={25}/>$0",
+    "description": "btc icon from FontAwesome font."
+  },
+  "fa-file": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fa-file",
+    "body": "<FontAwesome name=\"file\" color=\"black\" size={25}/>$0",
+    "description": "file icon from FontAwesome font."
+  },
+  "fa-file-text": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fa-file-text",
+    "body": "<FontAwesome name=\"file-text\" color=\"black\" size={25}/>$0",
+    "description": "file-text icon from FontAwesome font."
+  },
+  "fa-sort-alpha-asc": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fa-sort-alpha-asc",
+    "body": "<FontAwesome name=\"sort-alpha-asc\" color=\"black\" size={25}/>$0",
+    "description": "sort-alpha-asc icon from FontAwesome font."
+  },
+  "fa-sort-alpha-desc": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fa-sort-alpha-desc",
+    "body": "<FontAwesome name=\"sort-alpha-desc\" color=\"black\" size={25}/>$0",
+    "description": "sort-alpha-desc icon from FontAwesome font."
+  },
+  "fa-sort-amount-asc": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fa-sort-amount-asc",
+    "body": "<FontAwesome name=\"sort-amount-asc\" color=\"black\" size={25}/>$0",
+    "description": "sort-amount-asc icon from FontAwesome font."
+  },
+  "fa-sort-amount-desc": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fa-sort-amount-desc",
+    "body": "<FontAwesome name=\"sort-amount-desc\" color=\"black\" size={25}/>$0",
+    "description": "sort-amount-desc icon from FontAwesome font."
+  },
+  "fa-sort-numeric-asc": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fa-sort-numeric-asc",
+    "body": "<FontAwesome name=\"sort-numeric-asc\" color=\"black\" size={25}/>$0",
+    "description": "sort-numeric-asc icon from FontAwesome font."
+  },
+  "fa-sort-numeric-desc": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fa-sort-numeric-desc",
+    "body": "<FontAwesome name=\"sort-numeric-desc\" color=\"black\" size={25}/>$0",
+    "description": "sort-numeric-desc icon from FontAwesome font."
+  },
+  "fa-thumbs-up": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fa-thumbs-up",
+    "body": "<FontAwesome name=\"thumbs-up\" color=\"black\" size={25}/>$0",
+    "description": "thumbs-up icon from FontAwesome font."
+  },
+  "fa-thumbs-down": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fa-thumbs-down",
+    "body": "<FontAwesome name=\"thumbs-down\" color=\"black\" size={25}/>$0",
+    "description": "thumbs-down icon from FontAwesome font."
+  },
+  "fa-youtube-square": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fa-youtube-square",
+    "body": "<FontAwesome name=\"youtube-square\" color=\"black\" size={25}/>$0",
+    "description": "youtube-square icon from FontAwesome font."
+  },
+  "fa-youtube": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fa-youtube",
+    "body": "<FontAwesome name=\"youtube\" color=\"black\" size={25}/>$0",
+    "description": "youtube icon from FontAwesome font."
+  },
+  "fa-xing": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fa-xing",
+    "body": "<FontAwesome name=\"xing\" color=\"black\" size={25}/>$0",
+    "description": "xing icon from FontAwesome font."
+  },
+  "fa-xing-square": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fa-xing-square",
+    "body": "<FontAwesome name=\"xing-square\" color=\"black\" size={25}/>$0",
+    "description": "xing-square icon from FontAwesome font."
+  },
+  "fa-youtube-play": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fa-youtube-play",
+    "body": "<FontAwesome name=\"youtube-play\" color=\"black\" size={25}/>$0",
+    "description": "youtube-play icon from FontAwesome font."
+  },
+  "fa-dropbox": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fa-dropbox",
+    "body": "<FontAwesome name=\"dropbox\" color=\"black\" size={25}/>$0",
+    "description": "dropbox icon from FontAwesome font."
+  },
+  "fa-stack-overflow": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fa-stack-overflow",
+    "body": "<FontAwesome name=\"stack-overflow\" color=\"black\" size={25}/>$0",
+    "description": "stack-overflow icon from FontAwesome font."
+  },
+  "fa-instagram": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fa-instagram",
+    "body": "<FontAwesome name=\"instagram\" color=\"black\" size={25}/>$0",
+    "description": "instagram icon from FontAwesome font."
+  },
+  "fa-flickr": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fa-flickr",
+    "body": "<FontAwesome name=\"flickr\" color=\"black\" size={25}/>$0",
+    "description": "flickr icon from FontAwesome font."
+  },
+  "fa-adn": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fa-adn",
+    "body": "<FontAwesome name=\"adn\" color=\"black\" size={25}/>$0",
+    "description": "adn icon from FontAwesome font."
+  },
+  "fa-bitbucket": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fa-bitbucket",
+    "body": "<FontAwesome name=\"bitbucket\" color=\"black\" size={25}/>$0",
+    "description": "bitbucket icon from FontAwesome font."
+  },
+  "fa-bitbucket-square": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fa-bitbucket-square",
+    "body": "<FontAwesome name=\"bitbucket-square\" color=\"black\" size={25}/>$0",
+    "description": "bitbucket-square icon from FontAwesome font."
+  },
+  "fa-tumblr": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fa-tumblr",
+    "body": "<FontAwesome name=\"tumblr\" color=\"black\" size={25}/>$0",
+    "description": "tumblr icon from FontAwesome font."
+  },
+  "fa-tumblr-square": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fa-tumblr-square",
+    "body": "<FontAwesome name=\"tumblr-square\" color=\"black\" size={25}/>$0",
+    "description": "tumblr-square icon from FontAwesome font."
+  },
+  "fa-long-arrow-down": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fa-long-arrow-down",
+    "body": "<FontAwesome name=\"long-arrow-down\" color=\"black\" size={25}/>$0",
+    "description": "long-arrow-down icon from FontAwesome font."
+  },
+  "fa-long-arrow-up": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fa-long-arrow-up",
+    "body": "<FontAwesome name=\"long-arrow-up\" color=\"black\" size={25}/>$0",
+    "description": "long-arrow-up icon from FontAwesome font."
+  },
+  "fa-long-arrow-left": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fa-long-arrow-left",
+    "body": "<FontAwesome name=\"long-arrow-left\" color=\"black\" size={25}/>$0",
+    "description": "long-arrow-left icon from FontAwesome font."
+  },
+  "fa-long-arrow-right": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fa-long-arrow-right",
+    "body": "<FontAwesome name=\"long-arrow-right\" color=\"black\" size={25}/>$0",
+    "description": "long-arrow-right icon from FontAwesome font."
+  },
+  "fa-apple": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fa-apple",
+    "body": "<FontAwesome name=\"apple\" color=\"black\" size={25}/>$0",
+    "description": "apple icon from FontAwesome font."
+  },
+  "fa-windows": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fa-windows",
+    "body": "<FontAwesome name=\"windows\" color=\"black\" size={25}/>$0",
+    "description": "windows icon from FontAwesome font."
+  },
+  "fa-android": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fa-android",
+    "body": "<FontAwesome name=\"android\" color=\"black\" size={25}/>$0",
+    "description": "android icon from FontAwesome font."
+  },
+  "fa-linux": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fa-linux",
+    "body": "<FontAwesome name=\"linux\" color=\"black\" size={25}/>$0",
+    "description": "linux icon from FontAwesome font."
+  },
+  "fa-dribbble": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fa-dribbble",
+    "body": "<FontAwesome name=\"dribbble\" color=\"black\" size={25}/>$0",
+    "description": "dribbble icon from FontAwesome font."
+  },
+  "fa-skype": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fa-skype",
+    "body": "<FontAwesome name=\"skype\" color=\"black\" size={25}/>$0",
+    "description": "skype icon from FontAwesome font."
+  },
+  "fa-foursquare": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fa-foursquare",
+    "body": "<FontAwesome name=\"foursquare\" color=\"black\" size={25}/>$0",
+    "description": "foursquare icon from FontAwesome font."
+  },
+  "fa-trello": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fa-trello",
+    "body": "<FontAwesome name=\"trello\" color=\"black\" size={25}/>$0",
+    "description": "trello icon from FontAwesome font."
+  },
+  "fa-female": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fa-female",
+    "body": "<FontAwesome name=\"female\" color=\"black\" size={25}/>$0",
+    "description": "female icon from FontAwesome font."
+  },
+  "fa-male": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fa-male",
+    "body": "<FontAwesome name=\"male\" color=\"black\" size={25}/>$0",
+    "description": "male icon from FontAwesome font."
+  },
+  "fa-gittip": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fa-gittip",
+    "body": "<FontAwesome name=\"gittip\" color=\"black\" size={25}/>$0",
+    "description": "gittip icon from FontAwesome font."
+  },
+  "fa-gratipay": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fa-gratipay",
+    "body": "<FontAwesome name=\"gratipay\" color=\"black\" size={25}/>$0",
+    "description": "gratipay icon from FontAwesome font."
+  },
+  "fa-sun-o": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fa-sun-o",
+    "body": "<FontAwesome name=\"sun-o\" color=\"black\" size={25}/>$0",
+    "description": "sun-o icon from FontAwesome font."
+  },
+  "fa-moon-o": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fa-moon-o",
+    "body": "<FontAwesome name=\"moon-o\" color=\"black\" size={25}/>$0",
+    "description": "moon-o icon from FontAwesome font."
+  },
+  "fa-archive": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fa-archive",
+    "body": "<FontAwesome name=\"archive\" color=\"black\" size={25}/>$0",
+    "description": "archive icon from FontAwesome font."
+  },
+  "fa-bug": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fa-bug",
+    "body": "<FontAwesome name=\"bug\" color=\"black\" size={25}/>$0",
+    "description": "bug icon from FontAwesome font."
+  },
+  "fa-vk": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fa-vk",
+    "body": "<FontAwesome name=\"vk\" color=\"black\" size={25}/>$0",
+    "description": "vk icon from FontAwesome font."
+  },
+  "fa-weibo": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fa-weibo",
+    "body": "<FontAwesome name=\"weibo\" color=\"black\" size={25}/>$0",
+    "description": "weibo icon from FontAwesome font."
+  },
+  "fa-renren": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fa-renren",
+    "body": "<FontAwesome name=\"renren\" color=\"black\" size={25}/>$0",
+    "description": "renren icon from FontAwesome font."
+  },
+  "fa-pagelines": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fa-pagelines",
+    "body": "<FontAwesome name=\"pagelines\" color=\"black\" size={25}/>$0",
+    "description": "pagelines icon from FontAwesome font."
+  },
+  "fa-stack-exchange": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fa-stack-exchange",
+    "body": "<FontAwesome name=\"stack-exchange\" color=\"black\" size={25}/>$0",
+    "description": "stack-exchange icon from FontAwesome font."
+  },
+  "fa-arrow-circle-o-right": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fa-arrow-circle-o-right",
+    "body": "<FontAwesome name=\"arrow-circle-o-right\" color=\"black\" size={25}/>$0",
+    "description": "arrow-circle-o-right icon from FontAwesome font."
+  },
+  "fa-arrow-circle-o-left": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fa-arrow-circle-o-left",
+    "body": "<FontAwesome name=\"arrow-circle-o-left\" color=\"black\" size={25}/>$0",
+    "description": "arrow-circle-o-left icon from FontAwesome font."
+  },
+  "fa-toggle-left": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fa-toggle-left",
+    "body": "<FontAwesome name=\"toggle-left\" color=\"black\" size={25}/>$0",
+    "description": "toggle-left icon from FontAwesome font."
+  },
+  "fa-caret-square-o-left": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fa-caret-square-o-left",
+    "body": "<FontAwesome name=\"caret-square-o-left\" color=\"black\" size={25}/>$0",
+    "description": "caret-square-o-left icon from FontAwesome font."
+  },
+  "fa-dot-circle-o": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fa-dot-circle-o",
+    "body": "<FontAwesome name=\"dot-circle-o\" color=\"black\" size={25}/>$0",
+    "description": "dot-circle-o icon from FontAwesome font."
+  },
+  "fa-wheelchair": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fa-wheelchair",
+    "body": "<FontAwesome name=\"wheelchair\" color=\"black\" size={25}/>$0",
+    "description": "wheelchair icon from FontAwesome font."
+  },
+  "fa-vimeo-square": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fa-vimeo-square",
+    "body": "<FontAwesome name=\"vimeo-square\" color=\"black\" size={25}/>$0",
+    "description": "vimeo-square icon from FontAwesome font."
+  },
+  "fa-turkish-lira": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fa-turkish-lira",
+    "body": "<FontAwesome name=\"turkish-lira\" color=\"black\" size={25}/>$0",
+    "description": "turkish-lira icon from FontAwesome font."
+  },
+  "fa-try": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fa-try",
+    "body": "<FontAwesome name=\"try\" color=\"black\" size={25}/>$0",
+    "description": "try icon from FontAwesome font."
+  },
+  "fa-plus-square-o": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fa-plus-square-o",
+    "body": "<FontAwesome name=\"plus-square-o\" color=\"black\" size={25}/>$0",
+    "description": "plus-square-o icon from FontAwesome font."
+  },
+  "fa-space-shuttle": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fa-space-shuttle",
+    "body": "<FontAwesome name=\"space-shuttle\" color=\"black\" size={25}/>$0",
+    "description": "space-shuttle icon from FontAwesome font."
+  },
+  "fa-slack": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fa-slack",
+    "body": "<FontAwesome name=\"slack\" color=\"black\" size={25}/>$0",
+    "description": "slack icon from FontAwesome font."
+  },
+  "fa-envelope-square": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fa-envelope-square",
+    "body": "<FontAwesome name=\"envelope-square\" color=\"black\" size={25}/>$0",
+    "description": "envelope-square icon from FontAwesome font."
+  },
+  "fa-wordpress": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fa-wordpress",
+    "body": "<FontAwesome name=\"wordpress\" color=\"black\" size={25}/>$0",
+    "description": "wordpress icon from FontAwesome font."
+  },
+  "fa-openid": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fa-openid",
+    "body": "<FontAwesome name=\"openid\" color=\"black\" size={25}/>$0",
+    "description": "openid icon from FontAwesome font."
+  },
+  "fa-institution": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fa-institution",
+    "body": "<FontAwesome name=\"institution\" color=\"black\" size={25}/>$0",
+    "description": "institution icon from FontAwesome font."
+  },
+  "fa-bank": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fa-bank",
+    "body": "<FontAwesome name=\"bank\" color=\"black\" size={25}/>$0",
+    "description": "bank icon from FontAwesome font."
+  },
+  "fa-university": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fa-university",
+    "body": "<FontAwesome name=\"university\" color=\"black\" size={25}/>$0",
+    "description": "university icon from FontAwesome font."
+  },
+  "fa-mortar-board": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fa-mortar-board",
+    "body": "<FontAwesome name=\"mortar-board\" color=\"black\" size={25}/>$0",
+    "description": "mortar-board icon from FontAwesome font."
+  },
+  "fa-graduation-cap": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fa-graduation-cap",
+    "body": "<FontAwesome name=\"graduation-cap\" color=\"black\" size={25}/>$0",
+    "description": "graduation-cap icon from FontAwesome font."
+  },
+  "fa-yahoo": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fa-yahoo",
+    "body": "<FontAwesome name=\"yahoo\" color=\"black\" size={25}/>$0",
+    "description": "yahoo icon from FontAwesome font."
+  },
+  "fa-google": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fa-google",
+    "body": "<FontAwesome name=\"google\" color=\"black\" size={25}/>$0",
+    "description": "google icon from FontAwesome font."
+  },
+  "fa-reddit": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fa-reddit",
+    "body": "<FontAwesome name=\"reddit\" color=\"black\" size={25}/>$0",
+    "description": "reddit icon from FontAwesome font."
+  },
+  "fa-reddit-square": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fa-reddit-square",
+    "body": "<FontAwesome name=\"reddit-square\" color=\"black\" size={25}/>$0",
+    "description": "reddit-square icon from FontAwesome font."
+  },
+  "fa-stumbleupon-circle": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fa-stumbleupon-circle",
+    "body": "<FontAwesome name=\"stumbleupon-circle\" color=\"black\" size={25}/>$0",
+    "description": "stumbleupon-circle icon from FontAwesome font."
+  },
+  "fa-stumbleupon": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fa-stumbleupon",
+    "body": "<FontAwesome name=\"stumbleupon\" color=\"black\" size={25}/>$0",
+    "description": "stumbleupon icon from FontAwesome font."
+  },
+  "fa-delicious": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fa-delicious",
+    "body": "<FontAwesome name=\"delicious\" color=\"black\" size={25}/>$0",
+    "description": "delicious icon from FontAwesome font."
+  },
+  "fa-digg": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fa-digg",
+    "body": "<FontAwesome name=\"digg\" color=\"black\" size={25}/>$0",
+    "description": "digg icon from FontAwesome font."
+  },
+  "fa-pied-piper-pp": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fa-pied-piper-pp",
+    "body": "<FontAwesome name=\"pied-piper-pp\" color=\"black\" size={25}/>$0",
+    "description": "pied-piper-pp icon from FontAwesome font."
+  },
+  "fa-pied-piper-alt": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fa-pied-piper-alt",
+    "body": "<FontAwesome name=\"pied-piper-alt\" color=\"black\" size={25}/>$0",
+    "description": "pied-piper-alt icon from FontAwesome font."
+  },
+  "fa-drupal": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fa-drupal",
+    "body": "<FontAwesome name=\"drupal\" color=\"black\" size={25}/>$0",
+    "description": "drupal icon from FontAwesome font."
+  },
+  "fa-joomla": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fa-joomla",
+    "body": "<FontAwesome name=\"joomla\" color=\"black\" size={25}/>$0",
+    "description": "joomla icon from FontAwesome font."
+  },
+  "fa-language": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fa-language",
+    "body": "<FontAwesome name=\"language\" color=\"black\" size={25}/>$0",
+    "description": "language icon from FontAwesome font."
+  },
+  "fa-fax": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fa-fax",
+    "body": "<FontAwesome name=\"fax\" color=\"black\" size={25}/>$0",
+    "description": "fax icon from FontAwesome font."
+  },
+  "fa-building": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fa-building",
+    "body": "<FontAwesome name=\"building\" color=\"black\" size={25}/>$0",
+    "description": "building icon from FontAwesome font."
+  },
+  "fa-child": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fa-child",
+    "body": "<FontAwesome name=\"child\" color=\"black\" size={25}/>$0",
+    "description": "child icon from FontAwesome font."
+  },
+  "fa-paw": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fa-paw",
+    "body": "<FontAwesome name=\"paw\" color=\"black\" size={25}/>$0",
+    "description": "paw icon from FontAwesome font."
+  },
+  "fa-spoon": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fa-spoon",
+    "body": "<FontAwesome name=\"spoon\" color=\"black\" size={25}/>$0",
+    "description": "spoon icon from FontAwesome font."
+  },
+  "fa-cube": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fa-cube",
+    "body": "<FontAwesome name=\"cube\" color=\"black\" size={25}/>$0",
+    "description": "cube icon from FontAwesome font."
+  },
+  "fa-cubes": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fa-cubes",
+    "body": "<FontAwesome name=\"cubes\" color=\"black\" size={25}/>$0",
+    "description": "cubes icon from FontAwesome font."
+  },
+  "fa-behance": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fa-behance",
+    "body": "<FontAwesome name=\"behance\" color=\"black\" size={25}/>$0",
+    "description": "behance icon from FontAwesome font."
+  },
+  "fa-behance-square": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fa-behance-square",
+    "body": "<FontAwesome name=\"behance-square\" color=\"black\" size={25}/>$0",
+    "description": "behance-square icon from FontAwesome font."
+  },
+  "fa-steam": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fa-steam",
+    "body": "<FontAwesome name=\"steam\" color=\"black\" size={25}/>$0",
+    "description": "steam icon from FontAwesome font."
+  },
+  "fa-steam-square": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fa-steam-square",
+    "body": "<FontAwesome name=\"steam-square\" color=\"black\" size={25}/>$0",
+    "description": "steam-square icon from FontAwesome font."
+  },
+  "fa-recycle": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fa-recycle",
+    "body": "<FontAwesome name=\"recycle\" color=\"black\" size={25}/>$0",
+    "description": "recycle icon from FontAwesome font."
+  },
+  "fa-automobile": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fa-automobile",
+    "body": "<FontAwesome name=\"automobile\" color=\"black\" size={25}/>$0",
+    "description": "automobile icon from FontAwesome font."
+  },
+  "fa-car": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fa-car",
+    "body": "<FontAwesome name=\"car\" color=\"black\" size={25}/>$0",
+    "description": "car icon from FontAwesome font."
+  },
+  "fa-cab": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fa-cab",
+    "body": "<FontAwesome name=\"cab\" color=\"black\" size={25}/>$0",
+    "description": "cab icon from FontAwesome font."
+  },
+  "fa-taxi": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fa-taxi",
+    "body": "<FontAwesome name=\"taxi\" color=\"black\" size={25}/>$0",
+    "description": "taxi icon from FontAwesome font."
+  },
+  "fa-tree": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fa-tree",
+    "body": "<FontAwesome name=\"tree\" color=\"black\" size={25}/>$0",
+    "description": "tree icon from FontAwesome font."
+  },
+  "fa-spotify": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fa-spotify",
+    "body": "<FontAwesome name=\"spotify\" color=\"black\" size={25}/>$0",
+    "description": "spotify icon from FontAwesome font."
+  },
+  "fa-deviantart": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fa-deviantart",
+    "body": "<FontAwesome name=\"deviantart\" color=\"black\" size={25}/>$0",
+    "description": "deviantart icon from FontAwesome font."
+  },
+  "fa-soundcloud": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fa-soundcloud",
+    "body": "<FontAwesome name=\"soundcloud\" color=\"black\" size={25}/>$0",
+    "description": "soundcloud icon from FontAwesome font."
+  },
+  "fa-database": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fa-database",
+    "body": "<FontAwesome name=\"database\" color=\"black\" size={25}/>$0",
+    "description": "database icon from FontAwesome font."
+  },
+  "fa-file-pdf-o": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fa-file-pdf-o",
+    "body": "<FontAwesome name=\"file-pdf-o\" color=\"black\" size={25}/>$0",
+    "description": "file-pdf-o icon from FontAwesome font."
+  },
+  "fa-file-word-o": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fa-file-word-o",
+    "body": "<FontAwesome name=\"file-word-o\" color=\"black\" size={25}/>$0",
+    "description": "file-word-o icon from FontAwesome font."
+  },
+  "fa-file-excel-o": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fa-file-excel-o",
+    "body": "<FontAwesome name=\"file-excel-o\" color=\"black\" size={25}/>$0",
+    "description": "file-excel-o icon from FontAwesome font."
+  },
+  "fa-file-powerpoint-o": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fa-file-powerpoint-o",
+    "body": "<FontAwesome name=\"file-powerpoint-o\" color=\"black\" size={25}/>$0",
+    "description": "file-powerpoint-o icon from FontAwesome font."
+  },
+  "fa-file-photo-o": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fa-file-photo-o",
+    "body": "<FontAwesome name=\"file-photo-o\" color=\"black\" size={25}/>$0",
+    "description": "file-photo-o icon from FontAwesome font."
+  },
+  "fa-file-picture-o": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fa-file-picture-o",
+    "body": "<FontAwesome name=\"file-picture-o\" color=\"black\" size={25}/>$0",
+    "description": "file-picture-o icon from FontAwesome font."
+  },
+  "fa-file-image-o": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fa-file-image-o",
+    "body": "<FontAwesome name=\"file-image-o\" color=\"black\" size={25}/>$0",
+    "description": "file-image-o icon from FontAwesome font."
+  },
+  "fa-file-zip-o": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fa-file-zip-o",
+    "body": "<FontAwesome name=\"file-zip-o\" color=\"black\" size={25}/>$0",
+    "description": "file-zip-o icon from FontAwesome font."
+  },
+  "fa-file-archive-o": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fa-file-archive-o",
+    "body": "<FontAwesome name=\"file-archive-o\" color=\"black\" size={25}/>$0",
+    "description": "file-archive-o icon from FontAwesome font."
+  },
+  "fa-file-sound-o": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fa-file-sound-o",
+    "body": "<FontAwesome name=\"file-sound-o\" color=\"black\" size={25}/>$0",
+    "description": "file-sound-o icon from FontAwesome font."
+  },
+  "fa-file-audio-o": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fa-file-audio-o",
+    "body": "<FontAwesome name=\"file-audio-o\" color=\"black\" size={25}/>$0",
+    "description": "file-audio-o icon from FontAwesome font."
+  },
+  "fa-file-movie-o": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fa-file-movie-o",
+    "body": "<FontAwesome name=\"file-movie-o\" color=\"black\" size={25}/>$0",
+    "description": "file-movie-o icon from FontAwesome font."
+  },
+  "fa-file-video-o": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fa-file-video-o",
+    "body": "<FontAwesome name=\"file-video-o\" color=\"black\" size={25}/>$0",
+    "description": "file-video-o icon from FontAwesome font."
+  },
+  "fa-file-code-o": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fa-file-code-o",
+    "body": "<FontAwesome name=\"file-code-o\" color=\"black\" size={25}/>$0",
+    "description": "file-code-o icon from FontAwesome font."
+  },
+  "fa-vine": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fa-vine",
+    "body": "<FontAwesome name=\"vine\" color=\"black\" size={25}/>$0",
+    "description": "vine icon from FontAwesome font."
+  },
+  "fa-codepen": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fa-codepen",
+    "body": "<FontAwesome name=\"codepen\" color=\"black\" size={25}/>$0",
+    "description": "codepen icon from FontAwesome font."
+  },
+  "fa-jsfiddle": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fa-jsfiddle",
+    "body": "<FontAwesome name=\"jsfiddle\" color=\"black\" size={25}/>$0",
+    "description": "jsfiddle icon from FontAwesome font."
+  },
+  "fa-life-bouy": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fa-life-bouy",
+    "body": "<FontAwesome name=\"life-bouy\" color=\"black\" size={25}/>$0",
+    "description": "life-bouy icon from FontAwesome font."
+  },
+  "fa-life-buoy": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fa-life-buoy",
+    "body": "<FontAwesome name=\"life-buoy\" color=\"black\" size={25}/>$0",
+    "description": "life-buoy icon from FontAwesome font."
+  },
+  "fa-life-saver": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fa-life-saver",
+    "body": "<FontAwesome name=\"life-saver\" color=\"black\" size={25}/>$0",
+    "description": "life-saver icon from FontAwesome font."
+  },
+  "fa-support": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fa-support",
+    "body": "<FontAwesome name=\"support\" color=\"black\" size={25}/>$0",
+    "description": "support icon from FontAwesome font."
+  },
+  "fa-life-ring": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fa-life-ring",
+    "body": "<FontAwesome name=\"life-ring\" color=\"black\" size={25}/>$0",
+    "description": "life-ring icon from FontAwesome font."
+  },
+  "fa-circle-o-notch": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fa-circle-o-notch",
+    "body": "<FontAwesome name=\"circle-o-notch\" color=\"black\" size={25}/>$0",
+    "description": "circle-o-notch icon from FontAwesome font."
+  },
+  "fa-ra": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fa-ra",
+    "body": "<FontAwesome name=\"ra\" color=\"black\" size={25}/>$0",
+    "description": "ra icon from FontAwesome font."
+  },
+  "fa-resistance": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fa-resistance",
+    "body": "<FontAwesome name=\"resistance\" color=\"black\" size={25}/>$0",
+    "description": "resistance icon from FontAwesome font."
+  },
+  "fa-rebel": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fa-rebel",
+    "body": "<FontAwesome name=\"rebel\" color=\"black\" size={25}/>$0",
+    "description": "rebel icon from FontAwesome font."
+  },
+  "fa-ge": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fa-ge",
+    "body": "<FontAwesome name=\"ge\" color=\"black\" size={25}/>$0",
+    "description": "ge icon from FontAwesome font."
+  },
+  "fa-empire": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fa-empire",
+    "body": "<FontAwesome name=\"empire\" color=\"black\" size={25}/>$0",
+    "description": "empire icon from FontAwesome font."
+  },
+  "fa-git-square": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fa-git-square",
+    "body": "<FontAwesome name=\"git-square\" color=\"black\" size={25}/>$0",
+    "description": "git-square icon from FontAwesome font."
+  },
+  "fa-git": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fa-git",
+    "body": "<FontAwesome name=\"git\" color=\"black\" size={25}/>$0",
+    "description": "git icon from FontAwesome font."
+  },
+  "fa-y-combinator-square": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fa-y-combinator-square",
+    "body": "<FontAwesome name=\"y-combinator-square\" color=\"black\" size={25}/>$0",
+    "description": "y-combinator-square icon from FontAwesome font."
+  },
+  "fa-yc-square": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fa-yc-square",
+    "body": "<FontAwesome name=\"yc-square\" color=\"black\" size={25}/>$0",
+    "description": "yc-square icon from FontAwesome font."
+  },
+  "fa-hacker-news": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fa-hacker-news",
+    "body": "<FontAwesome name=\"hacker-news\" color=\"black\" size={25}/>$0",
+    "description": "hacker-news icon from FontAwesome font."
+  },
+  "fa-tencent-weibo": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fa-tencent-weibo",
+    "body": "<FontAwesome name=\"tencent-weibo\" color=\"black\" size={25}/>$0",
+    "description": "tencent-weibo icon from FontAwesome font."
+  },
+  "fa-qq": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fa-qq",
+    "body": "<FontAwesome name=\"qq\" color=\"black\" size={25}/>$0",
+    "description": "qq icon from FontAwesome font."
+  },
+  "fa-wechat": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fa-wechat",
+    "body": "<FontAwesome name=\"wechat\" color=\"black\" size={25}/>$0",
+    "description": "wechat icon from FontAwesome font."
+  },
+  "fa-weixin": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fa-weixin",
+    "body": "<FontAwesome name=\"weixin\" color=\"black\" size={25}/>$0",
+    "description": "weixin icon from FontAwesome font."
+  },
+  "fa-send": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fa-send",
+    "body": "<FontAwesome name=\"send\" color=\"black\" size={25}/>$0",
+    "description": "send icon from FontAwesome font."
+  },
+  "fa-paper-plane": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fa-paper-plane",
+    "body": "<FontAwesome name=\"paper-plane\" color=\"black\" size={25}/>$0",
+    "description": "paper-plane icon from FontAwesome font."
+  },
+  "fa-send-o": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fa-send-o",
+    "body": "<FontAwesome name=\"send-o\" color=\"black\" size={25}/>$0",
+    "description": "send-o icon from FontAwesome font."
+  },
+  "fa-paper-plane-o": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fa-paper-plane-o",
+    "body": "<FontAwesome name=\"paper-plane-o\" color=\"black\" size={25}/>$0",
+    "description": "paper-plane-o icon from FontAwesome font."
+  },
+  "fa-history": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fa-history",
+    "body": "<FontAwesome name=\"history\" color=\"black\" size={25}/>$0",
+    "description": "history icon from FontAwesome font."
+  },
+  "fa-circle-thin": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fa-circle-thin",
+    "body": "<FontAwesome name=\"circle-thin\" color=\"black\" size={25}/>$0",
+    "description": "circle-thin icon from FontAwesome font."
+  },
+  "fa-header": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fa-header",
+    "body": "<FontAwesome name=\"header\" color=\"black\" size={25}/>$0",
+    "description": "header icon from FontAwesome font."
+  },
+  "fa-paragraph": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fa-paragraph",
+    "body": "<FontAwesome name=\"paragraph\" color=\"black\" size={25}/>$0",
+    "description": "paragraph icon from FontAwesome font."
+  },
+  "fa-sliders": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fa-sliders",
+    "body": "<FontAwesome name=\"sliders\" color=\"black\" size={25}/>$0",
+    "description": "sliders icon from FontAwesome font."
+  },
+  "fa-share-alt": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fa-share-alt",
+    "body": "<FontAwesome name=\"share-alt\" color=\"black\" size={25}/>$0",
+    "description": "share-alt icon from FontAwesome font."
+  },
+  "fa-share-alt-square": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fa-share-alt-square",
+    "body": "<FontAwesome name=\"share-alt-square\" color=\"black\" size={25}/>$0",
+    "description": "share-alt-square icon from FontAwesome font."
+  },
+  "fa-bomb": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fa-bomb",
+    "body": "<FontAwesome name=\"bomb\" color=\"black\" size={25}/>$0",
+    "description": "bomb icon from FontAwesome font."
+  },
+  "fa-soccer-ball-o": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fa-soccer-ball-o",
+    "body": "<FontAwesome name=\"soccer-ball-o\" color=\"black\" size={25}/>$0",
+    "description": "soccer-ball-o icon from FontAwesome font."
+  },
+  "fa-futbol-o": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fa-futbol-o",
+    "body": "<FontAwesome name=\"futbol-o\" color=\"black\" size={25}/>$0",
+    "description": "futbol-o icon from FontAwesome font."
+  },
+  "fa-tty": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fa-tty",
+    "body": "<FontAwesome name=\"tty\" color=\"black\" size={25}/>$0",
+    "description": "tty icon from FontAwesome font."
+  },
+  "fa-binoculars": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fa-binoculars",
+    "body": "<FontAwesome name=\"binoculars\" color=\"black\" size={25}/>$0",
+    "description": "binoculars icon from FontAwesome font."
+  },
+  "fa-plug": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fa-plug",
+    "body": "<FontAwesome name=\"plug\" color=\"black\" size={25}/>$0",
+    "description": "plug icon from FontAwesome font."
+  },
+  "fa-slideshare": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fa-slideshare",
+    "body": "<FontAwesome name=\"slideshare\" color=\"black\" size={25}/>$0",
+    "description": "slideshare icon from FontAwesome font."
+  },
+  "fa-twitch": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fa-twitch",
+    "body": "<FontAwesome name=\"twitch\" color=\"black\" size={25}/>$0",
+    "description": "twitch icon from FontAwesome font."
+  },
+  "fa-yelp": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fa-yelp",
+    "body": "<FontAwesome name=\"yelp\" color=\"black\" size={25}/>$0",
+    "description": "yelp icon from FontAwesome font."
+  },
+  "fa-newspaper-o": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fa-newspaper-o",
+    "body": "<FontAwesome name=\"newspaper-o\" color=\"black\" size={25}/>$0",
+    "description": "newspaper-o icon from FontAwesome font."
+  },
+  "fa-wifi": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fa-wifi",
+    "body": "<FontAwesome name=\"wifi\" color=\"black\" size={25}/>$0",
+    "description": "wifi icon from FontAwesome font."
+  },
+  "fa-calculator": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fa-calculator",
+    "body": "<FontAwesome name=\"calculator\" color=\"black\" size={25}/>$0",
+    "description": "calculator icon from FontAwesome font."
+  },
+  "fa-paypal": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fa-paypal",
+    "body": "<FontAwesome name=\"paypal\" color=\"black\" size={25}/>$0",
+    "description": "paypal icon from FontAwesome font."
+  },
+  "fa-google-wallet": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fa-google-wallet",
+    "body": "<FontAwesome name=\"google-wallet\" color=\"black\" size={25}/>$0",
+    "description": "google-wallet icon from FontAwesome font."
+  },
+  "fa-cc-visa": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fa-cc-visa",
+    "body": "<FontAwesome name=\"cc-visa\" color=\"black\" size={25}/>$0",
+    "description": "cc-visa icon from FontAwesome font."
+  },
+  "fa-cc-mastercard": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fa-cc-mastercard",
+    "body": "<FontAwesome name=\"cc-mastercard\" color=\"black\" size={25}/>$0",
+    "description": "cc-mastercard icon from FontAwesome font."
+  },
+  "fa-cc-discover": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fa-cc-discover",
+    "body": "<FontAwesome name=\"cc-discover\" color=\"black\" size={25}/>$0",
+    "description": "cc-discover icon from FontAwesome font."
+  },
+  "fa-cc-amex": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fa-cc-amex",
+    "body": "<FontAwesome name=\"cc-amex\" color=\"black\" size={25}/>$0",
+    "description": "cc-amex icon from FontAwesome font."
+  },
+  "fa-cc-paypal": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fa-cc-paypal",
+    "body": "<FontAwesome name=\"cc-paypal\" color=\"black\" size={25}/>$0",
+    "description": "cc-paypal icon from FontAwesome font."
+  },
+  "fa-cc-stripe": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fa-cc-stripe",
+    "body": "<FontAwesome name=\"cc-stripe\" color=\"black\" size={25}/>$0",
+    "description": "cc-stripe icon from FontAwesome font."
+  },
+  "fa-bell-slash": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fa-bell-slash",
+    "body": "<FontAwesome name=\"bell-slash\" color=\"black\" size={25}/>$0",
+    "description": "bell-slash icon from FontAwesome font."
+  },
+  "fa-bell-slash-o": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fa-bell-slash-o",
+    "body": "<FontAwesome name=\"bell-slash-o\" color=\"black\" size={25}/>$0",
+    "description": "bell-slash-o icon from FontAwesome font."
+  },
+  "fa-trash": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fa-trash",
+    "body": "<FontAwesome name=\"trash\" color=\"black\" size={25}/>$0",
+    "description": "trash icon from FontAwesome font."
+  },
+  "fa-copyright": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fa-copyright",
+    "body": "<FontAwesome name=\"copyright\" color=\"black\" size={25}/>$0",
+    "description": "copyright icon from FontAwesome font."
+  },
+  "fa-at": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fa-at",
+    "body": "<FontAwesome name=\"at\" color=\"black\" size={25}/>$0",
+    "description": "at icon from FontAwesome font."
+  },
+  "fa-eyedropper": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fa-eyedropper",
+    "body": "<FontAwesome name=\"eyedropper\" color=\"black\" size={25}/>$0",
+    "description": "eyedropper icon from FontAwesome font."
+  },
+  "fa-paint-brush": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fa-paint-brush",
+    "body": "<FontAwesome name=\"paint-brush\" color=\"black\" size={25}/>$0",
+    "description": "paint-brush icon from FontAwesome font."
+  },
+  "fa-birthday-cake": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fa-birthday-cake",
+    "body": "<FontAwesome name=\"birthday-cake\" color=\"black\" size={25}/>$0",
+    "description": "birthday-cake icon from FontAwesome font."
+  },
+  "fa-area-chart": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fa-area-chart",
+    "body": "<FontAwesome name=\"area-chart\" color=\"black\" size={25}/>$0",
+    "description": "area-chart icon from FontAwesome font."
+  },
+  "fa-pie-chart": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fa-pie-chart",
+    "body": "<FontAwesome name=\"pie-chart\" color=\"black\" size={25}/>$0",
+    "description": "pie-chart icon from FontAwesome font."
+  },
+  "fa-line-chart": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fa-line-chart",
+    "body": "<FontAwesome name=\"line-chart\" color=\"black\" size={25}/>$0",
+    "description": "line-chart icon from FontAwesome font."
+  },
+  "fa-lastfm": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fa-lastfm",
+    "body": "<FontAwesome name=\"lastfm\" color=\"black\" size={25}/>$0",
+    "description": "lastfm icon from FontAwesome font."
+  },
+  "fa-lastfm-square": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fa-lastfm-square",
+    "body": "<FontAwesome name=\"lastfm-square\" color=\"black\" size={25}/>$0",
+    "description": "lastfm-square icon from FontAwesome font."
+  },
+  "fa-toggle-off": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fa-toggle-off",
+    "body": "<FontAwesome name=\"toggle-off\" color=\"black\" size={25}/>$0",
+    "description": "toggle-off icon from FontAwesome font."
+  },
+  "fa-toggle-on": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fa-toggle-on",
+    "body": "<FontAwesome name=\"toggle-on\" color=\"black\" size={25}/>$0",
+    "description": "toggle-on icon from FontAwesome font."
+  },
+  "fa-bicycle": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fa-bicycle",
+    "body": "<FontAwesome name=\"bicycle\" color=\"black\" size={25}/>$0",
+    "description": "bicycle icon from FontAwesome font."
+  },
+  "fa-bus": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fa-bus",
+    "body": "<FontAwesome name=\"bus\" color=\"black\" size={25}/>$0",
+    "description": "bus icon from FontAwesome font."
+  },
+  "fa-ioxhost": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fa-ioxhost",
+    "body": "<FontAwesome name=\"ioxhost\" color=\"black\" size={25}/>$0",
+    "description": "ioxhost icon from FontAwesome font."
+  },
+  "fa-angellist": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fa-angellist",
+    "body": "<FontAwesome name=\"angellist\" color=\"black\" size={25}/>$0",
+    "description": "angellist icon from FontAwesome font."
+  },
+  "fa-cc": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fa-cc",
+    "body": "<FontAwesome name=\"cc\" color=\"black\" size={25}/>$0",
+    "description": "cc icon from FontAwesome font."
+  },
+  "fa-shekel": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fa-shekel",
+    "body": "<FontAwesome name=\"shekel\" color=\"black\" size={25}/>$0",
+    "description": "shekel icon from FontAwesome font."
+  },
+  "fa-sheqel": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fa-sheqel",
+    "body": "<FontAwesome name=\"sheqel\" color=\"black\" size={25}/>$0",
+    "description": "sheqel icon from FontAwesome font."
+  },
+  "fa-ils": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fa-ils",
+    "body": "<FontAwesome name=\"ils\" color=\"black\" size={25}/>$0",
+    "description": "ils icon from FontAwesome font."
+  },
+  "fa-meanpath": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fa-meanpath",
+    "body": "<FontAwesome name=\"meanpath\" color=\"black\" size={25}/>$0",
+    "description": "meanpath icon from FontAwesome font."
+  },
+  "fa-buysellads": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fa-buysellads",
+    "body": "<FontAwesome name=\"buysellads\" color=\"black\" size={25}/>$0",
+    "description": "buysellads icon from FontAwesome font."
+  },
+  "fa-connectdevelop": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fa-connectdevelop",
+    "body": "<FontAwesome name=\"connectdevelop\" color=\"black\" size={25}/>$0",
+    "description": "connectdevelop icon from FontAwesome font."
+  },
+  "fa-dashcube": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fa-dashcube",
+    "body": "<FontAwesome name=\"dashcube\" color=\"black\" size={25}/>$0",
+    "description": "dashcube icon from FontAwesome font."
+  },
+  "fa-forumbee": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fa-forumbee",
+    "body": "<FontAwesome name=\"forumbee\" color=\"black\" size={25}/>$0",
+    "description": "forumbee icon from FontAwesome font."
+  },
+  "fa-leanpub": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fa-leanpub",
+    "body": "<FontAwesome name=\"leanpub\" color=\"black\" size={25}/>$0",
+    "description": "leanpub icon from FontAwesome font."
+  },
+  "fa-sellsy": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fa-sellsy",
+    "body": "<FontAwesome name=\"sellsy\" color=\"black\" size={25}/>$0",
+    "description": "sellsy icon from FontAwesome font."
+  },
+  "fa-shirtsinbulk": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fa-shirtsinbulk",
+    "body": "<FontAwesome name=\"shirtsinbulk\" color=\"black\" size={25}/>$0",
+    "description": "shirtsinbulk icon from FontAwesome font."
+  },
+  "fa-simplybuilt": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fa-simplybuilt",
+    "body": "<FontAwesome name=\"simplybuilt\" color=\"black\" size={25}/>$0",
+    "description": "simplybuilt icon from FontAwesome font."
+  },
+  "fa-skyatlas": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fa-skyatlas",
+    "body": "<FontAwesome name=\"skyatlas\" color=\"black\" size={25}/>$0",
+    "description": "skyatlas icon from FontAwesome font."
+  },
+  "fa-cart-plus": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fa-cart-plus",
+    "body": "<FontAwesome name=\"cart-plus\" color=\"black\" size={25}/>$0",
+    "description": "cart-plus icon from FontAwesome font."
+  },
+  "fa-cart-arrow-down": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fa-cart-arrow-down",
+    "body": "<FontAwesome name=\"cart-arrow-down\" color=\"black\" size={25}/>$0",
+    "description": "cart-arrow-down icon from FontAwesome font."
+  },
+  "fa-diamond": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fa-diamond",
+    "body": "<FontAwesome name=\"diamond\" color=\"black\" size={25}/>$0",
+    "description": "diamond icon from FontAwesome font."
+  },
+  "fa-ship": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fa-ship",
+    "body": "<FontAwesome name=\"ship\" color=\"black\" size={25}/>$0",
+    "description": "ship icon from FontAwesome font."
+  },
+  "fa-user-secret": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fa-user-secret",
+    "body": "<FontAwesome name=\"user-secret\" color=\"black\" size={25}/>$0",
+    "description": "user-secret icon from FontAwesome font."
+  },
+  "fa-motorcycle": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fa-motorcycle",
+    "body": "<FontAwesome name=\"motorcycle\" color=\"black\" size={25}/>$0",
+    "description": "motorcycle icon from FontAwesome font."
+  },
+  "fa-street-view": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fa-street-view",
+    "body": "<FontAwesome name=\"street-view\" color=\"black\" size={25}/>$0",
+    "description": "street-view icon from FontAwesome font."
+  },
+  "fa-heartbeat": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fa-heartbeat",
+    "body": "<FontAwesome name=\"heartbeat\" color=\"black\" size={25}/>$0",
+    "description": "heartbeat icon from FontAwesome font."
+  },
+  "fa-venus": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fa-venus",
+    "body": "<FontAwesome name=\"venus\" color=\"black\" size={25}/>$0",
+    "description": "venus icon from FontAwesome font."
+  },
+  "fa-mars": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fa-mars",
+    "body": "<FontAwesome name=\"mars\" color=\"black\" size={25}/>$0",
+    "description": "mars icon from FontAwesome font."
+  },
+  "fa-mercury": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fa-mercury",
+    "body": "<FontAwesome name=\"mercury\" color=\"black\" size={25}/>$0",
+    "description": "mercury icon from FontAwesome font."
+  },
+  "fa-intersex": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fa-intersex",
+    "body": "<FontAwesome name=\"intersex\" color=\"black\" size={25}/>$0",
+    "description": "intersex icon from FontAwesome font."
+  },
+  "fa-transgender": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fa-transgender",
+    "body": "<FontAwesome name=\"transgender\" color=\"black\" size={25}/>$0",
+    "description": "transgender icon from FontAwesome font."
+  },
+  "fa-transgender-alt": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fa-transgender-alt",
+    "body": "<FontAwesome name=\"transgender-alt\" color=\"black\" size={25}/>$0",
+    "description": "transgender-alt icon from FontAwesome font."
+  },
+  "fa-venus-double": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fa-venus-double",
+    "body": "<FontAwesome name=\"venus-double\" color=\"black\" size={25}/>$0",
+    "description": "venus-double icon from FontAwesome font."
+  },
+  "fa-mars-double": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fa-mars-double",
+    "body": "<FontAwesome name=\"mars-double\" color=\"black\" size={25}/>$0",
+    "description": "mars-double icon from FontAwesome font."
+  },
+  "fa-venus-mars": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fa-venus-mars",
+    "body": "<FontAwesome name=\"venus-mars\" color=\"black\" size={25}/>$0",
+    "description": "venus-mars icon from FontAwesome font."
+  },
+  "fa-mars-stroke": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fa-mars-stroke",
+    "body": "<FontAwesome name=\"mars-stroke\" color=\"black\" size={25}/>$0",
+    "description": "mars-stroke icon from FontAwesome font."
+  },
+  "fa-mars-stroke-v": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fa-mars-stroke-v",
+    "body": "<FontAwesome name=\"mars-stroke-v\" color=\"black\" size={25}/>$0",
+    "description": "mars-stroke-v icon from FontAwesome font."
+  },
+  "fa-mars-stroke-h": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fa-mars-stroke-h",
+    "body": "<FontAwesome name=\"mars-stroke-h\" color=\"black\" size={25}/>$0",
+    "description": "mars-stroke-h icon from FontAwesome font."
+  },
+  "fa-neuter": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fa-neuter",
+    "body": "<FontAwesome name=\"neuter\" color=\"black\" size={25}/>$0",
+    "description": "neuter icon from FontAwesome font."
+  },
+  "fa-genderless": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fa-genderless",
+    "body": "<FontAwesome name=\"genderless\" color=\"black\" size={25}/>$0",
+    "description": "genderless icon from FontAwesome font."
+  },
+  "fa-facebook-official": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fa-facebook-official",
+    "body": "<FontAwesome name=\"facebook-official\" color=\"black\" size={25}/>$0",
+    "description": "facebook-official icon from FontAwesome font."
+  },
+  "fa-pinterest-p": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fa-pinterest-p",
+    "body": "<FontAwesome name=\"pinterest-p\" color=\"black\" size={25}/>$0",
+    "description": "pinterest-p icon from FontAwesome font."
+  },
+  "fa-whatsapp": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fa-whatsapp",
+    "body": "<FontAwesome name=\"whatsapp\" color=\"black\" size={25}/>$0",
+    "description": "whatsapp icon from FontAwesome font."
+  },
+  "fa-server": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fa-server",
+    "body": "<FontAwesome name=\"server\" color=\"black\" size={25}/>$0",
+    "description": "server icon from FontAwesome font."
+  },
+  "fa-user-plus": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fa-user-plus",
+    "body": "<FontAwesome name=\"user-plus\" color=\"black\" size={25}/>$0",
+    "description": "user-plus icon from FontAwesome font."
+  },
+  "fa-user-times": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fa-user-times",
+    "body": "<FontAwesome name=\"user-times\" color=\"black\" size={25}/>$0",
+    "description": "user-times icon from FontAwesome font."
+  },
+  "fa-hotel": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fa-hotel",
+    "body": "<FontAwesome name=\"hotel\" color=\"black\" size={25}/>$0",
+    "description": "hotel icon from FontAwesome font."
+  },
+  "fa-bed": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fa-bed",
+    "body": "<FontAwesome name=\"bed\" color=\"black\" size={25}/>$0",
+    "description": "bed icon from FontAwesome font."
+  },
+  "fa-viacoin": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fa-viacoin",
+    "body": "<FontAwesome name=\"viacoin\" color=\"black\" size={25}/>$0",
+    "description": "viacoin icon from FontAwesome font."
+  },
+  "fa-train": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fa-train",
+    "body": "<FontAwesome name=\"train\" color=\"black\" size={25}/>$0",
+    "description": "train icon from FontAwesome font."
+  },
+  "fa-subway": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fa-subway",
+    "body": "<FontAwesome name=\"subway\" color=\"black\" size={25}/>$0",
+    "description": "subway icon from FontAwesome font."
+  },
+  "fa-medium": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fa-medium",
+    "body": "<FontAwesome name=\"medium\" color=\"black\" size={25}/>$0",
+    "description": "medium icon from FontAwesome font."
+  },
+  "fa-yc": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fa-yc",
+    "body": "<FontAwesome name=\"yc\" color=\"black\" size={25}/>$0",
+    "description": "yc icon from FontAwesome font."
+  },
+  "fa-y-combinator": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fa-y-combinator",
+    "body": "<FontAwesome name=\"y-combinator\" color=\"black\" size={25}/>$0",
+    "description": "y-combinator icon from FontAwesome font."
+  },
+  "fa-optin-monster": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fa-optin-monster",
+    "body": "<FontAwesome name=\"optin-monster\" color=\"black\" size={25}/>$0",
+    "description": "optin-monster icon from FontAwesome font."
+  },
+  "fa-opencart": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fa-opencart",
+    "body": "<FontAwesome name=\"opencart\" color=\"black\" size={25}/>$0",
+    "description": "opencart icon from FontAwesome font."
+  },
+  "fa-expeditedssl": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fa-expeditedssl",
+    "body": "<FontAwesome name=\"expeditedssl\" color=\"black\" size={25}/>$0",
+    "description": "expeditedssl icon from FontAwesome font."
+  },
+  "fa-battery-4": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fa-battery-4",
+    "body": "<FontAwesome name=\"battery-4\" color=\"black\" size={25}/>$0",
+    "description": "battery-4 icon from FontAwesome font."
+  },
+  "fa-battery": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fa-battery",
+    "body": "<FontAwesome name=\"battery\" color=\"black\" size={25}/>$0",
+    "description": "battery icon from FontAwesome font."
+  },
+  "fa-battery-full": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fa-battery-full",
+    "body": "<FontAwesome name=\"battery-full\" color=\"black\" size={25}/>$0",
+    "description": "battery-full icon from FontAwesome font."
+  },
+  "fa-battery-3": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fa-battery-3",
+    "body": "<FontAwesome name=\"battery-3\" color=\"black\" size={25}/>$0",
+    "description": "battery-3 icon from FontAwesome font."
+  },
+  "fa-battery-three-quarters": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fa-battery-three-quarters",
+    "body": "<FontAwesome name=\"battery-three-quarters\" color=\"black\" size={25}/>$0",
+    "description": "battery-three-quarters icon from FontAwesome font."
+  },
+  "fa-battery-2": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fa-battery-2",
+    "body": "<FontAwesome name=\"battery-2\" color=\"black\" size={25}/>$0",
+    "description": "battery-2 icon from FontAwesome font."
+  },
+  "fa-battery-half": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fa-battery-half",
+    "body": "<FontAwesome name=\"battery-half\" color=\"black\" size={25}/>$0",
+    "description": "battery-half icon from FontAwesome font."
+  },
+  "fa-battery-1": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fa-battery-1",
+    "body": "<FontAwesome name=\"battery-1\" color=\"black\" size={25}/>$0",
+    "description": "battery-1 icon from FontAwesome font."
+  },
+  "fa-battery-quarter": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fa-battery-quarter",
+    "body": "<FontAwesome name=\"battery-quarter\" color=\"black\" size={25}/>$0",
+    "description": "battery-quarter icon from FontAwesome font."
+  },
+  "fa-battery-0": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fa-battery-0",
+    "body": "<FontAwesome name=\"battery-0\" color=\"black\" size={25}/>$0",
+    "description": "battery-0 icon from FontAwesome font."
+  },
+  "fa-battery-empty": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fa-battery-empty",
+    "body": "<FontAwesome name=\"battery-empty\" color=\"black\" size={25}/>$0",
+    "description": "battery-empty icon from FontAwesome font."
+  },
+  "fa-mouse-pointer": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fa-mouse-pointer",
+    "body": "<FontAwesome name=\"mouse-pointer\" color=\"black\" size={25}/>$0",
+    "description": "mouse-pointer icon from FontAwesome font."
+  },
+  "fa-i-cursor": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fa-i-cursor",
+    "body": "<FontAwesome name=\"i-cursor\" color=\"black\" size={25}/>$0",
+    "description": "i-cursor icon from FontAwesome font."
+  },
+  "fa-object-group": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fa-object-group",
+    "body": "<FontAwesome name=\"object-group\" color=\"black\" size={25}/>$0",
+    "description": "object-group icon from FontAwesome font."
+  },
+  "fa-object-ungroup": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fa-object-ungroup",
+    "body": "<FontAwesome name=\"object-ungroup\" color=\"black\" size={25}/>$0",
+    "description": "object-ungroup icon from FontAwesome font."
+  },
+  "fa-sticky-note": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fa-sticky-note",
+    "body": "<FontAwesome name=\"sticky-note\" color=\"black\" size={25}/>$0",
+    "description": "sticky-note icon from FontAwesome font."
+  },
+  "fa-sticky-note-o": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fa-sticky-note-o",
+    "body": "<FontAwesome name=\"sticky-note-o\" color=\"black\" size={25}/>$0",
+    "description": "sticky-note-o icon from FontAwesome font."
+  },
+  "fa-cc-jcb": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fa-cc-jcb",
+    "body": "<FontAwesome name=\"cc-jcb\" color=\"black\" size={25}/>$0",
+    "description": "cc-jcb icon from FontAwesome font."
+  },
+  "fa-cc-diners-club": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fa-cc-diners-club",
+    "body": "<FontAwesome name=\"cc-diners-club\" color=\"black\" size={25}/>$0",
+    "description": "cc-diners-club icon from FontAwesome font."
+  },
+  "fa-clone": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fa-clone",
+    "body": "<FontAwesome name=\"clone\" color=\"black\" size={25}/>$0",
+    "description": "clone icon from FontAwesome font."
+  },
+  "fa-balance-scale": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fa-balance-scale",
+    "body": "<FontAwesome name=\"balance-scale\" color=\"black\" size={25}/>$0",
+    "description": "balance-scale icon from FontAwesome font."
+  },
+  "fa-hourglass-o": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fa-hourglass-o",
+    "body": "<FontAwesome name=\"hourglass-o\" color=\"black\" size={25}/>$0",
+    "description": "hourglass-o icon from FontAwesome font."
+  },
+  "fa-hourglass-1": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fa-hourglass-1",
+    "body": "<FontAwesome name=\"hourglass-1\" color=\"black\" size={25}/>$0",
+    "description": "hourglass-1 icon from FontAwesome font."
+  },
+  "fa-hourglass-start": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fa-hourglass-start",
+    "body": "<FontAwesome name=\"hourglass-start\" color=\"black\" size={25}/>$0",
+    "description": "hourglass-start icon from FontAwesome font."
+  },
+  "fa-hourglass-2": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fa-hourglass-2",
+    "body": "<FontAwesome name=\"hourglass-2\" color=\"black\" size={25}/>$0",
+    "description": "hourglass-2 icon from FontAwesome font."
+  },
+  "fa-hourglass-half": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fa-hourglass-half",
+    "body": "<FontAwesome name=\"hourglass-half\" color=\"black\" size={25}/>$0",
+    "description": "hourglass-half icon from FontAwesome font."
+  },
+  "fa-hourglass-3": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fa-hourglass-3",
+    "body": "<FontAwesome name=\"hourglass-3\" color=\"black\" size={25}/>$0",
+    "description": "hourglass-3 icon from FontAwesome font."
+  },
+  "fa-hourglass-end": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fa-hourglass-end",
+    "body": "<FontAwesome name=\"hourglass-end\" color=\"black\" size={25}/>$0",
+    "description": "hourglass-end icon from FontAwesome font."
+  },
+  "fa-hourglass": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fa-hourglass",
+    "body": "<FontAwesome name=\"hourglass\" color=\"black\" size={25}/>$0",
+    "description": "hourglass icon from FontAwesome font."
+  },
+  "fa-hand-grab-o": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fa-hand-grab-o",
+    "body": "<FontAwesome name=\"hand-grab-o\" color=\"black\" size={25}/>$0",
+    "description": "hand-grab-o icon from FontAwesome font."
+  },
+  "fa-hand-rock-o": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fa-hand-rock-o",
+    "body": "<FontAwesome name=\"hand-rock-o\" color=\"black\" size={25}/>$0",
+    "description": "hand-rock-o icon from FontAwesome font."
+  },
+  "fa-hand-stop-o": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fa-hand-stop-o",
+    "body": "<FontAwesome name=\"hand-stop-o\" color=\"black\" size={25}/>$0",
+    "description": "hand-stop-o icon from FontAwesome font."
+  },
+  "fa-hand-paper-o": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fa-hand-paper-o",
+    "body": "<FontAwesome name=\"hand-paper-o\" color=\"black\" size={25}/>$0",
+    "description": "hand-paper-o icon from FontAwesome font."
+  },
+  "fa-hand-scissors-o": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fa-hand-scissors-o",
+    "body": "<FontAwesome name=\"hand-scissors-o\" color=\"black\" size={25}/>$0",
+    "description": "hand-scissors-o icon from FontAwesome font."
+  },
+  "fa-hand-lizard-o": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fa-hand-lizard-o",
+    "body": "<FontAwesome name=\"hand-lizard-o\" color=\"black\" size={25}/>$0",
+    "description": "hand-lizard-o icon from FontAwesome font."
+  },
+  "fa-hand-spock-o": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fa-hand-spock-o",
+    "body": "<FontAwesome name=\"hand-spock-o\" color=\"black\" size={25}/>$0",
+    "description": "hand-spock-o icon from FontAwesome font."
+  },
+  "fa-hand-pointer-o": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fa-hand-pointer-o",
+    "body": "<FontAwesome name=\"hand-pointer-o\" color=\"black\" size={25}/>$0",
+    "description": "hand-pointer-o icon from FontAwesome font."
+  },
+  "fa-hand-peace-o": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fa-hand-peace-o",
+    "body": "<FontAwesome name=\"hand-peace-o\" color=\"black\" size={25}/>$0",
+    "description": "hand-peace-o icon from FontAwesome font."
+  },
+  "fa-trademark": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fa-trademark",
+    "body": "<FontAwesome name=\"trademark\" color=\"black\" size={25}/>$0",
+    "description": "trademark icon from FontAwesome font."
+  },
+  "fa-registered": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fa-registered",
+    "body": "<FontAwesome name=\"registered\" color=\"black\" size={25}/>$0",
+    "description": "registered icon from FontAwesome font."
+  },
+  "fa-creative-commons": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fa-creative-commons",
+    "body": "<FontAwesome name=\"creative-commons\" color=\"black\" size={25}/>$0",
+    "description": "creative-commons icon from FontAwesome font."
+  },
+  "fa-gg": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fa-gg",
+    "body": "<FontAwesome name=\"gg\" color=\"black\" size={25}/>$0",
+    "description": "gg icon from FontAwesome font."
+  },
+  "fa-gg-circle": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fa-gg-circle",
+    "body": "<FontAwesome name=\"gg-circle\" color=\"black\" size={25}/>$0",
+    "description": "gg-circle icon from FontAwesome font."
+  },
+  "fa-tripadvisor": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fa-tripadvisor",
+    "body": "<FontAwesome name=\"tripadvisor\" color=\"black\" size={25}/>$0",
+    "description": "tripadvisor icon from FontAwesome font."
+  },
+  "fa-odnoklassniki": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fa-odnoklassniki",
+    "body": "<FontAwesome name=\"odnoklassniki\" color=\"black\" size={25}/>$0",
+    "description": "odnoklassniki icon from FontAwesome font."
+  },
+  "fa-odnoklassniki-square": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fa-odnoklassniki-square",
+    "body": "<FontAwesome name=\"odnoklassniki-square\" color=\"black\" size={25}/>$0",
+    "description": "odnoklassniki-square icon from FontAwesome font."
+  },
+  "fa-get-pocket": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fa-get-pocket",
+    "body": "<FontAwesome name=\"get-pocket\" color=\"black\" size={25}/>$0",
+    "description": "get-pocket icon from FontAwesome font."
+  },
+  "fa-wikipedia-w": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fa-wikipedia-w",
+    "body": "<FontAwesome name=\"wikipedia-w\" color=\"black\" size={25}/>$0",
+    "description": "wikipedia-w icon from FontAwesome font."
+  },
+  "fa-safari": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fa-safari",
+    "body": "<FontAwesome name=\"safari\" color=\"black\" size={25}/>$0",
+    "description": "safari icon from FontAwesome font."
+  },
+  "fa-chrome": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fa-chrome",
+    "body": "<FontAwesome name=\"chrome\" color=\"black\" size={25}/>$0",
+    "description": "chrome icon from FontAwesome font."
+  },
+  "fa-firefox": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fa-firefox",
+    "body": "<FontAwesome name=\"firefox\" color=\"black\" size={25}/>$0",
+    "description": "firefox icon from FontAwesome font."
+  },
+  "fa-opera": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fa-opera",
+    "body": "<FontAwesome name=\"opera\" color=\"black\" size={25}/>$0",
+    "description": "opera icon from FontAwesome font."
+  },
+  "fa-internet-explorer": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fa-internet-explorer",
+    "body": "<FontAwesome name=\"internet-explorer\" color=\"black\" size={25}/>$0",
+    "description": "internet-explorer icon from FontAwesome font."
+  },
+  "fa-tv": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fa-tv",
+    "body": "<FontAwesome name=\"tv\" color=\"black\" size={25}/>$0",
+    "description": "tv icon from FontAwesome font."
+  },
+  "fa-television": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fa-television",
+    "body": "<FontAwesome name=\"television\" color=\"black\" size={25}/>$0",
+    "description": "television icon from FontAwesome font."
+  },
+  "fa-contao": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fa-contao",
+    "body": "<FontAwesome name=\"contao\" color=\"black\" size={25}/>$0",
+    "description": "contao icon from FontAwesome font."
+  },
+  "fa-500px": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fa-500px",
+    "body": "<FontAwesome name=\"500px\" color=\"black\" size={25}/>$0",
+    "description": "500px icon from FontAwesome font."
+  },
+  "fa-amazon": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fa-amazon",
+    "body": "<FontAwesome name=\"amazon\" color=\"black\" size={25}/>$0",
+    "description": "amazon icon from FontAwesome font."
+  },
+  "fa-calendar-plus-o": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fa-calendar-plus-o",
+    "body": "<FontAwesome name=\"calendar-plus-o\" color=\"black\" size={25}/>$0",
+    "description": "calendar-plus-o icon from FontAwesome font."
+  },
+  "fa-calendar-minus-o": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fa-calendar-minus-o",
+    "body": "<FontAwesome name=\"calendar-minus-o\" color=\"black\" size={25}/>$0",
+    "description": "calendar-minus-o icon from FontAwesome font."
+  },
+  "fa-calendar-times-o": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fa-calendar-times-o",
+    "body": "<FontAwesome name=\"calendar-times-o\" color=\"black\" size={25}/>$0",
+    "description": "calendar-times-o icon from FontAwesome font."
+  },
+  "fa-calendar-check-o": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fa-calendar-check-o",
+    "body": "<FontAwesome name=\"calendar-check-o\" color=\"black\" size={25}/>$0",
+    "description": "calendar-check-o icon from FontAwesome font."
+  },
+  "fa-industry": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fa-industry",
+    "body": "<FontAwesome name=\"industry\" color=\"black\" size={25}/>$0",
+    "description": "industry icon from FontAwesome font."
+  },
+  "fa-map-pin": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fa-map-pin",
+    "body": "<FontAwesome name=\"map-pin\" color=\"black\" size={25}/>$0",
+    "description": "map-pin icon from FontAwesome font."
+  },
+  "fa-map-signs": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fa-map-signs",
+    "body": "<FontAwesome name=\"map-signs\" color=\"black\" size={25}/>$0",
+    "description": "map-signs icon from FontAwesome font."
+  },
+  "fa-map-o": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fa-map-o",
+    "body": "<FontAwesome name=\"map-o\" color=\"black\" size={25}/>$0",
+    "description": "map-o icon from FontAwesome font."
+  },
+  "fa-map": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fa-map",
+    "body": "<FontAwesome name=\"map\" color=\"black\" size={25}/>$0",
+    "description": "map icon from FontAwesome font."
+  },
+  "fa-commenting": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fa-commenting",
+    "body": "<FontAwesome name=\"commenting\" color=\"black\" size={25}/>$0",
+    "description": "commenting icon from FontAwesome font."
+  },
+  "fa-commenting-o": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fa-commenting-o",
+    "body": "<FontAwesome name=\"commenting-o\" color=\"black\" size={25}/>$0",
+    "description": "commenting-o icon from FontAwesome font."
+  },
+  "fa-houzz": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fa-houzz",
+    "body": "<FontAwesome name=\"houzz\" color=\"black\" size={25}/>$0",
+    "description": "houzz icon from FontAwesome font."
+  },
+  "fa-vimeo": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fa-vimeo",
+    "body": "<FontAwesome name=\"vimeo\" color=\"black\" size={25}/>$0",
+    "description": "vimeo icon from FontAwesome font."
+  },
+  "fa-black-tie": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fa-black-tie",
+    "body": "<FontAwesome name=\"black-tie\" color=\"black\" size={25}/>$0",
+    "description": "black-tie icon from FontAwesome font."
+  },
+  "fa-fonticons": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fa-fonticons",
+    "body": "<FontAwesome name=\"fonticons\" color=\"black\" size={25}/>$0",
+    "description": "fonticons icon from FontAwesome font."
+  },
+  "fa-reddit-alien": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fa-reddit-alien",
+    "body": "<FontAwesome name=\"reddit-alien\" color=\"black\" size={25}/>$0",
+    "description": "reddit-alien icon from FontAwesome font."
+  },
+  "fa-edge": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fa-edge",
+    "body": "<FontAwesome name=\"edge\" color=\"black\" size={25}/>$0",
+    "description": "edge icon from FontAwesome font."
+  },
+  "fa-credit-card-alt": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fa-credit-card-alt",
+    "body": "<FontAwesome name=\"credit-card-alt\" color=\"black\" size={25}/>$0",
+    "description": "credit-card-alt icon from FontAwesome font."
+  },
+  "fa-codiepie": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fa-codiepie",
+    "body": "<FontAwesome name=\"codiepie\" color=\"black\" size={25}/>$0",
+    "description": "codiepie icon from FontAwesome font."
+  },
+  "fa-modx": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fa-modx",
+    "body": "<FontAwesome name=\"modx\" color=\"black\" size={25}/>$0",
+    "description": "modx icon from FontAwesome font."
+  },
+  "fa-fort-awesome": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fa-fort-awesome",
+    "body": "<FontAwesome name=\"fort-awesome\" color=\"black\" size={25}/>$0",
+    "description": "fort-awesome icon from FontAwesome font."
+  },
+  "fa-usb": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fa-usb",
+    "body": "<FontAwesome name=\"usb\" color=\"black\" size={25}/>$0",
+    "description": "usb icon from FontAwesome font."
+  },
+  "fa-product-hunt": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fa-product-hunt",
+    "body": "<FontAwesome name=\"product-hunt\" color=\"black\" size={25}/>$0",
+    "description": "product-hunt icon from FontAwesome font."
+  },
+  "fa-mixcloud": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fa-mixcloud",
+    "body": "<FontAwesome name=\"mixcloud\" color=\"black\" size={25}/>$0",
+    "description": "mixcloud icon from FontAwesome font."
+  },
+  "fa-scribd": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fa-scribd",
+    "body": "<FontAwesome name=\"scribd\" color=\"black\" size={25}/>$0",
+    "description": "scribd icon from FontAwesome font."
+  },
+  "fa-pause-circle": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fa-pause-circle",
+    "body": "<FontAwesome name=\"pause-circle\" color=\"black\" size={25}/>$0",
+    "description": "pause-circle icon from FontAwesome font."
+  },
+  "fa-pause-circle-o": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fa-pause-circle-o",
+    "body": "<FontAwesome name=\"pause-circle-o\" color=\"black\" size={25}/>$0",
+    "description": "pause-circle-o icon from FontAwesome font."
+  },
+  "fa-stop-circle": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fa-stop-circle",
+    "body": "<FontAwesome name=\"stop-circle\" color=\"black\" size={25}/>$0",
+    "description": "stop-circle icon from FontAwesome font."
+  },
+  "fa-stop-circle-o": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fa-stop-circle-o",
+    "body": "<FontAwesome name=\"stop-circle-o\" color=\"black\" size={25}/>$0",
+    "description": "stop-circle-o icon from FontAwesome font."
+  },
+  "fa-shopping-bag": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fa-shopping-bag",
+    "body": "<FontAwesome name=\"shopping-bag\" color=\"black\" size={25}/>$0",
+    "description": "shopping-bag icon from FontAwesome font."
+  },
+  "fa-shopping-basket": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fa-shopping-basket",
+    "body": "<FontAwesome name=\"shopping-basket\" color=\"black\" size={25}/>$0",
+    "description": "shopping-basket icon from FontAwesome font."
+  },
+  "fa-hashtag": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fa-hashtag",
+    "body": "<FontAwesome name=\"hashtag\" color=\"black\" size={25}/>$0",
+    "description": "hashtag icon from FontAwesome font."
+  },
+  "fa-bluetooth": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fa-bluetooth",
+    "body": "<FontAwesome name=\"bluetooth\" color=\"black\" size={25}/>$0",
+    "description": "bluetooth icon from FontAwesome font."
+  },
+  "fa-bluetooth-b": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fa-bluetooth-b",
+    "body": "<FontAwesome name=\"bluetooth-b\" color=\"black\" size={25}/>$0",
+    "description": "bluetooth-b icon from FontAwesome font."
+  },
+  "fa-percent": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fa-percent",
+    "body": "<FontAwesome name=\"percent\" color=\"black\" size={25}/>$0",
+    "description": "percent icon from FontAwesome font."
+  },
+  "fa-gitlab": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fa-gitlab",
+    "body": "<FontAwesome name=\"gitlab\" color=\"black\" size={25}/>$0",
+    "description": "gitlab icon from FontAwesome font."
+  },
+  "fa-wpbeginner": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fa-wpbeginner",
+    "body": "<FontAwesome name=\"wpbeginner\" color=\"black\" size={25}/>$0",
+    "description": "wpbeginner icon from FontAwesome font."
+  },
+  "fa-wpforms": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fa-wpforms",
+    "body": "<FontAwesome name=\"wpforms\" color=\"black\" size={25}/>$0",
+    "description": "wpforms icon from FontAwesome font."
+  },
+  "fa-envira": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fa-envira",
+    "body": "<FontAwesome name=\"envira\" color=\"black\" size={25}/>$0",
+    "description": "envira icon from FontAwesome font."
+  },
+  "fa-universal-access": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fa-universal-access",
+    "body": "<FontAwesome name=\"universal-access\" color=\"black\" size={25}/>$0",
+    "description": "universal-access icon from FontAwesome font."
+  },
+  "fa-wheelchair-alt": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fa-wheelchair-alt",
+    "body": "<FontAwesome name=\"wheelchair-alt\" color=\"black\" size={25}/>$0",
+    "description": "wheelchair-alt icon from FontAwesome font."
+  },
+  "fa-question-circle-o": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fa-question-circle-o",
+    "body": "<FontAwesome name=\"question-circle-o\" color=\"black\" size={25}/>$0",
+    "description": "question-circle-o icon from FontAwesome font."
+  },
+  "fa-blind": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fa-blind",
+    "body": "<FontAwesome name=\"blind\" color=\"black\" size={25}/>$0",
+    "description": "blind icon from FontAwesome font."
+  },
+  "fa-audio-description": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fa-audio-description",
+    "body": "<FontAwesome name=\"audio-description\" color=\"black\" size={25}/>$0",
+    "description": "audio-description icon from FontAwesome font."
+  },
+  "fa-volume-control-phone": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fa-volume-control-phone",
+    "body": "<FontAwesome name=\"volume-control-phone\" color=\"black\" size={25}/>$0",
+    "description": "volume-control-phone icon from FontAwesome font."
+  },
+  "fa-braille": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fa-braille",
+    "body": "<FontAwesome name=\"braille\" color=\"black\" size={25}/>$0",
+    "description": "braille icon from FontAwesome font."
+  },
+  "fa-assistive-listening-systems": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fa-assistive-listening-systems",
+    "body": "<FontAwesome name=\"assistive-listening-systems\" color=\"black\" size={25}/>$0",
+    "description": "assistive-listening-systems icon from FontAwesome font."
+  },
+  "fa-asl-interpreting": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fa-asl-interpreting",
+    "body": "<FontAwesome name=\"asl-interpreting\" color=\"black\" size={25}/>$0",
+    "description": "asl-interpreting icon from FontAwesome font."
+  },
+  "fa-american-sign-language-interpreting": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fa-american-sign-language-interpreting",
+    "body": "<FontAwesome name=\"american-sign-language-interpreting\" color=\"black\" size={25}/>$0",
+    "description": "american-sign-language-interpreting icon from FontAwesome font."
+  },
+  "fa-deafness": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fa-deafness",
+    "body": "<FontAwesome name=\"deafness\" color=\"black\" size={25}/>$0",
+    "description": "deafness icon from FontAwesome font."
+  },
+  "fa-hard-of-hearing": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fa-hard-of-hearing",
+    "body": "<FontAwesome name=\"hard-of-hearing\" color=\"black\" size={25}/>$0",
+    "description": "hard-of-hearing icon from FontAwesome font."
+  },
+  "fa-deaf": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fa-deaf",
+    "body": "<FontAwesome name=\"deaf\" color=\"black\" size={25}/>$0",
+    "description": "deaf icon from FontAwesome font."
+  },
+  "fa-glide": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fa-glide",
+    "body": "<FontAwesome name=\"glide\" color=\"black\" size={25}/>$0",
+    "description": "glide icon from FontAwesome font."
+  },
+  "fa-glide-g": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fa-glide-g",
+    "body": "<FontAwesome name=\"glide-g\" color=\"black\" size={25}/>$0",
+    "description": "glide-g icon from FontAwesome font."
+  },
+  "fa-signing": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fa-signing",
+    "body": "<FontAwesome name=\"signing\" color=\"black\" size={25}/>$0",
+    "description": "signing icon from FontAwesome font."
+  },
+  "fa-sign-language": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fa-sign-language",
+    "body": "<FontAwesome name=\"sign-language\" color=\"black\" size={25}/>$0",
+    "description": "sign-language icon from FontAwesome font."
+  },
+  "fa-low-vision": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fa-low-vision",
+    "body": "<FontAwesome name=\"low-vision\" color=\"black\" size={25}/>$0",
+    "description": "low-vision icon from FontAwesome font."
+  },
+  "fa-viadeo": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fa-viadeo",
+    "body": "<FontAwesome name=\"viadeo\" color=\"black\" size={25}/>$0",
+    "description": "viadeo icon from FontAwesome font."
+  },
+  "fa-viadeo-square": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fa-viadeo-square",
+    "body": "<FontAwesome name=\"viadeo-square\" color=\"black\" size={25}/>$0",
+    "description": "viadeo-square icon from FontAwesome font."
+  },
+  "fa-snapchat": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fa-snapchat",
+    "body": "<FontAwesome name=\"snapchat\" color=\"black\" size={25}/>$0",
+    "description": "snapchat icon from FontAwesome font."
+  },
+  "fa-snapchat-ghost": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fa-snapchat-ghost",
+    "body": "<FontAwesome name=\"snapchat-ghost\" color=\"black\" size={25}/>$0",
+    "description": "snapchat-ghost icon from FontAwesome font."
+  },
+  "fa-snapchat-square": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fa-snapchat-square",
+    "body": "<FontAwesome name=\"snapchat-square\" color=\"black\" size={25}/>$0",
+    "description": "snapchat-square icon from FontAwesome font."
+  },
+  "fa-pied-piper": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fa-pied-piper",
+    "body": "<FontAwesome name=\"pied-piper\" color=\"black\" size={25}/>$0",
+    "description": "pied-piper icon from FontAwesome font."
+  },
+  "fa-first-order": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fa-first-order",
+    "body": "<FontAwesome name=\"first-order\" color=\"black\" size={25}/>$0",
+    "description": "first-order icon from FontAwesome font."
+  },
+  "fa-yoast": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fa-yoast",
+    "body": "<FontAwesome name=\"yoast\" color=\"black\" size={25}/>$0",
+    "description": "yoast icon from FontAwesome font."
+  },
+  "fa-themeisle": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fa-themeisle",
+    "body": "<FontAwesome name=\"themeisle\" color=\"black\" size={25}/>$0",
+    "description": "themeisle icon from FontAwesome font."
+  },
+  "fa-google-plus-circle": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fa-google-plus-circle",
+    "body": "<FontAwesome name=\"google-plus-circle\" color=\"black\" size={25}/>$0",
+    "description": "google-plus-circle icon from FontAwesome font."
+  },
+  "fa-google-plus-official": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fa-google-plus-official",
+    "body": "<FontAwesome name=\"google-plus-official\" color=\"black\" size={25}/>$0",
+    "description": "google-plus-official icon from FontAwesome font."
+  },
+  "fa-fa": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fa-fa",
+    "body": "<FontAwesome name=\"fa\" color=\"black\" size={25}/>$0",
+    "description": "fa icon from FontAwesome font."
+  },
+  "fa-font-awesome": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fa-font-awesome",
+    "body": "<FontAwesome name=\"font-awesome\" color=\"black\" size={25}/>$0",
+    "description": "font-awesome icon from FontAwesome font."
+  },
+  "fa-handshake-o": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fa-handshake-o",
+    "body": "<FontAwesome name=\"handshake-o\" color=\"black\" size={25}/>$0",
+    "description": "handshake-o icon from FontAwesome font."
+  },
+  "fa-envelope-open": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fa-envelope-open",
+    "body": "<FontAwesome name=\"envelope-open\" color=\"black\" size={25}/>$0",
+    "description": "envelope-open icon from FontAwesome font."
+  },
+  "fa-envelope-open-o": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fa-envelope-open-o",
+    "body": "<FontAwesome name=\"envelope-open-o\" color=\"black\" size={25}/>$0",
+    "description": "envelope-open-o icon from FontAwesome font."
+  },
+  "fa-linode": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fa-linode",
+    "body": "<FontAwesome name=\"linode\" color=\"black\" size={25}/>$0",
+    "description": "linode icon from FontAwesome font."
+  },
+  "fa-address-book": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fa-address-book",
+    "body": "<FontAwesome name=\"address-book\" color=\"black\" size={25}/>$0",
+    "description": "address-book icon from FontAwesome font."
+  },
+  "fa-address-book-o": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fa-address-book-o",
+    "body": "<FontAwesome name=\"address-book-o\" color=\"black\" size={25}/>$0",
+    "description": "address-book-o icon from FontAwesome font."
+  },
+  "fa-vcard": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fa-vcard",
+    "body": "<FontAwesome name=\"vcard\" color=\"black\" size={25}/>$0",
+    "description": "vcard icon from FontAwesome font."
+  },
+  "fa-address-card": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fa-address-card",
+    "body": "<FontAwesome name=\"address-card\" color=\"black\" size={25}/>$0",
+    "description": "address-card icon from FontAwesome font."
+  },
+  "fa-vcard-o": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fa-vcard-o",
+    "body": "<FontAwesome name=\"vcard-o\" color=\"black\" size={25}/>$0",
+    "description": "vcard-o icon from FontAwesome font."
+  },
+  "fa-address-card-o": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fa-address-card-o",
+    "body": "<FontAwesome name=\"address-card-o\" color=\"black\" size={25}/>$0",
+    "description": "address-card-o icon from FontAwesome font."
+  },
+  "fa-user-circle": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fa-user-circle",
+    "body": "<FontAwesome name=\"user-circle\" color=\"black\" size={25}/>$0",
+    "description": "user-circle icon from FontAwesome font."
+  },
+  "fa-user-circle-o": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fa-user-circle-o",
+    "body": "<FontAwesome name=\"user-circle-o\" color=\"black\" size={25}/>$0",
+    "description": "user-circle-o icon from FontAwesome font."
+  },
+  "fa-user-o": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fa-user-o",
+    "body": "<FontAwesome name=\"user-o\" color=\"black\" size={25}/>$0",
+    "description": "user-o icon from FontAwesome font."
+  },
+  "fa-id-badge": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fa-id-badge",
+    "body": "<FontAwesome name=\"id-badge\" color=\"black\" size={25}/>$0",
+    "description": "id-badge icon from FontAwesome font."
+  },
+  "fa-drivers-license": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fa-drivers-license",
+    "body": "<FontAwesome name=\"drivers-license\" color=\"black\" size={25}/>$0",
+    "description": "drivers-license icon from FontAwesome font."
+  },
+  "fa-id-card": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fa-id-card",
+    "body": "<FontAwesome name=\"id-card\" color=\"black\" size={25}/>$0",
+    "description": "id-card icon from FontAwesome font."
+  },
+  "fa-drivers-license-o": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fa-drivers-license-o",
+    "body": "<FontAwesome name=\"drivers-license-o\" color=\"black\" size={25}/>$0",
+    "description": "drivers-license-o icon from FontAwesome font."
+  },
+  "fa-id-card-o": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fa-id-card-o",
+    "body": "<FontAwesome name=\"id-card-o\" color=\"black\" size={25}/>$0",
+    "description": "id-card-o icon from FontAwesome font."
+  },
+  "fa-quora": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fa-quora",
+    "body": "<FontAwesome name=\"quora\" color=\"black\" size={25}/>$0",
+    "description": "quora icon from FontAwesome font."
+  },
+  "fa-free-code-camp": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fa-free-code-camp",
+    "body": "<FontAwesome name=\"free-code-camp\" color=\"black\" size={25}/>$0",
+    "description": "free-code-camp icon from FontAwesome font."
+  },
+  "fa-telegram": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fa-telegram",
+    "body": "<FontAwesome name=\"telegram\" color=\"black\" size={25}/>$0",
+    "description": "telegram icon from FontAwesome font."
+  },
+  "fa-thermometer-4": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fa-thermometer-4",
+    "body": "<FontAwesome name=\"thermometer-4\" color=\"black\" size={25}/>$0",
+    "description": "thermometer-4 icon from FontAwesome font."
+  },
+  "fa-thermometer": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fa-thermometer",
+    "body": "<FontAwesome name=\"thermometer\" color=\"black\" size={25}/>$0",
+    "description": "thermometer icon from FontAwesome font."
+  },
+  "fa-thermometer-full": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fa-thermometer-full",
+    "body": "<FontAwesome name=\"thermometer-full\" color=\"black\" size={25}/>$0",
+    "description": "thermometer-full icon from FontAwesome font."
+  },
+  "fa-thermometer-3": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fa-thermometer-3",
+    "body": "<FontAwesome name=\"thermometer-3\" color=\"black\" size={25}/>$0",
+    "description": "thermometer-3 icon from FontAwesome font."
+  },
+  "fa-thermometer-three-quarters": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fa-thermometer-three-quarters",
+    "body": "<FontAwesome name=\"thermometer-three-quarters\" color=\"black\" size={25}/>$0",
+    "description": "thermometer-three-quarters icon from FontAwesome font."
+  },
+  "fa-thermometer-2": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fa-thermometer-2",
+    "body": "<FontAwesome name=\"thermometer-2\" color=\"black\" size={25}/>$0",
+    "description": "thermometer-2 icon from FontAwesome font."
+  },
+  "fa-thermometer-half": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fa-thermometer-half",
+    "body": "<FontAwesome name=\"thermometer-half\" color=\"black\" size={25}/>$0",
+    "description": "thermometer-half icon from FontAwesome font."
+  },
+  "fa-thermometer-1": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fa-thermometer-1",
+    "body": "<FontAwesome name=\"thermometer-1\" color=\"black\" size={25}/>$0",
+    "description": "thermometer-1 icon from FontAwesome font."
+  },
+  "fa-thermometer-quarter": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fa-thermometer-quarter",
+    "body": "<FontAwesome name=\"thermometer-quarter\" color=\"black\" size={25}/>$0",
+    "description": "thermometer-quarter icon from FontAwesome font."
+  },
+  "fa-thermometer-0": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fa-thermometer-0",
+    "body": "<FontAwesome name=\"thermometer-0\" color=\"black\" size={25}/>$0",
+    "description": "thermometer-0 icon from FontAwesome font."
+  },
+  "fa-thermometer-empty": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fa-thermometer-empty",
+    "body": "<FontAwesome name=\"thermometer-empty\" color=\"black\" size={25}/>$0",
+    "description": "thermometer-empty icon from FontAwesome font."
+  },
+  "fa-shower": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fa-shower",
+    "body": "<FontAwesome name=\"shower\" color=\"black\" size={25}/>$0",
+    "description": "shower icon from FontAwesome font."
+  },
+  "fa-bathtub": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fa-bathtub",
+    "body": "<FontAwesome name=\"bathtub\" color=\"black\" size={25}/>$0",
+    "description": "bathtub icon from FontAwesome font."
+  },
+  "fa-s15": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fa-s15",
+    "body": "<FontAwesome name=\"s15\" color=\"black\" size={25}/>$0",
+    "description": "s15 icon from FontAwesome font."
+  },
+  "fa-bath": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fa-bath",
+    "body": "<FontAwesome name=\"bath\" color=\"black\" size={25}/>$0",
+    "description": "bath icon from FontAwesome font."
+  },
+  "fa-podcast": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fa-podcast",
+    "body": "<FontAwesome name=\"podcast\" color=\"black\" size={25}/>$0",
+    "description": "podcast icon from FontAwesome font."
+  },
+  "fa-window-maximize": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fa-window-maximize",
+    "body": "<FontAwesome name=\"window-maximize\" color=\"black\" size={25}/>$0",
+    "description": "window-maximize icon from FontAwesome font."
+  },
+  "fa-window-minimize": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fa-window-minimize",
+    "body": "<FontAwesome name=\"window-minimize\" color=\"black\" size={25}/>$0",
+    "description": "window-minimize icon from FontAwesome font."
+  },
+  "fa-window-restore": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fa-window-restore",
+    "body": "<FontAwesome name=\"window-restore\" color=\"black\" size={25}/>$0",
+    "description": "window-restore icon from FontAwesome font."
+  },
+  "fa-times-rectangle": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fa-times-rectangle",
+    "body": "<FontAwesome name=\"times-rectangle\" color=\"black\" size={25}/>$0",
+    "description": "times-rectangle icon from FontAwesome font."
+  },
+  "fa-window-close": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fa-window-close",
+    "body": "<FontAwesome name=\"window-close\" color=\"black\" size={25}/>$0",
+    "description": "window-close icon from FontAwesome font."
+  },
+  "fa-times-rectangle-o": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fa-times-rectangle-o",
+    "body": "<FontAwesome name=\"times-rectangle-o\" color=\"black\" size={25}/>$0",
+    "description": "times-rectangle-o icon from FontAwesome font."
+  },
+  "fa-window-close-o": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fa-window-close-o",
+    "body": "<FontAwesome name=\"window-close-o\" color=\"black\" size={25}/>$0",
+    "description": "window-close-o icon from FontAwesome font."
+  },
+  "fa-bandcamp": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fa-bandcamp",
+    "body": "<FontAwesome name=\"bandcamp\" color=\"black\" size={25}/>$0",
+    "description": "bandcamp icon from FontAwesome font."
+  },
+  "fa-grav": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fa-grav",
+    "body": "<FontAwesome name=\"grav\" color=\"black\" size={25}/>$0",
+    "description": "grav icon from FontAwesome font."
+  },
+  "fa-etsy": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fa-etsy",
+    "body": "<FontAwesome name=\"etsy\" color=\"black\" size={25}/>$0",
+    "description": "etsy icon from FontAwesome font."
+  },
+  "fa-imdb": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fa-imdb",
+    "body": "<FontAwesome name=\"imdb\" color=\"black\" size={25}/>$0",
+    "description": "imdb icon from FontAwesome font."
+  },
+  "fa-ravelry": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fa-ravelry",
+    "body": "<FontAwesome name=\"ravelry\" color=\"black\" size={25}/>$0",
+    "description": "ravelry icon from FontAwesome font."
+  },
+  "fa-eercast": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fa-eercast",
+    "body": "<FontAwesome name=\"eercast\" color=\"black\" size={25}/>$0",
+    "description": "eercast icon from FontAwesome font."
+  },
+  "fa-microchip": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fa-microchip",
+    "body": "<FontAwesome name=\"microchip\" color=\"black\" size={25}/>$0",
+    "description": "microchip icon from FontAwesome font."
+  },
+  "fa-snowflake-o": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fa-snowflake-o",
+    "body": "<FontAwesome name=\"snowflake-o\" color=\"black\" size={25}/>$0",
+    "description": "snowflake-o icon from FontAwesome font."
+  },
+  "fa-superpowers": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fa-superpowers",
+    "body": "<FontAwesome name=\"superpowers\" color=\"black\" size={25}/>$0",
+    "description": "superpowers icon from FontAwesome font."
+  },
+  "fa-wpexplorer": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fa-wpexplorer",
+    "body": "<FontAwesome name=\"wpexplorer\" color=\"black\" size={25}/>$0",
+    "description": "wpexplorer icon from FontAwesome font."
+  },
+  "fa-meetup": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fa-meetup",
+    "body": "<FontAwesome name=\"meetup\" color=\"black\" size={25}/>$0",
+    "description": "meetup icon from FontAwesome font."
+  }
+}

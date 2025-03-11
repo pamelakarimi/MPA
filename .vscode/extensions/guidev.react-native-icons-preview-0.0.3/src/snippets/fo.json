@@ -1,0 +1,3704 @@
+{
+  "fo-acrobat-reader": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fo-acrobat-reader",
+    "body": "<Fontisto name=\"acrobat-reader\" color=\"black\" size={25}/>$0",
+    "description": "acrobat-reader icon from Fontisto font."
+  },
+  "fo-applemusic": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fo-applemusic",
+    "body": "<Fontisto name=\"applemusic\" color=\"black\" size={25}/>$0",
+    "description": "applemusic icon from Fontisto font."
+  },
+  "fo-atlassian": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fo-atlassian",
+    "body": "<Fontisto name=\"atlassian\" color=\"black\" size={25}/>$0",
+    "description": "atlassian icon from Fontisto font."
+  },
+  "fo-aws": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fo-aws",
+    "body": "<Fontisto name=\"aws\" color=\"black\" size={25}/>$0",
+    "description": "aws icon from Fontisto font."
+  },
+  "fo-baidu": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fo-baidu",
+    "body": "<Fontisto name=\"baidu\" color=\"black\" size={25}/>$0",
+    "description": "baidu icon from Fontisto font."
+  },
+  "fo-bing": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fo-bing",
+    "body": "<Fontisto name=\"bing\" color=\"black\" size={25}/>$0",
+    "description": "bing icon from Fontisto font."
+  },
+  "fo-bower": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fo-bower",
+    "body": "<Fontisto name=\"bower\" color=\"black\" size={25}/>$0",
+    "description": "bower icon from Fontisto font."
+  },
+  "fo-dailymotion": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fo-dailymotion",
+    "body": "<Fontisto name=\"dailymotion\" color=\"black\" size={25}/>$0",
+    "description": "dailymotion icon from Fontisto font."
+  },
+  "fo-delicious": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fo-delicious",
+    "body": "<Fontisto name=\"delicious\" color=\"black\" size={25}/>$0",
+    "description": "delicious icon from Fontisto font."
+  },
+  "fo-deviantart": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fo-deviantart",
+    "body": "<Fontisto name=\"deviantart\" color=\"black\" size={25}/>$0",
+    "description": "deviantart icon from Fontisto font."
+  },
+  "fo-disqus": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fo-disqus",
+    "body": "<Fontisto name=\"disqus\" color=\"black\" size={25}/>$0",
+    "description": "disqus icon from Fontisto font."
+  },
+  "fo-flipboard": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fo-flipboard",
+    "body": "<Fontisto name=\"flipboard\" color=\"black\" size={25}/>$0",
+    "description": "flipboard icon from Fontisto font."
+  },
+  "fo-graphql": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fo-graphql",
+    "body": "<Fontisto name=\"graphql\" color=\"black\" size={25}/>$0",
+    "description": "graphql icon from Fontisto font."
+  },
+  "fo-hexo": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fo-hexo",
+    "body": "<Fontisto name=\"hexo\" color=\"black\" size={25}/>$0",
+    "description": "hexo icon from Fontisto font."
+  },
+  "fo-hipchat": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fo-hipchat",
+    "body": "<Fontisto name=\"hipchat\" color=\"black\" size={25}/>$0",
+    "description": "hipchat icon from Fontisto font."
+  },
+  "fo-icq": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fo-icq",
+    "body": "<Fontisto name=\"icq\" color=\"black\" size={25}/>$0",
+    "description": "icq icon from Fontisto font."
+  },
+  "fo-invision": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fo-invision",
+    "body": "<Fontisto name=\"invision\" color=\"black\" size={25}/>$0",
+    "description": "invision icon from Fontisto font."
+  },
+  "fo-jekyll": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fo-jekyll",
+    "body": "<Fontisto name=\"jekyll\" color=\"black\" size={25}/>$0",
+    "description": "jekyll icon from Fontisto font."
+  },
+  "fo-jira": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fo-jira",
+    "body": "<Fontisto name=\"jira\" color=\"black\" size={25}/>$0",
+    "description": "jira icon from Fontisto font."
+  },
+  "fo-json": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fo-json",
+    "body": "<Fontisto name=\"json\" color=\"black\" size={25}/>$0",
+    "description": "json icon from Fontisto font."
+  },
+  "fo-livestream": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fo-livestream",
+    "body": "<Fontisto name=\"livestream\" color=\"black\" size={25}/>$0",
+    "description": "livestream icon from Fontisto font."
+  },
+  "fo-messenger": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fo-messenger",
+    "body": "<Fontisto name=\"messenger\" color=\"black\" size={25}/>$0",
+    "description": "messenger icon from Fontisto font."
+  },
+  "fo-meteor": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fo-meteor",
+    "body": "<Fontisto name=\"meteor\" color=\"black\" size={25}/>$0",
+    "description": "meteor icon from Fontisto font."
+  },
+  "fo-onenote": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fo-onenote",
+    "body": "<Fontisto name=\"onenote\" color=\"black\" size={25}/>$0",
+    "description": "onenote icon from Fontisto font."
+  },
+  "fo-mongodb": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fo-mongodb",
+    "body": "<Fontisto name=\"mongodb\" color=\"black\" size={25}/>$0",
+    "description": "mongodb icon from Fontisto font."
+  },
+  "fo-netflix": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fo-netflix",
+    "body": "<Fontisto name=\"netflix\" color=\"black\" size={25}/>$0",
+    "description": "netflix icon from Fontisto font."
+  },
+  "fo-nginx": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fo-nginx",
+    "body": "<Fontisto name=\"nginx\" color=\"black\" size={25}/>$0",
+    "description": "nginx icon from Fontisto font."
+  },
+  "fo-odnoklassniki": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fo-odnoklassniki",
+    "body": "<Fontisto name=\"odnoklassniki\" color=\"black\" size={25}/>$0",
+    "description": "odnoklassniki icon from Fontisto font."
+  },
+  "fo-onedrive": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fo-onedrive",
+    "body": "<Fontisto name=\"onedrive\" color=\"black\" size={25}/>$0",
+    "description": "onedrive icon from Fontisto font."
+  },
+  "fo-origin": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fo-origin",
+    "body": "<Fontisto name=\"origin\" color=\"black\" size={25}/>$0",
+    "description": "origin icon from Fontisto font."
+  },
+  "fo-pingdom": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fo-pingdom",
+    "body": "<Fontisto name=\"pingdom\" color=\"black\" size={25}/>$0",
+    "description": "pingdom icon from Fontisto font."
+  },
+  "fo-rails": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fo-rails",
+    "body": "<Fontisto name=\"rails\" color=\"black\" size={25}/>$0",
+    "description": "rails icon from Fontisto font."
+  },
+  "fo-raspberry-pi": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fo-raspberry-pi",
+    "body": "<Fontisto name=\"raspberry-pi\" color=\"black\" size={25}/>$0",
+    "description": "raspberry-pi icon from Fontisto font."
+  },
+  "fo-redis": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fo-redis",
+    "body": "<Fontisto name=\"redis\" color=\"black\" size={25}/>$0",
+    "description": "redis icon from Fontisto font."
+  },
+  "fo-redux": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fo-redux",
+    "body": "<Fontisto name=\"redux\" color=\"black\" size={25}/>$0",
+    "description": "redux icon from Fontisto font."
+  },
+  "fo-saucelabs": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fo-saucelabs",
+    "body": "<Fontisto name=\"saucelabs\" color=\"black\" size={25}/>$0",
+    "description": "saucelabs icon from Fontisto font."
+  },
+  "fo-scorp": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fo-scorp",
+    "body": "<Fontisto name=\"scorp\" color=\"black\" size={25}/>$0",
+    "description": "scorp icon from Fontisto font."
+  },
+  "fo-sentry": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fo-sentry",
+    "body": "<Fontisto name=\"sentry\" color=\"black\" size={25}/>$0",
+    "description": "sentry icon from Fontisto font."
+  },
+  "fo-shazam": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fo-shazam",
+    "body": "<Fontisto name=\"shazam\" color=\"black\" size={25}/>$0",
+    "description": "shazam icon from Fontisto font."
+  },
+  "fo-shopify": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fo-shopify",
+    "body": "<Fontisto name=\"shopify\" color=\"black\" size={25}/>$0",
+    "description": "shopify icon from Fontisto font."
+  },
+  "fo-sinaweibo": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fo-sinaweibo",
+    "body": "<Fontisto name=\"sinaweibo\" color=\"black\" size={25}/>$0",
+    "description": "sinaweibo icon from Fontisto font."
+  },
+  "fo-slides": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fo-slides",
+    "body": "<Fontisto name=\"slides\" color=\"black\" size={25}/>$0",
+    "description": "slides icon from Fontisto font."
+  },
+  "fo-sublimetext": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fo-sublimetext",
+    "body": "<Fontisto name=\"sublimetext\" color=\"black\" size={25}/>$0",
+    "description": "sublimetext icon from Fontisto font."
+  },
+  "fo-swift": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fo-swift",
+    "body": "<Fontisto name=\"swift\" color=\"black\" size={25}/>$0",
+    "description": "swift icon from Fontisto font."
+  },
+  "fo-ted": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fo-ted",
+    "body": "<Fontisto name=\"ted\" color=\"black\" size={25}/>$0",
+    "description": "ted icon from Fontisto font."
+  },
+  "fo-telegram": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fo-telegram",
+    "body": "<Fontisto name=\"telegram\" color=\"black\" size={25}/>$0",
+    "description": "telegram icon from Fontisto font."
+  },
+  "fo-tesla": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fo-tesla",
+    "body": "<Fontisto name=\"tesla\" color=\"black\" size={25}/>$0",
+    "description": "tesla icon from Fontisto font."
+  },
+  "fo-tinder": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fo-tinder",
+    "body": "<Fontisto name=\"tinder\" color=\"black\" size={25}/>$0",
+    "description": "tinder icon from Fontisto font."
+  },
+  "fo-treehouse": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fo-treehouse",
+    "body": "<Fontisto name=\"treehouse\" color=\"black\" size={25}/>$0",
+    "description": "treehouse icon from Fontisto font."
+  },
+  "fo-twoo": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fo-twoo",
+    "body": "<Fontisto name=\"twoo\" color=\"black\" size={25}/>$0",
+    "description": "twoo icon from Fontisto font."
+  },
+  "fo-udacity": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fo-udacity",
+    "body": "<Fontisto name=\"udacity\" color=\"black\" size={25}/>$0",
+    "description": "udacity icon from Fontisto font."
+  },
+  "fo-webstorm": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fo-webstorm",
+    "body": "<Fontisto name=\"webstorm\" color=\"black\" size={25}/>$0",
+    "description": "webstorm icon from Fontisto font."
+  },
+  "fo-wix": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fo-wix",
+    "body": "<Fontisto name=\"wix\" color=\"black\" size={25}/>$0",
+    "description": "wix icon from Fontisto font."
+  },
+  "fo-yandex-international": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fo-yandex-international",
+    "body": "<Fontisto name=\"yandex-international\" color=\"black\" size={25}/>$0",
+    "description": "yandex-international icon from Fontisto font."
+  },
+  "fo-yandex": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fo-yandex",
+    "body": "<Fontisto name=\"yandex\" color=\"black\" size={25}/>$0",
+    "description": "yandex icon from Fontisto font."
+  },
+  "fo-ember": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fo-ember",
+    "body": "<Fontisto name=\"ember\" color=\"black\" size={25}/>$0",
+    "description": "ember icon from Fontisto font."
+  },
+  "fo-cpanel": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fo-cpanel",
+    "body": "<Fontisto name=\"cpanel\" color=\"black\" size={25}/>$0",
+    "description": "cpanel icon from Fontisto font."
+  },
+  "fo-viber": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fo-viber",
+    "body": "<Fontisto name=\"viber\" color=\"black\" size={25}/>$0",
+    "description": "viber icon from Fontisto font."
+  },
+  "fo-deskpro": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fo-deskpro",
+    "body": "<Fontisto name=\"deskpro\" color=\"black\" size={25}/>$0",
+    "description": "deskpro icon from Fontisto font."
+  },
+  "fo-discord": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fo-discord",
+    "body": "<Fontisto name=\"discord\" color=\"black\" size={25}/>$0",
+    "description": "discord icon from Fontisto font."
+  },
+  "fo-discourse": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fo-discourse",
+    "body": "<Fontisto name=\"discourse\" color=\"black\" size={25}/>$0",
+    "description": "discourse icon from Fontisto font."
+  },
+  "fo-adobe": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fo-adobe",
+    "body": "<Fontisto name=\"adobe\" color=\"black\" size={25}/>$0",
+    "description": "adobe icon from Fontisto font."
+  },
+  "fo-algolia": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fo-algolia",
+    "body": "<Fontisto name=\"algolia\" color=\"black\" size={25}/>$0",
+    "description": "algolia icon from Fontisto font."
+  },
+  "fo-atom": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fo-atom",
+    "body": "<Fontisto name=\"atom\" color=\"black\" size={25}/>$0",
+    "description": "atom icon from Fontisto font."
+  },
+  "fo-babel": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fo-babel",
+    "body": "<Fontisto name=\"babel\" color=\"black\" size={25}/>$0",
+    "description": "babel icon from Fontisto font."
+  },
+  "fo-coffeescript": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fo-coffeescript",
+    "body": "<Fontisto name=\"coffeescript\" color=\"black\" size={25}/>$0",
+    "description": "coffeescript icon from Fontisto font."
+  },
+  "fo-electronjs": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fo-electronjs",
+    "body": "<Fontisto name=\"electronjs\" color=\"black\" size={25}/>$0",
+    "description": "electronjs icon from Fontisto font."
+  },
+  "fo-mysql": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fo-mysql",
+    "body": "<Fontisto name=\"mysql\" color=\"black\" size={25}/>$0",
+    "description": "mysql icon from Fontisto font."
+  },
+  "fo-oracle": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fo-oracle",
+    "body": "<Fontisto name=\"oracle\" color=\"black\" size={25}/>$0",
+    "description": "oracle icon from Fontisto font."
+  },
+  "fo-php": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fo-php",
+    "body": "<Fontisto name=\"php\" color=\"black\" size={25}/>$0",
+    "description": "php icon from Fontisto font."
+  },
+  "fo-sourcetree": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fo-sourcetree",
+    "body": "<Fontisto name=\"sourcetree\" color=\"black\" size={25}/>$0",
+    "description": "sourcetree icon from Fontisto font."
+  },
+  "fo-ubuntu": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fo-ubuntu",
+    "body": "<Fontisto name=\"ubuntu\" color=\"black\" size={25}/>$0",
+    "description": "ubuntu icon from Fontisto font."
+  },
+  "fo-unity": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fo-unity",
+    "body": "<Fontisto name=\"unity\" color=\"black\" size={25}/>$0",
+    "description": "unity icon from Fontisto font."
+  },
+  "fo-unreal-engine": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fo-unreal-engine",
+    "body": "<Fontisto name=\"unreal-engine\" color=\"black\" size={25}/>$0",
+    "description": "unreal-engine icon from Fontisto font."
+  },
+  "fo-webpack": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fo-webpack",
+    "body": "<Fontisto name=\"webpack\" color=\"black\" size={25}/>$0",
+    "description": "webpack icon from Fontisto font."
+  },
+  "fo-angelist": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fo-angelist",
+    "body": "<Fontisto name=\"angelist\" color=\"black\" size={25}/>$0",
+    "description": "angelist icon from Fontisto font."
+  },
+  "fo-app-store": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fo-app-store",
+    "body": "<Fontisto name=\"app-store\" color=\"black\" size={25}/>$0",
+    "description": "app-store icon from Fontisto font."
+  },
+  "fo-digg": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fo-digg",
+    "body": "<Fontisto name=\"digg\" color=\"black\" size={25}/>$0",
+    "description": "digg icon from Fontisto font."
+  },
+  "fo-dockers": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fo-dockers",
+    "body": "<Fontisto name=\"dockers\" color=\"black\" size={25}/>$0",
+    "description": "dockers icon from Fontisto font."
+  },
+  "fo-envato": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fo-envato",
+    "body": "<Fontisto name=\"envato\" color=\"black\" size={25}/>$0",
+    "description": "envato icon from Fontisto font."
+  },
+  "fo-gitlab": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fo-gitlab",
+    "body": "<Fontisto name=\"gitlab\" color=\"black\" size={25}/>$0",
+    "description": "gitlab icon from Fontisto font."
+  },
+  "fo-google-drive": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fo-google-drive",
+    "body": "<Fontisto name=\"google-drive\" color=\"black\" size={25}/>$0",
+    "description": "google-drive icon from Fontisto font."
+  },
+  "fo-google-play": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fo-google-play",
+    "body": "<Fontisto name=\"google-play\" color=\"black\" size={25}/>$0",
+    "description": "google-play icon from Fontisto font."
+  },
+  "fo-grunt": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fo-grunt",
+    "body": "<Fontisto name=\"grunt\" color=\"black\" size={25}/>$0",
+    "description": "grunt icon from Fontisto font."
+  },
+  "fo-gulp": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fo-gulp",
+    "body": "<Fontisto name=\"gulp\" color=\"black\" size={25}/>$0",
+    "description": "gulp icon from Fontisto font."
+  },
+  "fo-hacker-news": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fo-hacker-news",
+    "body": "<Fontisto name=\"hacker-news\" color=\"black\" size={25}/>$0",
+    "description": "hacker-news icon from Fontisto font."
+  },
+  "fo-imdb": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fo-imdb",
+    "body": "<Fontisto name=\"imdb\" color=\"black\" size={25}/>$0",
+    "description": "imdb icon from Fontisto font."
+  },
+  "fo-jenkins": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fo-jenkins",
+    "body": "<Fontisto name=\"jenkins\" color=\"black\" size={25}/>$0",
+    "description": "jenkins icon from Fontisto font."
+  },
+  "fo-joomla": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fo-joomla",
+    "body": "<Fontisto name=\"joomla\" color=\"black\" size={25}/>$0",
+    "description": "joomla icon from Fontisto font."
+  },
+  "fo-kickstarter": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fo-kickstarter",
+    "body": "<Fontisto name=\"kickstarter\" color=\"black\" size={25}/>$0",
+    "description": "kickstarter icon from Fontisto font."
+  },
+  "fo-laravel": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fo-laravel",
+    "body": "<Fontisto name=\"laravel\" color=\"black\" size={25}/>$0",
+    "description": "laravel icon from Fontisto font."
+  },
+  "fo-less": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fo-less",
+    "body": "<Fontisto name=\"less\" color=\"black\" size={25}/>$0",
+    "description": "less icon from Fontisto font."
+  },
+  "fo-line": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fo-line",
+    "body": "<Fontisto name=\"line\" color=\"black\" size={25}/>$0",
+    "description": "line icon from Fontisto font."
+  },
+  "fo-npm": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fo-npm",
+    "body": "<Fontisto name=\"npm\" color=\"black\" size={25}/>$0",
+    "description": "npm icon from Fontisto font."
+  },
+  "fo-periscope": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fo-periscope",
+    "body": "<Fontisto name=\"periscope\" color=\"black\" size={25}/>$0",
+    "description": "periscope icon from Fontisto font."
+  },
+  "fo-product-hunt": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fo-product-hunt",
+    "body": "<Fontisto name=\"product-hunt\" color=\"black\" size={25}/>$0",
+    "description": "product-hunt icon from Fontisto font."
+  },
+  "fo-quora": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fo-quora",
+    "body": "<Fontisto name=\"quora\" color=\"black\" size={25}/>$0",
+    "description": "quora icon from Fontisto font."
+  },
+  "fo-skyatlas": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fo-skyatlas",
+    "body": "<Fontisto name=\"skyatlas\" color=\"black\" size={25}/>$0",
+    "description": "skyatlas icon from Fontisto font."
+  },
+  "fo-stylus": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fo-stylus",
+    "body": "<Fontisto name=\"stylus\" color=\"black\" size={25}/>$0",
+    "description": "stylus icon from Fontisto font."
+  },
+  "fo-travis": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fo-travis",
+    "body": "<Fontisto name=\"travis\" color=\"black\" size={25}/>$0",
+    "description": "travis icon from Fontisto font."
+  },
+  "fo-trello": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fo-trello",
+    "body": "<Fontisto name=\"trello\" color=\"black\" size={25}/>$0",
+    "description": "trello icon from Fontisto font."
+  },
+  "fo-uber": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fo-uber",
+    "body": "<Fontisto name=\"uber\" color=\"black\" size={25}/>$0",
+    "description": "uber icon from Fontisto font."
+  },
+  "fo-vine": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fo-vine",
+    "body": "<Fontisto name=\"vine\" color=\"black\" size={25}/>$0",
+    "description": "vine icon from Fontisto font."
+  },
+  "fo-visual-studio": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fo-visual-studio",
+    "body": "<Fontisto name=\"visual-studio\" color=\"black\" size={25}/>$0",
+    "description": "visual-studio icon from Fontisto font."
+  },
+  "fo-vk": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fo-vk",
+    "body": "<Fontisto name=\"vk\" color=\"black\" size={25}/>$0",
+    "description": "vk icon from Fontisto font."
+  },
+  "fo-vuejs": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fo-vuejs",
+    "body": "<Fontisto name=\"vuejs\" color=\"black\" size={25}/>$0",
+    "description": "vuejs icon from Fontisto font."
+  },
+  "fo-microsoft": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fo-microsoft",
+    "body": "<Fontisto name=\"microsoft\" color=\"black\" size={25}/>$0",
+    "description": "microsoft icon from Fontisto font."
+  },
+  "fo-blogger": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fo-blogger",
+    "body": "<Fontisto name=\"blogger\" color=\"black\" size={25}/>$0",
+    "description": "blogger icon from Fontisto font."
+  },
+  "fo-500px": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fo-500px",
+    "body": "<Fontisto name=\"500px\" color=\"black\" size={25}/>$0",
+    "description": "500px icon from Fontisto font."
+  },
+  "fo-amazon": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fo-amazon",
+    "body": "<Fontisto name=\"amazon\" color=\"black\" size={25}/>$0",
+    "description": "amazon icon from Fontisto font."
+  },
+  "fo-ampproject": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fo-ampproject",
+    "body": "<Fontisto name=\"ampproject\" color=\"black\" size={25}/>$0",
+    "description": "ampproject icon from Fontisto font."
+  },
+  "fo-android": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fo-android",
+    "body": "<Fontisto name=\"android\" color=\"black\" size={25}/>$0",
+    "description": "android icon from Fontisto font."
+  },
+  "fo-angularjs": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fo-angularjs",
+    "body": "<Fontisto name=\"angularjs\" color=\"black\" size={25}/>$0",
+    "description": "angularjs icon from Fontisto font."
+  },
+  "fo-apple": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fo-apple",
+    "body": "<Fontisto name=\"apple\" color=\"black\" size={25}/>$0",
+    "description": "apple icon from Fontisto font."
+  },
+  "fo-behance": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fo-behance",
+    "body": "<Fontisto name=\"behance\" color=\"black\" size={25}/>$0",
+    "description": "behance icon from Fontisto font."
+  },
+  "fo-bitbucket": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fo-bitbucket",
+    "body": "<Fontisto name=\"bitbucket\" color=\"black\" size={25}/>$0",
+    "description": "bitbucket icon from Fontisto font."
+  },
+  "fo-bluetooth-b": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fo-bluetooth-b",
+    "body": "<Fontisto name=\"bluetooth-b\" color=\"black\" size={25}/>$0",
+    "description": "bluetooth-b icon from Fontisto font."
+  },
+  "fo-cloudflare": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fo-cloudflare",
+    "body": "<Fontisto name=\"cloudflare\" color=\"black\" size={25}/>$0",
+    "description": "cloudflare icon from Fontisto font."
+  },
+  "fo-codepen": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fo-codepen",
+    "body": "<Fontisto name=\"codepen\" color=\"black\" size={25}/>$0",
+    "description": "codepen icon from Fontisto font."
+  },
+  "fo-css3": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fo-css3",
+    "body": "<Fontisto name=\"css3\" color=\"black\" size={25}/>$0",
+    "description": "css3 icon from Fontisto font."
+  },
+  "fo-dribbble": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fo-dribbble",
+    "body": "<Fontisto name=\"dribbble\" color=\"black\" size={25}/>$0",
+    "description": "dribbble icon from Fontisto font."
+  },
+  "fo-dropbox": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fo-dropbox",
+    "body": "<Fontisto name=\"dropbox\" color=\"black\" size={25}/>$0",
+    "description": "dropbox icon from Fontisto font."
+  },
+  "fo-facebook": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fo-facebook",
+    "body": "<Fontisto name=\"facebook\" color=\"black\" size={25}/>$0",
+    "description": "facebook icon from Fontisto font."
+  },
+  "fo-flickr": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fo-flickr",
+    "body": "<Fontisto name=\"flickr\" color=\"black\" size={25}/>$0",
+    "description": "flickr icon from Fontisto font."
+  },
+  "fo-foursquare": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fo-foursquare",
+    "body": "<Fontisto name=\"foursquare\" color=\"black\" size={25}/>$0",
+    "description": "foursquare icon from Fontisto font."
+  },
+  "fo-git": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fo-git",
+    "body": "<Fontisto name=\"git\" color=\"black\" size={25}/>$0",
+    "description": "git icon from Fontisto font."
+  },
+  "fo-github": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fo-github",
+    "body": "<Fontisto name=\"github\" color=\"black\" size={25}/>$0",
+    "description": "github icon from Fontisto font."
+  },
+  "fo-google-plus": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fo-google-plus",
+    "body": "<Fontisto name=\"google-plus\" color=\"black\" size={25}/>$0",
+    "description": "google-plus icon from Fontisto font."
+  },
+  "fo-google": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fo-google",
+    "body": "<Fontisto name=\"google\" color=\"black\" size={25}/>$0",
+    "description": "google icon from Fontisto font."
+  },
+  "fo-hangout": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fo-hangout",
+    "body": "<Fontisto name=\"hangout\" color=\"black\" size={25}/>$0",
+    "description": "hangout icon from Fontisto font."
+  },
+  "fo-houzz": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fo-houzz",
+    "body": "<Fontisto name=\"houzz\" color=\"black\" size={25}/>$0",
+    "description": "houzz icon from Fontisto font."
+  },
+  "fo-html5": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fo-html5",
+    "body": "<Fontisto name=\"html5\" color=\"black\" size={25}/>$0",
+    "description": "html5 icon from Fontisto font."
+  },
+  "fo-instagram": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fo-instagram",
+    "body": "<Fontisto name=\"instagram\" color=\"black\" size={25}/>$0",
+    "description": "instagram icon from Fontisto font."
+  },
+  "fo-java": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fo-java",
+    "body": "<Fontisto name=\"java\" color=\"black\" size={25}/>$0",
+    "description": "java icon from Fontisto font."
+  },
+  "fo-jquery": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fo-jquery",
+    "body": "<Fontisto name=\"jquery\" color=\"black\" size={25}/>$0",
+    "description": "jquery icon from Fontisto font."
+  },
+  "fo-jsfiddle": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fo-jsfiddle",
+    "body": "<Fontisto name=\"jsfiddle\" color=\"black\" size={25}/>$0",
+    "description": "jsfiddle icon from Fontisto font."
+  },
+  "fo-linkedin": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fo-linkedin",
+    "body": "<Fontisto name=\"linkedin\" color=\"black\" size={25}/>$0",
+    "description": "linkedin icon from Fontisto font."
+  },
+  "fo-linux": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fo-linux",
+    "body": "<Fontisto name=\"linux\" color=\"black\" size={25}/>$0",
+    "description": "linux icon from Fontisto font."
+  },
+  "fo-magento": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fo-magento",
+    "body": "<Fontisto name=\"magento\" color=\"black\" size={25}/>$0",
+    "description": "magento icon from Fontisto font."
+  },
+  "fo-maxcdn": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fo-maxcdn",
+    "body": "<Fontisto name=\"maxcdn\" color=\"black\" size={25}/>$0",
+    "description": "maxcdn icon from Fontisto font."
+  },
+  "fo-medium": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fo-medium",
+    "body": "<Fontisto name=\"medium\" color=\"black\" size={25}/>$0",
+    "description": "medium icon from Fontisto font."
+  },
+  "fo-meetup": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fo-meetup",
+    "body": "<Fontisto name=\"meetup\" color=\"black\" size={25}/>$0",
+    "description": "meetup icon from Fontisto font."
+  },
+  "fo-nodejs": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fo-nodejs",
+    "body": "<Fontisto name=\"nodejs\" color=\"black\" size={25}/>$0",
+    "description": "nodejs icon from Fontisto font."
+  },
+  "fo-opencart": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fo-opencart",
+    "body": "<Fontisto name=\"opencart\" color=\"black\" size={25}/>$0",
+    "description": "opencart icon from Fontisto font."
+  },
+  "fo-pinterest": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fo-pinterest",
+    "body": "<Fontisto name=\"pinterest\" color=\"black\" size={25}/>$0",
+    "description": "pinterest icon from Fontisto font."
+  },
+  "fo-playstation": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fo-playstation",
+    "body": "<Fontisto name=\"playstation\" color=\"black\" size={25}/>$0",
+    "description": "playstation icon from Fontisto font."
+  },
+  "fo-python": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fo-python",
+    "body": "<Fontisto name=\"python\" color=\"black\" size={25}/>$0",
+    "description": "python icon from Fontisto font."
+  },
+  "fo-react": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fo-react",
+    "body": "<Fontisto name=\"react\" color=\"black\" size={25}/>$0",
+    "description": "react icon from Fontisto font."
+  },
+  "fo-reddit": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fo-reddit",
+    "body": "<Fontisto name=\"reddit\" color=\"black\" size={25}/>$0",
+    "description": "reddit icon from Fontisto font."
+  },
+  "fo-ruby": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fo-ruby",
+    "body": "<Fontisto name=\"ruby\" color=\"black\" size={25}/>$0",
+    "description": "ruby icon from Fontisto font."
+  },
+  "fo-sass": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fo-sass",
+    "body": "<Fontisto name=\"sass\" color=\"black\" size={25}/>$0",
+    "description": "sass icon from Fontisto font."
+  },
+  "fo-skype": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fo-skype",
+    "body": "<Fontisto name=\"skype\" color=\"black\" size={25}/>$0",
+    "description": "skype icon from Fontisto font."
+  },
+  "fo-slack": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fo-slack",
+    "body": "<Fontisto name=\"slack\" color=\"black\" size={25}/>$0",
+    "description": "slack icon from Fontisto font."
+  },
+  "fo-snapchat": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fo-snapchat",
+    "body": "<Fontisto name=\"snapchat\" color=\"black\" size={25}/>$0",
+    "description": "snapchat icon from Fontisto font."
+  },
+  "fo-soundcloud": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fo-soundcloud",
+    "body": "<Fontisto name=\"soundcloud\" color=\"black\" size={25}/>$0",
+    "description": "soundcloud icon from Fontisto font."
+  },
+  "fo-spotify": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fo-spotify",
+    "body": "<Fontisto name=\"spotify\" color=\"black\" size={25}/>$0",
+    "description": "spotify icon from Fontisto font."
+  },
+  "fo-stack-overflow": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fo-stack-overflow",
+    "body": "<Fontisto name=\"stack-overflow\" color=\"black\" size={25}/>$0",
+    "description": "stack-overflow icon from Fontisto font."
+  },
+  "fo-steam": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fo-steam",
+    "body": "<Fontisto name=\"steam\" color=\"black\" size={25}/>$0",
+    "description": "steam icon from Fontisto font."
+  },
+  "fo-stumbleupon": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fo-stumbleupon",
+    "body": "<Fontisto name=\"stumbleupon\" color=\"black\" size={25}/>$0",
+    "description": "stumbleupon icon from Fontisto font."
+  },
+  "fo-svn": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fo-svn",
+    "body": "<Fontisto name=\"svn\" color=\"black\" size={25}/>$0",
+    "description": "svn icon from Fontisto font."
+  },
+  "fo-swarm": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fo-swarm",
+    "body": "<Fontisto name=\"swarm\" color=\"black\" size={25}/>$0",
+    "description": "swarm icon from Fontisto font."
+  },
+  "fo-tripadvisor": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fo-tripadvisor",
+    "body": "<Fontisto name=\"tripadvisor\" color=\"black\" size={25}/>$0",
+    "description": "tripadvisor icon from Fontisto font."
+  },
+  "fo-tumblr": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fo-tumblr",
+    "body": "<Fontisto name=\"tumblr\" color=\"black\" size={25}/>$0",
+    "description": "tumblr icon from Fontisto font."
+  },
+  "fo-twitch": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fo-twitch",
+    "body": "<Fontisto name=\"twitch\" color=\"black\" size={25}/>$0",
+    "description": "twitch icon from Fontisto font."
+  },
+  "fo-twitter": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fo-twitter",
+    "body": "<Fontisto name=\"twitter\" color=\"black\" size={25}/>$0",
+    "description": "twitter icon from Fontisto font."
+  },
+  "fo-vimeo": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fo-vimeo",
+    "body": "<Fontisto name=\"vimeo\" color=\"black\" size={25}/>$0",
+    "description": "vimeo icon from Fontisto font."
+  },
+  "fo-wetransfer": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fo-wetransfer",
+    "body": "<Fontisto name=\"wetransfer\" color=\"black\" size={25}/>$0",
+    "description": "wetransfer icon from Fontisto font."
+  },
+  "fo-whatsapp": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fo-whatsapp",
+    "body": "<Fontisto name=\"whatsapp\" color=\"black\" size={25}/>$0",
+    "description": "whatsapp icon from Fontisto font."
+  },
+  "fo-wifi-logo": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fo-wifi-logo",
+    "body": "<Fontisto name=\"wifi-logo\" color=\"black\" size={25}/>$0",
+    "description": "wifi-logo icon from Fontisto font."
+  },
+  "fo-wikipedia": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fo-wikipedia",
+    "body": "<Fontisto name=\"wikipedia\" color=\"black\" size={25}/>$0",
+    "description": "wikipedia icon from Fontisto font."
+  },
+  "fo-windows": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fo-windows",
+    "body": "<Fontisto name=\"windows\" color=\"black\" size={25}/>$0",
+    "description": "windows icon from Fontisto font."
+  },
+  "fo-wordpress": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fo-wordpress",
+    "body": "<Fontisto name=\"wordpress\" color=\"black\" size={25}/>$0",
+    "description": "wordpress icon from Fontisto font."
+  },
+  "fo-xbox": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fo-xbox",
+    "body": "<Fontisto name=\"xbox\" color=\"black\" size={25}/>$0",
+    "description": "xbox icon from Fontisto font."
+  },
+  "fo-yahoo": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fo-yahoo",
+    "body": "<Fontisto name=\"yahoo\" color=\"black\" size={25}/>$0",
+    "description": "yahoo icon from Fontisto font."
+  },
+  "fo-yelp": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fo-yelp",
+    "body": "<Fontisto name=\"yelp\" color=\"black\" size={25}/>$0",
+    "description": "yelp icon from Fontisto font."
+  },
+  "fo-youtube-play": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fo-youtube-play",
+    "body": "<Fontisto name=\"youtube-play\" color=\"black\" size={25}/>$0",
+    "description": "youtube-play icon from Fontisto font."
+  },
+  "fo-cocoapods": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fo-cocoapods",
+    "body": "<Fontisto name=\"cocoapods\" color=\"black\" size={25}/>$0",
+    "description": "cocoapods icon from Fontisto font."
+  },
+  "fo-composer": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fo-composer",
+    "body": "<Fontisto name=\"composer\" color=\"black\" size={25}/>$0",
+    "description": "composer icon from Fontisto font."
+  },
+  "fo-yarn": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fo-yarn",
+    "body": "<Fontisto name=\"yarn\" color=\"black\" size={25}/>$0",
+    "description": "yarn icon from Fontisto font."
+  },
+  "fo-language": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fo-language",
+    "body": "<Fontisto name=\"language\" color=\"black\" size={25}/>$0",
+    "description": "language icon from Fontisto font."
+  },
+  "fo-toggle-off": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fo-toggle-off",
+    "body": "<Fontisto name=\"toggle-off\" color=\"black\" size={25}/>$0",
+    "description": "toggle-off icon from Fontisto font."
+  },
+  "fo-toggle-on": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fo-toggle-on",
+    "body": "<Fontisto name=\"toggle-on\" color=\"black\" size={25}/>$0",
+    "description": "toggle-on icon from Fontisto font."
+  },
+  "fo-anchor": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fo-anchor",
+    "body": "<Fontisto name=\"anchor\" color=\"black\" size={25}/>$0",
+    "description": "anchor icon from Fontisto font."
+  },
+  "fo-archive": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fo-archive",
+    "body": "<Fontisto name=\"archive\" color=\"black\" size={25}/>$0",
+    "description": "archive icon from Fontisto font."
+  },
+  "fo-at": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fo-at",
+    "body": "<Fontisto name=\"at\" color=\"black\" size={25}/>$0",
+    "description": "at icon from Fontisto font."
+  },
+  "fo-ban": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fo-ban",
+    "body": "<Fontisto name=\"ban\" color=\"black\" size={25}/>$0",
+    "description": "ban icon from Fontisto font."
+  },
+  "fo-battery-half": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fo-battery-half",
+    "body": "<Fontisto name=\"battery-half\" color=\"black\" size={25}/>$0",
+    "description": "battery-half icon from Fontisto font."
+  },
+  "fo-battery-full": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fo-battery-full",
+    "body": "<Fontisto name=\"battery-full\" color=\"black\" size={25}/>$0",
+    "description": "battery-full icon from Fontisto font."
+  },
+  "fo-battery-empty": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fo-battery-empty",
+    "body": "<Fontisto name=\"battery-empty\" color=\"black\" size={25}/>$0",
+    "description": "battery-empty icon from Fontisto font."
+  },
+  "fo-battery-quarter": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fo-battery-quarter",
+    "body": "<Fontisto name=\"battery-quarter\" color=\"black\" size={25}/>$0",
+    "description": "battery-quarter icon from Fontisto font."
+  },
+  "fo-battery-three-quarters": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fo-battery-three-quarters",
+    "body": "<Fontisto name=\"battery-three-quarters\" color=\"black\" size={25}/>$0",
+    "description": "battery-three-quarters icon from Fontisto font."
+  },
+  "fo-bell-alt": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fo-bell-alt",
+    "body": "<Fontisto name=\"bell-alt\" color=\"black\" size={25}/>$0",
+    "description": "bell-alt icon from Fontisto font."
+  },
+  "fo-bell": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fo-bell",
+    "body": "<Fontisto name=\"bell\" color=\"black\" size={25}/>$0",
+    "description": "bell icon from Fontisto font."
+  },
+  "fo-bookmark-alt": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fo-bookmark-alt",
+    "body": "<Fontisto name=\"bookmark-alt\" color=\"black\" size={25}/>$0",
+    "description": "bookmark-alt icon from Fontisto font."
+  },
+  "fo-bookmark": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fo-bookmark",
+    "body": "<Fontisto name=\"bookmark\" color=\"black\" size={25}/>$0",
+    "description": "bookmark icon from Fontisto font."
+  },
+  "fo-bug": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fo-bug",
+    "body": "<Fontisto name=\"bug\" color=\"black\" size={25}/>$0",
+    "description": "bug icon from Fontisto font."
+  },
+  "fo-calculator": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fo-calculator",
+    "body": "<Fontisto name=\"calculator\" color=\"black\" size={25}/>$0",
+    "description": "calculator icon from Fontisto font."
+  },
+  "fo-calendar": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fo-calendar",
+    "body": "<Fontisto name=\"calendar\" color=\"black\" size={25}/>$0",
+    "description": "calendar icon from Fontisto font."
+  },
+  "fo-crosshairs": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fo-crosshairs",
+    "body": "<Fontisto name=\"crosshairs\" color=\"black\" size={25}/>$0",
+    "description": "crosshairs icon from Fontisto font."
+  },
+  "fo-desktop": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fo-desktop",
+    "body": "<Fontisto name=\"desktop\" color=\"black\" size={25}/>$0",
+    "description": "desktop icon from Fontisto font."
+  },
+  "fo-download": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fo-download",
+    "body": "<Fontisto name=\"download\" color=\"black\" size={25}/>$0",
+    "description": "download icon from Fontisto font."
+  },
+  "fo-film": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fo-film",
+    "body": "<Fontisto name=\"film\" color=\"black\" size={25}/>$0",
+    "description": "film icon from Fontisto font."
+  },
+  "fo-history": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fo-history",
+    "body": "<Fontisto name=\"history\" color=\"black\" size={25}/>$0",
+    "description": "history icon from Fontisto font."
+  },
+  "fo-hourglass-end": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fo-hourglass-end",
+    "body": "<Fontisto name=\"hourglass-end\" color=\"black\" size={25}/>$0",
+    "description": "hourglass-end icon from Fontisto font."
+  },
+  "fo-hourglass-half": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fo-hourglass-half",
+    "body": "<Fontisto name=\"hourglass-half\" color=\"black\" size={25}/>$0",
+    "description": "hourglass-half icon from Fontisto font."
+  },
+  "fo-hourglass-start": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fo-hourglass-start",
+    "body": "<Fontisto name=\"hourglass-start\" color=\"black\" size={25}/>$0",
+    "description": "hourglass-start icon from Fontisto font."
+  },
+  "fo-hourglass": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fo-hourglass",
+    "body": "<Fontisto name=\"hourglass\" color=\"black\" size={25}/>$0",
+    "description": "hourglass icon from Fontisto font."
+  },
+  "fo-info": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fo-info",
+    "body": "<Fontisto name=\"info\" color=\"black\" size={25}/>$0",
+    "description": "info icon from Fontisto font."
+  },
+  "fo-key": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fo-key",
+    "body": "<Fontisto name=\"key\" color=\"black\" size={25}/>$0",
+    "description": "key icon from Fontisto font."
+  },
+  "fo-keyboard": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fo-keyboard",
+    "body": "<Fontisto name=\"keyboard\" color=\"black\" size={25}/>$0",
+    "description": "keyboard icon from Fontisto font."
+  },
+  "fo-laptop": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fo-laptop",
+    "body": "<Fontisto name=\"laptop\" color=\"black\" size={25}/>$0",
+    "description": "laptop icon from Fontisto font."
+  },
+  "fo-lightbulb": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fo-lightbulb",
+    "body": "<Fontisto name=\"lightbulb\" color=\"black\" size={25}/>$0",
+    "description": "lightbulb icon from Fontisto font."
+  },
+  "fo-magnet": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fo-magnet",
+    "body": "<Fontisto name=\"magnet\" color=\"black\" size={25}/>$0",
+    "description": "magnet icon from Fontisto font."
+  },
+  "fo-map-marker-alt": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fo-map-marker-alt",
+    "body": "<Fontisto name=\"map-marker-alt\" color=\"black\" size={25}/>$0",
+    "description": "map-marker-alt icon from Fontisto font."
+  },
+  "fo-map-marker": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fo-map-marker",
+    "body": "<Fontisto name=\"map-marker\" color=\"black\" size={25}/>$0",
+    "description": "map-marker icon from Fontisto font."
+  },
+  "fo-map": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fo-map",
+    "body": "<Fontisto name=\"map\" color=\"black\" size={25}/>$0",
+    "description": "map icon from Fontisto font."
+  },
+  "fo-mobile-alt": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fo-mobile-alt",
+    "body": "<Fontisto name=\"mobile-alt\" color=\"black\" size={25}/>$0",
+    "description": "mobile-alt icon from Fontisto font."
+  },
+  "fo-mobile": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fo-mobile",
+    "body": "<Fontisto name=\"mobile\" color=\"black\" size={25}/>$0",
+    "description": "mobile icon from Fontisto font."
+  },
+  "fo-paw": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fo-paw",
+    "body": "<Fontisto name=\"paw\" color=\"black\" size={25}/>$0",
+    "description": "paw icon from Fontisto font."
+  },
+  "fo-phone": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fo-phone",
+    "body": "<Fontisto name=\"phone\" color=\"black\" size={25}/>$0",
+    "description": "phone icon from Fontisto font."
+  },
+  "fo-power": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fo-power",
+    "body": "<Fontisto name=\"power\" color=\"black\" size={25}/>$0",
+    "description": "power icon from Fontisto font."
+  },
+  "fo-qrcode": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fo-qrcode",
+    "body": "<Fontisto name=\"qrcode\" color=\"black\" size={25}/>$0",
+    "description": "qrcode icon from Fontisto font."
+  },
+  "fo-question": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fo-question",
+    "body": "<Fontisto name=\"question\" color=\"black\" size={25}/>$0",
+    "description": "question icon from Fontisto font."
+  },
+  "fo-search": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fo-search",
+    "body": "<Fontisto name=\"search\" color=\"black\" size={25}/>$0",
+    "description": "search icon from Fontisto font."
+  },
+  "fo-sitemap": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fo-sitemap",
+    "body": "<Fontisto name=\"sitemap\" color=\"black\" size={25}/>$0",
+    "description": "sitemap icon from Fontisto font."
+  },
+  "fo-star-half": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fo-star-half",
+    "body": "<Fontisto name=\"star-half\" color=\"black\" size={25}/>$0",
+    "description": "star-half icon from Fontisto font."
+  },
+  "fo-stopwatch": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fo-stopwatch",
+    "body": "<Fontisto name=\"stopwatch\" color=\"black\" size={25}/>$0",
+    "description": "stopwatch icon from Fontisto font."
+  },
+  "fo-tablet-alt": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fo-tablet-alt",
+    "body": "<Fontisto name=\"tablet-alt\" color=\"black\" size={25}/>$0",
+    "description": "tablet-alt icon from Fontisto font."
+  },
+  "fo-tablet": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fo-tablet",
+    "body": "<Fontisto name=\"tablet\" color=\"black\" size={25}/>$0",
+    "description": "tablet icon from Fontisto font."
+  },
+  "fo-ticket": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fo-ticket",
+    "body": "<Fontisto name=\"ticket\" color=\"black\" size={25}/>$0",
+    "description": "ticket icon from Fontisto font."
+  },
+  "fo-tv": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fo-tv",
+    "body": "<Fontisto name=\"tv\" color=\"black\" size={25}/>$0",
+    "description": "tv icon from Fontisto font."
+  },
+  "fo-upload": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fo-upload",
+    "body": "<Fontisto name=\"upload\" color=\"black\" size={25}/>$0",
+    "description": "upload icon from Fontisto font."
+  },
+  "fo-user-secret": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fo-user-secret",
+    "body": "<Fontisto name=\"user-secret\" color=\"black\" size={25}/>$0",
+    "description": "user-secret icon from Fontisto font."
+  },
+  "fo-camera": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fo-camera",
+    "body": "<Fontisto name=\"camera\" color=\"black\" size={25}/>$0",
+    "description": "camera icon from Fontisto font."
+  },
+  "fo-clock": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fo-clock",
+    "body": "<Fontisto name=\"clock\" color=\"black\" size={25}/>$0",
+    "description": "clock icon from Fontisto font."
+  },
+  "fo-close-a": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fo-close-a",
+    "body": "<Fontisto name=\"close-a\" color=\"black\" size={25}/>$0",
+    "description": "close-a icon from Fontisto font."
+  },
+  "fo-code": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fo-code",
+    "body": "<Fontisto name=\"code\" color=\"black\" size={25}/>$0",
+    "description": "code icon from Fontisto font."
+  },
+  "fo-comment": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fo-comment",
+    "body": "<Fontisto name=\"comment\" color=\"black\" size={25}/>$0",
+    "description": "comment icon from Fontisto font."
+  },
+  "fo-commenting": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fo-commenting",
+    "body": "<Fontisto name=\"commenting\" color=\"black\" size={25}/>$0",
+    "description": "commenting icon from Fontisto font."
+  },
+  "fo-comments": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fo-comments",
+    "body": "<Fontisto name=\"comments\" color=\"black\" size={25}/>$0",
+    "description": "comments icon from Fontisto font."
+  },
+  "fo-crop": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fo-crop",
+    "body": "<Fontisto name=\"crop\" color=\"black\" size={25}/>$0",
+    "description": "crop icon from Fontisto font."
+  },
+  "fo-cursor": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fo-cursor",
+    "body": "<Fontisto name=\"cursor\" color=\"black\" size={25}/>$0",
+    "description": "cursor icon from Fontisto font."
+  },
+  "fo-database": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fo-database",
+    "body": "<Fontisto name=\"database\" color=\"black\" size={25}/>$0",
+    "description": "database icon from Fontisto font."
+  },
+  "fo-date": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fo-date",
+    "body": "<Fontisto name=\"date\" color=\"black\" size={25}/>$0",
+    "description": "date icon from Fontisto font."
+  },
+  "fo-earth": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fo-earth",
+    "body": "<Fontisto name=\"earth\" color=\"black\" size={25}/>$0",
+    "description": "earth icon from Fontisto font."
+  },
+  "fo-email": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fo-email",
+    "body": "<Fontisto name=\"email\" color=\"black\" size={25}/>$0",
+    "description": "email icon from Fontisto font."
+  },
+  "fo-eye": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fo-eye",
+    "body": "<Fontisto name=\"eye\" color=\"black\" size={25}/>$0",
+    "description": "eye icon from Fontisto font."
+  },
+  "fo-female": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fo-female",
+    "body": "<Fontisto name=\"female\" color=\"black\" size={25}/>$0",
+    "description": "female icon from Fontisto font."
+  },
+  "fo-favorite": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fo-favorite",
+    "body": "<Fontisto name=\"favorite\" color=\"black\" size={25}/>$0",
+    "description": "favorite icon from Fontisto font."
+  },
+  "fo-filter": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fo-filter",
+    "body": "<Fontisto name=\"filter\" color=\"black\" size={25}/>$0",
+    "description": "filter icon from Fontisto font."
+  },
+  "fo-fire": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fo-fire",
+    "body": "<Fontisto name=\"fire\" color=\"black\" size={25}/>$0",
+    "description": "fire icon from Fontisto font."
+  },
+  "fo-flag": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fo-flag",
+    "body": "<Fontisto name=\"flag\" color=\"black\" size={25}/>$0",
+    "description": "flag icon from Fontisto font."
+  },
+  "fo-flash": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fo-flash",
+    "body": "<Fontisto name=\"flash\" color=\"black\" size={25}/>$0",
+    "description": "flash icon from Fontisto font."
+  },
+  "fo-home": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fo-home",
+    "body": "<Fontisto name=\"home\" color=\"black\" size={25}/>$0",
+    "description": "home icon from Fontisto font."
+  },
+  "fo-link": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fo-link",
+    "body": "<Fontisto name=\"link\" color=\"black\" size={25}/>$0",
+    "description": "link icon from Fontisto font."
+  },
+  "fo-locked": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fo-locked",
+    "body": "<Fontisto name=\"locked\" color=\"black\" size={25}/>$0",
+    "description": "locked icon from Fontisto font."
+  },
+  "fo-male": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fo-male",
+    "body": "<Fontisto name=\"male\" color=\"black\" size={25}/>$0",
+    "description": "male icon from Fontisto font."
+  },
+  "fo-minus-a": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fo-minus-a",
+    "body": "<Fontisto name=\"minus-a\" color=\"black\" size={25}/>$0",
+    "description": "minus-a icon from Fontisto font."
+  },
+  "fo-more-v-a": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fo-more-v-a",
+    "body": "<Fontisto name=\"more-v-a\" color=\"black\" size={25}/>$0",
+    "description": "more-v-a icon from Fontisto font."
+  },
+  "fo-more-v": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fo-more-v",
+    "body": "<Fontisto name=\"more-v\" color=\"black\" size={25}/>$0",
+    "description": "more-v icon from Fontisto font."
+  },
+  "fo-move-h-a": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fo-move-h-a",
+    "body": "<Fontisto name=\"move-h-a\" color=\"black\" size={25}/>$0",
+    "description": "move-h-a icon from Fontisto font."
+  },
+  "fo-move-h": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fo-move-h",
+    "body": "<Fontisto name=\"move-h\" color=\"black\" size={25}/>$0",
+    "description": "move-h icon from Fontisto font."
+  },
+  "fo-nav-icon-a": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fo-nav-icon-a",
+    "body": "<Fontisto name=\"nav-icon-a\" color=\"black\" size={25}/>$0",
+    "description": "nav-icon-a icon from Fontisto font."
+  },
+  "fo-nav-icon-grid-a": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fo-nav-icon-grid-a",
+    "body": "<Fontisto name=\"nav-icon-grid-a\" color=\"black\" size={25}/>$0",
+    "description": "nav-icon-grid-a icon from Fontisto font."
+  },
+  "fo-nav-icon-grid": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fo-nav-icon-grid",
+    "body": "<Fontisto name=\"nav-icon-grid\" color=\"black\" size={25}/>$0",
+    "description": "nav-icon-grid icon from Fontisto font."
+  },
+  "fo-nav-icon-list-a": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fo-nav-icon-list-a",
+    "body": "<Fontisto name=\"nav-icon-list-a\" color=\"black\" size={25}/>$0",
+    "description": "nav-icon-list-a icon from Fontisto font."
+  },
+  "fo-nav-icon-list": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fo-nav-icon-list",
+    "body": "<Fontisto name=\"nav-icon-list\" color=\"black\" size={25}/>$0",
+    "description": "nav-icon-list icon from Fontisto font."
+  },
+  "fo-nav-icon": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fo-nav-icon",
+    "body": "<Fontisto name=\"nav-icon\" color=\"black\" size={25}/>$0",
+    "description": "nav-icon icon from Fontisto font."
+  },
+  "fo-navigate": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fo-navigate",
+    "body": "<Fontisto name=\"navigate\" color=\"black\" size={25}/>$0",
+    "description": "navigate icon from Fontisto font."
+  },
+  "fo-paper-plane": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fo-paper-plane",
+    "body": "<Fontisto name=\"paper-plane\" color=\"black\" size={25}/>$0",
+    "description": "paper-plane icon from Fontisto font."
+  },
+  "fo-person": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fo-person",
+    "body": "<Fontisto name=\"person\" color=\"black\" size={25}/>$0",
+    "description": "person icon from Fontisto font."
+  },
+  "fo-persons": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fo-persons",
+    "body": "<Fontisto name=\"persons\" color=\"black\" size={25}/>$0",
+    "description": "persons icon from Fontisto font."
+  },
+  "fo-picture": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fo-picture",
+    "body": "<Fontisto name=\"picture\" color=\"black\" size={25}/>$0",
+    "description": "picture icon from Fontisto font."
+  },
+  "fo-plus-a": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fo-plus-a",
+    "body": "<Fontisto name=\"plus-a\" color=\"black\" size={25}/>$0",
+    "description": "plus-a icon from Fontisto font."
+  },
+  "fo-print": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fo-print",
+    "body": "<Fontisto name=\"print\" color=\"black\" size={25}/>$0",
+    "description": "print icon from Fontisto font."
+  },
+  "fo-quote-a-left": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fo-quote-a-left",
+    "body": "<Fontisto name=\"quote-a-left\" color=\"black\" size={25}/>$0",
+    "description": "quote-a-left icon from Fontisto font."
+  },
+  "fo-quote-a-right": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fo-quote-a-right",
+    "body": "<Fontisto name=\"quote-a-right\" color=\"black\" size={25}/>$0",
+    "description": "quote-a-right icon from Fontisto font."
+  },
+  "fo-quote-left": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fo-quote-left",
+    "body": "<Fontisto name=\"quote-left\" color=\"black\" size={25}/>$0",
+    "description": "quote-left icon from Fontisto font."
+  },
+  "fo-quote-right": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fo-quote-right",
+    "body": "<Fontisto name=\"quote-right\" color=\"black\" size={25}/>$0",
+    "description": "quote-right icon from Fontisto font."
+  },
+  "fo-reply": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fo-reply",
+    "body": "<Fontisto name=\"reply\" color=\"black\" size={25}/>$0",
+    "description": "reply icon from Fontisto font."
+  },
+  "fo-rss": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fo-rss",
+    "body": "<Fontisto name=\"rss\" color=\"black\" size={25}/>$0",
+    "description": "rss icon from Fontisto font."
+  },
+  "fo-scissors": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fo-scissors",
+    "body": "<Fontisto name=\"scissors\" color=\"black\" size={25}/>$0",
+    "description": "scissors icon from Fontisto font."
+  },
+  "fo-share-a": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fo-share-a",
+    "body": "<Fontisto name=\"share-a\" color=\"black\" size={25}/>$0",
+    "description": "share-a icon from Fontisto font."
+  },
+  "fo-share": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fo-share",
+    "body": "<Fontisto name=\"share\" color=\"black\" size={25}/>$0",
+    "description": "share icon from Fontisto font."
+  },
+  "fo-trash": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fo-trash",
+    "body": "<Fontisto name=\"trash\" color=\"black\" size={25}/>$0",
+    "description": "trash icon from Fontisto font."
+  },
+  "fo-unlocked": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fo-unlocked",
+    "body": "<Fontisto name=\"unlocked\" color=\"black\" size={25}/>$0",
+    "description": "unlocked icon from Fontisto font."
+  },
+  "fo-usb": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fo-usb",
+    "body": "<Fontisto name=\"usb\" color=\"black\" size={25}/>$0",
+    "description": "usb icon from Fontisto font."
+  },
+  "fo-wifi": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fo-wifi",
+    "body": "<Fontisto name=\"wifi\" color=\"black\" size={25}/>$0",
+    "description": "wifi icon from Fontisto font."
+  },
+  "fo-world-o": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fo-world-o",
+    "body": "<Fontisto name=\"world-o\" color=\"black\" size={25}/>$0",
+    "description": "world-o icon from Fontisto font."
+  },
+  "fo-world": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fo-world",
+    "body": "<Fontisto name=\"world\" color=\"black\" size={25}/>$0",
+    "description": "world icon from Fontisto font."
+  },
+  "fo-zoom": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fo-zoom",
+    "body": "<Fontisto name=\"zoom\" color=\"black\" size={25}/>$0",
+    "description": "zoom icon from Fontisto font."
+  },
+  "fo-adjust": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fo-adjust",
+    "body": "<Fontisto name=\"adjust\" color=\"black\" size={25}/>$0",
+    "description": "adjust icon from Fontisto font."
+  },
+  "fo-recycle": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fo-recycle",
+    "body": "<Fontisto name=\"recycle\" color=\"black\" size={25}/>$0",
+    "description": "recycle icon from Fontisto font."
+  },
+  "fo-pinboard": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fo-pinboard",
+    "body": "<Fontisto name=\"pinboard\" color=\"black\" size={25}/>$0",
+    "description": "pinboard icon from Fontisto font."
+  },
+  "fo-zoom-minus": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fo-zoom-minus",
+    "body": "<Fontisto name=\"zoom-minus\" color=\"black\" size={25}/>$0",
+    "description": "zoom-minus icon from Fontisto font."
+  },
+  "fo-zoom-plus": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fo-zoom-plus",
+    "body": "<Fontisto name=\"zoom-plus\" color=\"black\" size={25}/>$0",
+    "description": "zoom-plus icon from Fontisto font."
+  },
+  "fo-check": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fo-check",
+    "body": "<Fontisto name=\"check\" color=\"black\" size={25}/>$0",
+    "description": "check icon from Fontisto font."
+  },
+  "fo-asterisk": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fo-asterisk",
+    "body": "<Fontisto name=\"asterisk\" color=\"black\" size={25}/>$0",
+    "description": "asterisk icon from Fontisto font."
+  },
+  "fo-hashtag": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fo-hashtag",
+    "body": "<Fontisto name=\"hashtag\" color=\"black\" size={25}/>$0",
+    "description": "hashtag icon from Fontisto font."
+  },
+  "fo-checkbox-active": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fo-checkbox-active",
+    "body": "<Fontisto name=\"checkbox-active\" color=\"black\" size={25}/>$0",
+    "description": "checkbox-active icon from Fontisto font."
+  },
+  "fo-checkbox-passive": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fo-checkbox-passive",
+    "body": "<Fontisto name=\"checkbox-passive\" color=\"black\" size={25}/>$0",
+    "description": "checkbox-passive icon from Fontisto font."
+  },
+  "fo-radio-btn-active": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fo-radio-btn-active",
+    "body": "<Fontisto name=\"radio-btn-active\" color=\"black\" size={25}/>$0",
+    "description": "radio-btn-active icon from Fontisto font."
+  },
+  "fo-radio-btn-passive": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fo-radio-btn-passive",
+    "body": "<Fontisto name=\"radio-btn-passive\" color=\"black\" size={25}/>$0",
+    "description": "radio-btn-passive icon from Fontisto font."
+  },
+  "fo-shopping-bag-1": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fo-shopping-bag-1",
+    "body": "<Fontisto name=\"shopping-bag-1\" color=\"black\" size={25}/>$0",
+    "description": "shopping-bag-1 icon from Fontisto font."
+  },
+  "fo-shopping-bag": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fo-shopping-bag",
+    "body": "<Fontisto name=\"shopping-bag\" color=\"black\" size={25}/>$0",
+    "description": "shopping-bag icon from Fontisto font."
+  },
+  "fo-shopping-barcode": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fo-shopping-barcode",
+    "body": "<Fontisto name=\"shopping-barcode\" color=\"black\" size={25}/>$0",
+    "description": "shopping-barcode icon from Fontisto font."
+  },
+  "fo-shopping-basket-add": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fo-shopping-basket-add",
+    "body": "<Fontisto name=\"shopping-basket-add\" color=\"black\" size={25}/>$0",
+    "description": "shopping-basket-add icon from Fontisto font."
+  },
+  "fo-shopping-basket-remove": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fo-shopping-basket-remove",
+    "body": "<Fontisto name=\"shopping-basket-remove\" color=\"black\" size={25}/>$0",
+    "description": "shopping-basket-remove icon from Fontisto font."
+  },
+  "fo-shopping-basket": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fo-shopping-basket",
+    "body": "<Fontisto name=\"shopping-basket\" color=\"black\" size={25}/>$0",
+    "description": "shopping-basket icon from Fontisto font."
+  },
+  "fo-shopping-package": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fo-shopping-package",
+    "body": "<Fontisto name=\"shopping-package\" color=\"black\" size={25}/>$0",
+    "description": "shopping-package icon from Fontisto font."
+  },
+  "fo-shopping-pos-machine": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fo-shopping-pos-machine",
+    "body": "<Fontisto name=\"shopping-pos-machine\" color=\"black\" size={25}/>$0",
+    "description": "shopping-pos-machine icon from Fontisto font."
+  },
+  "fo-shopping-sale": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fo-shopping-sale",
+    "body": "<Fontisto name=\"shopping-sale\" color=\"black\" size={25}/>$0",
+    "description": "shopping-sale icon from Fontisto font."
+  },
+  "fo-shopping-store": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fo-shopping-store",
+    "body": "<Fontisto name=\"shopping-store\" color=\"black\" size={25}/>$0",
+    "description": "shopping-store icon from Fontisto font."
+  },
+  "fo-angle-dobule-down": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fo-angle-dobule-down",
+    "body": "<Fontisto name=\"angle-dobule-down\" color=\"black\" size={25}/>$0",
+    "description": "angle-dobule-down icon from Fontisto font."
+  },
+  "fo-angle-dobule-left": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fo-angle-dobule-left",
+    "body": "<Fontisto name=\"angle-dobule-left\" color=\"black\" size={25}/>$0",
+    "description": "angle-dobule-left icon from Fontisto font."
+  },
+  "fo-angle-dobule-right": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fo-angle-dobule-right",
+    "body": "<Fontisto name=\"angle-dobule-right\" color=\"black\" size={25}/>$0",
+    "description": "angle-dobule-right icon from Fontisto font."
+  },
+  "fo-angle-dobule-up": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fo-angle-dobule-up",
+    "body": "<Fontisto name=\"angle-dobule-up\" color=\"black\" size={25}/>$0",
+    "description": "angle-dobule-up icon from Fontisto font."
+  },
+  "fo-angle-down": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fo-angle-down",
+    "body": "<Fontisto name=\"angle-down\" color=\"black\" size={25}/>$0",
+    "description": "angle-down icon from Fontisto font."
+  },
+  "fo-angle-left": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fo-angle-left",
+    "body": "<Fontisto name=\"angle-left\" color=\"black\" size={25}/>$0",
+    "description": "angle-left icon from Fontisto font."
+  },
+  "fo-angle-right": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fo-angle-right",
+    "body": "<Fontisto name=\"angle-right\" color=\"black\" size={25}/>$0",
+    "description": "angle-right icon from Fontisto font."
+  },
+  "fo-angle-up": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fo-angle-up",
+    "body": "<Fontisto name=\"angle-up\" color=\"black\" size={25}/>$0",
+    "description": "angle-up icon from Fontisto font."
+  },
+  "fo-arrow-down-l": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fo-arrow-down-l",
+    "body": "<Fontisto name=\"arrow-down-l\" color=\"black\" size={25}/>$0",
+    "description": "arrow-down-l icon from Fontisto font."
+  },
+  "fo-arrow-down": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fo-arrow-down",
+    "body": "<Fontisto name=\"arrow-down\" color=\"black\" size={25}/>$0",
+    "description": "arrow-down icon from Fontisto font."
+  },
+  "fo-arrow-expand": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fo-arrow-expand",
+    "body": "<Fontisto name=\"arrow-expand\" color=\"black\" size={25}/>$0",
+    "description": "arrow-expand icon from Fontisto font."
+  },
+  "fo-arrow-h": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fo-arrow-h",
+    "body": "<Fontisto name=\"arrow-h\" color=\"black\" size={25}/>$0",
+    "description": "arrow-h icon from Fontisto font."
+  },
+  "fo-arrow-left-l": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fo-arrow-left-l",
+    "body": "<Fontisto name=\"arrow-left-l\" color=\"black\" size={25}/>$0",
+    "description": "arrow-left-l icon from Fontisto font."
+  },
+  "fo-arrow-left": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fo-arrow-left",
+    "body": "<Fontisto name=\"arrow-left\" color=\"black\" size={25}/>$0",
+    "description": "arrow-left icon from Fontisto font."
+  },
+  "fo-arrow-move": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fo-arrow-move",
+    "body": "<Fontisto name=\"arrow-move\" color=\"black\" size={25}/>$0",
+    "description": "arrow-move icon from Fontisto font."
+  },
+  "fo-arrow-resize": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fo-arrow-resize",
+    "body": "<Fontisto name=\"arrow-resize\" color=\"black\" size={25}/>$0",
+    "description": "arrow-resize icon from Fontisto font."
+  },
+  "fo-arrow-return-left": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fo-arrow-return-left",
+    "body": "<Fontisto name=\"arrow-return-left\" color=\"black\" size={25}/>$0",
+    "description": "arrow-return-left icon from Fontisto font."
+  },
+  "fo-arrow-return-right": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fo-arrow-return-right",
+    "body": "<Fontisto name=\"arrow-return-right\" color=\"black\" size={25}/>$0",
+    "description": "arrow-return-right icon from Fontisto font."
+  },
+  "fo-arrow-right-l": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fo-arrow-right-l",
+    "body": "<Fontisto name=\"arrow-right-l\" color=\"black\" size={25}/>$0",
+    "description": "arrow-right-l icon from Fontisto font."
+  },
+  "fo-arrow-right": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fo-arrow-right",
+    "body": "<Fontisto name=\"arrow-right\" color=\"black\" size={25}/>$0",
+    "description": "arrow-right icon from Fontisto font."
+  },
+  "fo-arrow-swap": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fo-arrow-swap",
+    "body": "<Fontisto name=\"arrow-swap\" color=\"black\" size={25}/>$0",
+    "description": "arrow-swap icon from Fontisto font."
+  },
+  "fo-arrow-up-l": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fo-arrow-up-l",
+    "body": "<Fontisto name=\"arrow-up-l\" color=\"black\" size={25}/>$0",
+    "description": "arrow-up-l icon from Fontisto font."
+  },
+  "fo-arrow-up": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fo-arrow-up",
+    "body": "<Fontisto name=\"arrow-up\" color=\"black\" size={25}/>$0",
+    "description": "arrow-up icon from Fontisto font."
+  },
+  "fo-arrow-v": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fo-arrow-v",
+    "body": "<Fontisto name=\"arrow-v\" color=\"black\" size={25}/>$0",
+    "description": "arrow-v icon from Fontisto font."
+  },
+  "fo-caret-down": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fo-caret-down",
+    "body": "<Fontisto name=\"caret-down\" color=\"black\" size={25}/>$0",
+    "description": "caret-down icon from Fontisto font."
+  },
+  "fo-caret-left": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fo-caret-left",
+    "body": "<Fontisto name=\"caret-left\" color=\"black\" size={25}/>$0",
+    "description": "caret-left icon from Fontisto font."
+  },
+  "fo-caret-right": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fo-caret-right",
+    "body": "<Fontisto name=\"caret-right\" color=\"black\" size={25}/>$0",
+    "description": "caret-right icon from Fontisto font."
+  },
+  "fo-caret-up": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fo-caret-up",
+    "body": "<Fontisto name=\"caret-up\" color=\"black\" size={25}/>$0",
+    "description": "caret-up icon from Fontisto font."
+  },
+  "fo-fi": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fo-fi",
+    "body": "<Fontisto name=\"fi\" color=\"black\" size={25}/>$0",
+    "description": "fi icon from Fontisto font."
+  },
+  "fo-fontisto": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fo-fontisto",
+    "body": "<Fontisto name=\"fontisto\" color=\"black\" size={25}/>$0",
+    "description": "fontisto icon from Fontisto font."
+  },
+  "fo-backward": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fo-backward",
+    "body": "<Fontisto name=\"backward\" color=\"black\" size={25}/>$0",
+    "description": "backward icon from Fontisto font."
+  },
+  "fo-eject": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fo-eject",
+    "body": "<Fontisto name=\"eject\" color=\"black\" size={25}/>$0",
+    "description": "eject icon from Fontisto font."
+  },
+  "fo-equalizer": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fo-equalizer",
+    "body": "<Fontisto name=\"equalizer\" color=\"black\" size={25}/>$0",
+    "description": "equalizer icon from Fontisto font."
+  },
+  "fo-forward": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fo-forward",
+    "body": "<Fontisto name=\"forward\" color=\"black\" size={25}/>$0",
+    "description": "forward icon from Fontisto font."
+  },
+  "fo-headphone": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fo-headphone",
+    "body": "<Fontisto name=\"headphone\" color=\"black\" size={25}/>$0",
+    "description": "headphone icon from Fontisto font."
+  },
+  "fo-heart": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fo-heart",
+    "body": "<Fontisto name=\"heart\" color=\"black\" size={25}/>$0",
+    "description": "heart icon from Fontisto font."
+  },
+  "fo-mic": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fo-mic",
+    "body": "<Fontisto name=\"mic\" color=\"black\" size={25}/>$0",
+    "description": "mic icon from Fontisto font."
+  },
+  "fo-music-note": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fo-music-note",
+    "body": "<Fontisto name=\"music-note\" color=\"black\" size={25}/>$0",
+    "description": "music-note icon from Fontisto font."
+  },
+  "fo-pause": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fo-pause",
+    "body": "<Fontisto name=\"pause\" color=\"black\" size={25}/>$0",
+    "description": "pause icon from Fontisto font."
+  },
+  "fo-play-list": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fo-play-list",
+    "body": "<Fontisto name=\"play-list\" color=\"black\" size={25}/>$0",
+    "description": "play-list icon from Fontisto font."
+  },
+  "fo-play": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fo-play",
+    "body": "<Fontisto name=\"play\" color=\"black\" size={25}/>$0",
+    "description": "play icon from Fontisto font."
+  },
+  "fo-player-settings": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fo-player-settings",
+    "body": "<Fontisto name=\"player-settings\" color=\"black\" size={25}/>$0",
+    "description": "player-settings icon from Fontisto font."
+  },
+  "fo-podcast": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fo-podcast",
+    "body": "<Fontisto name=\"podcast\" color=\"black\" size={25}/>$0",
+    "description": "podcast icon from Fontisto font."
+  },
+  "fo-random": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fo-random",
+    "body": "<Fontisto name=\"random\" color=\"black\" size={25}/>$0",
+    "description": "random icon from Fontisto font."
+  },
+  "fo-record": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fo-record",
+    "body": "<Fontisto name=\"record\" color=\"black\" size={25}/>$0",
+    "description": "record icon from Fontisto font."
+  },
+  "fo-star": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fo-star",
+    "body": "<Fontisto name=\"star\" color=\"black\" size={25}/>$0",
+    "description": "star icon from Fontisto font."
+  },
+  "fo-step-backwrad": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fo-step-backwrad",
+    "body": "<Fontisto name=\"step-backwrad\" color=\"black\" size={25}/>$0",
+    "description": "step-backwrad icon from Fontisto font."
+  },
+  "fo-step-forward": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fo-step-forward",
+    "body": "<Fontisto name=\"step-forward\" color=\"black\" size={25}/>$0",
+    "description": "step-forward icon from Fontisto font."
+  },
+  "fo-stop": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fo-stop",
+    "body": "<Fontisto name=\"stop\" color=\"black\" size={25}/>$0",
+    "description": "stop icon from Fontisto font."
+  },
+  "fo-volume-down": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fo-volume-down",
+    "body": "<Fontisto name=\"volume-down\" color=\"black\" size={25}/>$0",
+    "description": "volume-down icon from Fontisto font."
+  },
+  "fo-volume-mute": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fo-volume-mute",
+    "body": "<Fontisto name=\"volume-mute\" color=\"black\" size={25}/>$0",
+    "description": "volume-mute icon from Fontisto font."
+  },
+  "fo-volume-off": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fo-volume-off",
+    "body": "<Fontisto name=\"volume-off\" color=\"black\" size={25}/>$0",
+    "description": "volume-off icon from Fontisto font."
+  },
+  "fo-volume-up": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fo-volume-up",
+    "body": "<Fontisto name=\"volume-up\" color=\"black\" size={25}/>$0",
+    "description": "volume-up icon from Fontisto font."
+  },
+  "fo-airplay": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fo-airplay",
+    "body": "<Fontisto name=\"airplay\" color=\"black\" size={25}/>$0",
+    "description": "airplay icon from Fontisto font."
+  },
+  "fo-bold": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fo-bold",
+    "body": "<Fontisto name=\"bold\" color=\"black\" size={25}/>$0",
+    "description": "bold icon from Fontisto font."
+  },
+  "fo-broken-link": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fo-broken-link",
+    "body": "<Fontisto name=\"broken-link\" color=\"black\" size={25}/>$0",
+    "description": "broken-link icon from Fontisto font."
+  },
+  "fo-center-align": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fo-center-align",
+    "body": "<Fontisto name=\"center-align\" color=\"black\" size={25}/>$0",
+    "description": "center-align icon from Fontisto font."
+  },
+  "fo-close": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fo-close",
+    "body": "<Fontisto name=\"close\" color=\"black\" size={25}/>$0",
+    "description": "close icon from Fontisto font."
+  },
+  "fo-columns": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fo-columns",
+    "body": "<Fontisto name=\"columns\" color=\"black\" size={25}/>$0",
+    "description": "columns icon from Fontisto font."
+  },
+  "fo-copy": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fo-copy",
+    "body": "<Fontisto name=\"copy\" color=\"black\" size={25}/>$0",
+    "description": "copy icon from Fontisto font."
+  },
+  "fo-eraser": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fo-eraser",
+    "body": "<Fontisto name=\"eraser\" color=\"black\" size={25}/>$0",
+    "description": "eraser icon from Fontisto font."
+  },
+  "fo-export": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fo-export",
+    "body": "<Fontisto name=\"export\" color=\"black\" size={25}/>$0",
+    "description": "export icon from Fontisto font."
+  },
+  "fo-file-1": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fo-file-1",
+    "body": "<Fontisto name=\"file-1\" color=\"black\" size={25}/>$0",
+    "description": "file-1 icon from Fontisto font."
+  },
+  "fo-file-2": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fo-file-2",
+    "body": "<Fontisto name=\"file-2\" color=\"black\" size={25}/>$0",
+    "description": "file-2 icon from Fontisto font."
+  },
+  "fo-folder": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fo-folder",
+    "body": "<Fontisto name=\"folder\" color=\"black\" size={25}/>$0",
+    "description": "folder icon from Fontisto font."
+  },
+  "fo-font": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fo-font",
+    "body": "<Fontisto name=\"font\" color=\"black\" size={25}/>$0",
+    "description": "font icon from Fontisto font."
+  },
+  "fo-import": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fo-import",
+    "body": "<Fontisto name=\"import\" color=\"black\" size={25}/>$0",
+    "description": "import icon from Fontisto font."
+  },
+  "fo-indent": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fo-indent",
+    "body": "<Fontisto name=\"indent\" color=\"black\" size={25}/>$0",
+    "description": "indent icon from Fontisto font."
+  },
+  "fo-italic": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fo-italic",
+    "body": "<Fontisto name=\"italic\" color=\"black\" size={25}/>$0",
+    "description": "italic icon from Fontisto font."
+  },
+  "fo-justify": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fo-justify",
+    "body": "<Fontisto name=\"justify\" color=\"black\" size={25}/>$0",
+    "description": "justify icon from Fontisto font."
+  },
+  "fo-left-align": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fo-left-align",
+    "body": "<Fontisto name=\"left-align\" color=\"black\" size={25}/>$0",
+    "description": "left-align icon from Fontisto font."
+  },
+  "fo-link2": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fo-link2",
+    "body": "<Fontisto name=\"link2\" color=\"black\" size={25}/>$0",
+    "description": "link2 icon from Fontisto font."
+  },
+  "fo-list-1": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fo-list-1",
+    "body": "<Fontisto name=\"list-1\" color=\"black\" size={25}/>$0",
+    "description": "list-1 icon from Fontisto font."
+  },
+  "fo-list-2": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fo-list-2",
+    "body": "<Fontisto name=\"list-2\" color=\"black\" size={25}/>$0",
+    "description": "list-2 icon from Fontisto font."
+  },
+  "fo-outdent": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fo-outdent",
+    "body": "<Fontisto name=\"outdent\" color=\"black\" size={25}/>$0",
+    "description": "outdent icon from Fontisto font."
+  },
+  "fo-paperclip": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fo-paperclip",
+    "body": "<Fontisto name=\"paperclip\" color=\"black\" size={25}/>$0",
+    "description": "paperclip icon from Fontisto font."
+  },
+  "fo-paragraph": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fo-paragraph",
+    "body": "<Fontisto name=\"paragraph\" color=\"black\" size={25}/>$0",
+    "description": "paragraph icon from Fontisto font."
+  },
+  "fo-paste": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fo-paste",
+    "body": "<Fontisto name=\"paste\" color=\"black\" size={25}/>$0",
+    "description": "paste icon from Fontisto font."
+  },
+  "fo-preview": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fo-preview",
+    "body": "<Fontisto name=\"preview\" color=\"black\" size={25}/>$0",
+    "description": "preview icon from Fontisto font."
+  },
+  "fo-print2": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fo-print2",
+    "body": "<Fontisto name=\"print2\" color=\"black\" size={25}/>$0",
+    "description": "print2 icon from Fontisto font."
+  },
+  "fo-redo": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fo-redo",
+    "body": "<Fontisto name=\"redo\" color=\"black\" size={25}/>$0",
+    "description": "redo icon from Fontisto font."
+  },
+  "fo-right-align": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fo-right-align",
+    "body": "<Fontisto name=\"right-align\" color=\"black\" size={25}/>$0",
+    "description": "right-align icon from Fontisto font."
+  },
+  "fo-save-1": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fo-save-1",
+    "body": "<Fontisto name=\"save-1\" color=\"black\" size={25}/>$0",
+    "description": "save-1 icon from Fontisto font."
+  },
+  "fo-save": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fo-save",
+    "body": "<Fontisto name=\"save\" color=\"black\" size={25}/>$0",
+    "description": "save icon from Fontisto font."
+  },
+  "fo-scissors2": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fo-scissors2",
+    "body": "<Fontisto name=\"scissors2\" color=\"black\" size={25}/>$0",
+    "description": "scissors2 icon from Fontisto font."
+  },
+  "fo-strikethrough": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fo-strikethrough",
+    "body": "<Fontisto name=\"strikethrough\" color=\"black\" size={25}/>$0",
+    "description": "strikethrough icon from Fontisto font."
+  },
+  "fo-subscript": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fo-subscript",
+    "body": "<Fontisto name=\"subscript\" color=\"black\" size={25}/>$0",
+    "description": "subscript icon from Fontisto font."
+  },
+  "fo-superscript": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fo-superscript",
+    "body": "<Fontisto name=\"superscript\" color=\"black\" size={25}/>$0",
+    "description": "superscript icon from Fontisto font."
+  },
+  "fo-table-1": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fo-table-1",
+    "body": "<Fontisto name=\"table-1\" color=\"black\" size={25}/>$0",
+    "description": "table-1 icon from Fontisto font."
+  },
+  "fo-table-2": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fo-table-2",
+    "body": "<Fontisto name=\"table-2\" color=\"black\" size={25}/>$0",
+    "description": "table-2 icon from Fontisto font."
+  },
+  "fo-text-height": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fo-text-height",
+    "body": "<Fontisto name=\"text-height\" color=\"black\" size={25}/>$0",
+    "description": "text-height icon from Fontisto font."
+  },
+  "fo-text-width": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fo-text-width",
+    "body": "<Fontisto name=\"text-width\" color=\"black\" size={25}/>$0",
+    "description": "text-width icon from Fontisto font."
+  },
+  "fo-underline": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fo-underline",
+    "body": "<Fontisto name=\"underline\" color=\"black\" size={25}/>$0",
+    "description": "underline icon from Fontisto font."
+  },
+  "fo-undo": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fo-undo",
+    "body": "<Fontisto name=\"undo\" color=\"black\" size={25}/>$0",
+    "description": "undo icon from Fontisto font."
+  },
+  "fo-cloud-down": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fo-cloud-down",
+    "body": "<Fontisto name=\"cloud-down\" color=\"black\" size={25}/>$0",
+    "description": "cloud-down icon from Fontisto font."
+  },
+  "fo-cloud-refresh": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fo-cloud-refresh",
+    "body": "<Fontisto name=\"cloud-refresh\" color=\"black\" size={25}/>$0",
+    "description": "cloud-refresh icon from Fontisto font."
+  },
+  "fo-cloud-up": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fo-cloud-up",
+    "body": "<Fontisto name=\"cloud-up\" color=\"black\" size={25}/>$0",
+    "description": "cloud-up icon from Fontisto font."
+  },
+  "fo-cloudy-gusts": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fo-cloudy-gusts",
+    "body": "<Fontisto name=\"cloudy-gusts\" color=\"black\" size={25}/>$0",
+    "description": "cloudy-gusts icon from Fontisto font."
+  },
+  "fo-cloudy": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fo-cloudy",
+    "body": "<Fontisto name=\"cloudy\" color=\"black\" size={25}/>$0",
+    "description": "cloudy icon from Fontisto font."
+  },
+  "fo-compass": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fo-compass",
+    "body": "<Fontisto name=\"compass\" color=\"black\" size={25}/>$0",
+    "description": "compass icon from Fontisto font."
+  },
+  "fo-day-cloudy": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fo-day-cloudy",
+    "body": "<Fontisto name=\"day-cloudy\" color=\"black\" size={25}/>$0",
+    "description": "day-cloudy icon from Fontisto font."
+  },
+  "fo-day-haze": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fo-day-haze",
+    "body": "<Fontisto name=\"day-haze\" color=\"black\" size={25}/>$0",
+    "description": "day-haze icon from Fontisto font."
+  },
+  "fo-day-lightning": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fo-day-lightning",
+    "body": "<Fontisto name=\"day-lightning\" color=\"black\" size={25}/>$0",
+    "description": "day-lightning icon from Fontisto font."
+  },
+  "fo-day-rain": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fo-day-rain",
+    "body": "<Fontisto name=\"day-rain\" color=\"black\" size={25}/>$0",
+    "description": "day-rain icon from Fontisto font."
+  },
+  "fo-day-snow": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fo-day-snow",
+    "body": "<Fontisto name=\"day-snow\" color=\"black\" size={25}/>$0",
+    "description": "day-snow icon from Fontisto font."
+  },
+  "fo-day-sunny": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fo-day-sunny",
+    "body": "<Fontisto name=\"day-sunny\" color=\"black\" size={25}/>$0",
+    "description": "day-sunny icon from Fontisto font."
+  },
+  "fo-fog": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fo-fog",
+    "body": "<Fontisto name=\"fog\" color=\"black\" size={25}/>$0",
+    "description": "fog icon from Fontisto font."
+  },
+  "fo-horizon-alt": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fo-horizon-alt",
+    "body": "<Fontisto name=\"horizon-alt\" color=\"black\" size={25}/>$0",
+    "description": "horizon-alt icon from Fontisto font."
+  },
+  "fo-horizon": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fo-horizon",
+    "body": "<Fontisto name=\"horizon\" color=\"black\" size={25}/>$0",
+    "description": "horizon icon from Fontisto font."
+  },
+  "fo-lightning": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fo-lightning",
+    "body": "<Fontisto name=\"lightning\" color=\"black\" size={25}/>$0",
+    "description": "lightning icon from Fontisto font."
+  },
+  "fo-lightnings": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fo-lightnings",
+    "body": "<Fontisto name=\"lightnings\" color=\"black\" size={25}/>$0",
+    "description": "lightnings icon from Fontisto font."
+  },
+  "fo-night-alt-cloudy": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fo-night-alt-cloudy",
+    "body": "<Fontisto name=\"night-alt-cloudy\" color=\"black\" size={25}/>$0",
+    "description": "night-alt-cloudy icon from Fontisto font."
+  },
+  "fo-night-alt-lightning": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fo-night-alt-lightning",
+    "body": "<Fontisto name=\"night-alt-lightning\" color=\"black\" size={25}/>$0",
+    "description": "night-alt-lightning icon from Fontisto font."
+  },
+  "fo-night-alt-rain": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fo-night-alt-rain",
+    "body": "<Fontisto name=\"night-alt-rain\" color=\"black\" size={25}/>$0",
+    "description": "night-alt-rain icon from Fontisto font."
+  },
+  "fo-night-alt-snow": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fo-night-alt-snow",
+    "body": "<Fontisto name=\"night-alt-snow\" color=\"black\" size={25}/>$0",
+    "description": "night-alt-snow icon from Fontisto font."
+  },
+  "fo-night-clear": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fo-night-clear",
+    "body": "<Fontisto name=\"night-clear\" color=\"black\" size={25}/>$0",
+    "description": "night-clear icon from Fontisto font."
+  },
+  "fo-rain": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fo-rain",
+    "body": "<Fontisto name=\"rain\" color=\"black\" size={25}/>$0",
+    "description": "rain icon from Fontisto font."
+  },
+  "fo-rainbow": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fo-rainbow",
+    "body": "<Fontisto name=\"rainbow\" color=\"black\" size={25}/>$0",
+    "description": "rainbow icon from Fontisto font."
+  },
+  "fo-rains": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fo-rains",
+    "body": "<Fontisto name=\"rains\" color=\"black\" size={25}/>$0",
+    "description": "rains icon from Fontisto font."
+  },
+  "fo-snow": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fo-snow",
+    "body": "<Fontisto name=\"snow\" color=\"black\" size={25}/>$0",
+    "description": "snow icon from Fontisto font."
+  },
+  "fo-snows": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fo-snows",
+    "body": "<Fontisto name=\"snows\" color=\"black\" size={25}/>$0",
+    "description": "snows icon from Fontisto font."
+  },
+  "fo-thermometer": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fo-thermometer",
+    "body": "<Fontisto name=\"thermometer\" color=\"black\" size={25}/>$0",
+    "description": "thermometer icon from Fontisto font."
+  },
+  "fo-umbrella": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fo-umbrella",
+    "body": "<Fontisto name=\"umbrella\" color=\"black\" size={25}/>$0",
+    "description": "umbrella icon from Fontisto font."
+  },
+  "fo-wind": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fo-wind",
+    "body": "<Fontisto name=\"wind\" color=\"black\" size={25}/>$0",
+    "description": "wind icon from Fontisto font."
+  },
+  "fo-confused": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fo-confused",
+    "body": "<Fontisto name=\"confused\" color=\"black\" size={25}/>$0",
+    "description": "confused icon from Fontisto font."
+  },
+  "fo-dizzy": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fo-dizzy",
+    "body": "<Fontisto name=\"dizzy\" color=\"black\" size={25}/>$0",
+    "description": "dizzy icon from Fontisto font."
+  },
+  "fo-expressionless": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fo-expressionless",
+    "body": "<Fontisto name=\"expressionless\" color=\"black\" size={25}/>$0",
+    "description": "expressionless icon from Fontisto font."
+  },
+  "fo-frowning": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fo-frowning",
+    "body": "<Fontisto name=\"frowning\" color=\"black\" size={25}/>$0",
+    "description": "frowning icon from Fontisto font."
+  },
+  "fo-heart-eyes": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fo-heart-eyes",
+    "body": "<Fontisto name=\"heart-eyes\" color=\"black\" size={25}/>$0",
+    "description": "heart-eyes icon from Fontisto font."
+  },
+  "fo-laughing": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fo-laughing",
+    "body": "<Fontisto name=\"laughing\" color=\"black\" size={25}/>$0",
+    "description": "laughing icon from Fontisto font."
+  },
+  "fo-mad": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fo-mad",
+    "body": "<Fontisto name=\"mad\" color=\"black\" size={25}/>$0",
+    "description": "mad icon from Fontisto font."
+  },
+  "fo-nervous": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fo-nervous",
+    "body": "<Fontisto name=\"nervous\" color=\"black\" size={25}/>$0",
+    "description": "nervous icon from Fontisto font."
+  },
+  "fo-neutral": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fo-neutral",
+    "body": "<Fontisto name=\"neutral\" color=\"black\" size={25}/>$0",
+    "description": "neutral icon from Fontisto font."
+  },
+  "fo-open-mouth": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fo-open-mouth",
+    "body": "<Fontisto name=\"open-mouth\" color=\"black\" size={25}/>$0",
+    "description": "open-mouth icon from Fontisto font."
+  },
+  "fo-rage": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fo-rage",
+    "body": "<Fontisto name=\"rage\" color=\"black\" size={25}/>$0",
+    "description": "rage icon from Fontisto font."
+  },
+  "fo-slightly-smile": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fo-slightly-smile",
+    "body": "<Fontisto name=\"slightly-smile\" color=\"black\" size={25}/>$0",
+    "description": "slightly-smile icon from Fontisto font."
+  },
+  "fo-smiley": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fo-smiley",
+    "body": "<Fontisto name=\"smiley\" color=\"black\" size={25}/>$0",
+    "description": "smiley icon from Fontisto font."
+  },
+  "fo-smiling": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fo-smiling",
+    "body": "<Fontisto name=\"smiling\" color=\"black\" size={25}/>$0",
+    "description": "smiling icon from Fontisto font."
+  },
+  "fo-stuck-out-tongue": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fo-stuck-out-tongue",
+    "body": "<Fontisto name=\"stuck-out-tongue\" color=\"black\" size={25}/>$0",
+    "description": "stuck-out-tongue icon from Fontisto font."
+  },
+  "fo-sunglasses": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fo-sunglasses",
+    "body": "<Fontisto name=\"sunglasses\" color=\"black\" size={25}/>$0",
+    "description": "sunglasses icon from Fontisto font."
+  },
+  "fo-surprised": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fo-surprised",
+    "body": "<Fontisto name=\"surprised\" color=\"black\" size={25}/>$0",
+    "description": "surprised icon from Fontisto font."
+  },
+  "fo-tongue": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fo-tongue",
+    "body": "<Fontisto name=\"tongue\" color=\"black\" size={25}/>$0",
+    "description": "tongue icon from Fontisto font."
+  },
+  "fo-wink": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fo-wink",
+    "body": "<Fontisto name=\"wink\" color=\"black\" size={25}/>$0",
+    "description": "wink icon from Fontisto font."
+  },
+  "fo-zipper-mouth": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fo-zipper-mouth",
+    "body": "<Fontisto name=\"zipper-mouth\" color=\"black\" size={25}/>$0",
+    "description": "zipper-mouth icon from Fontisto font."
+  },
+  "fo-aids": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fo-aids",
+    "body": "<Fontisto name=\"aids\" color=\"black\" size={25}/>$0",
+    "description": "aids icon from Fontisto font."
+  },
+  "fo-ambulance": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fo-ambulance",
+    "body": "<Fontisto name=\"ambulance\" color=\"black\" size={25}/>$0",
+    "description": "ambulance icon from Fontisto font."
+  },
+  "fo-bandage": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fo-bandage",
+    "body": "<Fontisto name=\"bandage\" color=\"black\" size={25}/>$0",
+    "description": "bandage icon from Fontisto font."
+  },
+  "fo-bed-patient": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fo-bed-patient",
+    "body": "<Fontisto name=\"bed-patient\" color=\"black\" size={25}/>$0",
+    "description": "bed-patient icon from Fontisto font."
+  },
+  "fo-blood-drop": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fo-blood-drop",
+    "body": "<Fontisto name=\"blood-drop\" color=\"black\" size={25}/>$0",
+    "description": "blood-drop icon from Fontisto font."
+  },
+  "fo-blood-test": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fo-blood-test",
+    "body": "<Fontisto name=\"blood-test\" color=\"black\" size={25}/>$0",
+    "description": "blood-test icon from Fontisto font."
+  },
+  "fo-blood": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fo-blood",
+    "body": "<Fontisto name=\"blood\" color=\"black\" size={25}/>$0",
+    "description": "blood icon from Fontisto font."
+  },
+  "fo-dna": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fo-dna",
+    "body": "<Fontisto name=\"dna\" color=\"black\" size={25}/>$0",
+    "description": "dna icon from Fontisto font."
+  },
+  "fo-doctor": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fo-doctor",
+    "body": "<Fontisto name=\"doctor\" color=\"black\" size={25}/>$0",
+    "description": "doctor icon from Fontisto font."
+  },
+  "fo-drug-pack": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fo-drug-pack",
+    "body": "<Fontisto name=\"drug-pack\" color=\"black\" size={25}/>$0",
+    "description": "drug-pack icon from Fontisto font."
+  },
+  "fo-first-aid-alt": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fo-first-aid-alt",
+    "body": "<Fontisto name=\"first-aid-alt\" color=\"black\" size={25}/>$0",
+    "description": "first-aid-alt icon from Fontisto font."
+  },
+  "fo-heart-alt": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fo-heart-alt",
+    "body": "<Fontisto name=\"heart-alt\" color=\"black\" size={25}/>$0",
+    "description": "heart-alt icon from Fontisto font."
+  },
+  "fo-heartbeat-alt": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fo-heartbeat-alt",
+    "body": "<Fontisto name=\"heartbeat-alt\" color=\"black\" size={25}/>$0",
+    "description": "heartbeat-alt icon from Fontisto font."
+  },
+  "fo-heartbeat": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fo-heartbeat",
+    "body": "<Fontisto name=\"heartbeat\" color=\"black\" size={25}/>$0",
+    "description": "heartbeat icon from Fontisto font."
+  },
+  "fo-helicopter-ambulance": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fo-helicopter-ambulance",
+    "body": "<Fontisto name=\"helicopter-ambulance\" color=\"black\" size={25}/>$0",
+    "description": "helicopter-ambulance icon from Fontisto font."
+  },
+  "fo-hospital": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fo-hospital",
+    "body": "<Fontisto name=\"hospital\" color=\"black\" size={25}/>$0",
+    "description": "hospital icon from Fontisto font."
+  },
+  "fo-injection-syringe": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fo-injection-syringe",
+    "body": "<Fontisto name=\"injection-syringe\" color=\"black\" size={25}/>$0",
+    "description": "injection-syringe icon from Fontisto font."
+  },
+  "fo-laboratory": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fo-laboratory",
+    "body": "<Fontisto name=\"laboratory\" color=\"black\" size={25}/>$0",
+    "description": "laboratory icon from Fontisto font."
+  },
+  "fo-nurse": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fo-nurse",
+    "body": "<Fontisto name=\"nurse\" color=\"black\" size={25}/>$0",
+    "description": "nurse icon from Fontisto font."
+  },
+  "fo-nursing-home": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fo-nursing-home",
+    "body": "<Fontisto name=\"nursing-home\" color=\"black\" size={25}/>$0",
+    "description": "nursing-home icon from Fontisto font."
+  },
+  "fo-paralysis-disability": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fo-paralysis-disability",
+    "body": "<Fontisto name=\"paralysis-disability\" color=\"black\" size={25}/>$0",
+    "description": "paralysis-disability icon from Fontisto font."
+  },
+  "fo-pills": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fo-pills",
+    "body": "<Fontisto name=\"pills\" color=\"black\" size={25}/>$0",
+    "description": "pills icon from Fontisto font."
+  },
+  "fo-prescription": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fo-prescription",
+    "body": "<Fontisto name=\"prescription\" color=\"black\" size={25}/>$0",
+    "description": "prescription icon from Fontisto font."
+  },
+  "fo-pulse": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fo-pulse",
+    "body": "<Fontisto name=\"pulse\" color=\"black\" size={25}/>$0",
+    "description": "pulse icon from Fontisto font."
+  },
+  "fo-stethoscope": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fo-stethoscope",
+    "body": "<Fontisto name=\"stethoscope\" color=\"black\" size={25}/>$0",
+    "description": "stethoscope icon from Fontisto font."
+  },
+  "fo-surgical-knife": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fo-surgical-knife",
+    "body": "<Fontisto name=\"surgical-knife\" color=\"black\" size={25}/>$0",
+    "description": "surgical-knife icon from Fontisto font."
+  },
+  "fo-tablets": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fo-tablets",
+    "body": "<Fontisto name=\"tablets\" color=\"black\" size={25}/>$0",
+    "description": "tablets icon from Fontisto font."
+  },
+  "fo-test-bottle": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fo-test-bottle",
+    "body": "<Fontisto name=\"test-bottle\" color=\"black\" size={25}/>$0",
+    "description": "test-bottle icon from Fontisto font."
+  },
+  "fo-test-tube-alt": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fo-test-tube-alt",
+    "body": "<Fontisto name=\"test-tube-alt\" color=\"black\" size={25}/>$0",
+    "description": "test-tube-alt icon from Fontisto font."
+  },
+  "fo-test-tube": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fo-test-tube",
+    "body": "<Fontisto name=\"test-tube\" color=\"black\" size={25}/>$0",
+    "description": "test-tube icon from Fontisto font."
+  },
+  "fo-thermometer-alt": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fo-thermometer-alt",
+    "body": "<Fontisto name=\"thermometer-alt\" color=\"black\" size={25}/>$0",
+    "description": "thermometer-alt icon from Fontisto font."
+  },
+  "fo-american-express": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fo-american-express",
+    "body": "<Fontisto name=\"american-express\" color=\"black\" size={25}/>$0",
+    "description": "american-express icon from Fontisto font."
+  },
+  "fo-credit-card": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fo-credit-card",
+    "body": "<Fontisto name=\"credit-card\" color=\"black\" size={25}/>$0",
+    "description": "credit-card icon from Fontisto font."
+  },
+  "fo-google-wallet": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fo-google-wallet",
+    "body": "<Fontisto name=\"google-wallet\" color=\"black\" size={25}/>$0",
+    "description": "google-wallet icon from Fontisto font."
+  },
+  "fo-iyzigo": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fo-iyzigo",
+    "body": "<Fontisto name=\"iyzigo\" color=\"black\" size={25}/>$0",
+    "description": "iyzigo icon from Fontisto font."
+  },
+  "fo-mastercard": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fo-mastercard",
+    "body": "<Fontisto name=\"mastercard\" color=\"black\" size={25}/>$0",
+    "description": "mastercard icon from Fontisto font."
+  },
+  "fo-paypal-p": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fo-paypal-p",
+    "body": "<Fontisto name=\"paypal-p\" color=\"black\" size={25}/>$0",
+    "description": "paypal-p icon from Fontisto font."
+  },
+  "fo-paypal": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fo-paypal",
+    "body": "<Fontisto name=\"paypal\" color=\"black\" size={25}/>$0",
+    "description": "paypal icon from Fontisto font."
+  },
+  "fo-payu": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fo-payu",
+    "body": "<Fontisto name=\"payu\" color=\"black\" size={25}/>$0",
+    "description": "payu icon from Fontisto font."
+  },
+  "fo-troy": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fo-troy",
+    "body": "<Fontisto name=\"troy\" color=\"black\" size={25}/>$0",
+    "description": "troy icon from Fontisto font."
+  },
+  "fo-visa": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fo-visa",
+    "body": "<Fontisto name=\"visa\" color=\"black\" size={25}/>$0",
+    "description": "visa icon from Fontisto font."
+  },
+  "fo-dinners-club": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fo-dinners-club",
+    "body": "<Fontisto name=\"dinners-club\" color=\"black\" size={25}/>$0",
+    "description": "dinners-club icon from Fontisto font."
+  },
+  "fo-apple-pay": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fo-apple-pay",
+    "body": "<Fontisto name=\"apple-pay\" color=\"black\" size={25}/>$0",
+    "description": "apple-pay icon from Fontisto font."
+  },
+  "fo-discover": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fo-discover",
+    "body": "<Fontisto name=\"discover\" color=\"black\" size={25}/>$0",
+    "description": "discover icon from Fontisto font."
+  },
+  "fo-jcb": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fo-jcb",
+    "body": "<Fontisto name=\"jcb\" color=\"black\" size={25}/>$0",
+    "description": "jcb icon from Fontisto font."
+  },
+  "fo-dislike": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fo-dislike",
+    "body": "<Fontisto name=\"dislike\" color=\"black\" size={25}/>$0",
+    "description": "dislike icon from Fontisto font."
+  },
+  "fo-like": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fo-like",
+    "body": "<Fontisto name=\"like\" color=\"black\" size={25}/>$0",
+    "description": "like icon from Fontisto font."
+  },
+  "fo-audio-description": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fo-audio-description",
+    "body": "<Fontisto name=\"audio-description\" color=\"black\" size={25}/>$0",
+    "description": "audio-description icon from Fontisto font."
+  },
+  "fo-blind": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fo-blind",
+    "body": "<Fontisto name=\"blind\" color=\"black\" size={25}/>$0",
+    "description": "blind icon from Fontisto font."
+  },
+  "fo-braille": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fo-braille",
+    "body": "<Fontisto name=\"braille\" color=\"black\" size={25}/>$0",
+    "description": "braille icon from Fontisto font."
+  },
+  "fo-deaf": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fo-deaf",
+    "body": "<Fontisto name=\"deaf\" color=\"black\" size={25}/>$0",
+    "description": "deaf icon from Fontisto font."
+  },
+  "fo-fa-american-sign-language-interpreting": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fo-fa-american-sign-language-interpreting",
+    "body": "<Fontisto name=\"fa-american-sign-language-interpreting\" color=\"black\" size={25}/>$0",
+    "description": "fa-american-sign-language-interpreting icon from Fontisto font."
+  },
+  "fo-low-vision": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fo-low-vision",
+    "body": "<Fontisto name=\"low-vision\" color=\"black\" size={25}/>$0",
+    "description": "low-vision icon from Fontisto font."
+  },
+  "fo-tty": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fo-tty",
+    "body": "<Fontisto name=\"tty\" color=\"black\" size={25}/>$0",
+    "description": "tty icon from Fontisto font."
+  },
+  "fo-universal-acces": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fo-universal-acces",
+    "body": "<Fontisto name=\"universal-acces\" color=\"black\" size={25}/>$0",
+    "description": "universal-acces icon from Fontisto font."
+  },
+  "fo-wheelchair": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fo-wheelchair",
+    "body": "<Fontisto name=\"wheelchair\" color=\"black\" size={25}/>$0",
+    "description": "wheelchair icon from Fontisto font."
+  },
+  "fo-area-chart": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fo-area-chart",
+    "body": "<Fontisto name=\"area-chart\" color=\"black\" size={25}/>$0",
+    "description": "area-chart icon from Fontisto font."
+  },
+  "fo-bar-chart": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fo-bar-chart",
+    "body": "<Fontisto name=\"bar-chart\" color=\"black\" size={25}/>$0",
+    "description": "bar-chart icon from Fontisto font."
+  },
+  "fo-line-chart": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fo-line-chart",
+    "body": "<Fontisto name=\"line-chart\" color=\"black\" size={25}/>$0",
+    "description": "line-chart icon from Fontisto font."
+  },
+  "fo-pie-chart-1": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fo-pie-chart-1",
+    "body": "<Fontisto name=\"pie-chart-1\" color=\"black\" size={25}/>$0",
+    "description": "pie-chart-1 icon from Fontisto font."
+  },
+  "fo-pie-chart-2": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fo-pie-chart-2",
+    "body": "<Fontisto name=\"pie-chart-2\" color=\"black\" size={25}/>$0",
+    "description": "pie-chart-2 icon from Fontisto font."
+  },
+  "fo-chrome": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fo-chrome",
+    "body": "<Fontisto name=\"chrome\" color=\"black\" size={25}/>$0",
+    "description": "chrome icon from Fontisto font."
+  },
+  "fo-edge": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fo-edge",
+    "body": "<Fontisto name=\"edge\" color=\"black\" size={25}/>$0",
+    "description": "edge icon from Fontisto font."
+  },
+  "fo-firefox": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fo-firefox",
+    "body": "<Fontisto name=\"firefox\" color=\"black\" size={25}/>$0",
+    "description": "firefox icon from Fontisto font."
+  },
+  "fo-internet-explorer": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fo-internet-explorer",
+    "body": "<Fontisto name=\"internet-explorer\" color=\"black\" size={25}/>$0",
+    "description": "internet-explorer icon from Fontisto font."
+  },
+  "fo-opera": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fo-opera",
+    "body": "<Fontisto name=\"opera\" color=\"black\" size={25}/>$0",
+    "description": "opera icon from Fontisto font."
+  },
+  "fo-safari": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fo-safari",
+    "body": "<Fontisto name=\"safari\" color=\"black\" size={25}/>$0",
+    "description": "safari icon from Fontisto font."
+  },
+  "fo-bitcoin": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fo-bitcoin",
+    "body": "<Fontisto name=\"bitcoin\" color=\"black\" size={25}/>$0",
+    "description": "bitcoin icon from Fontisto font."
+  },
+  "fo-dollar": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fo-dollar",
+    "body": "<Fontisto name=\"dollar\" color=\"black\" size={25}/>$0",
+    "description": "dollar icon from Fontisto font."
+  },
+  "fo-euro": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fo-euro",
+    "body": "<Fontisto name=\"euro\" color=\"black\" size={25}/>$0",
+    "description": "euro icon from Fontisto font."
+  },
+  "fo-gbp": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fo-gbp",
+    "body": "<Fontisto name=\"gbp\" color=\"black\" size={25}/>$0",
+    "description": "gbp icon from Fontisto font."
+  },
+  "fo-gg": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fo-gg",
+    "body": "<Fontisto name=\"gg\" color=\"black\" size={25}/>$0",
+    "description": "gg icon from Fontisto font."
+  },
+  "fo-ils": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fo-ils",
+    "body": "<Fontisto name=\"ils\" color=\"black\" size={25}/>$0",
+    "description": "ils icon from Fontisto font."
+  },
+  "fo-inr": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fo-inr",
+    "body": "<Fontisto name=\"inr\" color=\"black\" size={25}/>$0",
+    "description": "inr icon from Fontisto font."
+  },
+  "fo-krw": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fo-krw",
+    "body": "<Fontisto name=\"krw\" color=\"black\" size={25}/>$0",
+    "description": "krw icon from Fontisto font."
+  },
+  "fo-rouble": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fo-rouble",
+    "body": "<Fontisto name=\"rouble\" color=\"black\" size={25}/>$0",
+    "description": "rouble icon from Fontisto font."
+  },
+  "fo-tl": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fo-tl",
+    "body": "<Fontisto name=\"tl\" color=\"black\" size={25}/>$0",
+    "description": "tl icon from Fontisto font."
+  },
+  "fo-yen": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fo-yen",
+    "body": "<Fontisto name=\"yen\" color=\"black\" size={25}/>$0",
+    "description": "yen icon from Fontisto font."
+  },
+  "fo-genderless": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fo-genderless",
+    "body": "<Fontisto name=\"genderless\" color=\"black\" size={25}/>$0",
+    "description": "genderless icon from Fontisto font."
+  },
+  "fo-intersex": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fo-intersex",
+    "body": "<Fontisto name=\"intersex\" color=\"black\" size={25}/>$0",
+    "description": "intersex icon from Fontisto font."
+  },
+  "fo-mars-double": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fo-mars-double",
+    "body": "<Fontisto name=\"mars-double\" color=\"black\" size={25}/>$0",
+    "description": "mars-double icon from Fontisto font."
+  },
+  "fo-mars-stroke-h": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fo-mars-stroke-h",
+    "body": "<Fontisto name=\"mars-stroke-h\" color=\"black\" size={25}/>$0",
+    "description": "mars-stroke-h icon from Fontisto font."
+  },
+  "fo-mars-stroke-v": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fo-mars-stroke-v",
+    "body": "<Fontisto name=\"mars-stroke-v\" color=\"black\" size={25}/>$0",
+    "description": "mars-stroke-v icon from Fontisto font."
+  },
+  "fo-mars-stroke": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fo-mars-stroke",
+    "body": "<Fontisto name=\"mars-stroke\" color=\"black\" size={25}/>$0",
+    "description": "mars-stroke icon from Fontisto font."
+  },
+  "fo-mars": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fo-mars",
+    "body": "<Fontisto name=\"mars\" color=\"black\" size={25}/>$0",
+    "description": "mars icon from Fontisto font."
+  },
+  "fo-mercury": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fo-mercury",
+    "body": "<Fontisto name=\"mercury\" color=\"black\" size={25}/>$0",
+    "description": "mercury icon from Fontisto font."
+  },
+  "fo-neuter": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fo-neuter",
+    "body": "<Fontisto name=\"neuter\" color=\"black\" size={25}/>$0",
+    "description": "neuter icon from Fontisto font."
+  },
+  "fo-transgender-alt": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fo-transgender-alt",
+    "body": "<Fontisto name=\"transgender-alt\" color=\"black\" size={25}/>$0",
+    "description": "transgender-alt icon from Fontisto font."
+  },
+  "fo-transgender": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fo-transgender",
+    "body": "<Fontisto name=\"transgender\" color=\"black\" size={25}/>$0",
+    "description": "transgender icon from Fontisto font."
+  },
+  "fo-venus-double": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fo-venus-double",
+    "body": "<Fontisto name=\"venus-double\" color=\"black\" size={25}/>$0",
+    "description": "venus-double icon from Fontisto font."
+  },
+  "fo-venus-mars": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fo-venus-mars",
+    "body": "<Fontisto name=\"venus-mars\" color=\"black\" size={25}/>$0",
+    "description": "venus-mars icon from Fontisto font."
+  },
+  "fo-venus": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fo-venus",
+    "body": "<Fontisto name=\"venus\" color=\"black\" size={25}/>$0",
+    "description": "venus icon from Fontisto font."
+  },
+  "fo-automobile": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fo-automobile",
+    "body": "<Fontisto name=\"automobile\" color=\"black\" size={25}/>$0",
+    "description": "automobile icon from Fontisto font."
+  },
+  "fo-bicycle": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fo-bicycle",
+    "body": "<Fontisto name=\"bicycle\" color=\"black\" size={25}/>$0",
+    "description": "bicycle icon from Fontisto font."
+  },
+  "fo-bus": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fo-bus",
+    "body": "<Fontisto name=\"bus\" color=\"black\" size={25}/>$0",
+    "description": "bus icon from Fontisto font."
+  },
+  "fo-car": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fo-car",
+    "body": "<Fontisto name=\"car\" color=\"black\" size={25}/>$0",
+    "description": "car icon from Fontisto font."
+  },
+  "fo-helicopter": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fo-helicopter",
+    "body": "<Fontisto name=\"helicopter\" color=\"black\" size={25}/>$0",
+    "description": "helicopter icon from Fontisto font."
+  },
+  "fo-metro": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fo-metro",
+    "body": "<Fontisto name=\"metro\" color=\"black\" size={25}/>$0",
+    "description": "metro icon from Fontisto font."
+  },
+  "fo-motorcycle": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fo-motorcycle",
+    "body": "<Fontisto name=\"motorcycle\" color=\"black\" size={25}/>$0",
+    "description": "motorcycle icon from Fontisto font."
+  },
+  "fo-plane": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fo-plane",
+    "body": "<Fontisto name=\"plane\" color=\"black\" size={25}/>$0",
+    "description": "plane icon from Fontisto font."
+  },
+  "fo-rocket": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fo-rocket",
+    "body": "<Fontisto name=\"rocket\" color=\"black\" size={25}/>$0",
+    "description": "rocket icon from Fontisto font."
+  },
+  "fo-ship": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fo-ship",
+    "body": "<Fontisto name=\"ship\" color=\"black\" size={25}/>$0",
+    "description": "ship icon from Fontisto font."
+  },
+  "fo-subway": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fo-subway",
+    "body": "<Fontisto name=\"subway\" color=\"black\" size={25}/>$0",
+    "description": "subway icon from Fontisto font."
+  },
+  "fo-taxi": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fo-taxi",
+    "body": "<Fontisto name=\"taxi\" color=\"black\" size={25}/>$0",
+    "description": "taxi icon from Fontisto font."
+  },
+  "fo-train": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fo-train",
+    "body": "<Fontisto name=\"train\" color=\"black\" size={25}/>$0",
+    "description": "train icon from Fontisto font."
+  },
+  "fo-truck": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fo-truck",
+    "body": "<Fontisto name=\"truck\" color=\"black\" size={25}/>$0",
+    "description": "truck icon from Fontisto font."
+  },
+  "fo-yacht": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fo-yacht",
+    "body": "<Fontisto name=\"yacht\" color=\"black\" size={25}/>$0",
+    "description": "yacht icon from Fontisto font."
+  },
+  "fo-beach-slipper": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fo-beach-slipper",
+    "body": "<Fontisto name=\"beach-slipper\" color=\"black\" size={25}/>$0",
+    "description": "beach-slipper icon from Fontisto font."
+  },
+  "fo-bus-ticket": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fo-bus-ticket",
+    "body": "<Fontisto name=\"bus-ticket\" color=\"black\" size={25}/>$0",
+    "description": "bus-ticket icon from Fontisto font."
+  },
+  "fo-cocktail": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fo-cocktail",
+    "body": "<Fontisto name=\"cocktail\" color=\"black\" size={25}/>$0",
+    "description": "cocktail icon from Fontisto font."
+  },
+  "fo-compass-alt": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fo-compass-alt",
+    "body": "<Fontisto name=\"compass-alt\" color=\"black\" size={25}/>$0",
+    "description": "compass-alt icon from Fontisto font."
+  },
+  "fo-direction-sign": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fo-direction-sign",
+    "body": "<Fontisto name=\"direction-sign\" color=\"black\" size={25}/>$0",
+    "description": "direction-sign icon from Fontisto font."
+  },
+  "fo-do-not-disturb": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fo-do-not-disturb",
+    "body": "<Fontisto name=\"do-not-disturb\" color=\"black\" size={25}/>$0",
+    "description": "do-not-disturb icon from Fontisto font."
+  },
+  "fo-flotation-ring": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fo-flotation-ring",
+    "body": "<Fontisto name=\"flotation-ring\" color=\"black\" size={25}/>$0",
+    "description": "flotation-ring icon from Fontisto font."
+  },
+  "fo-holiday-village": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fo-holiday-village",
+    "body": "<Fontisto name=\"holiday-village\" color=\"black\" size={25}/>$0",
+    "description": "holiday-village icon from Fontisto font."
+  },
+  "fo-hot-air-balloon": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fo-hot-air-balloon",
+    "body": "<Fontisto name=\"hot-air-balloon\" color=\"black\" size={25}/>$0",
+    "description": "hot-air-balloon icon from Fontisto font."
+  },
+  "fo-hotel-alt": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fo-hotel-alt",
+    "body": "<Fontisto name=\"hotel-alt\" color=\"black\" size={25}/>$0",
+    "description": "hotel-alt icon from Fontisto font."
+  },
+  "fo-hotel": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fo-hotel",
+    "body": "<Fontisto name=\"hotel\" color=\"black\" size={25}/>$0",
+    "description": "hotel icon from Fontisto font."
+  },
+  "fo-island": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fo-island",
+    "body": "<Fontisto name=\"island\" color=\"black\" size={25}/>$0",
+    "description": "island icon from Fontisto font."
+  },
+  "fo-money-symbol": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fo-money-symbol",
+    "body": "<Fontisto name=\"money-symbol\" color=\"black\" size={25}/>$0",
+    "description": "money-symbol icon from Fontisto font."
+  },
+  "fo-parasol": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fo-parasol",
+    "body": "<Fontisto name=\"parasol\" color=\"black\" size={25}/>$0",
+    "description": "parasol icon from Fontisto font."
+  },
+  "fo-passport-alt": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fo-passport-alt",
+    "body": "<Fontisto name=\"passport-alt\" color=\"black\" size={25}/>$0",
+    "description": "passport-alt icon from Fontisto font."
+  },
+  "fo-passport": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fo-passport",
+    "body": "<Fontisto name=\"passport\" color=\"black\" size={25}/>$0",
+    "description": "passport icon from Fontisto font."
+  },
+  "fo-photograph": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fo-photograph",
+    "body": "<Fontisto name=\"photograph\" color=\"black\" size={25}/>$0",
+    "description": "photograph icon from Fontisto font."
+  },
+  "fo-plane-ticket": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fo-plane-ticket",
+    "body": "<Fontisto name=\"plane-ticket\" color=\"black\" size={25}/>$0",
+    "description": "plane-ticket icon from Fontisto font."
+  },
+  "fo-room": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fo-room",
+    "body": "<Fontisto name=\"room\" color=\"black\" size={25}/>$0",
+    "description": "room icon from Fontisto font."
+  },
+  "fo-sait-boat": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fo-sait-boat",
+    "body": "<Fontisto name=\"sait-boat\" color=\"black\" size={25}/>$0",
+    "description": "sait-boat icon from Fontisto font."
+  },
+  "fo-snorkel": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fo-snorkel",
+    "body": "<Fontisto name=\"snorkel\" color=\"black\" size={25}/>$0",
+    "description": "snorkel icon from Fontisto font."
+  },
+  "fo-suitcase-alt": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fo-suitcase-alt",
+    "body": "<Fontisto name=\"suitcase-alt\" color=\"black\" size={25}/>$0",
+    "description": "suitcase-alt icon from Fontisto font."
+  },
+  "fo-suitcase": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fo-suitcase",
+    "body": "<Fontisto name=\"suitcase\" color=\"black\" size={25}/>$0",
+    "description": "suitcase icon from Fontisto font."
+  },
+  "fo-sun": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fo-sun",
+    "body": "<Fontisto name=\"sun\" color=\"black\" size={25}/>$0",
+    "description": "sun icon from Fontisto font."
+  },
+  "fo-sunglasses-alt": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fo-sunglasses-alt",
+    "body": "<Fontisto name=\"sunglasses-alt\" color=\"black\" size={25}/>$0",
+    "description": "sunglasses-alt icon from Fontisto font."
+  },
+  "fo-swimsuit": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fo-swimsuit",
+    "body": "<Fontisto name=\"swimsuit\" color=\"black\" size={25}/>$0",
+    "description": "swimsuit icon from Fontisto font."
+  },
+  "fo-tent": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fo-tent",
+    "body": "<Fontisto name=\"tent\" color=\"black\" size={25}/>$0",
+    "description": "tent icon from Fontisto font."
+  },
+  "fo-ticket-alt": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fo-ticket-alt",
+    "body": "<Fontisto name=\"ticket-alt\" color=\"black\" size={25}/>$0",
+    "description": "ticket-alt icon from Fontisto font."
+  },
+  "fo-train-ticket": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fo-train-ticket",
+    "body": "<Fontisto name=\"train-ticket\" color=\"black\" size={25}/>$0",
+    "description": "train-ticket icon from Fontisto font."
+  },
+  "fo-wallet": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fo-wallet",
+    "body": "<Fontisto name=\"wallet\" color=\"black\" size={25}/>$0",
+    "description": "wallet icon from Fontisto font."
+  },
+  "fo-circle-o-notch": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fo-circle-o-notch",
+    "body": "<Fontisto name=\"circle-o-notch\" color=\"black\" size={25}/>$0",
+    "description": "circle-o-notch icon from Fontisto font."
+  },
+  "fo-propeller-1": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fo-propeller-1",
+    "body": "<Fontisto name=\"propeller-1\" color=\"black\" size={25}/>$0",
+    "description": "propeller-1 icon from Fontisto font."
+  },
+  "fo-propeller-2": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fo-propeller-2",
+    "body": "<Fontisto name=\"propeller-2\" color=\"black\" size={25}/>$0",
+    "description": "propeller-2 icon from Fontisto font."
+  },
+  "fo-propeller-3": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fo-propeller-3",
+    "body": "<Fontisto name=\"propeller-3\" color=\"black\" size={25}/>$0",
+    "description": "propeller-3 icon from Fontisto font."
+  },
+  "fo-propeller-4": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fo-propeller-4",
+    "body": "<Fontisto name=\"propeller-4\" color=\"black\" size={25}/>$0",
+    "description": "propeller-4 icon from Fontisto font."
+  },
+  "fo-spinner-cog": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fo-spinner-cog",
+    "body": "<Fontisto name=\"spinner-cog\" color=\"black\" size={25}/>$0",
+    "description": "spinner-cog icon from Fontisto font."
+  },
+  "fo-spinner-fidget": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fo-spinner-fidget",
+    "body": "<Fontisto name=\"spinner-fidget\" color=\"black\" size={25}/>$0",
+    "description": "spinner-fidget icon from Fontisto font."
+  },
+  "fo-spinner-refresh": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fo-spinner-refresh",
+    "body": "<Fontisto name=\"spinner-refresh\" color=\"black\" size={25}/>$0",
+    "description": "spinner-refresh icon from Fontisto font."
+  },
+  "fo-spinner-rotate-forward": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fo-spinner-rotate-forward",
+    "body": "<Fontisto name=\"spinner-rotate-forward\" color=\"black\" size={25}/>$0",
+    "description": "spinner-rotate-forward icon from Fontisto font."
+  },
+  "fo-spinner": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fo-spinner",
+    "body": "<Fontisto name=\"spinner\" color=\"black\" size={25}/>$0",
+    "description": "spinner icon from Fontisto font."
+  },
+  "fo-snowflake": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fo-snowflake",
+    "body": "<Fontisto name=\"snowflake\" color=\"black\" size={25}/>$0",
+    "description": "snowflake icon from Fontisto font."
+  },
+  "fo-snowflake-1": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fo-snowflake-1",
+    "body": "<Fontisto name=\"snowflake-1\" color=\"black\" size={25}/>$0",
+    "description": "snowflake-1 icon from Fontisto font."
+  },
+  "fo-snowflake-2": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fo-snowflake-2",
+    "body": "<Fontisto name=\"snowflake-2\" color=\"black\" size={25}/>$0",
+    "description": "snowflake-2 icon from Fontisto font."
+  },
+  "fo-snowflake-3": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fo-snowflake-3",
+    "body": "<Fontisto name=\"snowflake-3\" color=\"black\" size={25}/>$0",
+    "description": "snowflake-3 icon from Fontisto font."
+  },
+  "fo-snowflake-4": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fo-snowflake-4",
+    "body": "<Fontisto name=\"snowflake-4\" color=\"black\" size={25}/>$0",
+    "description": "snowflake-4 icon from Fontisto font."
+  },
+  "fo-snowflake-5": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fo-snowflake-5",
+    "body": "<Fontisto name=\"snowflake-5\" color=\"black\" size={25}/>$0",
+    "description": "snowflake-5 icon from Fontisto font."
+  },
+  "fo-snowflake-6": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fo-snowflake-6",
+    "body": "<Fontisto name=\"snowflake-6\" color=\"black\" size={25}/>$0",
+    "description": "snowflake-6 icon from Fontisto font."
+  },
+  "fo-snowflake-7": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fo-snowflake-7",
+    "body": "<Fontisto name=\"snowflake-7\" color=\"black\" size={25}/>$0",
+    "description": "snowflake-7 icon from Fontisto font."
+  },
+  "fo-snowflake-8": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fo-snowflake-8",
+    "body": "<Fontisto name=\"snowflake-8\" color=\"black\" size={25}/>$0",
+    "description": "snowflake-8 icon from Fontisto font."
+  },
+  "fo-curve": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fo-curve",
+    "body": "<Fontisto name=\"curve\" color=\"black\" size={25}/>$0",
+    "description": "curve icon from Fontisto font."
+  },
+  "fo-ellipse": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fo-ellipse",
+    "body": "<Fontisto name=\"ellipse\" color=\"black\" size={25}/>$0",
+    "description": "ellipse icon from Fontisto font."
+  },
+  "fo-rectangle": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fo-rectangle",
+    "body": "<Fontisto name=\"rectangle\" color=\"black\" size={25}/>$0",
+    "description": "rectangle icon from Fontisto font."
+  },
+  "fo-shield": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fo-shield",
+    "body": "<Fontisto name=\"shield\" color=\"black\" size={25}/>$0",
+    "description": "shield icon from Fontisto font."
+  }
+}

@@ -1,0 +1,307 @@
+{
+	"name": "react-native-icons-preview",
+	"displayName": "React Native Icons Preview",
+	"description": "Preview your React Native icons directly within the vscode editor.",
+	"version": "0.0.3",
+	"main": "./extension.js",
+	"icon": "icon.png",
+	"publisher": "guidev",
+	"license": "MIT",
+	"author": {
+		"name": "guidev",
+		"url": "http://github.com/aguidad"
+	},
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/aguidad/react-native-icons-preview"
+	},
+	"homepage": "https://github.com/idleberg/react-native-icons-preview#readme",
+	"bugs": {
+		"url": "https://github.com/idleberg/react-native-icons-preview/issues"
+	},
+	"keywords": [
+		"vscode",
+		"preview",
+		"icon font",
+		"icon fonts",
+		"font awesome",
+		"react native",
+		"react native icons",
+		"icons"
+	],
+	"categories": [
+		"Snippets",
+		"Other"
+	],
+	"engines": {
+		"vscode": "^1.78.0"
+	},
+	"activationEvents": [
+		"onLanguage:javascript",
+		"onLanguage:javascriptreact",
+		"onLanguage:typescript",
+		"onLanguage:typescriptreact"
+	],
+	"contributes": {
+		"snippets": [
+			{
+				"language": "javascript",
+				"path": "./src/snippets/ai.json"
+			},
+			{
+				"language": "javascript",
+				"path": "./src/snippets/ti.json"
+			},
+			{
+				"language": "javascript",
+				"path": "./src/snippets/ei.json"
+			},
+			{
+				"language": "javascript",
+				"path": "./src/snippets/fi.json"
+			},
+			{
+				"language": "javascript",
+				"path": "./src/snippets/fa.json"
+			},
+			{
+				"language": "javascript",
+				"path": "./src/snippets/fa5.json"
+			},
+			{
+				"language": "javascript",
+				"path": "./src/snippets/fo.json"
+			},
+			{
+				"language": "javascript",
+				"path": "./src/snippets/fd.json"
+			},
+			{
+				"language": "javascript",
+				"path": "./src/snippets/io.json"
+			},
+			{
+				"language": "javascript",
+				"path": "./src/snippets/md.json"
+			},
+			{
+				"language": "javascript",
+				"path": "./src/snippets/mc.json"
+			},
+			{
+				"language": "javascript",
+				"path": "./src/snippets/oci.json"
+			},
+			{
+				"language": "javascript",
+				"path": "./src/snippets/zi.json"
+			},
+			{
+				"language": "javascript",
+				"path": "./src/snippets/si.json"
+			},
+			{
+				"language": "javascriptreact",
+				"path": "./src/snippets/ai.json"
+			},
+			{
+				"language": "javascriptreact",
+				"path": "./src/snippets/ti.json"
+			},
+			{
+				"language": "javascriptreact",
+				"path": "./src/snippets/ei.json"
+			},
+			{
+				"language": "javascriptreact",
+				"path": "./src/snippets/fi.json"
+			},
+			{
+				"language": "javascriptreact",
+				"path": "./src/snippets/fa.json"
+			},
+			{
+				"language": "javascriptreact",
+				"path": "./src/snippets/fa5.json"
+			},
+			{
+				"language": "javascriptreact",
+				"path": "./src/snippets/fo.json"
+			},
+			{
+				"language": "javascriptreact",
+				"path": "./src/snippets/fd.json"
+			},
+			{
+				"language": "javascriptreact",
+				"path": "./src/snippets/io.json"
+			},
+			{
+				"language": "javascriptreact",
+				"path": "./src/snippets/md.json"
+			},
+			{
+				"language": "javascriptreact",
+				"path": "./src/snippets/mc.json"
+			},
+			{
+				"language": "javascriptreact",
+				"path": "./src/snippets/oci.json"
+			},
+			{
+				"language": "javascriptreact",
+				"path": "./src/snippets/zi.json"
+			},
+			{
+				"language": "javascriptreact",
+				"path": "./src/snippets/si.json"
+			},
+			{
+				"language": "typescript",
+				"path": "./src/snippets/ai.json"
+			},
+			{
+				"language": "typescript",
+				"path": "./src/snippets/ti.json"
+			},
+			{
+				"language": "typescript",
+				"path": "./src/snippets/ei.json"
+			},
+			{
+				"language": "typescript",
+				"path": "./src/snippets/fi.json"
+			},
+			{
+				"language": "typescript",
+				"path": "./src/snippets/fa.json"
+			},
+			{
+				"language": "typescript",
+				"path": "./src/snippets/fa5.json"
+			},
+			{
+				"language": "typescript",
+				"path": "./src/snippets/fo.json"
+			},
+			{
+				"language": "typescript",
+				"path": "./src/snippets/fd.json"
+			},
+			{
+				"language": "typescript",
+				"path": "./src/snippets/io.json"
+			},
+			{
+				"language": "typescript",
+				"path": "./src/snippets/md.json"
+			},
+			{
+				"language": "typescript",
+				"path": "./src/snippets/mc.json"
+			},
+			{
+				"language": "typescript",
+				"path": "./src/snippets/oci.json"
+			},
+			{
+				"language": "typescript",
+				"path": "./src/snippets/zi.json"
+			},
+			{
+				"language": "typescript",
+				"path": "./src/snippets/si.json"
+			},
+			{
+				"language": "typescriptreact",
+				"path": "./src/snippets/ai.json"
+			},
+			{
+				"language": "typescriptreact",
+				"path": "./src/snippets/ti.json"
+			},
+			{
+				"language": "typescriptreact",
+				"path": "./src/snippets/ei.json"
+			},
+			{
+				"language": "typescriptreact",
+				"path": "./src/snippets/fi.json"
+			},
+			{
+				"language": "typescriptreact",
+				"path": "./src/snippets/fa.json"
+			},
+			{
+				"language": "typescriptreact",
+				"path": "./src/snippets/fa5.json"
+			},
+			{
+				"language": "typescriptreact",
+				"path": "./src/snippets/fo.json"
+			},
+			{
+				"language": "typescriptreact",
+				"path": "./src/snippets/fd.json"
+			},
+			{
+				"language": "typescriptreact",
+				"path": "./src/snippets/io.json"
+			},
+			{
+				"language": "typescriptreact",
+				"path": "./src/snippets/md.json"
+			},
+			{
+				"language": "typescriptreact",
+				"path": "./src/snippets/mc.json"
+			},
+			{
+				"language": "typescriptreact",
+				"path": "./src/snippets/oci.json"
+			},
+			{
+				"language": "typescriptreact",
+				"path": "./src/snippets/zi.json"
+			},
+			{
+				"language": "typescriptreact",
+				"path": "./src/snippets/si.json"
+			}
+		]
+	},
+	"scripts": {
+		"lint": "eslint .",
+		"pretest": "npm run lint",
+		"test": "node ./test/runTest.js"
+	},
+	"devDependencies": {
+		"@types/glob": "^8.1.0",
+		"@types/mocha": "^10.0.1",
+		"@types/node": "20.2.5",
+		"@types/vscode": "^1.78.0",
+		"@vscode/test-electron": "^2.3.2",
+		"eslint": "^8.41.0",
+		"glob": "^8.1.0",
+		"mocha": "^10.2.0",
+		"typescript": "^5.1.3"
+	},
+	"dependencies": {
+		"btoa": "^1.2.1",
+		"opentype.js": "^1.3.4"
+	},
+	"__metadata": {
+		"id": "4ac51853-59e5-4898-b6ed-5a603fc7380f",
+		"publisherId": "5d13b54c-28ba-4d47-8f9f-1e6a815d4587",
+		"publisherDisplayName": "guidev",
+		"targetPlatform": "undefined",
+		"isApplicationScoped": false,
+		"isPreReleaseVersion": false,
+		"hasPreReleaseVersion": false,
+		"installedTimestamp": 1738591732865,
+		"pinned": false,
+		"preRelease": false,
+		"source": "gallery",
+		"size": 10125792
+	}
+}

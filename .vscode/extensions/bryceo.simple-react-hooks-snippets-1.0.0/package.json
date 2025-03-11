@@ -1,0 +1,54 @@
+{
+	"name": "simple-react-hooks-snippets",
+	"version": "1.0.0",
+	"description": "Set of helpful snippets for VSCode for working with React hooks",
+	"author": "Bryce Osterhaus <bryceosterhaus@gmail.com>",
+	"license": "MIT",
+	"publisher": "bryceo",
+	"displayName": "Simple React Hooks Snippets",
+	"icon": "react-logo.png",
+	"engines": {
+		"vscode": "0.10.x"
+	},
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/bryceosterhaus/react-hooks-snippets"
+	},
+	"categories": [
+		"Snippets"
+	],
+	"contributes": {
+		"snippets": [
+			{
+				"language": "javascriptreact",
+				"path": "./snippets/snippets.json"
+			},
+			{
+				"language": "javascript",
+				"path": "./snippets/snippets.json"
+			},
+			{
+				"language": "typescript",
+				"path": "./snippets/snippets.json"
+			},
+			{
+				"language": "typescriptreact",
+				"path": "./snippets/snippets.json"
+			}
+		]
+	},
+	"__metadata": {
+		"id": "072f7c11-d4d4-4824-aa5d-a7a4eb085c82",
+		"publisherId": "8e71f230-6a1d-4705-9243-8c984703309b",
+		"publisherDisplayName": "bryceo",
+		"targetPlatform": "undefined",
+		"isApplicationScoped": false,
+		"isPreReleaseVersion": false,
+		"hasPreReleaseVersion": false,
+		"installedTimestamp": 1732253281875,
+		"pinned": false,
+		"preRelease": false,
+		"source": "gallery",
+		"size": 19999
+	}
+}

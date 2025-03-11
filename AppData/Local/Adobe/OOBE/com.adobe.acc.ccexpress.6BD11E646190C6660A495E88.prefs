@@ -1,0 +1,4 @@
+<?xml version="1.0"?>
+<prefs>
+	<property key="qaItemsList">["remove-background","resize-image","convert-to-gif","convert-to-mp4","trim-video","resize-video","merge-videos","generate-qr-code","resize-image","remove-background","crop-image","convert-to-jpg","convert-to-png","convert-to-svg","trim-video","resize-video","merge-videos","crop-video","convert-to-mp4","convert-to-gif","convert-to-pdf","convert-from-pdf","edit-pdf","combine-files","organize-files","convert-to-pdf","convert-from-pdf","convert-to-jpg","convert-to-png","convert-to-svg","convert-to-mp4","convert-to-gif","remove-background","resize-image","crop-image","convert-to-jpg","convert-to-png","convert-to-svg","trim-video","resize-video","merge-videos","crop-video","convert-to-mp4","convert-to-gif","convert-to-pdf","convert-from-pdf","edit-pdf","combine-files","organize-files","generate-qr-code"]</property>
+</prefs>

@@ -1,0 +1,1718 @@
+{
+  "fi-activity": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fi-activity",
+    "body": "<Feather name=\"activity\" color=\"black\" size={25}/>$0",
+    "description": "activity icon from Feather font."
+  },
+  "fi-airplay": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fi-airplay",
+    "body": "<Feather name=\"airplay\" color=\"black\" size={25}/>$0",
+    "description": "airplay icon from Feather font."
+  },
+  "fi-alert-circle": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fi-alert-circle",
+    "body": "<Feather name=\"alert-circle\" color=\"black\" size={25}/>$0",
+    "description": "alert-circle icon from Feather font."
+  },
+  "fi-alert-octagon": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fi-alert-octagon",
+    "body": "<Feather name=\"alert-octagon\" color=\"black\" size={25}/>$0",
+    "description": "alert-octagon icon from Feather font."
+  },
+  "fi-alert-triangle": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fi-alert-triangle",
+    "body": "<Feather name=\"alert-triangle\" color=\"black\" size={25}/>$0",
+    "description": "alert-triangle icon from Feather font."
+  },
+  "fi-align-center": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fi-align-center",
+    "body": "<Feather name=\"align-center\" color=\"black\" size={25}/>$0",
+    "description": "align-center icon from Feather font."
+  },
+  "fi-align-justify": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fi-align-justify",
+    "body": "<Feather name=\"align-justify\" color=\"black\" size={25}/>$0",
+    "description": "align-justify icon from Feather font."
+  },
+  "fi-align-left": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fi-align-left",
+    "body": "<Feather name=\"align-left\" color=\"black\" size={25}/>$0",
+    "description": "align-left icon from Feather font."
+  },
+  "fi-align-right": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fi-align-right",
+    "body": "<Feather name=\"align-right\" color=\"black\" size={25}/>$0",
+    "description": "align-right icon from Feather font."
+  },
+  "fi-anchor": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fi-anchor",
+    "body": "<Feather name=\"anchor\" color=\"black\" size={25}/>$0",
+    "description": "anchor icon from Feather font."
+  },
+  "fi-aperture": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fi-aperture",
+    "body": "<Feather name=\"aperture\" color=\"black\" size={25}/>$0",
+    "description": "aperture icon from Feather font."
+  },
+  "fi-archive": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fi-archive",
+    "body": "<Feather name=\"archive\" color=\"black\" size={25}/>$0",
+    "description": "archive icon from Feather font."
+  },
+  "fi-arrow-down": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fi-arrow-down",
+    "body": "<Feather name=\"arrow-down\" color=\"black\" size={25}/>$0",
+    "description": "arrow-down icon from Feather font."
+  },
+  "fi-arrow-down-circle": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fi-arrow-down-circle",
+    "body": "<Feather name=\"arrow-down-circle\" color=\"black\" size={25}/>$0",
+    "description": "arrow-down-circle icon from Feather font."
+  },
+  "fi-arrow-down-left": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fi-arrow-down-left",
+    "body": "<Feather name=\"arrow-down-left\" color=\"black\" size={25}/>$0",
+    "description": "arrow-down-left icon from Feather font."
+  },
+  "fi-arrow-down-right": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fi-arrow-down-right",
+    "body": "<Feather name=\"arrow-down-right\" color=\"black\" size={25}/>$0",
+    "description": "arrow-down-right icon from Feather font."
+  },
+  "fi-arrow-left": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fi-arrow-left",
+    "body": "<Feather name=\"arrow-left\" color=\"black\" size={25}/>$0",
+    "description": "arrow-left icon from Feather font."
+  },
+  "fi-arrow-left-circle": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fi-arrow-left-circle",
+    "body": "<Feather name=\"arrow-left-circle\" color=\"black\" size={25}/>$0",
+    "description": "arrow-left-circle icon from Feather font."
+  },
+  "fi-arrow-right": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fi-arrow-right",
+    "body": "<Feather name=\"arrow-right\" color=\"black\" size={25}/>$0",
+    "description": "arrow-right icon from Feather font."
+  },
+  "fi-arrow-right-circle": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fi-arrow-right-circle",
+    "body": "<Feather name=\"arrow-right-circle\" color=\"black\" size={25}/>$0",
+    "description": "arrow-right-circle icon from Feather font."
+  },
+  "fi-arrow-up": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fi-arrow-up",
+    "body": "<Feather name=\"arrow-up\" color=\"black\" size={25}/>$0",
+    "description": "arrow-up icon from Feather font."
+  },
+  "fi-arrow-up-circle": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fi-arrow-up-circle",
+    "body": "<Feather name=\"arrow-up-circle\" color=\"black\" size={25}/>$0",
+    "description": "arrow-up-circle icon from Feather font."
+  },
+  "fi-arrow-up-left": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fi-arrow-up-left",
+    "body": "<Feather name=\"arrow-up-left\" color=\"black\" size={25}/>$0",
+    "description": "arrow-up-left icon from Feather font."
+  },
+  "fi-arrow-up-right": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fi-arrow-up-right",
+    "body": "<Feather name=\"arrow-up-right\" color=\"black\" size={25}/>$0",
+    "description": "arrow-up-right icon from Feather font."
+  },
+  "fi-at-sign": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fi-at-sign",
+    "body": "<Feather name=\"at-sign\" color=\"black\" size={25}/>$0",
+    "description": "at-sign icon from Feather font."
+  },
+  "fi-award": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fi-award",
+    "body": "<Feather name=\"award\" color=\"black\" size={25}/>$0",
+    "description": "award icon from Feather font."
+  },
+  "fi-bar-chart": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fi-bar-chart",
+    "body": "<Feather name=\"bar-chart\" color=\"black\" size={25}/>$0",
+    "description": "bar-chart icon from Feather font."
+  },
+  "fi-bar-chart-2": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fi-bar-chart-2",
+    "body": "<Feather name=\"bar-chart-2\" color=\"black\" size={25}/>$0",
+    "description": "bar-chart-2 icon from Feather font."
+  },
+  "fi-battery": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fi-battery",
+    "body": "<Feather name=\"battery\" color=\"black\" size={25}/>$0",
+    "description": "battery icon from Feather font."
+  },
+  "fi-battery-charging": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fi-battery-charging",
+    "body": "<Feather name=\"battery-charging\" color=\"black\" size={25}/>$0",
+    "description": "battery-charging icon from Feather font."
+  },
+  "fi-bell": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fi-bell",
+    "body": "<Feather name=\"bell\" color=\"black\" size={25}/>$0",
+    "description": "bell icon from Feather font."
+  },
+  "fi-bell-off": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fi-bell-off",
+    "body": "<Feather name=\"bell-off\" color=\"black\" size={25}/>$0",
+    "description": "bell-off icon from Feather font."
+  },
+  "fi-bluetooth": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fi-bluetooth",
+    "body": "<Feather name=\"bluetooth\" color=\"black\" size={25}/>$0",
+    "description": "bluetooth icon from Feather font."
+  },
+  "fi-bold": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fi-bold",
+    "body": "<Feather name=\"bold\" color=\"black\" size={25}/>$0",
+    "description": "bold icon from Feather font."
+  },
+  "fi-book": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fi-book",
+    "body": "<Feather name=\"book\" color=\"black\" size={25}/>$0",
+    "description": "book icon from Feather font."
+  },
+  "fi-book-open": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fi-book-open",
+    "body": "<Feather name=\"book-open\" color=\"black\" size={25}/>$0",
+    "description": "book-open icon from Feather font."
+  },
+  "fi-bookmark": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fi-bookmark",
+    "body": "<Feather name=\"bookmark\" color=\"black\" size={25}/>$0",
+    "description": "bookmark icon from Feather font."
+  },
+  "fi-box": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fi-box",
+    "body": "<Feather name=\"box\" color=\"black\" size={25}/>$0",
+    "description": "box icon from Feather font."
+  },
+  "fi-briefcase": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fi-briefcase",
+    "body": "<Feather name=\"briefcase\" color=\"black\" size={25}/>$0",
+    "description": "briefcase icon from Feather font."
+  },
+  "fi-calendar": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fi-calendar",
+    "body": "<Feather name=\"calendar\" color=\"black\" size={25}/>$0",
+    "description": "calendar icon from Feather font."
+  },
+  "fi-camera": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fi-camera",
+    "body": "<Feather name=\"camera\" color=\"black\" size={25}/>$0",
+    "description": "camera icon from Feather font."
+  },
+  "fi-camera-off": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fi-camera-off",
+    "body": "<Feather name=\"camera-off\" color=\"black\" size={25}/>$0",
+    "description": "camera-off icon from Feather font."
+  },
+  "fi-cast": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fi-cast",
+    "body": "<Feather name=\"cast\" color=\"black\" size={25}/>$0",
+    "description": "cast icon from Feather font."
+  },
+  "fi-check": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fi-check",
+    "body": "<Feather name=\"check\" color=\"black\" size={25}/>$0",
+    "description": "check icon from Feather font."
+  },
+  "fi-check-circle": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fi-check-circle",
+    "body": "<Feather name=\"check-circle\" color=\"black\" size={25}/>$0",
+    "description": "check-circle icon from Feather font."
+  },
+  "fi-check-square": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fi-check-square",
+    "body": "<Feather name=\"check-square\" color=\"black\" size={25}/>$0",
+    "description": "check-square icon from Feather font."
+  },
+  "fi-chevron-down": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fi-chevron-down",
+    "body": "<Feather name=\"chevron-down\" color=\"black\" size={25}/>$0",
+    "description": "chevron-down icon from Feather font."
+  },
+  "fi-chevron-left": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fi-chevron-left",
+    "body": "<Feather name=\"chevron-left\" color=\"black\" size={25}/>$0",
+    "description": "chevron-left icon from Feather font."
+  },
+  "fi-chevron-right": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fi-chevron-right",
+    "body": "<Feather name=\"chevron-right\" color=\"black\" size={25}/>$0",
+    "description": "chevron-right icon from Feather font."
+  },
+  "fi-chevron-up": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fi-chevron-up",
+    "body": "<Feather name=\"chevron-up\" color=\"black\" size={25}/>$0",
+    "description": "chevron-up icon from Feather font."
+  },
+  "fi-chevrons-down": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fi-chevrons-down",
+    "body": "<Feather name=\"chevrons-down\" color=\"black\" size={25}/>$0",
+    "description": "chevrons-down icon from Feather font."
+  },
+  "fi-chevrons-left": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fi-chevrons-left",
+    "body": "<Feather name=\"chevrons-left\" color=\"black\" size={25}/>$0",
+    "description": "chevrons-left icon from Feather font."
+  },
+  "fi-chevrons-right": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fi-chevrons-right",
+    "body": "<Feather name=\"chevrons-right\" color=\"black\" size={25}/>$0",
+    "description": "chevrons-right icon from Feather font."
+  },
+  "fi-chevrons-up": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fi-chevrons-up",
+    "body": "<Feather name=\"chevrons-up\" color=\"black\" size={25}/>$0",
+    "description": "chevrons-up icon from Feather font."
+  },
+  "fi-chrome": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fi-chrome",
+    "body": "<Feather name=\"chrome\" color=\"black\" size={25}/>$0",
+    "description": "chrome icon from Feather font."
+  },
+  "fi-circle": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fi-circle",
+    "body": "<Feather name=\"circle\" color=\"black\" size={25}/>$0",
+    "description": "circle icon from Feather font."
+  },
+  "fi-clipboard": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fi-clipboard",
+    "body": "<Feather name=\"clipboard\" color=\"black\" size={25}/>$0",
+    "description": "clipboard icon from Feather font."
+  },
+  "fi-clock": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fi-clock",
+    "body": "<Feather name=\"clock\" color=\"black\" size={25}/>$0",
+    "description": "clock icon from Feather font."
+  },
+  "fi-cloud": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fi-cloud",
+    "body": "<Feather name=\"cloud\" color=\"black\" size={25}/>$0",
+    "description": "cloud icon from Feather font."
+  },
+  "fi-cloud-drizzle": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fi-cloud-drizzle",
+    "body": "<Feather name=\"cloud-drizzle\" color=\"black\" size={25}/>$0",
+    "description": "cloud-drizzle icon from Feather font."
+  },
+  "fi-cloud-lightning": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fi-cloud-lightning",
+    "body": "<Feather name=\"cloud-lightning\" color=\"black\" size={25}/>$0",
+    "description": "cloud-lightning icon from Feather font."
+  },
+  "fi-cloud-off": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fi-cloud-off",
+    "body": "<Feather name=\"cloud-off\" color=\"black\" size={25}/>$0",
+    "description": "cloud-off icon from Feather font."
+  },
+  "fi-cloud-rain": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fi-cloud-rain",
+    "body": "<Feather name=\"cloud-rain\" color=\"black\" size={25}/>$0",
+    "description": "cloud-rain icon from Feather font."
+  },
+  "fi-cloud-snow": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fi-cloud-snow",
+    "body": "<Feather name=\"cloud-snow\" color=\"black\" size={25}/>$0",
+    "description": "cloud-snow icon from Feather font."
+  },
+  "fi-code": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fi-code",
+    "body": "<Feather name=\"code\" color=\"black\" size={25}/>$0",
+    "description": "code icon from Feather font."
+  },
+  "fi-codepen": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fi-codepen",
+    "body": "<Feather name=\"codepen\" color=\"black\" size={25}/>$0",
+    "description": "codepen icon from Feather font."
+  },
+  "fi-codesandbox": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fi-codesandbox",
+    "body": "<Feather name=\"codesandbox\" color=\"black\" size={25}/>$0",
+    "description": "codesandbox icon from Feather font."
+  },
+  "fi-coffee": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fi-coffee",
+    "body": "<Feather name=\"coffee\" color=\"black\" size={25}/>$0",
+    "description": "coffee icon from Feather font."
+  },
+  "fi-columns": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fi-columns",
+    "body": "<Feather name=\"columns\" color=\"black\" size={25}/>$0",
+    "description": "columns icon from Feather font."
+  },
+  "fi-command": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fi-command",
+    "body": "<Feather name=\"command\" color=\"black\" size={25}/>$0",
+    "description": "command icon from Feather font."
+  },
+  "fi-compass": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fi-compass",
+    "body": "<Feather name=\"compass\" color=\"black\" size={25}/>$0",
+    "description": "compass icon from Feather font."
+  },
+  "fi-copy": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fi-copy",
+    "body": "<Feather name=\"copy\" color=\"black\" size={25}/>$0",
+    "description": "copy icon from Feather font."
+  },
+  "fi-corner-down-left": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fi-corner-down-left",
+    "body": "<Feather name=\"corner-down-left\" color=\"black\" size={25}/>$0",
+    "description": "corner-down-left icon from Feather font."
+  },
+  "fi-corner-down-right": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fi-corner-down-right",
+    "body": "<Feather name=\"corner-down-right\" color=\"black\" size={25}/>$0",
+    "description": "corner-down-right icon from Feather font."
+  },
+  "fi-corner-left-down": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fi-corner-left-down",
+    "body": "<Feather name=\"corner-left-down\" color=\"black\" size={25}/>$0",
+    "description": "corner-left-down icon from Feather font."
+  },
+  "fi-corner-left-up": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fi-corner-left-up",
+    "body": "<Feather name=\"corner-left-up\" color=\"black\" size={25}/>$0",
+    "description": "corner-left-up icon from Feather font."
+  },
+  "fi-corner-right-down": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fi-corner-right-down",
+    "body": "<Feather name=\"corner-right-down\" color=\"black\" size={25}/>$0",
+    "description": "corner-right-down icon from Feather font."
+  },
+  "fi-corner-right-up": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fi-corner-right-up",
+    "body": "<Feather name=\"corner-right-up\" color=\"black\" size={25}/>$0",
+    "description": "corner-right-up icon from Feather font."
+  },
+  "fi-corner-up-left": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fi-corner-up-left",
+    "body": "<Feather name=\"corner-up-left\" color=\"black\" size={25}/>$0",
+    "description": "corner-up-left icon from Feather font."
+  },
+  "fi-corner-up-right": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fi-corner-up-right",
+    "body": "<Feather name=\"corner-up-right\" color=\"black\" size={25}/>$0",
+    "description": "corner-up-right icon from Feather font."
+  },
+  "fi-cpu": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fi-cpu",
+    "body": "<Feather name=\"cpu\" color=\"black\" size={25}/>$0",
+    "description": "cpu icon from Feather font."
+  },
+  "fi-credit-card": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fi-credit-card",
+    "body": "<Feather name=\"credit-card\" color=\"black\" size={25}/>$0",
+    "description": "credit-card icon from Feather font."
+  },
+  "fi-crop": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fi-crop",
+    "body": "<Feather name=\"crop\" color=\"black\" size={25}/>$0",
+    "description": "crop icon from Feather font."
+  },
+  "fi-crosshair": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fi-crosshair",
+    "body": "<Feather name=\"crosshair\" color=\"black\" size={25}/>$0",
+    "description": "crosshair icon from Feather font."
+  },
+  "fi-database": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fi-database",
+    "body": "<Feather name=\"database\" color=\"black\" size={25}/>$0",
+    "description": "database icon from Feather font."
+  },
+  "fi-delete": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fi-delete",
+    "body": "<Feather name=\"delete\" color=\"black\" size={25}/>$0",
+    "description": "delete icon from Feather font."
+  },
+  "fi-disc": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fi-disc",
+    "body": "<Feather name=\"disc\" color=\"black\" size={25}/>$0",
+    "description": "disc icon from Feather font."
+  },
+  "fi-divide": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fi-divide",
+    "body": "<Feather name=\"divide\" color=\"black\" size={25}/>$0",
+    "description": "divide icon from Feather font."
+  },
+  "fi-divide-circle": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fi-divide-circle",
+    "body": "<Feather name=\"divide-circle\" color=\"black\" size={25}/>$0",
+    "description": "divide-circle icon from Feather font."
+  },
+  "fi-divide-square": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fi-divide-square",
+    "body": "<Feather name=\"divide-square\" color=\"black\" size={25}/>$0",
+    "description": "divide-square icon from Feather font."
+  },
+  "fi-dollar-sign": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fi-dollar-sign",
+    "body": "<Feather name=\"dollar-sign\" color=\"black\" size={25}/>$0",
+    "description": "dollar-sign icon from Feather font."
+  },
+  "fi-download": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fi-download",
+    "body": "<Feather name=\"download\" color=\"black\" size={25}/>$0",
+    "description": "download icon from Feather font."
+  },
+  "fi-download-cloud": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fi-download-cloud",
+    "body": "<Feather name=\"download-cloud\" color=\"black\" size={25}/>$0",
+    "description": "download-cloud icon from Feather font."
+  },
+  "fi-dribbble": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fi-dribbble",
+    "body": "<Feather name=\"dribbble\" color=\"black\" size={25}/>$0",
+    "description": "dribbble icon from Feather font."
+  },
+  "fi-droplet": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fi-droplet",
+    "body": "<Feather name=\"droplet\" color=\"black\" size={25}/>$0",
+    "description": "droplet icon from Feather font."
+  },
+  "fi-edit": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fi-edit",
+    "body": "<Feather name=\"edit\" color=\"black\" size={25}/>$0",
+    "description": "edit icon from Feather font."
+  },
+  "fi-edit-2": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fi-edit-2",
+    "body": "<Feather name=\"edit-2\" color=\"black\" size={25}/>$0",
+    "description": "edit-2 icon from Feather font."
+  },
+  "fi-edit-3": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fi-edit-3",
+    "body": "<Feather name=\"edit-3\" color=\"black\" size={25}/>$0",
+    "description": "edit-3 icon from Feather font."
+  },
+  "fi-external-link": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fi-external-link",
+    "body": "<Feather name=\"external-link\" color=\"black\" size={25}/>$0",
+    "description": "external-link icon from Feather font."
+  },
+  "fi-eye": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fi-eye",
+    "body": "<Feather name=\"eye\" color=\"black\" size={25}/>$0",
+    "description": "eye icon from Feather font."
+  },
+  "fi-eye-off": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fi-eye-off",
+    "body": "<Feather name=\"eye-off\" color=\"black\" size={25}/>$0",
+    "description": "eye-off icon from Feather font."
+  },
+  "fi-facebook": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fi-facebook",
+    "body": "<Feather name=\"facebook\" color=\"black\" size={25}/>$0",
+    "description": "facebook icon from Feather font."
+  },
+  "fi-fast-forward": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fi-fast-forward",
+    "body": "<Feather name=\"fast-forward\" color=\"black\" size={25}/>$0",
+    "description": "fast-forward icon from Feather font."
+  },
+  "fi-feather": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fi-feather",
+    "body": "<Feather name=\"feather\" color=\"black\" size={25}/>$0",
+    "description": "feather icon from Feather font."
+  },
+  "fi-figma": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fi-figma",
+    "body": "<Feather name=\"figma\" color=\"black\" size={25}/>$0",
+    "description": "figma icon from Feather font."
+  },
+  "fi-file": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fi-file",
+    "body": "<Feather name=\"file\" color=\"black\" size={25}/>$0",
+    "description": "file icon from Feather font."
+  },
+  "fi-file-minus": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fi-file-minus",
+    "body": "<Feather name=\"file-minus\" color=\"black\" size={25}/>$0",
+    "description": "file-minus icon from Feather font."
+  },
+  "fi-file-plus": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fi-file-plus",
+    "body": "<Feather name=\"file-plus\" color=\"black\" size={25}/>$0",
+    "description": "file-plus icon from Feather font."
+  },
+  "fi-file-text": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fi-file-text",
+    "body": "<Feather name=\"file-text\" color=\"black\" size={25}/>$0",
+    "description": "file-text icon from Feather font."
+  },
+  "fi-film": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fi-film",
+    "body": "<Feather name=\"film\" color=\"black\" size={25}/>$0",
+    "description": "film icon from Feather font."
+  },
+  "fi-filter": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fi-filter",
+    "body": "<Feather name=\"filter\" color=\"black\" size={25}/>$0",
+    "description": "filter icon from Feather font."
+  },
+  "fi-flag": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fi-flag",
+    "body": "<Feather name=\"flag\" color=\"black\" size={25}/>$0",
+    "description": "flag icon from Feather font."
+  },
+  "fi-folder": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fi-folder",
+    "body": "<Feather name=\"folder\" color=\"black\" size={25}/>$0",
+    "description": "folder icon from Feather font."
+  },
+  "fi-folder-minus": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fi-folder-minus",
+    "body": "<Feather name=\"folder-minus\" color=\"black\" size={25}/>$0",
+    "description": "folder-minus icon from Feather font."
+  },
+  "fi-folder-plus": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fi-folder-plus",
+    "body": "<Feather name=\"folder-plus\" color=\"black\" size={25}/>$0",
+    "description": "folder-plus icon from Feather font."
+  },
+  "fi-framer": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fi-framer",
+    "body": "<Feather name=\"framer\" color=\"black\" size={25}/>$0",
+    "description": "framer icon from Feather font."
+  },
+  "fi-frown": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fi-frown",
+    "body": "<Feather name=\"frown\" color=\"black\" size={25}/>$0",
+    "description": "frown icon from Feather font."
+  },
+  "fi-gift": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fi-gift",
+    "body": "<Feather name=\"gift\" color=\"black\" size={25}/>$0",
+    "description": "gift icon from Feather font."
+  },
+  "fi-git-branch": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fi-git-branch",
+    "body": "<Feather name=\"git-branch\" color=\"black\" size={25}/>$0",
+    "description": "git-branch icon from Feather font."
+  },
+  "fi-git-commit": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fi-git-commit",
+    "body": "<Feather name=\"git-commit\" color=\"black\" size={25}/>$0",
+    "description": "git-commit icon from Feather font."
+  },
+  "fi-git-merge": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fi-git-merge",
+    "body": "<Feather name=\"git-merge\" color=\"black\" size={25}/>$0",
+    "description": "git-merge icon from Feather font."
+  },
+  "fi-git-pull-request": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fi-git-pull-request",
+    "body": "<Feather name=\"git-pull-request\" color=\"black\" size={25}/>$0",
+    "description": "git-pull-request icon from Feather font."
+  },
+  "fi-github": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fi-github",
+    "body": "<Feather name=\"github\" color=\"black\" size={25}/>$0",
+    "description": "github icon from Feather font."
+  },
+  "fi-gitlab": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fi-gitlab",
+    "body": "<Feather name=\"gitlab\" color=\"black\" size={25}/>$0",
+    "description": "gitlab icon from Feather font."
+  },
+  "fi-globe": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fi-globe",
+    "body": "<Feather name=\"globe\" color=\"black\" size={25}/>$0",
+    "description": "globe icon from Feather font."
+  },
+  "fi-grid": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fi-grid",
+    "body": "<Feather name=\"grid\" color=\"black\" size={25}/>$0",
+    "description": "grid icon from Feather font."
+  },
+  "fi-hard-drive": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fi-hard-drive",
+    "body": "<Feather name=\"hard-drive\" color=\"black\" size={25}/>$0",
+    "description": "hard-drive icon from Feather font."
+  },
+  "fi-hash": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fi-hash",
+    "body": "<Feather name=\"hash\" color=\"black\" size={25}/>$0",
+    "description": "hash icon from Feather font."
+  },
+  "fi-headphones": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fi-headphones",
+    "body": "<Feather name=\"headphones\" color=\"black\" size={25}/>$0",
+    "description": "headphones icon from Feather font."
+  },
+  "fi-heart": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fi-heart",
+    "body": "<Feather name=\"heart\" color=\"black\" size={25}/>$0",
+    "description": "heart icon from Feather font."
+  },
+  "fi-help-circle": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fi-help-circle",
+    "body": "<Feather name=\"help-circle\" color=\"black\" size={25}/>$0",
+    "description": "help-circle icon from Feather font."
+  },
+  "fi-hexagon": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fi-hexagon",
+    "body": "<Feather name=\"hexagon\" color=\"black\" size={25}/>$0",
+    "description": "hexagon icon from Feather font."
+  },
+  "fi-home": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fi-home",
+    "body": "<Feather name=\"home\" color=\"black\" size={25}/>$0",
+    "description": "home icon from Feather font."
+  },
+  "fi-image": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fi-image",
+    "body": "<Feather name=\"image\" color=\"black\" size={25}/>$0",
+    "description": "image icon from Feather font."
+  },
+  "fi-inbox": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fi-inbox",
+    "body": "<Feather name=\"inbox\" color=\"black\" size={25}/>$0",
+    "description": "inbox icon from Feather font."
+  },
+  "fi-info": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fi-info",
+    "body": "<Feather name=\"info\" color=\"black\" size={25}/>$0",
+    "description": "info icon from Feather font."
+  },
+  "fi-instagram": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fi-instagram",
+    "body": "<Feather name=\"instagram\" color=\"black\" size={25}/>$0",
+    "description": "instagram icon from Feather font."
+  },
+  "fi-italic": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fi-italic",
+    "body": "<Feather name=\"italic\" color=\"black\" size={25}/>$0",
+    "description": "italic icon from Feather font."
+  },
+  "fi-key": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fi-key",
+    "body": "<Feather name=\"key\" color=\"black\" size={25}/>$0",
+    "description": "key icon from Feather font."
+  },
+  "fi-layers": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fi-layers",
+    "body": "<Feather name=\"layers\" color=\"black\" size={25}/>$0",
+    "description": "layers icon from Feather font."
+  },
+  "fi-layout": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fi-layout",
+    "body": "<Feather name=\"layout\" color=\"black\" size={25}/>$0",
+    "description": "layout icon from Feather font."
+  },
+  "fi-life-buoy": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fi-life-buoy",
+    "body": "<Feather name=\"life-buoy\" color=\"black\" size={25}/>$0",
+    "description": "life-buoy icon from Feather font."
+  },
+  "fi-link": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fi-link",
+    "body": "<Feather name=\"link\" color=\"black\" size={25}/>$0",
+    "description": "link icon from Feather font."
+  },
+  "fi-link-2": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fi-link-2",
+    "body": "<Feather name=\"link-2\" color=\"black\" size={25}/>$0",
+    "description": "link-2 icon from Feather font."
+  },
+  "fi-linkedin": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fi-linkedin",
+    "body": "<Feather name=\"linkedin\" color=\"black\" size={25}/>$0",
+    "description": "linkedin icon from Feather font."
+  },
+  "fi-list": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fi-list",
+    "body": "<Feather name=\"list\" color=\"black\" size={25}/>$0",
+    "description": "list icon from Feather font."
+  },
+  "fi-loader": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fi-loader",
+    "body": "<Feather name=\"loader\" color=\"black\" size={25}/>$0",
+    "description": "loader icon from Feather font."
+  },
+  "fi-lock": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fi-lock",
+    "body": "<Feather name=\"lock\" color=\"black\" size={25}/>$0",
+    "description": "lock icon from Feather font."
+  },
+  "fi-log-in": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fi-log-in",
+    "body": "<Feather name=\"log-in\" color=\"black\" size={25}/>$0",
+    "description": "log-in icon from Feather font."
+  },
+  "fi-log-out": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fi-log-out",
+    "body": "<Feather name=\"log-out\" color=\"black\" size={25}/>$0",
+    "description": "log-out icon from Feather font."
+  },
+  "fi-mail": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fi-mail",
+    "body": "<Feather name=\"mail\" color=\"black\" size={25}/>$0",
+    "description": "mail icon from Feather font."
+  },
+  "fi-map": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fi-map",
+    "body": "<Feather name=\"map\" color=\"black\" size={25}/>$0",
+    "description": "map icon from Feather font."
+  },
+  "fi-map-pin": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fi-map-pin",
+    "body": "<Feather name=\"map-pin\" color=\"black\" size={25}/>$0",
+    "description": "map-pin icon from Feather font."
+  },
+  "fi-maximize": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fi-maximize",
+    "body": "<Feather name=\"maximize\" color=\"black\" size={25}/>$0",
+    "description": "maximize icon from Feather font."
+  },
+  "fi-maximize-2": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fi-maximize-2",
+    "body": "<Feather name=\"maximize-2\" color=\"black\" size={25}/>$0",
+    "description": "maximize-2 icon from Feather font."
+  },
+  "fi-meh": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fi-meh",
+    "body": "<Feather name=\"meh\" color=\"black\" size={25}/>$0",
+    "description": "meh icon from Feather font."
+  },
+  "fi-menu": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fi-menu",
+    "body": "<Feather name=\"menu\" color=\"black\" size={25}/>$0",
+    "description": "menu icon from Feather font."
+  },
+  "fi-message-circle": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fi-message-circle",
+    "body": "<Feather name=\"message-circle\" color=\"black\" size={25}/>$0",
+    "description": "message-circle icon from Feather font."
+  },
+  "fi-message-square": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fi-message-square",
+    "body": "<Feather name=\"message-square\" color=\"black\" size={25}/>$0",
+    "description": "message-square icon from Feather font."
+  },
+  "fi-mic": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fi-mic",
+    "body": "<Feather name=\"mic\" color=\"black\" size={25}/>$0",
+    "description": "mic icon from Feather font."
+  },
+  "fi-mic-off": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fi-mic-off",
+    "body": "<Feather name=\"mic-off\" color=\"black\" size={25}/>$0",
+    "description": "mic-off icon from Feather font."
+  },
+  "fi-minimize": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fi-minimize",
+    "body": "<Feather name=\"minimize\" color=\"black\" size={25}/>$0",
+    "description": "minimize icon from Feather font."
+  },
+  "fi-minimize-2": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fi-minimize-2",
+    "body": "<Feather name=\"minimize-2\" color=\"black\" size={25}/>$0",
+    "description": "minimize-2 icon from Feather font."
+  },
+  "fi-minus": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fi-minus",
+    "body": "<Feather name=\"minus\" color=\"black\" size={25}/>$0",
+    "description": "minus icon from Feather font."
+  },
+  "fi-minus-circle": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fi-minus-circle",
+    "body": "<Feather name=\"minus-circle\" color=\"black\" size={25}/>$0",
+    "description": "minus-circle icon from Feather font."
+  },
+  "fi-minus-square": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fi-minus-square",
+    "body": "<Feather name=\"minus-square\" color=\"black\" size={25}/>$0",
+    "description": "minus-square icon from Feather font."
+  },
+  "fi-monitor": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fi-monitor",
+    "body": "<Feather name=\"monitor\" color=\"black\" size={25}/>$0",
+    "description": "monitor icon from Feather font."
+  },
+  "fi-moon": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fi-moon",
+    "body": "<Feather name=\"moon\" color=\"black\" size={25}/>$0",
+    "description": "moon icon from Feather font."
+  },
+  "fi-more-horizontal": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fi-more-horizontal",
+    "body": "<Feather name=\"more-horizontal\" color=\"black\" size={25}/>$0",
+    "description": "more-horizontal icon from Feather font."
+  },
+  "fi-more-vertical": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fi-more-vertical",
+    "body": "<Feather name=\"more-vertical\" color=\"black\" size={25}/>$0",
+    "description": "more-vertical icon from Feather font."
+  },
+  "fi-mouse-pointer": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fi-mouse-pointer",
+    "body": "<Feather name=\"mouse-pointer\" color=\"black\" size={25}/>$0",
+    "description": "mouse-pointer icon from Feather font."
+  },
+  "fi-move": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fi-move",
+    "body": "<Feather name=\"move\" color=\"black\" size={25}/>$0",
+    "description": "move icon from Feather font."
+  },
+  "fi-music": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fi-music",
+    "body": "<Feather name=\"music\" color=\"black\" size={25}/>$0",
+    "description": "music icon from Feather font."
+  },
+  "fi-navigation": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fi-navigation",
+    "body": "<Feather name=\"navigation\" color=\"black\" size={25}/>$0",
+    "description": "navigation icon from Feather font."
+  },
+  "fi-navigation-2": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fi-navigation-2",
+    "body": "<Feather name=\"navigation-2\" color=\"black\" size={25}/>$0",
+    "description": "navigation-2 icon from Feather font."
+  },
+  "fi-octagon": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fi-octagon",
+    "body": "<Feather name=\"octagon\" color=\"black\" size={25}/>$0",
+    "description": "octagon icon from Feather font."
+  },
+  "fi-package": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fi-package",
+    "body": "<Feather name=\"package\" color=\"black\" size={25}/>$0",
+    "description": "package icon from Feather font."
+  },
+  "fi-paperclip": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fi-paperclip",
+    "body": "<Feather name=\"paperclip\" color=\"black\" size={25}/>$0",
+    "description": "paperclip icon from Feather font."
+  },
+  "fi-pause": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fi-pause",
+    "body": "<Feather name=\"pause\" color=\"black\" size={25}/>$0",
+    "description": "pause icon from Feather font."
+  },
+  "fi-pause-circle": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fi-pause-circle",
+    "body": "<Feather name=\"pause-circle\" color=\"black\" size={25}/>$0",
+    "description": "pause-circle icon from Feather font."
+  },
+  "fi-pen-tool": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fi-pen-tool",
+    "body": "<Feather name=\"pen-tool\" color=\"black\" size={25}/>$0",
+    "description": "pen-tool icon from Feather font."
+  },
+  "fi-percent": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fi-percent",
+    "body": "<Feather name=\"percent\" color=\"black\" size={25}/>$0",
+    "description": "percent icon from Feather font."
+  },
+  "fi-phone": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fi-phone",
+    "body": "<Feather name=\"phone\" color=\"black\" size={25}/>$0",
+    "description": "phone icon from Feather font."
+  },
+  "fi-phone-call": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fi-phone-call",
+    "body": "<Feather name=\"phone-call\" color=\"black\" size={25}/>$0",
+    "description": "phone-call icon from Feather font."
+  },
+  "fi-phone-forwarded": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fi-phone-forwarded",
+    "body": "<Feather name=\"phone-forwarded\" color=\"black\" size={25}/>$0",
+    "description": "phone-forwarded icon from Feather font."
+  },
+  "fi-phone-incoming": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fi-phone-incoming",
+    "body": "<Feather name=\"phone-incoming\" color=\"black\" size={25}/>$0",
+    "description": "phone-incoming icon from Feather font."
+  },
+  "fi-phone-missed": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fi-phone-missed",
+    "body": "<Feather name=\"phone-missed\" color=\"black\" size={25}/>$0",
+    "description": "phone-missed icon from Feather font."
+  },
+  "fi-phone-off": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fi-phone-off",
+    "body": "<Feather name=\"phone-off\" color=\"black\" size={25}/>$0",
+    "description": "phone-off icon from Feather font."
+  },
+  "fi-phone-outgoing": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fi-phone-outgoing",
+    "body": "<Feather name=\"phone-outgoing\" color=\"black\" size={25}/>$0",
+    "description": "phone-outgoing icon from Feather font."
+  },
+  "fi-pie-chart": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fi-pie-chart",
+    "body": "<Feather name=\"pie-chart\" color=\"black\" size={25}/>$0",
+    "description": "pie-chart icon from Feather font."
+  },
+  "fi-play": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fi-play",
+    "body": "<Feather name=\"play\" color=\"black\" size={25}/>$0",
+    "description": "play icon from Feather font."
+  },
+  "fi-play-circle": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fi-play-circle",
+    "body": "<Feather name=\"play-circle\" color=\"black\" size={25}/>$0",
+    "description": "play-circle icon from Feather font."
+  },
+  "fi-plus": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fi-plus",
+    "body": "<Feather name=\"plus\" color=\"black\" size={25}/>$0",
+    "description": "plus icon from Feather font."
+  },
+  "fi-plus-circle": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fi-plus-circle",
+    "body": "<Feather name=\"plus-circle\" color=\"black\" size={25}/>$0",
+    "description": "plus-circle icon from Feather font."
+  },
+  "fi-plus-square": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fi-plus-square",
+    "body": "<Feather name=\"plus-square\" color=\"black\" size={25}/>$0",
+    "description": "plus-square icon from Feather font."
+  },
+  "fi-pocket": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fi-pocket",
+    "body": "<Feather name=\"pocket\" color=\"black\" size={25}/>$0",
+    "description": "pocket icon from Feather font."
+  },
+  "fi-power": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fi-power",
+    "body": "<Feather name=\"power\" color=\"black\" size={25}/>$0",
+    "description": "power icon from Feather font."
+  },
+  "fi-printer": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fi-printer",
+    "body": "<Feather name=\"printer\" color=\"black\" size={25}/>$0",
+    "description": "printer icon from Feather font."
+  },
+  "fi-radio": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fi-radio",
+    "body": "<Feather name=\"radio\" color=\"black\" size={25}/>$0",
+    "description": "radio icon from Feather font."
+  },
+  "fi-refresh-ccw": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fi-refresh-ccw",
+    "body": "<Feather name=\"refresh-ccw\" color=\"black\" size={25}/>$0",
+    "description": "refresh-ccw icon from Feather font."
+  },
+  "fi-refresh-cw": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fi-refresh-cw",
+    "body": "<Feather name=\"refresh-cw\" color=\"black\" size={25}/>$0",
+    "description": "refresh-cw icon from Feather font."
+  },
+  "fi-repeat": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fi-repeat",
+    "body": "<Feather name=\"repeat\" color=\"black\" size={25}/>$0",
+    "description": "repeat icon from Feather font."
+  },
+  "fi-rewind": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fi-rewind",
+    "body": "<Feather name=\"rewind\" color=\"black\" size={25}/>$0",
+    "description": "rewind icon from Feather font."
+  },
+  "fi-rotate-ccw": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fi-rotate-ccw",
+    "body": "<Feather name=\"rotate-ccw\" color=\"black\" size={25}/>$0",
+    "description": "rotate-ccw icon from Feather font."
+  },
+  "fi-rotate-cw": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fi-rotate-cw",
+    "body": "<Feather name=\"rotate-cw\" color=\"black\" size={25}/>$0",
+    "description": "rotate-cw icon from Feather font."
+  },
+  "fi-rss": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fi-rss",
+    "body": "<Feather name=\"rss\" color=\"black\" size={25}/>$0",
+    "description": "rss icon from Feather font."
+  },
+  "fi-save": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fi-save",
+    "body": "<Feather name=\"save\" color=\"black\" size={25}/>$0",
+    "description": "save icon from Feather font."
+  },
+  "fi-scissors": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fi-scissors",
+    "body": "<Feather name=\"scissors\" color=\"black\" size={25}/>$0",
+    "description": "scissors icon from Feather font."
+  },
+  "fi-search": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fi-search",
+    "body": "<Feather name=\"search\" color=\"black\" size={25}/>$0",
+    "description": "search icon from Feather font."
+  },
+  "fi-send": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fi-send",
+    "body": "<Feather name=\"send\" color=\"black\" size={25}/>$0",
+    "description": "send icon from Feather font."
+  },
+  "fi-server": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fi-server",
+    "body": "<Feather name=\"server\" color=\"black\" size={25}/>$0",
+    "description": "server icon from Feather font."
+  },
+  "fi-settings": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fi-settings",
+    "body": "<Feather name=\"settings\" color=\"black\" size={25}/>$0",
+    "description": "settings icon from Feather font."
+  },
+  "fi-share": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fi-share",
+    "body": "<Feather name=\"share\" color=\"black\" size={25}/>$0",
+    "description": "share icon from Feather font."
+  },
+  "fi-share-2": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fi-share-2",
+    "body": "<Feather name=\"share-2\" color=\"black\" size={25}/>$0",
+    "description": "share-2 icon from Feather font."
+  },
+  "fi-shield": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fi-shield",
+    "body": "<Feather name=\"shield\" color=\"black\" size={25}/>$0",
+    "description": "shield icon from Feather font."
+  },
+  "fi-shield-off": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fi-shield-off",
+    "body": "<Feather name=\"shield-off\" color=\"black\" size={25}/>$0",
+    "description": "shield-off icon from Feather font."
+  },
+  "fi-shopping-bag": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fi-shopping-bag",
+    "body": "<Feather name=\"shopping-bag\" color=\"black\" size={25}/>$0",
+    "description": "shopping-bag icon from Feather font."
+  },
+  "fi-shopping-cart": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fi-shopping-cart",
+    "body": "<Feather name=\"shopping-cart\" color=\"black\" size={25}/>$0",
+    "description": "shopping-cart icon from Feather font."
+  },
+  "fi-shuffle": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fi-shuffle",
+    "body": "<Feather name=\"shuffle\" color=\"black\" size={25}/>$0",
+    "description": "shuffle icon from Feather font."
+  },
+  "fi-sidebar": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fi-sidebar",
+    "body": "<Feather name=\"sidebar\" color=\"black\" size={25}/>$0",
+    "description": "sidebar icon from Feather font."
+  },
+  "fi-skip-back": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fi-skip-back",
+    "body": "<Feather name=\"skip-back\" color=\"black\" size={25}/>$0",
+    "description": "skip-back icon from Feather font."
+  },
+  "fi-skip-forward": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fi-skip-forward",
+    "body": "<Feather name=\"skip-forward\" color=\"black\" size={25}/>$0",
+    "description": "skip-forward icon from Feather font."
+  },
+  "fi-slack": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fi-slack",
+    "body": "<Feather name=\"slack\" color=\"black\" size={25}/>$0",
+    "description": "slack icon from Feather font."
+  },
+  "fi-slash": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fi-slash",
+    "body": "<Feather name=\"slash\" color=\"black\" size={25}/>$0",
+    "description": "slash icon from Feather font."
+  },
+  "fi-sliders": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fi-sliders",
+    "body": "<Feather name=\"sliders\" color=\"black\" size={25}/>$0",
+    "description": "sliders icon from Feather font."
+  },
+  "fi-smartphone": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fi-smartphone",
+    "body": "<Feather name=\"smartphone\" color=\"black\" size={25}/>$0",
+    "description": "smartphone icon from Feather font."
+  },
+  "fi-smile": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fi-smile",
+    "body": "<Feather name=\"smile\" color=\"black\" size={25}/>$0",
+    "description": "smile icon from Feather font."
+  },
+  "fi-speaker": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fi-speaker",
+    "body": "<Feather name=\"speaker\" color=\"black\" size={25}/>$0",
+    "description": "speaker icon from Feather font."
+  },
+  "fi-square": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fi-square",
+    "body": "<Feather name=\"square\" color=\"black\" size={25}/>$0",
+    "description": "square icon from Feather font."
+  },
+  "fi-star": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fi-star",
+    "body": "<Feather name=\"star\" color=\"black\" size={25}/>$0",
+    "description": "star icon from Feather font."
+  },
+  "fi-stop-circle": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fi-stop-circle",
+    "body": "<Feather name=\"stop-circle\" color=\"black\" size={25}/>$0",
+    "description": "stop-circle icon from Feather font."
+  },
+  "fi-sun": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fi-sun",
+    "body": "<Feather name=\"sun\" color=\"black\" size={25}/>$0",
+    "description": "sun icon from Feather font."
+  },
+  "fi-sunrise": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fi-sunrise",
+    "body": "<Feather name=\"sunrise\" color=\"black\" size={25}/>$0",
+    "description": "sunrise icon from Feather font."
+  },
+  "fi-sunset": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fi-sunset",
+    "body": "<Feather name=\"sunset\" color=\"black\" size={25}/>$0",
+    "description": "sunset icon from Feather font."
+  },
+  "fi-tablet": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fi-tablet",
+    "body": "<Feather name=\"tablet\" color=\"black\" size={25}/>$0",
+    "description": "tablet icon from Feather font."
+  },
+  "fi-tag": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fi-tag",
+    "body": "<Feather name=\"tag\" color=\"black\" size={25}/>$0",
+    "description": "tag icon from Feather font."
+  },
+  "fi-target": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fi-target",
+    "body": "<Feather name=\"target\" color=\"black\" size={25}/>$0",
+    "description": "target icon from Feather font."
+  },
+  "fi-terminal": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fi-terminal",
+    "body": "<Feather name=\"terminal\" color=\"black\" size={25}/>$0",
+    "description": "terminal icon from Feather font."
+  },
+  "fi-thermometer": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fi-thermometer",
+    "body": "<Feather name=\"thermometer\" color=\"black\" size={25}/>$0",
+    "description": "thermometer icon from Feather font."
+  },
+  "fi-thumbs-down": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fi-thumbs-down",
+    "body": "<Feather name=\"thumbs-down\" color=\"black\" size={25}/>$0",
+    "description": "thumbs-down icon from Feather font."
+  },
+  "fi-thumbs-up": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fi-thumbs-up",
+    "body": "<Feather name=\"thumbs-up\" color=\"black\" size={25}/>$0",
+    "description": "thumbs-up icon from Feather font."
+  },
+  "fi-toggle-left": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fi-toggle-left",
+    "body": "<Feather name=\"toggle-left\" color=\"black\" size={25}/>$0",
+    "description": "toggle-left icon from Feather font."
+  },
+  "fi-toggle-right": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fi-toggle-right",
+    "body": "<Feather name=\"toggle-right\" color=\"black\" size={25}/>$0",
+    "description": "toggle-right icon from Feather font."
+  },
+  "fi-tool": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fi-tool",
+    "body": "<Feather name=\"tool\" color=\"black\" size={25}/>$0",
+    "description": "tool icon from Feather font."
+  },
+  "fi-trash": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fi-trash",
+    "body": "<Feather name=\"trash\" color=\"black\" size={25}/>$0",
+    "description": "trash icon from Feather font."
+  },
+  "fi-trash-2": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fi-trash-2",
+    "body": "<Feather name=\"trash-2\" color=\"black\" size={25}/>$0",
+    "description": "trash-2 icon from Feather font."
+  },
+  "fi-trello": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fi-trello",
+    "body": "<Feather name=\"trello\" color=\"black\" size={25}/>$0",
+    "description": "trello icon from Feather font."
+  },
+  "fi-trending-down": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fi-trending-down",
+    "body": "<Feather name=\"trending-down\" color=\"black\" size={25}/>$0",
+    "description": "trending-down icon from Feather font."
+  },
+  "fi-trending-up": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fi-trending-up",
+    "body": "<Feather name=\"trending-up\" color=\"black\" size={25}/>$0",
+    "description": "trending-up icon from Feather font."
+  },
+  "fi-triangle": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fi-triangle",
+    "body": "<Feather name=\"triangle\" color=\"black\" size={25}/>$0",
+    "description": "triangle icon from Feather font."
+  },
+  "fi-truck": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fi-truck",
+    "body": "<Feather name=\"truck\" color=\"black\" size={25}/>$0",
+    "description": "truck icon from Feather font."
+  },
+  "fi-tv": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fi-tv",
+    "body": "<Feather name=\"tv\" color=\"black\" size={25}/>$0",
+    "description": "tv icon from Feather font."
+  },
+  "fi-twitch": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fi-twitch",
+    "body": "<Feather name=\"twitch\" color=\"black\" size={25}/>$0",
+    "description": "twitch icon from Feather font."
+  },
+  "fi-twitter": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fi-twitter",
+    "body": "<Feather name=\"twitter\" color=\"black\" size={25}/>$0",
+    "description": "twitter icon from Feather font."
+  },
+  "fi-type": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fi-type",
+    "body": "<Feather name=\"type\" color=\"black\" size={25}/>$0",
+    "description": "type icon from Feather font."
+  },
+  "fi-umbrella": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fi-umbrella",
+    "body": "<Feather name=\"umbrella\" color=\"black\" size={25}/>$0",
+    "description": "umbrella icon from Feather font."
+  },
+  "fi-underline": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fi-underline",
+    "body": "<Feather name=\"underline\" color=\"black\" size={25}/>$0",
+    "description": "underline icon from Feather font."
+  },
+  "fi-unlock": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fi-unlock",
+    "body": "<Feather name=\"unlock\" color=\"black\" size={25}/>$0",
+    "description": "unlock icon from Feather font."
+  },
+  "fi-upload": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fi-upload",
+    "body": "<Feather name=\"upload\" color=\"black\" size={25}/>$0",
+    "description": "upload icon from Feather font."
+  },
+  "fi-upload-cloud": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fi-upload-cloud",
+    "body": "<Feather name=\"upload-cloud\" color=\"black\" size={25}/>$0",
+    "description": "upload-cloud icon from Feather font."
+  },
+  "fi-user": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fi-user",
+    "body": "<Feather name=\"user\" color=\"black\" size={25}/>$0",
+    "description": "user icon from Feather font."
+  },
+  "fi-user-check": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fi-user-check",
+    "body": "<Feather name=\"user-check\" color=\"black\" size={25}/>$0",
+    "description": "user-check icon from Feather font."
+  },
+  "fi-user-minus": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fi-user-minus",
+    "body": "<Feather name=\"user-minus\" color=\"black\" size={25}/>$0",
+    "description": "user-minus icon from Feather font."
+  },
+  "fi-user-plus": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fi-user-plus",
+    "body": "<Feather name=\"user-plus\" color=\"black\" size={25}/>$0",
+    "description": "user-plus icon from Feather font."
+  },
+  "fi-user-x": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fi-user-x",
+    "body": "<Feather name=\"user-x\" color=\"black\" size={25}/>$0",
+    "description": "user-x icon from Feather font."
+  },
+  "fi-users": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fi-users",
+    "body": "<Feather name=\"users\" color=\"black\" size={25}/>$0",
+    "description": "users icon from Feather font."
+  },
+  "fi-video": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fi-video",
+    "body": "<Feather name=\"video\" color=\"black\" size={25}/>$0",
+    "description": "video icon from Feather font."
+  },
+  "fi-video-off": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fi-video-off",
+    "body": "<Feather name=\"video-off\" color=\"black\" size={25}/>$0",
+    "description": "video-off icon from Feather font."
+  },
+  "fi-voicemail": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fi-voicemail",
+    "body": "<Feather name=\"voicemail\" color=\"black\" size={25}/>$0",
+    "description": "voicemail icon from Feather font."
+  },
+  "fi-volume": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fi-volume",
+    "body": "<Feather name=\"volume\" color=\"black\" size={25}/>$0",
+    "description": "volume icon from Feather font."
+  },
+  "fi-volume-1": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fi-volume-1",
+    "body": "<Feather name=\"volume-1\" color=\"black\" size={25}/>$0",
+    "description": "volume-1 icon from Feather font."
+  },
+  "fi-volume-2": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fi-volume-2",
+    "body": "<Feather name=\"volume-2\" color=\"black\" size={25}/>$0",
+    "description": "volume-2 icon from Feather font."
+  },
+  "fi-volume-x": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fi-volume-x",
+    "body": "<Feather name=\"volume-x\" color=\"black\" size={25}/>$0",
+    "description": "volume-x icon from Feather font."
+  },
+  "fi-watch": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fi-watch",
+    "body": "<Feather name=\"watch\" color=\"black\" size={25}/>$0",
+    "description": "watch icon from Feather font."
+  },
+  "fi-wifi": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fi-wifi",
+    "body": "<Feather name=\"wifi\" color=\"black\" size={25}/>$0",
+    "description": "wifi icon from Feather font."
+  },
+  "fi-wifi-off": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fi-wifi-off",
+    "body": "<Feather name=\"wifi-off\" color=\"black\" size={25}/>$0",
+    "description": "wifi-off icon from Feather font."
+  },
+  "fi-wind": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fi-wind",
+    "body": "<Feather name=\"wind\" color=\"black\" size={25}/>$0",
+    "description": "wind icon from Feather font."
+  },
+  "fi-x": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fi-x",
+    "body": "<Feather name=\"x\" color=\"black\" size={25}/>$0",
+    "description": "x icon from Feather font."
+  },
+  "fi-x-circle": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fi-x-circle",
+    "body": "<Feather name=\"x-circle\" color=\"black\" size={25}/>$0",
+    "description": "x-circle icon from Feather font."
+  },
+  "fi-x-octagon": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fi-x-octagon",
+    "body": "<Feather name=\"x-octagon\" color=\"black\" size={25}/>$0",
+    "description": "x-octagon icon from Feather font."
+  },
+  "fi-x-square": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fi-x-square",
+    "body": "<Feather name=\"x-square\" color=\"black\" size={25}/>$0",
+    "description": "x-square icon from Feather font."
+  },
+  "fi-youtube": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fi-youtube",
+    "body": "<Feather name=\"youtube\" color=\"black\" size={25}/>$0",
+    "description": "youtube icon from Feather font."
+  },
+  "fi-zap": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fi-zap",
+    "body": "<Feather name=\"zap\" color=\"black\" size={25}/>$0",
+    "description": "zap icon from Feather font."
+  },
+  "fi-zap-off": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fi-zap-off",
+    "body": "<Feather name=\"zap-off\" color=\"black\" size={25}/>$0",
+    "description": "zap-off icon from Feather font."
+  },
+  "fi-zoom-in": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fi-zoom-in",
+    "body": "<Feather name=\"zoom-in\" color=\"black\" size={25}/>$0",
+    "description": "zoom-in icon from Feather font."
+  },
+  "fi-zoom-out": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "fi-zoom-out",
+    "body": "<Feather name=\"zoom-out\" color=\"black\" size={25}/>$0",
+    "description": "zoom-out icon from Feather font."
+  }
+}

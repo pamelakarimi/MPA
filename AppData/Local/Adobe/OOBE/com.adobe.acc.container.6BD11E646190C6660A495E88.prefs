@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<prefs>
+	<property key="ARSGuid">89eeb40f-4ad7-4522-8fde-13f700e36728</property>
+	<property key="CCDQuickActions_STATUS_LIGHT">false</property>
+	<property key="CCDQuickActionsTab">true</property>
+	<property key="ccd.container.firstlaunch">true</property>
+	<property key="CCDHome_STATUS_LIGHT">true</property>
+	<property key="appsPanelVisibilityAnalytics">enabled</property>
+	<property key="PushDeviceID">7b2fd715-0ecd-4037-b218-4ea43b9629d7</property>
+</prefs>

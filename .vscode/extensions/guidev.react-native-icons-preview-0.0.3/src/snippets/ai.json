@@ -1,0 +1,1790 @@
+{
+  "ai-stepforward": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "ai-stepforward",
+    "body": "<AntDesign name=\"stepforward\" color=\"black\" size={25}/>$0",
+    "description": "stepforward icon from AntDesign font."
+  },
+  "ai-stepbackward": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "ai-stepbackward",
+    "body": "<AntDesign name=\"stepbackward\" color=\"black\" size={25}/>$0",
+    "description": "stepbackward icon from AntDesign font."
+  },
+  "ai-forward": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "ai-forward",
+    "body": "<AntDesign name=\"forward\" color=\"black\" size={25}/>$0",
+    "description": "forward icon from AntDesign font."
+  },
+  "ai-banckward": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "ai-banckward",
+    "body": "<AntDesign name=\"banckward\" color=\"black\" size={25}/>$0",
+    "description": "banckward icon from AntDesign font."
+  },
+  "ai-caretright": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "ai-caretright",
+    "body": "<AntDesign name=\"caretright\" color=\"black\" size={25}/>$0",
+    "description": "caretright icon from AntDesign font."
+  },
+  "ai-caretleft": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "ai-caretleft",
+    "body": "<AntDesign name=\"caretleft\" color=\"black\" size={25}/>$0",
+    "description": "caretleft icon from AntDesign font."
+  },
+  "ai-caretdown": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "ai-caretdown",
+    "body": "<AntDesign name=\"caretdown\" color=\"black\" size={25}/>$0",
+    "description": "caretdown icon from AntDesign font."
+  },
+  "ai-caretup": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "ai-caretup",
+    "body": "<AntDesign name=\"caretup\" color=\"black\" size={25}/>$0",
+    "description": "caretup icon from AntDesign font."
+  },
+  "ai-rightcircle": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "ai-rightcircle",
+    "body": "<AntDesign name=\"rightcircle\" color=\"black\" size={25}/>$0",
+    "description": "rightcircle icon from AntDesign font."
+  },
+  "ai-leftcircle": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "ai-leftcircle",
+    "body": "<AntDesign name=\"leftcircle\" color=\"black\" size={25}/>$0",
+    "description": "leftcircle icon from AntDesign font."
+  },
+  "ai-upcircle": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "ai-upcircle",
+    "body": "<AntDesign name=\"upcircle\" color=\"black\" size={25}/>$0",
+    "description": "upcircle icon from AntDesign font."
+  },
+  "ai-downcircle": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "ai-downcircle",
+    "body": "<AntDesign name=\"downcircle\" color=\"black\" size={25}/>$0",
+    "description": "downcircle icon from AntDesign font."
+  },
+  "ai-rightcircleo": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "ai-rightcircleo",
+    "body": "<AntDesign name=\"rightcircleo\" color=\"black\" size={25}/>$0",
+    "description": "rightcircleo icon from AntDesign font."
+  },
+  "ai-leftcircleo": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "ai-leftcircleo",
+    "body": "<AntDesign name=\"leftcircleo\" color=\"black\" size={25}/>$0",
+    "description": "leftcircleo icon from AntDesign font."
+  },
+  "ai-upcircleo": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "ai-upcircleo",
+    "body": "<AntDesign name=\"upcircleo\" color=\"black\" size={25}/>$0",
+    "description": "upcircleo icon from AntDesign font."
+  },
+  "ai-downcircleo": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "ai-downcircleo",
+    "body": "<AntDesign name=\"downcircleo\" color=\"black\" size={25}/>$0",
+    "description": "downcircleo icon from AntDesign font."
+  },
+  "ai-verticleleft": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "ai-verticleleft",
+    "body": "<AntDesign name=\"verticleleft\" color=\"black\" size={25}/>$0",
+    "description": "verticleleft icon from AntDesign font."
+  },
+  "ai-verticleright": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "ai-verticleright",
+    "body": "<AntDesign name=\"verticleright\" color=\"black\" size={25}/>$0",
+    "description": "verticleright icon from AntDesign font."
+  },
+  "ai-back": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "ai-back",
+    "body": "<AntDesign name=\"back\" color=\"black\" size={25}/>$0",
+    "description": "back icon from AntDesign font."
+  },
+  "ai-retweet": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "ai-retweet",
+    "body": "<AntDesign name=\"retweet\" color=\"black\" size={25}/>$0",
+    "description": "retweet icon from AntDesign font."
+  },
+  "ai-shrink": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "ai-shrink",
+    "body": "<AntDesign name=\"shrink\" color=\"black\" size={25}/>$0",
+    "description": "shrink icon from AntDesign font."
+  },
+  "ai-arrowsalt": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "ai-arrowsalt",
+    "body": "<AntDesign name=\"arrowsalt\" color=\"black\" size={25}/>$0",
+    "description": "arrowsalt icon from AntDesign font."
+  },
+  "ai-doubleright": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "ai-doubleright",
+    "body": "<AntDesign name=\"doubleright\" color=\"black\" size={25}/>$0",
+    "description": "doubleright icon from AntDesign font."
+  },
+  "ai-doubleleft": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "ai-doubleleft",
+    "body": "<AntDesign name=\"doubleleft\" color=\"black\" size={25}/>$0",
+    "description": "doubleleft icon from AntDesign font."
+  },
+  "ai-arrowdown": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "ai-arrowdown",
+    "body": "<AntDesign name=\"arrowdown\" color=\"black\" size={25}/>$0",
+    "description": "arrowdown icon from AntDesign font."
+  },
+  "ai-arrowup": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "ai-arrowup",
+    "body": "<AntDesign name=\"arrowup\" color=\"black\" size={25}/>$0",
+    "description": "arrowup icon from AntDesign font."
+  },
+  "ai-arrowright": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "ai-arrowright",
+    "body": "<AntDesign name=\"arrowright\" color=\"black\" size={25}/>$0",
+    "description": "arrowright icon from AntDesign font."
+  },
+  "ai-arrowleft": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "ai-arrowleft",
+    "body": "<AntDesign name=\"arrowleft\" color=\"black\" size={25}/>$0",
+    "description": "arrowleft icon from AntDesign font."
+  },
+  "ai-down": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "ai-down",
+    "body": "<AntDesign name=\"down\" color=\"black\" size={25}/>$0",
+    "description": "down icon from AntDesign font."
+  },
+  "ai-up": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "ai-up",
+    "body": "<AntDesign name=\"up\" color=\"black\" size={25}/>$0",
+    "description": "up icon from AntDesign font."
+  },
+  "ai-right": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "ai-right",
+    "body": "<AntDesign name=\"right\" color=\"black\" size={25}/>$0",
+    "description": "right icon from AntDesign font."
+  },
+  "ai-left": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "ai-left",
+    "body": "<AntDesign name=\"left\" color=\"black\" size={25}/>$0",
+    "description": "left icon from AntDesign font."
+  },
+  "ai-minussquareo": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "ai-minussquareo",
+    "body": "<AntDesign name=\"minussquareo\" color=\"black\" size={25}/>$0",
+    "description": "minussquareo icon from AntDesign font."
+  },
+  "ai-minuscircle": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "ai-minuscircle",
+    "body": "<AntDesign name=\"minuscircle\" color=\"black\" size={25}/>$0",
+    "description": "minuscircle icon from AntDesign font."
+  },
+  "ai-minuscircleo": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "ai-minuscircleo",
+    "body": "<AntDesign name=\"minuscircleo\" color=\"black\" size={25}/>$0",
+    "description": "minuscircleo icon from AntDesign font."
+  },
+  "ai-minus": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "ai-minus",
+    "body": "<AntDesign name=\"minus\" color=\"black\" size={25}/>$0",
+    "description": "minus icon from AntDesign font."
+  },
+  "ai-pluscircleo": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "ai-pluscircleo",
+    "body": "<AntDesign name=\"pluscircleo\" color=\"black\" size={25}/>$0",
+    "description": "pluscircleo icon from AntDesign font."
+  },
+  "ai-pluscircle": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "ai-pluscircle",
+    "body": "<AntDesign name=\"pluscircle\" color=\"black\" size={25}/>$0",
+    "description": "pluscircle icon from AntDesign font."
+  },
+  "ai-plus": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "ai-plus",
+    "body": "<AntDesign name=\"plus\" color=\"black\" size={25}/>$0",
+    "description": "plus icon from AntDesign font."
+  },
+  "ai-infocirlce": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "ai-infocirlce",
+    "body": "<AntDesign name=\"infocirlce\" color=\"black\" size={25}/>$0",
+    "description": "infocirlce icon from AntDesign font."
+  },
+  "ai-infocirlceo": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "ai-infocirlceo",
+    "body": "<AntDesign name=\"infocirlceo\" color=\"black\" size={25}/>$0",
+    "description": "infocirlceo icon from AntDesign font."
+  },
+  "ai-info": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "ai-info",
+    "body": "<AntDesign name=\"info\" color=\"black\" size={25}/>$0",
+    "description": "info icon from AntDesign font."
+  },
+  "ai-exclamation": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "ai-exclamation",
+    "body": "<AntDesign name=\"exclamation\" color=\"black\" size={25}/>$0",
+    "description": "exclamation icon from AntDesign font."
+  },
+  "ai-exclamationcircle": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "ai-exclamationcircle",
+    "body": "<AntDesign name=\"exclamationcircle\" color=\"black\" size={25}/>$0",
+    "description": "exclamationcircle icon from AntDesign font."
+  },
+  "ai-exclamationcircleo": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "ai-exclamationcircleo",
+    "body": "<AntDesign name=\"exclamationcircleo\" color=\"black\" size={25}/>$0",
+    "description": "exclamationcircleo icon from AntDesign font."
+  },
+  "ai-closecircle": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "ai-closecircle",
+    "body": "<AntDesign name=\"closecircle\" color=\"black\" size={25}/>$0",
+    "description": "closecircle icon from AntDesign font."
+  },
+  "ai-closecircleo": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "ai-closecircleo",
+    "body": "<AntDesign name=\"closecircleo\" color=\"black\" size={25}/>$0",
+    "description": "closecircleo icon from AntDesign font."
+  },
+  "ai-checkcircle": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "ai-checkcircle",
+    "body": "<AntDesign name=\"checkcircle\" color=\"black\" size={25}/>$0",
+    "description": "checkcircle icon from AntDesign font."
+  },
+  "ai-checkcircleo": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "ai-checkcircleo",
+    "body": "<AntDesign name=\"checkcircleo\" color=\"black\" size={25}/>$0",
+    "description": "checkcircleo icon from AntDesign font."
+  },
+  "ai-check": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "ai-check",
+    "body": "<AntDesign name=\"check\" color=\"black\" size={25}/>$0",
+    "description": "check icon from AntDesign font."
+  },
+  "ai-close": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "ai-close",
+    "body": "<AntDesign name=\"close\" color=\"black\" size={25}/>$0",
+    "description": "close icon from AntDesign font."
+  },
+  "ai-customerservice": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "ai-customerservice",
+    "body": "<AntDesign name=\"customerservice\" color=\"black\" size={25}/>$0",
+    "description": "customerservice icon from AntDesign font."
+  },
+  "ai-creditcard": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "ai-creditcard",
+    "body": "<AntDesign name=\"creditcard\" color=\"black\" size={25}/>$0",
+    "description": "creditcard icon from AntDesign font."
+  },
+  "ai-codesquareo": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "ai-codesquareo",
+    "body": "<AntDesign name=\"codesquareo\" color=\"black\" size={25}/>$0",
+    "description": "codesquareo icon from AntDesign font."
+  },
+  "ai-book": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "ai-book",
+    "body": "<AntDesign name=\"book\" color=\"black\" size={25}/>$0",
+    "description": "book icon from AntDesign font."
+  },
+  "ai-barschart": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "ai-barschart",
+    "body": "<AntDesign name=\"barschart\" color=\"black\" size={25}/>$0",
+    "description": "barschart icon from AntDesign font."
+  },
+  "ai-bars": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "ai-bars",
+    "body": "<AntDesign name=\"bars\" color=\"black\" size={25}/>$0",
+    "description": "bars icon from AntDesign font."
+  },
+  "ai-question": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "ai-question",
+    "body": "<AntDesign name=\"question\" color=\"black\" size={25}/>$0",
+    "description": "question icon from AntDesign font."
+  },
+  "ai-questioncircle": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "ai-questioncircle",
+    "body": "<AntDesign name=\"questioncircle\" color=\"black\" size={25}/>$0",
+    "description": "questioncircle icon from AntDesign font."
+  },
+  "ai-questioncircleo": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "ai-questioncircleo",
+    "body": "<AntDesign name=\"questioncircleo\" color=\"black\" size={25}/>$0",
+    "description": "questioncircleo icon from AntDesign font."
+  },
+  "ai-pause": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "ai-pause",
+    "body": "<AntDesign name=\"pause\" color=\"black\" size={25}/>$0",
+    "description": "pause icon from AntDesign font."
+  },
+  "ai-pausecircle": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "ai-pausecircle",
+    "body": "<AntDesign name=\"pausecircle\" color=\"black\" size={25}/>$0",
+    "description": "pausecircle icon from AntDesign font."
+  },
+  "ai-pausecircleo": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "ai-pausecircleo",
+    "body": "<AntDesign name=\"pausecircleo\" color=\"black\" size={25}/>$0",
+    "description": "pausecircleo icon from AntDesign font."
+  },
+  "ai-clockcircle": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "ai-clockcircle",
+    "body": "<AntDesign name=\"clockcircle\" color=\"black\" size={25}/>$0",
+    "description": "clockcircle icon from AntDesign font."
+  },
+  "ai-clockcircleo": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "ai-clockcircleo",
+    "body": "<AntDesign name=\"clockcircleo\" color=\"black\" size={25}/>$0",
+    "description": "clockcircleo icon from AntDesign font."
+  },
+  "ai-swap": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "ai-swap",
+    "body": "<AntDesign name=\"swap\" color=\"black\" size={25}/>$0",
+    "description": "swap icon from AntDesign font."
+  },
+  "ai-swapleft": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "ai-swapleft",
+    "body": "<AntDesign name=\"swapleft\" color=\"black\" size={25}/>$0",
+    "description": "swapleft icon from AntDesign font."
+  },
+  "ai-swapright": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "ai-swapright",
+    "body": "<AntDesign name=\"swapright\" color=\"black\" size={25}/>$0",
+    "description": "swapright icon from AntDesign font."
+  },
+  "ai-plussquareo": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "ai-plussquareo",
+    "body": "<AntDesign name=\"plussquareo\" color=\"black\" size={25}/>$0",
+    "description": "plussquareo icon from AntDesign font."
+  },
+  "ai-frown": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "ai-frown",
+    "body": "<AntDesign name=\"frown\" color=\"black\" size={25}/>$0",
+    "description": "frown icon from AntDesign font."
+  },
+  "ai-menufold": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "ai-menufold",
+    "body": "<AntDesign name=\"menufold\" color=\"black\" size={25}/>$0",
+    "description": "menufold icon from AntDesign font."
+  },
+  "ai-mail": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "ai-mail",
+    "body": "<AntDesign name=\"mail\" color=\"black\" size={25}/>$0",
+    "description": "mail icon from AntDesign font."
+  },
+  "ai-link": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "ai-link",
+    "body": "<AntDesign name=\"link\" color=\"black\" size={25}/>$0",
+    "description": "link icon from AntDesign font."
+  },
+  "ai-areachart": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "ai-areachart",
+    "body": "<AntDesign name=\"areachart\" color=\"black\" size={25}/>$0",
+    "description": "areachart icon from AntDesign font."
+  },
+  "ai-linechart": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "ai-linechart",
+    "body": "<AntDesign name=\"linechart\" color=\"black\" size={25}/>$0",
+    "description": "linechart icon from AntDesign font."
+  },
+  "ai-home": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "ai-home",
+    "body": "<AntDesign name=\"home\" color=\"black\" size={25}/>$0",
+    "description": "home icon from AntDesign font."
+  },
+  "ai-laptop": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "ai-laptop",
+    "body": "<AntDesign name=\"laptop\" color=\"black\" size={25}/>$0",
+    "description": "laptop icon from AntDesign font."
+  },
+  "ai-star": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "ai-star",
+    "body": "<AntDesign name=\"star\" color=\"black\" size={25}/>$0",
+    "description": "star icon from AntDesign font."
+  },
+  "ai-staro": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "ai-staro",
+    "body": "<AntDesign name=\"staro\" color=\"black\" size={25}/>$0",
+    "description": "staro icon from AntDesign font."
+  },
+  "ai-filter": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "ai-filter",
+    "body": "<AntDesign name=\"filter\" color=\"black\" size={25}/>$0",
+    "description": "filter icon from AntDesign font."
+  },
+  "ai-meho": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "ai-meho",
+    "body": "<AntDesign name=\"meho\" color=\"black\" size={25}/>$0",
+    "description": "meho icon from AntDesign font."
+  },
+  "ai-meh": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "ai-meh",
+    "body": "<AntDesign name=\"meh\" color=\"black\" size={25}/>$0",
+    "description": "meh icon from AntDesign font."
+  },
+  "ai-shoppingcart": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "ai-shoppingcart",
+    "body": "<AntDesign name=\"shoppingcart\" color=\"black\" size={25}/>$0",
+    "description": "shoppingcart icon from AntDesign font."
+  },
+  "ai-save": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "ai-save",
+    "body": "<AntDesign name=\"save\" color=\"black\" size={25}/>$0",
+    "description": "save icon from AntDesign font."
+  },
+  "ai-user": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "ai-user",
+    "body": "<AntDesign name=\"user\" color=\"black\" size={25}/>$0",
+    "description": "user icon from AntDesign font."
+  },
+  "ai-videocamera": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "ai-videocamera",
+    "body": "<AntDesign name=\"videocamera\" color=\"black\" size={25}/>$0",
+    "description": "videocamera icon from AntDesign font."
+  },
+  "ai-totop": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "ai-totop",
+    "body": "<AntDesign name=\"totop\" color=\"black\" size={25}/>$0",
+    "description": "totop icon from AntDesign font."
+  },
+  "ai-team": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "ai-team",
+    "body": "<AntDesign name=\"team\" color=\"black\" size={25}/>$0",
+    "description": "team icon from AntDesign font."
+  },
+  "ai-sharealt": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "ai-sharealt",
+    "body": "<AntDesign name=\"sharealt\" color=\"black\" size={25}/>$0",
+    "description": "sharealt icon from AntDesign font."
+  },
+  "ai-setting": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "ai-setting",
+    "body": "<AntDesign name=\"setting\" color=\"black\" size={25}/>$0",
+    "description": "setting icon from AntDesign font."
+  },
+  "ai-picture": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "ai-picture",
+    "body": "<AntDesign name=\"picture\" color=\"black\" size={25}/>$0",
+    "description": "picture icon from AntDesign font."
+  },
+  "ai-phone": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "ai-phone",
+    "body": "<AntDesign name=\"phone\" color=\"black\" size={25}/>$0",
+    "description": "phone icon from AntDesign font."
+  },
+  "ai-paperclip": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "ai-paperclip",
+    "body": "<AntDesign name=\"paperclip\" color=\"black\" size={25}/>$0",
+    "description": "paperclip icon from AntDesign font."
+  },
+  "ai-notification": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "ai-notification",
+    "body": "<AntDesign name=\"notification\" color=\"black\" size={25}/>$0",
+    "description": "notification icon from AntDesign font."
+  },
+  "ai-menuunfold": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "ai-menuunfold",
+    "body": "<AntDesign name=\"menuunfold\" color=\"black\" size={25}/>$0",
+    "description": "menuunfold icon from AntDesign font."
+  },
+  "ai-inbox": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "ai-inbox",
+    "body": "<AntDesign name=\"inbox\" color=\"black\" size={25}/>$0",
+    "description": "inbox icon from AntDesign font."
+  },
+  "ai-lock": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "ai-lock",
+    "body": "<AntDesign name=\"lock\" color=\"black\" size={25}/>$0",
+    "description": "lock icon from AntDesign font."
+  },
+  "ai-qrcode": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "ai-qrcode",
+    "body": "<AntDesign name=\"qrcode\" color=\"black\" size={25}/>$0",
+    "description": "qrcode icon from AntDesign font."
+  },
+  "ai-tags": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "ai-tags",
+    "body": "<AntDesign name=\"tags\" color=\"black\" size={25}/>$0",
+    "description": "tags icon from AntDesign font."
+  },
+  "ai-tagso": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "ai-tagso",
+    "body": "<AntDesign name=\"tagso\" color=\"black\" size={25}/>$0",
+    "description": "tagso icon from AntDesign font."
+  },
+  "ai-cloudo": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "ai-cloudo",
+    "body": "<AntDesign name=\"cloudo\" color=\"black\" size={25}/>$0",
+    "description": "cloudo icon from AntDesign font."
+  },
+  "ai-cloud": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "ai-cloud",
+    "body": "<AntDesign name=\"cloud\" color=\"black\" size={25}/>$0",
+    "description": "cloud icon from AntDesign font."
+  },
+  "ai-cloudupload": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "ai-cloudupload",
+    "body": "<AntDesign name=\"cloudupload\" color=\"black\" size={25}/>$0",
+    "description": "cloudupload icon from AntDesign font."
+  },
+  "ai-clouddownload": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "ai-clouddownload",
+    "body": "<AntDesign name=\"clouddownload\" color=\"black\" size={25}/>$0",
+    "description": "clouddownload icon from AntDesign font."
+  },
+  "ai-clouddownloado": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "ai-clouddownloado",
+    "body": "<AntDesign name=\"clouddownloado\" color=\"black\" size={25}/>$0",
+    "description": "clouddownloado icon from AntDesign font."
+  },
+  "ai-clouduploado": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "ai-clouduploado",
+    "body": "<AntDesign name=\"clouduploado\" color=\"black\" size={25}/>$0",
+    "description": "clouduploado icon from AntDesign font."
+  },
+  "ai-enviroment": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "ai-enviroment",
+    "body": "<AntDesign name=\"enviroment\" color=\"black\" size={25}/>$0",
+    "description": "enviroment icon from AntDesign font."
+  },
+  "ai-enviromento": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "ai-enviromento",
+    "body": "<AntDesign name=\"enviromento\" color=\"black\" size={25}/>$0",
+    "description": "enviromento icon from AntDesign font."
+  },
+  "ai-eye": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "ai-eye",
+    "body": "<AntDesign name=\"eye\" color=\"black\" size={25}/>$0",
+    "description": "eye icon from AntDesign font."
+  },
+  "ai-eyeo": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "ai-eyeo",
+    "body": "<AntDesign name=\"eyeo\" color=\"black\" size={25}/>$0",
+    "description": "eyeo icon from AntDesign font."
+  },
+  "ai-camera": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "ai-camera",
+    "body": "<AntDesign name=\"camera\" color=\"black\" size={25}/>$0",
+    "description": "camera icon from AntDesign font."
+  },
+  "ai-camerao": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "ai-camerao",
+    "body": "<AntDesign name=\"camerao\" color=\"black\" size={25}/>$0",
+    "description": "camerao icon from AntDesign font."
+  },
+  "ai-windows": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "ai-windows",
+    "body": "<AntDesign name=\"windows\" color=\"black\" size={25}/>$0",
+    "description": "windows icon from AntDesign font."
+  },
+  "ai-export2": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "ai-export2",
+    "body": "<AntDesign name=\"export2\" color=\"black\" size={25}/>$0",
+    "description": "export2 icon from AntDesign font."
+  },
+  "ai-export": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "ai-export",
+    "body": "<AntDesign name=\"export\" color=\"black\" size={25}/>$0",
+    "description": "export icon from AntDesign font."
+  },
+  "ai-circledowno": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "ai-circledowno",
+    "body": "<AntDesign name=\"circledowno\" color=\"black\" size={25}/>$0",
+    "description": "circledowno icon from AntDesign font."
+  },
+  "ai-circledown": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "ai-circledown",
+    "body": "<AntDesign name=\"circledown\" color=\"black\" size={25}/>$0",
+    "description": "circledown icon from AntDesign font."
+  },
+  "ai-hdd": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "ai-hdd",
+    "body": "<AntDesign name=\"hdd\" color=\"black\" size={25}/>$0",
+    "description": "hdd icon from AntDesign font."
+  },
+  "ai-ie": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "ai-ie",
+    "body": "<AntDesign name=\"ie\" color=\"black\" size={25}/>$0",
+    "description": "ie icon from AntDesign font."
+  },
+  "ai-delete": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "ai-delete",
+    "body": "<AntDesign name=\"delete\" color=\"black\" size={25}/>$0",
+    "description": "delete icon from AntDesign font."
+  },
+  "ai-enter": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "ai-enter",
+    "body": "<AntDesign name=\"enter\" color=\"black\" size={25}/>$0",
+    "description": "enter icon from AntDesign font."
+  },
+  "ai-pushpino": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "ai-pushpino",
+    "body": "<AntDesign name=\"pushpino\" color=\"black\" size={25}/>$0",
+    "description": "pushpino icon from AntDesign font."
+  },
+  "ai-pushpin": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "ai-pushpin",
+    "body": "<AntDesign name=\"pushpin\" color=\"black\" size={25}/>$0",
+    "description": "pushpin icon from AntDesign font."
+  },
+  "ai-heart": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "ai-heart",
+    "body": "<AntDesign name=\"heart\" color=\"black\" size={25}/>$0",
+    "description": "heart icon from AntDesign font."
+  },
+  "ai-hearto": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "ai-hearto",
+    "body": "<AntDesign name=\"hearto\" color=\"black\" size={25}/>$0",
+    "description": "hearto icon from AntDesign font."
+  },
+  "ai-smile-circle": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "ai-smile-circle",
+    "body": "<AntDesign name=\"smile-circle\" color=\"black\" size={25}/>$0",
+    "description": "smile-circle icon from AntDesign font."
+  },
+  "ai-smileo": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "ai-smileo",
+    "body": "<AntDesign name=\"smileo\" color=\"black\" size={25}/>$0",
+    "description": "smileo icon from AntDesign font."
+  },
+  "ai-frowno": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "ai-frowno",
+    "body": "<AntDesign name=\"frowno\" color=\"black\" size={25}/>$0",
+    "description": "frowno icon from AntDesign font."
+  },
+  "ai-calculator": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "ai-calculator",
+    "body": "<AntDesign name=\"calculator\" color=\"black\" size={25}/>$0",
+    "description": "calculator icon from AntDesign font."
+  },
+  "ai-chrome": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "ai-chrome",
+    "body": "<AntDesign name=\"chrome\" color=\"black\" size={25}/>$0",
+    "description": "chrome icon from AntDesign font."
+  },
+  "ai-github": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "ai-github",
+    "body": "<AntDesign name=\"github\" color=\"black\" size={25}/>$0",
+    "description": "github icon from AntDesign font."
+  },
+  "ai-iconfontdesktop": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "ai-iconfontdesktop",
+    "body": "<AntDesign name=\"iconfontdesktop\" color=\"black\" size={25}/>$0",
+    "description": "iconfontdesktop icon from AntDesign font."
+  },
+  "ai-caretcircleoup": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "ai-caretcircleoup",
+    "body": "<AntDesign name=\"caretcircleoup\" color=\"black\" size={25}/>$0",
+    "description": "caretcircleoup icon from AntDesign font."
+  },
+  "ai-upload": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "ai-upload",
+    "body": "<AntDesign name=\"upload\" color=\"black\" size={25}/>$0",
+    "description": "upload icon from AntDesign font."
+  },
+  "ai-download": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "ai-download",
+    "body": "<AntDesign name=\"download\" color=\"black\" size={25}/>$0",
+    "description": "download icon from AntDesign font."
+  },
+  "ai-piechart": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "ai-piechart",
+    "body": "<AntDesign name=\"piechart\" color=\"black\" size={25}/>$0",
+    "description": "piechart icon from AntDesign font."
+  },
+  "ai-lock1": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "ai-lock1",
+    "body": "<AntDesign name=\"lock1\" color=\"black\" size={25}/>$0",
+    "description": "lock1 icon from AntDesign font."
+  },
+  "ai-unlock": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "ai-unlock",
+    "body": "<AntDesign name=\"unlock\" color=\"black\" size={25}/>$0",
+    "description": "unlock icon from AntDesign font."
+  },
+  "ai-windowso": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "ai-windowso",
+    "body": "<AntDesign name=\"windowso\" color=\"black\" size={25}/>$0",
+    "description": "windowso icon from AntDesign font."
+  },
+  "ai-dotchart": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "ai-dotchart",
+    "body": "<AntDesign name=\"dotchart\" color=\"black\" size={25}/>$0",
+    "description": "dotchart icon from AntDesign font."
+  },
+  "ai-barchart": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "ai-barchart",
+    "body": "<AntDesign name=\"barchart\" color=\"black\" size={25}/>$0",
+    "description": "barchart icon from AntDesign font."
+  },
+  "ai-codesquare": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "ai-codesquare",
+    "body": "<AntDesign name=\"codesquare\" color=\"black\" size={25}/>$0",
+    "description": "codesquare icon from AntDesign font."
+  },
+  "ai-plussquare": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "ai-plussquare",
+    "body": "<AntDesign name=\"plussquare\" color=\"black\" size={25}/>$0",
+    "description": "plussquare icon from AntDesign font."
+  },
+  "ai-minussquare": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "ai-minussquare",
+    "body": "<AntDesign name=\"minussquare\" color=\"black\" size={25}/>$0",
+    "description": "minussquare icon from AntDesign font."
+  },
+  "ai-closesquare": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "ai-closesquare",
+    "body": "<AntDesign name=\"closesquare\" color=\"black\" size={25}/>$0",
+    "description": "closesquare icon from AntDesign font."
+  },
+  "ai-closesquareo": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "ai-closesquareo",
+    "body": "<AntDesign name=\"closesquareo\" color=\"black\" size={25}/>$0",
+    "description": "closesquareo icon from AntDesign font."
+  },
+  "ai-checksquare": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "ai-checksquare",
+    "body": "<AntDesign name=\"checksquare\" color=\"black\" size={25}/>$0",
+    "description": "checksquare icon from AntDesign font."
+  },
+  "ai-checksquareo": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "ai-checksquareo",
+    "body": "<AntDesign name=\"checksquareo\" color=\"black\" size={25}/>$0",
+    "description": "checksquareo icon from AntDesign font."
+  },
+  "ai-fastbackward": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "ai-fastbackward",
+    "body": "<AntDesign name=\"fastbackward\" color=\"black\" size={25}/>$0",
+    "description": "fastbackward icon from AntDesign font."
+  },
+  "ai-fastforward": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "ai-fastforward",
+    "body": "<AntDesign name=\"fastforward\" color=\"black\" size={25}/>$0",
+    "description": "fastforward icon from AntDesign font."
+  },
+  "ai-upsquare": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "ai-upsquare",
+    "body": "<AntDesign name=\"upsquare\" color=\"black\" size={25}/>$0",
+    "description": "upsquare icon from AntDesign font."
+  },
+  "ai-downsquare": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "ai-downsquare",
+    "body": "<AntDesign name=\"downsquare\" color=\"black\" size={25}/>$0",
+    "description": "downsquare icon from AntDesign font."
+  },
+  "ai-leftsquare": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "ai-leftsquare",
+    "body": "<AntDesign name=\"leftsquare\" color=\"black\" size={25}/>$0",
+    "description": "leftsquare icon from AntDesign font."
+  },
+  "ai-rightsquare": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "ai-rightsquare",
+    "body": "<AntDesign name=\"rightsquare\" color=\"black\" size={25}/>$0",
+    "description": "rightsquare icon from AntDesign font."
+  },
+  "ai-rightsquareo": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "ai-rightsquareo",
+    "body": "<AntDesign name=\"rightsquareo\" color=\"black\" size={25}/>$0",
+    "description": "rightsquareo icon from AntDesign font."
+  },
+  "ai-leftsquareo": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "ai-leftsquareo",
+    "body": "<AntDesign name=\"leftsquareo\" color=\"black\" size={25}/>$0",
+    "description": "leftsquareo icon from AntDesign font."
+  },
+  "ai-down-square-o": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "ai-down-square-o",
+    "body": "<AntDesign name=\"down-square-o\" color=\"black\" size={25}/>$0",
+    "description": "down-square-o icon from AntDesign font."
+  },
+  "ai-up-square-o": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "ai-up-square-o",
+    "body": "<AntDesign name=\"up-square-o\" color=\"black\" size={25}/>$0",
+    "description": "up-square-o icon from AntDesign font."
+  },
+  "ai-play": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "ai-play",
+    "body": "<AntDesign name=\"play\" color=\"black\" size={25}/>$0",
+    "description": "play icon from AntDesign font."
+  },
+  "ai-playcircleo": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "ai-playcircleo",
+    "body": "<AntDesign name=\"playcircleo\" color=\"black\" size={25}/>$0",
+    "description": "playcircleo icon from AntDesign font."
+  },
+  "ai-tag": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "ai-tag",
+    "body": "<AntDesign name=\"tag\" color=\"black\" size={25}/>$0",
+    "description": "tag icon from AntDesign font."
+  },
+  "ai-tago": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "ai-tago",
+    "body": "<AntDesign name=\"tago\" color=\"black\" size={25}/>$0",
+    "description": "tago icon from AntDesign font."
+  },
+  "ai-addfile": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "ai-addfile",
+    "body": "<AntDesign name=\"addfile\" color=\"black\" size={25}/>$0",
+    "description": "addfile icon from AntDesign font."
+  },
+  "ai-folder1": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "ai-folder1",
+    "body": "<AntDesign name=\"folder1\" color=\"black\" size={25}/>$0",
+    "description": "folder1 icon from AntDesign font."
+  },
+  "ai-file1": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "ai-file1",
+    "body": "<AntDesign name=\"file1\" color=\"black\" size={25}/>$0",
+    "description": "file1 icon from AntDesign font."
+  },
+  "ai-switcher": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "ai-switcher",
+    "body": "<AntDesign name=\"switcher\" color=\"black\" size={25}/>$0",
+    "description": "switcher icon from AntDesign font."
+  },
+  "ai-addfolder": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "ai-addfolder",
+    "body": "<AntDesign name=\"addfolder\" color=\"black\" size={25}/>$0",
+    "description": "addfolder icon from AntDesign font."
+  },
+  "ai-folderopen": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "ai-folderopen",
+    "body": "<AntDesign name=\"folderopen\" color=\"black\" size={25}/>$0",
+    "description": "folderopen icon from AntDesign font."
+  },
+  "ai-search1": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "ai-search1",
+    "body": "<AntDesign name=\"search1\" color=\"black\" size={25}/>$0",
+    "description": "search1 icon from AntDesign font."
+  },
+  "ai-ellipsis1": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "ai-ellipsis1",
+    "body": "<AntDesign name=\"ellipsis1\" color=\"black\" size={25}/>$0",
+    "description": "ellipsis1 icon from AntDesign font."
+  },
+  "ai-calendar": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "ai-calendar",
+    "body": "<AntDesign name=\"calendar\" color=\"black\" size={25}/>$0",
+    "description": "calendar icon from AntDesign font."
+  },
+  "ai-filetext1": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "ai-filetext1",
+    "body": "<AntDesign name=\"filetext1\" color=\"black\" size={25}/>$0",
+    "description": "filetext1 icon from AntDesign font."
+  },
+  "ai-copy1": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "ai-copy1",
+    "body": "<AntDesign name=\"copy1\" color=\"black\" size={25}/>$0",
+    "description": "copy1 icon from AntDesign font."
+  },
+  "ai-jpgfile1": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "ai-jpgfile1",
+    "body": "<AntDesign name=\"jpgfile1\" color=\"black\" size={25}/>$0",
+    "description": "jpgfile1 icon from AntDesign font."
+  },
+  "ai-pdffile1": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "ai-pdffile1",
+    "body": "<AntDesign name=\"pdffile1\" color=\"black\" size={25}/>$0",
+    "description": "pdffile1 icon from AntDesign font."
+  },
+  "ai-exclefile1": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "ai-exclefile1",
+    "body": "<AntDesign name=\"exclefile1\" color=\"black\" size={25}/>$0",
+    "description": "exclefile1 icon from AntDesign font."
+  },
+  "ai-pptfile1": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "ai-pptfile1",
+    "body": "<AntDesign name=\"pptfile1\" color=\"black\" size={25}/>$0",
+    "description": "pptfile1 icon from AntDesign font."
+  },
+  "ai-unknowfile1": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "ai-unknowfile1",
+    "body": "<AntDesign name=\"unknowfile1\" color=\"black\" size={25}/>$0",
+    "description": "unknowfile1 icon from AntDesign font."
+  },
+  "ai-wordfile1": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "ai-wordfile1",
+    "body": "<AntDesign name=\"wordfile1\" color=\"black\" size={25}/>$0",
+    "description": "wordfile1 icon from AntDesign font."
+  },
+  "ai-dingding": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "ai-dingding",
+    "body": "<AntDesign name=\"dingding\" color=\"black\" size={25}/>$0",
+    "description": "dingding icon from AntDesign font."
+  },
+  "ai-dingding-o": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "ai-dingding-o",
+    "body": "<AntDesign name=\"dingding-o\" color=\"black\" size={25}/>$0",
+    "description": "dingding-o icon from AntDesign font."
+  },
+  "ai-mobile1": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "ai-mobile1",
+    "body": "<AntDesign name=\"mobile1\" color=\"black\" size={25}/>$0",
+    "description": "mobile1 icon from AntDesign font."
+  },
+  "ai-tablet1": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "ai-tablet1",
+    "body": "<AntDesign name=\"tablet1\" color=\"black\" size={25}/>$0",
+    "description": "tablet1 icon from AntDesign font."
+  },
+  "ai-bells": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "ai-bells",
+    "body": "<AntDesign name=\"bells\" color=\"black\" size={25}/>$0",
+    "description": "bells icon from AntDesign font."
+  },
+  "ai-disconnect": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "ai-disconnect",
+    "body": "<AntDesign name=\"disconnect\" color=\"black\" size={25}/>$0",
+    "description": "disconnect icon from AntDesign font."
+  },
+  "ai-database": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "ai-database",
+    "body": "<AntDesign name=\"database\" color=\"black\" size={25}/>$0",
+    "description": "database icon from AntDesign font."
+  },
+  "ai-barcode": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "ai-barcode",
+    "body": "<AntDesign name=\"barcode\" color=\"black\" size={25}/>$0",
+    "description": "barcode icon from AntDesign font."
+  },
+  "ai-hourglass": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "ai-hourglass",
+    "body": "<AntDesign name=\"hourglass\" color=\"black\" size={25}/>$0",
+    "description": "hourglass icon from AntDesign font."
+  },
+  "ai-key": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "ai-key",
+    "body": "<AntDesign name=\"key\" color=\"black\" size={25}/>$0",
+    "description": "key icon from AntDesign font."
+  },
+  "ai-flag": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "ai-flag",
+    "body": "<AntDesign name=\"flag\" color=\"black\" size={25}/>$0",
+    "description": "flag icon from AntDesign font."
+  },
+  "ai-layout": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "ai-layout",
+    "body": "<AntDesign name=\"layout\" color=\"black\" size={25}/>$0",
+    "description": "layout icon from AntDesign font."
+  },
+  "ai-printer": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "ai-printer",
+    "body": "<AntDesign name=\"printer\" color=\"black\" size={25}/>$0",
+    "description": "printer icon from AntDesign font."
+  },
+  "ai-USB": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "ai-USB",
+    "body": "<AntDesign name=\"USB\" color=\"black\" size={25}/>$0",
+    "description": "USB icon from AntDesign font."
+  },
+  "ai-skin": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "ai-skin",
+    "body": "<AntDesign name=\"skin\" color=\"black\" size={25}/>$0",
+    "description": "skin icon from AntDesign font."
+  },
+  "ai-tool": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "ai-tool",
+    "body": "<AntDesign name=\"tool\" color=\"black\" size={25}/>$0",
+    "description": "tool icon from AntDesign font."
+  },
+  "ai-car": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "ai-car",
+    "body": "<AntDesign name=\"car\" color=\"black\" size={25}/>$0",
+    "description": "car icon from AntDesign font."
+  },
+  "ai-addusergroup": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "ai-addusergroup",
+    "body": "<AntDesign name=\"addusergroup\" color=\"black\" size={25}/>$0",
+    "description": "addusergroup icon from AntDesign font."
+  },
+  "ai-carryout": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "ai-carryout",
+    "body": "<AntDesign name=\"carryout\" color=\"black\" size={25}/>$0",
+    "description": "carryout icon from AntDesign font."
+  },
+  "ai-deleteuser": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "ai-deleteuser",
+    "body": "<AntDesign name=\"deleteuser\" color=\"black\" size={25}/>$0",
+    "description": "deleteuser icon from AntDesign font."
+  },
+  "ai-deleteusergroup": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "ai-deleteusergroup",
+    "body": "<AntDesign name=\"deleteusergroup\" color=\"black\" size={25}/>$0",
+    "description": "deleteusergroup icon from AntDesign font."
+  },
+  "ai-man": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "ai-man",
+    "body": "<AntDesign name=\"man\" color=\"black\" size={25}/>$0",
+    "description": "man icon from AntDesign font."
+  },
+  "ai-isv": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "ai-isv",
+    "body": "<AntDesign name=\"isv\" color=\"black\" size={25}/>$0",
+    "description": "isv icon from AntDesign font."
+  },
+  "ai-gift": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "ai-gift",
+    "body": "<AntDesign name=\"gift\" color=\"black\" size={25}/>$0",
+    "description": "gift icon from AntDesign font."
+  },
+  "ai-idcard": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "ai-idcard",
+    "body": "<AntDesign name=\"idcard\" color=\"black\" size={25}/>$0",
+    "description": "idcard icon from AntDesign font."
+  },
+  "ai-medicinebox": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "ai-medicinebox",
+    "body": "<AntDesign name=\"medicinebox\" color=\"black\" size={25}/>$0",
+    "description": "medicinebox icon from AntDesign font."
+  },
+  "ai-redenvelopes": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "ai-redenvelopes",
+    "body": "<AntDesign name=\"redenvelopes\" color=\"black\" size={25}/>$0",
+    "description": "redenvelopes icon from AntDesign font."
+  },
+  "ai-rest": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "ai-rest",
+    "body": "<AntDesign name=\"rest\" color=\"black\" size={25}/>$0",
+    "description": "rest icon from AntDesign font."
+  },
+  "ai-Safety": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "ai-Safety",
+    "body": "<AntDesign name=\"Safety\" color=\"black\" size={25}/>$0",
+    "description": "Safety icon from AntDesign font."
+  },
+  "ai-wallet": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "ai-wallet",
+    "body": "<AntDesign name=\"wallet\" color=\"black\" size={25}/>$0",
+    "description": "wallet icon from AntDesign font."
+  },
+  "ai-woman": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "ai-woman",
+    "body": "<AntDesign name=\"woman\" color=\"black\" size={25}/>$0",
+    "description": "woman icon from AntDesign font."
+  },
+  "ai-adduser": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "ai-adduser",
+    "body": "<AntDesign name=\"adduser\" color=\"black\" size={25}/>$0",
+    "description": "adduser icon from AntDesign font."
+  },
+  "ai-bank": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "ai-bank",
+    "body": "<AntDesign name=\"bank\" color=\"black\" size={25}/>$0",
+    "description": "bank icon from AntDesign font."
+  },
+  "ai-Trophy": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "ai-Trophy",
+    "body": "<AntDesign name=\"Trophy\" color=\"black\" size={25}/>$0",
+    "description": "Trophy icon from AntDesign font."
+  },
+  "ai-loading1": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "ai-loading1",
+    "body": "<AntDesign name=\"loading1\" color=\"black\" size={25}/>$0",
+    "description": "loading1 icon from AntDesign font."
+  },
+  "ai-loading2": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "ai-loading2",
+    "body": "<AntDesign name=\"loading2\" color=\"black\" size={25}/>$0",
+    "description": "loading2 icon from AntDesign font."
+  },
+  "ai-like2": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "ai-like2",
+    "body": "<AntDesign name=\"like2\" color=\"black\" size={25}/>$0",
+    "description": "like2 icon from AntDesign font."
+  },
+  "ai-dislike2": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "ai-dislike2",
+    "body": "<AntDesign name=\"dislike2\" color=\"black\" size={25}/>$0",
+    "description": "dislike2 icon from AntDesign font."
+  },
+  "ai-like1": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "ai-like1",
+    "body": "<AntDesign name=\"like1\" color=\"black\" size={25}/>$0",
+    "description": "like1 icon from AntDesign font."
+  },
+  "ai-dislike1": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "ai-dislike1",
+    "body": "<AntDesign name=\"dislike1\" color=\"black\" size={25}/>$0",
+    "description": "dislike1 icon from AntDesign font."
+  },
+  "ai-bulb1": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "ai-bulb1",
+    "body": "<AntDesign name=\"bulb1\" color=\"black\" size={25}/>$0",
+    "description": "bulb1 icon from AntDesign font."
+  },
+  "ai-rocket1": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "ai-rocket1",
+    "body": "<AntDesign name=\"rocket1\" color=\"black\" size={25}/>$0",
+    "description": "rocket1 icon from AntDesign font."
+  },
+  "ai-select1": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "ai-select1",
+    "body": "<AntDesign name=\"select1\" color=\"black\" size={25}/>$0",
+    "description": "select1 icon from AntDesign font."
+  },
+  "ai-apple1": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "ai-apple1",
+    "body": "<AntDesign name=\"apple1\" color=\"black\" size={25}/>$0",
+    "description": "apple1 icon from AntDesign font."
+  },
+  "ai-apple-o": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "ai-apple-o",
+    "body": "<AntDesign name=\"apple-o\" color=\"black\" size={25}/>$0",
+    "description": "apple-o icon from AntDesign font."
+  },
+  "ai-android1": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "ai-android1",
+    "body": "<AntDesign name=\"android1\" color=\"black\" size={25}/>$0",
+    "description": "android1 icon from AntDesign font."
+  },
+  "ai-android": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "ai-android",
+    "body": "<AntDesign name=\"android\" color=\"black\" size={25}/>$0",
+    "description": "android icon from AntDesign font."
+  },
+  "ai-aliwangwang-o1": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "ai-aliwangwang-o1",
+    "body": "<AntDesign name=\"aliwangwang-o1\" color=\"black\" size={25}/>$0",
+    "description": "aliwangwang-o1 icon from AntDesign font."
+  },
+  "ai-aliwangwang": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "ai-aliwangwang",
+    "body": "<AntDesign name=\"aliwangwang\" color=\"black\" size={25}/>$0",
+    "description": "aliwangwang icon from AntDesign font."
+  },
+  "ai-pay-circle1": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "ai-pay-circle1",
+    "body": "<AntDesign name=\"pay-circle1\" color=\"black\" size={25}/>$0",
+    "description": "pay-circle1 icon from AntDesign font."
+  },
+  "ai-pay-circle-o1": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "ai-pay-circle-o1",
+    "body": "<AntDesign name=\"pay-circle-o1\" color=\"black\" size={25}/>$0",
+    "description": "pay-circle-o1 icon from AntDesign font."
+  },
+  "ai-poweroff": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "ai-poweroff",
+    "body": "<AntDesign name=\"poweroff\" color=\"black\" size={25}/>$0",
+    "description": "poweroff icon from AntDesign font."
+  },
+  "ai-trademark": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "ai-trademark",
+    "body": "<AntDesign name=\"trademark\" color=\"black\" size={25}/>$0",
+    "description": "trademark icon from AntDesign font."
+  },
+  "ai-find": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "ai-find",
+    "body": "<AntDesign name=\"find\" color=\"black\" size={25}/>$0",
+    "description": "find icon from AntDesign font."
+  },
+  "ai-copyright": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "ai-copyright",
+    "body": "<AntDesign name=\"copyright\" color=\"black\" size={25}/>$0",
+    "description": "copyright icon from AntDesign font."
+  },
+  "ai-sound": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "ai-sound",
+    "body": "<AntDesign name=\"sound\" color=\"black\" size={25}/>$0",
+    "description": "sound icon from AntDesign font."
+  },
+  "ai-earth": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "ai-earth",
+    "body": "<AntDesign name=\"earth\" color=\"black\" size={25}/>$0",
+    "description": "earth icon from AntDesign font."
+  },
+  "ai-wifi": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "ai-wifi",
+    "body": "<AntDesign name=\"wifi\" color=\"black\" size={25}/>$0",
+    "description": "wifi icon from AntDesign font."
+  },
+  "ai-sync": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "ai-sync",
+    "body": "<AntDesign name=\"sync\" color=\"black\" size={25}/>$0",
+    "description": "sync icon from AntDesign font."
+  },
+  "ai-login": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "ai-login",
+    "body": "<AntDesign name=\"login\" color=\"black\" size={25}/>$0",
+    "description": "login icon from AntDesign font."
+  },
+  "ai-logout": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "ai-logout",
+    "body": "<AntDesign name=\"logout\" color=\"black\" size={25}/>$0",
+    "description": "logout icon from AntDesign font."
+  },
+  "ai-reload1": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "ai-reload1",
+    "body": "<AntDesign name=\"reload1\" color=\"black\" size={25}/>$0",
+    "description": "reload1 icon from AntDesign font."
+  },
+  "ai-message1": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "ai-message1",
+    "body": "<AntDesign name=\"message1\" color=\"black\" size={25}/>$0",
+    "description": "message1 icon from AntDesign font."
+  },
+  "ai-shake": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "ai-shake",
+    "body": "<AntDesign name=\"shake\" color=\"black\" size={25}/>$0",
+    "description": "shake icon from AntDesign font."
+  },
+  "ai-API": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "ai-API",
+    "body": "<AntDesign name=\"API\" color=\"black\" size={25}/>$0",
+    "description": "API icon from AntDesign font."
+  },
+  "ai-appstore-o": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "ai-appstore-o",
+    "body": "<AntDesign name=\"appstore-o\" color=\"black\" size={25}/>$0",
+    "description": "appstore-o icon from AntDesign font."
+  },
+  "ai-appstore1": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "ai-appstore1",
+    "body": "<AntDesign name=\"appstore1\" color=\"black\" size={25}/>$0",
+    "description": "appstore1 icon from AntDesign font."
+  },
+  "ai-scan1": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "ai-scan1",
+    "body": "<AntDesign name=\"scan1\" color=\"black\" size={25}/>$0",
+    "description": "scan1 icon from AntDesign font."
+  },
+  "ai-exception1": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "ai-exception1",
+    "body": "<AntDesign name=\"exception1\" color=\"black\" size={25}/>$0",
+    "description": "exception1 icon from AntDesign font."
+  },
+  "ai-contacts": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "ai-contacts",
+    "body": "<AntDesign name=\"contacts\" color=\"black\" size={25}/>$0",
+    "description": "contacts icon from AntDesign font."
+  },
+  "ai-solution1": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "ai-solution1",
+    "body": "<AntDesign name=\"solution1\" color=\"black\" size={25}/>$0",
+    "description": "solution1 icon from AntDesign font."
+  },
+  "ai-fork": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "ai-fork",
+    "body": "<AntDesign name=\"fork\" color=\"black\" size={25}/>$0",
+    "description": "fork icon from AntDesign font."
+  },
+  "ai-edit": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "ai-edit",
+    "body": "<AntDesign name=\"edit\" color=\"black\" size={25}/>$0",
+    "description": "edit icon from AntDesign font."
+  },
+  "ai-form": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "ai-form",
+    "body": "<AntDesign name=\"form\" color=\"black\" size={25}/>$0",
+    "description": "form icon from AntDesign font."
+  },
+  "ai-warning": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "ai-warning",
+    "body": "<AntDesign name=\"warning\" color=\"black\" size={25}/>$0",
+    "description": "warning icon from AntDesign font."
+  },
+  "ai-table": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "ai-table",
+    "body": "<AntDesign name=\"table\" color=\"black\" size={25}/>$0",
+    "description": "table icon from AntDesign font."
+  },
+  "ai-profile": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "ai-profile",
+    "body": "<AntDesign name=\"profile\" color=\"black\" size={25}/>$0",
+    "description": "profile icon from AntDesign font."
+  },
+  "ai-dashboard": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "ai-dashboard",
+    "body": "<AntDesign name=\"dashboard\" color=\"black\" size={25}/>$0",
+    "description": "dashboard icon from AntDesign font."
+  },
+  "ai-indent-left": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "ai-indent-left",
+    "body": "<AntDesign name=\"indent-left\" color=\"black\" size={25}/>$0",
+    "description": "indent-left icon from AntDesign font."
+  },
+  "ai-indent-right": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "ai-indent-right",
+    "body": "<AntDesign name=\"indent-right\" color=\"black\" size={25}/>$0",
+    "description": "indent-right icon from AntDesign font."
+  },
+  "ai-menu-unfold": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "ai-menu-unfold",
+    "body": "<AntDesign name=\"menu-unfold\" color=\"black\" size={25}/>$0",
+    "description": "menu-unfold icon from AntDesign font."
+  },
+  "ai-menu-fold": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "ai-menu-fold",
+    "body": "<AntDesign name=\"menu-fold\" color=\"black\" size={25}/>$0",
+    "description": "menu-fold icon from AntDesign font."
+  },
+  "ai-antdesign": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "ai-antdesign",
+    "body": "<AntDesign name=\"antdesign\" color=\"black\" size={25}/>$0",
+    "description": "antdesign icon from AntDesign font."
+  },
+  "ai-alipay-square": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "ai-alipay-square",
+    "body": "<AntDesign name=\"alipay-square\" color=\"black\" size={25}/>$0",
+    "description": "alipay-square icon from AntDesign font."
+  },
+  "ai-codepen-circle": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "ai-codepen-circle",
+    "body": "<AntDesign name=\"codepen-circle\" color=\"black\" size={25}/>$0",
+    "description": "codepen-circle icon from AntDesign font."
+  },
+  "ai-google": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "ai-google",
+    "body": "<AntDesign name=\"google\" color=\"black\" size={25}/>$0",
+    "description": "google icon from AntDesign font."
+  },
+  "ai-amazon": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "ai-amazon",
+    "body": "<AntDesign name=\"amazon\" color=\"black\" size={25}/>$0",
+    "description": "amazon icon from AntDesign font."
+  },
+  "ai-codepen": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "ai-codepen",
+    "body": "<AntDesign name=\"codepen\" color=\"black\" size={25}/>$0",
+    "description": "codepen icon from AntDesign font."
+  },
+  "ai-facebook-square": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "ai-facebook-square",
+    "body": "<AntDesign name=\"facebook-square\" color=\"black\" size={25}/>$0",
+    "description": "facebook-square icon from AntDesign font."
+  },
+  "ai-dropbox": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "ai-dropbox",
+    "body": "<AntDesign name=\"dropbox\" color=\"black\" size={25}/>$0",
+    "description": "dropbox icon from AntDesign font."
+  },
+  "ai-googleplus": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "ai-googleplus",
+    "body": "<AntDesign name=\"googleplus\" color=\"black\" size={25}/>$0",
+    "description": "googleplus icon from AntDesign font."
+  },
+  "ai-linkedin-square": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "ai-linkedin-square",
+    "body": "<AntDesign name=\"linkedin-square\" color=\"black\" size={25}/>$0",
+    "description": "linkedin-square icon from AntDesign font."
+  },
+  "ai-medium-monogram": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "ai-medium-monogram",
+    "body": "<AntDesign name=\"medium-monogram\" color=\"black\" size={25}/>$0",
+    "description": "medium-monogram icon from AntDesign font."
+  },
+  "ai-gitlab": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "ai-gitlab",
+    "body": "<AntDesign name=\"gitlab\" color=\"black\" size={25}/>$0",
+    "description": "gitlab icon from AntDesign font."
+  },
+  "ai-medium-wordmark": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "ai-medium-wordmark",
+    "body": "<AntDesign name=\"medium-wordmark\" color=\"black\" size={25}/>$0",
+    "description": "medium-wordmark icon from AntDesign font."
+  },
+  "ai-QQ": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "ai-QQ",
+    "body": "<AntDesign name=\"QQ\" color=\"black\" size={25}/>$0",
+    "description": "QQ icon from AntDesign font."
+  },
+  "ai-skype": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "ai-skype",
+    "body": "<AntDesign name=\"skype\" color=\"black\" size={25}/>$0",
+    "description": "skype icon from AntDesign font."
+  },
+  "ai-taobao-square": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "ai-taobao-square",
+    "body": "<AntDesign name=\"taobao-square\" color=\"black\" size={25}/>$0",
+    "description": "taobao-square icon from AntDesign font."
+  },
+  "ai-alipay-circle": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "ai-alipay-circle",
+    "body": "<AntDesign name=\"alipay-circle\" color=\"black\" size={25}/>$0",
+    "description": "alipay-circle icon from AntDesign font."
+  },
+  "ai-youtube": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "ai-youtube",
+    "body": "<AntDesign name=\"youtube\" color=\"black\" size={25}/>$0",
+    "description": "youtube icon from AntDesign font."
+  },
+  "ai-wechat": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "ai-wechat",
+    "body": "<AntDesign name=\"wechat\" color=\"black\" size={25}/>$0",
+    "description": "wechat icon from AntDesign font."
+  },
+  "ai-twitter": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "ai-twitter",
+    "body": "<AntDesign name=\"twitter\" color=\"black\" size={25}/>$0",
+    "description": "twitter icon from AntDesign font."
+  },
+  "ai-weibo": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "ai-weibo",
+    "body": "<AntDesign name=\"weibo\" color=\"black\" size={25}/>$0",
+    "description": "weibo icon from AntDesign font."
+  },
+  "ai-HTML": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "ai-HTML",
+    "body": "<AntDesign name=\"HTML\" color=\"black\" size={25}/>$0",
+    "description": "HTML icon from AntDesign font."
+  },
+  "ai-taobao-circle": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "ai-taobao-circle",
+    "body": "<AntDesign name=\"taobao-circle\" color=\"black\" size={25}/>$0",
+    "description": "taobao-circle icon from AntDesign font."
+  },
+  "ai-weibo-circle": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "ai-weibo-circle",
+    "body": "<AntDesign name=\"weibo-circle\" color=\"black\" size={25}/>$0",
+    "description": "weibo-circle icon from AntDesign font."
+  },
+  "ai-weibo-square": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "ai-weibo-square",
+    "body": "<AntDesign name=\"weibo-square\" color=\"black\" size={25}/>$0",
+    "description": "weibo-square icon from AntDesign font."
+  },
+  "ai-CodeSandbox": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "ai-CodeSandbox",
+    "body": "<AntDesign name=\"CodeSandbox\" color=\"black\" size={25}/>$0",
+    "description": "CodeSandbox icon from AntDesign font."
+  },
+  "ai-aliyun": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "ai-aliyun",
+    "body": "<AntDesign name=\"aliyun\" color=\"black\" size={25}/>$0",
+    "description": "aliyun icon from AntDesign font."
+  },
+  "ai-zhihu": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "ai-zhihu",
+    "body": "<AntDesign name=\"zhihu\" color=\"black\" size={25}/>$0",
+    "description": "zhihu icon from AntDesign font."
+  },
+  "ai-behance": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "ai-behance",
+    "body": "<AntDesign name=\"behance\" color=\"black\" size={25}/>$0",
+    "description": "behance icon from AntDesign font."
+  },
+  "ai-dribbble": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "ai-dribbble",
+    "body": "<AntDesign name=\"dribbble\" color=\"black\" size={25}/>$0",
+    "description": "dribbble icon from AntDesign font."
+  },
+  "ai-dribbble-square": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "ai-dribbble-square",
+    "body": "<AntDesign name=\"dribbble-square\" color=\"black\" size={25}/>$0",
+    "description": "dribbble-square icon from AntDesign font."
+  },
+  "ai-behance-square": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "ai-behance-square",
+    "body": "<AntDesign name=\"behance-square\" color=\"black\" size={25}/>$0",
+    "description": "behance-square icon from AntDesign font."
+  },
+  "ai-file-markdown": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "ai-file-markdown",
+    "body": "<AntDesign name=\"file-markdown\" color=\"black\" size={25}/>$0",
+    "description": "file-markdown icon from AntDesign font."
+  },
+  "ai-instagram": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "ai-instagram",
+    "body": "<AntDesign name=\"instagram\" color=\"black\" size={25}/>$0",
+    "description": "instagram icon from AntDesign font."
+  },
+  "ai-yuque": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "ai-yuque",
+    "body": "<AntDesign name=\"yuque\" color=\"black\" size={25}/>$0",
+    "description": "yuque icon from AntDesign font."
+  },
+  "ai-slack": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "ai-slack",
+    "body": "<AntDesign name=\"slack\" color=\"black\" size={25}/>$0",
+    "description": "slack icon from AntDesign font."
+  },
+  "ai-slack-square": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "ai-slack-square",
+    "body": "<AntDesign name=\"slack-square\" color=\"black\" size={25}/>$0",
+    "description": "slack-square icon from AntDesign font."
+  }
+}

@@ -1,0 +1,1502 @@
+{
+  "oci-accessibility": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "oci-accessibility",
+    "body": "<Octicons name=\"accessibility\" color=\"black\" size={25}/>$0",
+    "description": "accessibility icon from Octicons font."
+  },
+  "oci-alert": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "oci-alert",
+    "body": "<Octicons name=\"alert\" color=\"black\" size={25}/>$0",
+    "description": "alert icon from Octicons font."
+  },
+  "oci-apps": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "oci-apps",
+    "body": "<Octicons name=\"apps\" color=\"black\" size={25}/>$0",
+    "description": "apps icon from Octicons font."
+  },
+  "oci-archive": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "oci-archive",
+    "body": "<Octicons name=\"archive\" color=\"black\" size={25}/>$0",
+    "description": "archive icon from Octicons font."
+  },
+  "oci-arrow-both": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "oci-arrow-both",
+    "body": "<Octicons name=\"arrow-both\" color=\"black\" size={25}/>$0",
+    "description": "arrow-both icon from Octicons font."
+  },
+  "oci-arrow-down": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "oci-arrow-down",
+    "body": "<Octicons name=\"arrow-down\" color=\"black\" size={25}/>$0",
+    "description": "arrow-down icon from Octicons font."
+  },
+  "oci-arrow-left": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "oci-arrow-left",
+    "body": "<Octicons name=\"arrow-left\" color=\"black\" size={25}/>$0",
+    "description": "arrow-left icon from Octicons font."
+  },
+  "oci-arrow-right": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "oci-arrow-right",
+    "body": "<Octicons name=\"arrow-right\" color=\"black\" size={25}/>$0",
+    "description": "arrow-right icon from Octicons font."
+  },
+  "oci-arrow-switch": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "oci-arrow-switch",
+    "body": "<Octicons name=\"arrow-switch\" color=\"black\" size={25}/>$0",
+    "description": "arrow-switch icon from Octicons font."
+  },
+  "oci-arrow-up": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "oci-arrow-up",
+    "body": "<Octicons name=\"arrow-up\" color=\"black\" size={25}/>$0",
+    "description": "arrow-up icon from Octicons font."
+  },
+  "oci-beaker": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "oci-beaker",
+    "body": "<Octicons name=\"beaker\" color=\"black\" size={25}/>$0",
+    "description": "beaker icon from Octicons font."
+  },
+  "oci-bell": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "oci-bell",
+    "body": "<Octicons name=\"bell\" color=\"black\" size={25}/>$0",
+    "description": "bell icon from Octicons font."
+  },
+  "oci-bell-fill": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "oci-bell-fill",
+    "body": "<Octicons name=\"bell-fill\" color=\"black\" size={25}/>$0",
+    "description": "bell-fill icon from Octicons font."
+  },
+  "oci-bell-slash": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "oci-bell-slash",
+    "body": "<Octicons name=\"bell-slash\" color=\"black\" size={25}/>$0",
+    "description": "bell-slash icon from Octicons font."
+  },
+  "oci-blocked": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "oci-blocked",
+    "body": "<Octicons name=\"blocked\" color=\"black\" size={25}/>$0",
+    "description": "blocked icon from Octicons font."
+  },
+  "oci-bold": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "oci-bold",
+    "body": "<Octicons name=\"bold\" color=\"black\" size={25}/>$0",
+    "description": "bold icon from Octicons font."
+  },
+  "oci-book": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "oci-book",
+    "body": "<Octicons name=\"book\" color=\"black\" size={25}/>$0",
+    "description": "book icon from Octicons font."
+  },
+  "oci-bookmark": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "oci-bookmark",
+    "body": "<Octicons name=\"bookmark\" color=\"black\" size={25}/>$0",
+    "description": "bookmark icon from Octicons font."
+  },
+  "oci-bookmark-slash": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "oci-bookmark-slash",
+    "body": "<Octicons name=\"bookmark-slash\" color=\"black\" size={25}/>$0",
+    "description": "bookmark-slash icon from Octicons font."
+  },
+  "oci-briefcase": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "oci-briefcase",
+    "body": "<Octicons name=\"briefcase\" color=\"black\" size={25}/>$0",
+    "description": "briefcase icon from Octicons font."
+  },
+  "oci-broadcast": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "oci-broadcast",
+    "body": "<Octicons name=\"broadcast\" color=\"black\" size={25}/>$0",
+    "description": "broadcast icon from Octicons font."
+  },
+  "oci-browser": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "oci-browser",
+    "body": "<Octicons name=\"browser\" color=\"black\" size={25}/>$0",
+    "description": "browser icon from Octicons font."
+  },
+  "oci-bug": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "oci-bug",
+    "body": "<Octicons name=\"bug\" color=\"black\" size={25}/>$0",
+    "description": "bug icon from Octicons font."
+  },
+  "oci-calendar": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "oci-calendar",
+    "body": "<Octicons name=\"calendar\" color=\"black\" size={25}/>$0",
+    "description": "calendar icon from Octicons font."
+  },
+  "oci-check": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "oci-check",
+    "body": "<Octicons name=\"check\" color=\"black\" size={25}/>$0",
+    "description": "check icon from Octicons font."
+  },
+  "oci-check-circle": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "oci-check-circle",
+    "body": "<Octicons name=\"check-circle\" color=\"black\" size={25}/>$0",
+    "description": "check-circle icon from Octicons font."
+  },
+  "oci-check-circle-fill": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "oci-check-circle-fill",
+    "body": "<Octicons name=\"check-circle-fill\" color=\"black\" size={25}/>$0",
+    "description": "check-circle-fill icon from Octicons font."
+  },
+  "oci-checklist": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "oci-checklist",
+    "body": "<Octicons name=\"checklist\" color=\"black\" size={25}/>$0",
+    "description": "checklist icon from Octicons font."
+  },
+  "oci-chevron-down": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "oci-chevron-down",
+    "body": "<Octicons name=\"chevron-down\" color=\"black\" size={25}/>$0",
+    "description": "chevron-down icon from Octicons font."
+  },
+  "oci-chevron-left": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "oci-chevron-left",
+    "body": "<Octicons name=\"chevron-left\" color=\"black\" size={25}/>$0",
+    "description": "chevron-left icon from Octicons font."
+  },
+  "oci-chevron-right": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "oci-chevron-right",
+    "body": "<Octicons name=\"chevron-right\" color=\"black\" size={25}/>$0",
+    "description": "chevron-right icon from Octicons font."
+  },
+  "oci-chevron-up": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "oci-chevron-up",
+    "body": "<Octicons name=\"chevron-up\" color=\"black\" size={25}/>$0",
+    "description": "chevron-up icon from Octicons font."
+  },
+  "oci-circle": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "oci-circle",
+    "body": "<Octicons name=\"circle\" color=\"black\" size={25}/>$0",
+    "description": "circle icon from Octicons font."
+  },
+  "oci-circle-slash": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "oci-circle-slash",
+    "body": "<Octicons name=\"circle-slash\" color=\"black\" size={25}/>$0",
+    "description": "circle-slash icon from Octicons font."
+  },
+  "oci-clock": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "oci-clock",
+    "body": "<Octicons name=\"clock\" color=\"black\" size={25}/>$0",
+    "description": "clock icon from Octicons font."
+  },
+  "oci-code": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "oci-code",
+    "body": "<Octicons name=\"code\" color=\"black\" size={25}/>$0",
+    "description": "code icon from Octicons font."
+  },
+  "oci-code-of-conduct": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "oci-code-of-conduct",
+    "body": "<Octicons name=\"code-of-conduct\" color=\"black\" size={25}/>$0",
+    "description": "code-of-conduct icon from Octicons font."
+  },
+  "oci-code-review": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "oci-code-review",
+    "body": "<Octicons name=\"code-review\" color=\"black\" size={25}/>$0",
+    "description": "code-review icon from Octicons font."
+  },
+  "oci-code-square": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "oci-code-square",
+    "body": "<Octicons name=\"code-square\" color=\"black\" size={25}/>$0",
+    "description": "code-square icon from Octicons font."
+  },
+  "oci-codescan": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "oci-codescan",
+    "body": "<Octicons name=\"codescan\" color=\"black\" size={25}/>$0",
+    "description": "codescan icon from Octicons font."
+  },
+  "oci-codescan-checkmark": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "oci-codescan-checkmark",
+    "body": "<Octicons name=\"codescan-checkmark\" color=\"black\" size={25}/>$0",
+    "description": "codescan-checkmark icon from Octicons font."
+  },
+  "oci-codespaces": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "oci-codespaces",
+    "body": "<Octicons name=\"codespaces\" color=\"black\" size={25}/>$0",
+    "description": "codespaces icon from Octicons font."
+  },
+  "oci-columns": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "oci-columns",
+    "body": "<Octicons name=\"columns\" color=\"black\" size={25}/>$0",
+    "description": "columns icon from Octicons font."
+  },
+  "oci-comment": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "oci-comment",
+    "body": "<Octicons name=\"comment\" color=\"black\" size={25}/>$0",
+    "description": "comment icon from Octicons font."
+  },
+  "oci-comment-discussion": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "oci-comment-discussion",
+    "body": "<Octicons name=\"comment-discussion\" color=\"black\" size={25}/>$0",
+    "description": "comment-discussion icon from Octicons font."
+  },
+  "oci-container": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "oci-container",
+    "body": "<Octicons name=\"container\" color=\"black\" size={25}/>$0",
+    "description": "container icon from Octicons font."
+  },
+  "oci-copy": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "oci-copy",
+    "body": "<Octicons name=\"copy\" color=\"black\" size={25}/>$0",
+    "description": "copy icon from Octicons font."
+  },
+  "oci-cpu": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "oci-cpu",
+    "body": "<Octicons name=\"cpu\" color=\"black\" size={25}/>$0",
+    "description": "cpu icon from Octicons font."
+  },
+  "oci-credit-card": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "oci-credit-card",
+    "body": "<Octicons name=\"credit-card\" color=\"black\" size={25}/>$0",
+    "description": "credit-card icon from Octicons font."
+  },
+  "oci-cross-reference": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "oci-cross-reference",
+    "body": "<Octicons name=\"cross-reference\" color=\"black\" size={25}/>$0",
+    "description": "cross-reference icon from Octicons font."
+  },
+  "oci-dash": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "oci-dash",
+    "body": "<Octicons name=\"dash\" color=\"black\" size={25}/>$0",
+    "description": "dash icon from Octicons font."
+  },
+  "oci-database": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "oci-database",
+    "body": "<Octicons name=\"database\" color=\"black\" size={25}/>$0",
+    "description": "database icon from Octicons font."
+  },
+  "oci-dependabot": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "oci-dependabot",
+    "body": "<Octicons name=\"dependabot\" color=\"black\" size={25}/>$0",
+    "description": "dependabot icon from Octicons font."
+  },
+  "oci-desktop-download": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "oci-desktop-download",
+    "body": "<Octicons name=\"desktop-download\" color=\"black\" size={25}/>$0",
+    "description": "desktop-download icon from Octicons font."
+  },
+  "oci-device-camera": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "oci-device-camera",
+    "body": "<Octicons name=\"device-camera\" color=\"black\" size={25}/>$0",
+    "description": "device-camera icon from Octicons font."
+  },
+  "oci-device-camera-video": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "oci-device-camera-video",
+    "body": "<Octicons name=\"device-camera-video\" color=\"black\" size={25}/>$0",
+    "description": "device-camera-video icon from Octicons font."
+  },
+  "oci-device-desktop": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "oci-device-desktop",
+    "body": "<Octicons name=\"device-desktop\" color=\"black\" size={25}/>$0",
+    "description": "device-desktop icon from Octicons font."
+  },
+  "oci-device-mobile": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "oci-device-mobile",
+    "body": "<Octicons name=\"device-mobile\" color=\"black\" size={25}/>$0",
+    "description": "device-mobile icon from Octicons font."
+  },
+  "oci-diamond": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "oci-diamond",
+    "body": "<Octicons name=\"diamond\" color=\"black\" size={25}/>$0",
+    "description": "diamond icon from Octicons font."
+  },
+  "oci-diff": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "oci-diff",
+    "body": "<Octicons name=\"diff\" color=\"black\" size={25}/>$0",
+    "description": "diff icon from Octicons font."
+  },
+  "oci-diff-added": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "oci-diff-added",
+    "body": "<Octicons name=\"diff-added\" color=\"black\" size={25}/>$0",
+    "description": "diff-added icon from Octicons font."
+  },
+  "oci-diff-ignored": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "oci-diff-ignored",
+    "body": "<Octicons name=\"diff-ignored\" color=\"black\" size={25}/>$0",
+    "description": "diff-ignored icon from Octicons font."
+  },
+  "oci-diff-modified": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "oci-diff-modified",
+    "body": "<Octicons name=\"diff-modified\" color=\"black\" size={25}/>$0",
+    "description": "diff-modified icon from Octicons font."
+  },
+  "oci-diff-removed": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "oci-diff-removed",
+    "body": "<Octicons name=\"diff-removed\" color=\"black\" size={25}/>$0",
+    "description": "diff-removed icon from Octicons font."
+  },
+  "oci-diff-renamed": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "oci-diff-renamed",
+    "body": "<Octicons name=\"diff-renamed\" color=\"black\" size={25}/>$0",
+    "description": "diff-renamed icon from Octicons font."
+  },
+  "oci-dot": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "oci-dot",
+    "body": "<Octicons name=\"dot\" color=\"black\" size={25}/>$0",
+    "description": "dot icon from Octicons font."
+  },
+  "oci-dot-fill": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "oci-dot-fill",
+    "body": "<Octicons name=\"dot-fill\" color=\"black\" size={25}/>$0",
+    "description": "dot-fill icon from Octicons font."
+  },
+  "oci-download": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "oci-download",
+    "body": "<Octicons name=\"download\" color=\"black\" size={25}/>$0",
+    "description": "download icon from Octicons font."
+  },
+  "oci-duplicate": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "oci-duplicate",
+    "body": "<Octicons name=\"duplicate\" color=\"black\" size={25}/>$0",
+    "description": "duplicate icon from Octicons font."
+  },
+  "oci-ellipsis": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "oci-ellipsis",
+    "body": "<Octicons name=\"ellipsis\" color=\"black\" size={25}/>$0",
+    "description": "ellipsis icon from Octicons font."
+  },
+  "oci-eye": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "oci-eye",
+    "body": "<Octicons name=\"eye\" color=\"black\" size={25}/>$0",
+    "description": "eye icon from Octicons font."
+  },
+  "oci-eye-closed": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "oci-eye-closed",
+    "body": "<Octicons name=\"eye-closed\" color=\"black\" size={25}/>$0",
+    "description": "eye-closed icon from Octicons font."
+  },
+  "oci-feed-discussion": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "oci-feed-discussion",
+    "body": "<Octicons name=\"feed-discussion\" color=\"black\" size={25}/>$0",
+    "description": "feed-discussion icon from Octicons font."
+  },
+  "oci-feed-heart": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "oci-feed-heart",
+    "body": "<Octicons name=\"feed-heart\" color=\"black\" size={25}/>$0",
+    "description": "feed-heart icon from Octicons font."
+  },
+  "oci-feed-person": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "oci-feed-person",
+    "body": "<Octicons name=\"feed-person\" color=\"black\" size={25}/>$0",
+    "description": "feed-person icon from Octicons font."
+  },
+  "oci-feed-repo": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "oci-feed-repo",
+    "body": "<Octicons name=\"feed-repo\" color=\"black\" size={25}/>$0",
+    "description": "feed-repo icon from Octicons font."
+  },
+  "oci-feed-rocket": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "oci-feed-rocket",
+    "body": "<Octicons name=\"feed-rocket\" color=\"black\" size={25}/>$0",
+    "description": "feed-rocket icon from Octicons font."
+  },
+  "oci-feed-star": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "oci-feed-star",
+    "body": "<Octicons name=\"feed-star\" color=\"black\" size={25}/>$0",
+    "description": "feed-star icon from Octicons font."
+  },
+  "oci-feed-tag": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "oci-feed-tag",
+    "body": "<Octicons name=\"feed-tag\" color=\"black\" size={25}/>$0",
+    "description": "feed-tag icon from Octicons font."
+  },
+  "oci-file": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "oci-file",
+    "body": "<Octicons name=\"file\" color=\"black\" size={25}/>$0",
+    "description": "file icon from Octicons font."
+  },
+  "oci-file-badge": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "oci-file-badge",
+    "body": "<Octicons name=\"file-badge\" color=\"black\" size={25}/>$0",
+    "description": "file-badge icon from Octicons font."
+  },
+  "oci-file-binary": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "oci-file-binary",
+    "body": "<Octicons name=\"file-binary\" color=\"black\" size={25}/>$0",
+    "description": "file-binary icon from Octicons font."
+  },
+  "oci-file-code": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "oci-file-code",
+    "body": "<Octicons name=\"file-code\" color=\"black\" size={25}/>$0",
+    "description": "file-code icon from Octicons font."
+  },
+  "oci-file-diff": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "oci-file-diff",
+    "body": "<Octicons name=\"file-diff\" color=\"black\" size={25}/>$0",
+    "description": "file-diff icon from Octicons font."
+  },
+  "oci-file-directory": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "oci-file-directory",
+    "body": "<Octicons name=\"file-directory\" color=\"black\" size={25}/>$0",
+    "description": "file-directory icon from Octicons font."
+  },
+  "oci-file-submodule": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "oci-file-submodule",
+    "body": "<Octicons name=\"file-submodule\" color=\"black\" size={25}/>$0",
+    "description": "file-submodule icon from Octicons font."
+  },
+  "oci-file-symlink-file": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "oci-file-symlink-file",
+    "body": "<Octicons name=\"file-symlink-file\" color=\"black\" size={25}/>$0",
+    "description": "file-symlink-file icon from Octicons font."
+  },
+  "oci-file-zip": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "oci-file-zip",
+    "body": "<Octicons name=\"file-zip\" color=\"black\" size={25}/>$0",
+    "description": "file-zip icon from Octicons font."
+  },
+  "oci-filter": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "oci-filter",
+    "body": "<Octicons name=\"filter\" color=\"black\" size={25}/>$0",
+    "description": "filter icon from Octicons font."
+  },
+  "oci-flame": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "oci-flame",
+    "body": "<Octicons name=\"flame\" color=\"black\" size={25}/>$0",
+    "description": "flame icon from Octicons font."
+  },
+  "oci-fold": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "oci-fold",
+    "body": "<Octicons name=\"fold\" color=\"black\" size={25}/>$0",
+    "description": "fold icon from Octicons font."
+  },
+  "oci-fold-down": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "oci-fold-down",
+    "body": "<Octicons name=\"fold-down\" color=\"black\" size={25}/>$0",
+    "description": "fold-down icon from Octicons font."
+  },
+  "oci-fold-up": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "oci-fold-up",
+    "body": "<Octicons name=\"fold-up\" color=\"black\" size={25}/>$0",
+    "description": "fold-up icon from Octicons font."
+  },
+  "oci-gear": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "oci-gear",
+    "body": "<Octicons name=\"gear\" color=\"black\" size={25}/>$0",
+    "description": "gear icon from Octicons font."
+  },
+  "oci-gift": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "oci-gift",
+    "body": "<Octicons name=\"gift\" color=\"black\" size={25}/>$0",
+    "description": "gift icon from Octicons font."
+  },
+  "oci-git-branch": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "oci-git-branch",
+    "body": "<Octicons name=\"git-branch\" color=\"black\" size={25}/>$0",
+    "description": "git-branch icon from Octicons font."
+  },
+  "oci-git-commit": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "oci-git-commit",
+    "body": "<Octicons name=\"git-commit\" color=\"black\" size={25}/>$0",
+    "description": "git-commit icon from Octicons font."
+  },
+  "oci-git-compare": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "oci-git-compare",
+    "body": "<Octicons name=\"git-compare\" color=\"black\" size={25}/>$0",
+    "description": "git-compare icon from Octicons font."
+  },
+  "oci-git-merge": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "oci-git-merge",
+    "body": "<Octicons name=\"git-merge\" color=\"black\" size={25}/>$0",
+    "description": "git-merge icon from Octicons font."
+  },
+  "oci-git-pull-request": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "oci-git-pull-request",
+    "body": "<Octicons name=\"git-pull-request\" color=\"black\" size={25}/>$0",
+    "description": "git-pull-request icon from Octicons font."
+  },
+  "oci-git-pull-request-closed": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "oci-git-pull-request-closed",
+    "body": "<Octicons name=\"git-pull-request-closed\" color=\"black\" size={25}/>$0",
+    "description": "git-pull-request-closed icon from Octicons font."
+  },
+  "oci-git-pull-request-draft": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "oci-git-pull-request-draft",
+    "body": "<Octicons name=\"git-pull-request-draft\" color=\"black\" size={25}/>$0",
+    "description": "git-pull-request-draft icon from Octicons font."
+  },
+  "oci-globe": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "oci-globe",
+    "body": "<Octicons name=\"globe\" color=\"black\" size={25}/>$0",
+    "description": "globe icon from Octicons font."
+  },
+  "oci-grabber": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "oci-grabber",
+    "body": "<Octicons name=\"grabber\" color=\"black\" size={25}/>$0",
+    "description": "grabber icon from Octicons font."
+  },
+  "oci-graph": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "oci-graph",
+    "body": "<Octicons name=\"graph\" color=\"black\" size={25}/>$0",
+    "description": "graph icon from Octicons font."
+  },
+  "oci-hash": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "oci-hash",
+    "body": "<Octicons name=\"hash\" color=\"black\" size={25}/>$0",
+    "description": "hash icon from Octicons font."
+  },
+  "oci-heading": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "oci-heading",
+    "body": "<Octicons name=\"heading\" color=\"black\" size={25}/>$0",
+    "description": "heading icon from Octicons font."
+  },
+  "oci-heart": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "oci-heart",
+    "body": "<Octicons name=\"heart\" color=\"black\" size={25}/>$0",
+    "description": "heart icon from Octicons font."
+  },
+  "oci-heart-fill": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "oci-heart-fill",
+    "body": "<Octicons name=\"heart-fill\" color=\"black\" size={25}/>$0",
+    "description": "heart-fill icon from Octicons font."
+  },
+  "oci-history": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "oci-history",
+    "body": "<Octicons name=\"history\" color=\"black\" size={25}/>$0",
+    "description": "history icon from Octicons font."
+  },
+  "oci-home": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "oci-home",
+    "body": "<Octicons name=\"home\" color=\"black\" size={25}/>$0",
+    "description": "home icon from Octicons font."
+  },
+  "oci-horizontal-rule": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "oci-horizontal-rule",
+    "body": "<Octicons name=\"horizontal-rule\" color=\"black\" size={25}/>$0",
+    "description": "horizontal-rule icon from Octicons font."
+  },
+  "oci-hourglass": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "oci-hourglass",
+    "body": "<Octicons name=\"hourglass\" color=\"black\" size={25}/>$0",
+    "description": "hourglass icon from Octicons font."
+  },
+  "oci-hubot": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "oci-hubot",
+    "body": "<Octicons name=\"hubot\" color=\"black\" size={25}/>$0",
+    "description": "hubot icon from Octicons font."
+  },
+  "oci-id-badge": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "oci-id-badge",
+    "body": "<Octicons name=\"id-badge\" color=\"black\" size={25}/>$0",
+    "description": "id-badge icon from Octicons font."
+  },
+  "oci-image": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "oci-image",
+    "body": "<Octicons name=\"image\" color=\"black\" size={25}/>$0",
+    "description": "image icon from Octicons font."
+  },
+  "oci-inbox": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "oci-inbox",
+    "body": "<Octicons name=\"inbox\" color=\"black\" size={25}/>$0",
+    "description": "inbox icon from Octicons font."
+  },
+  "oci-infinity": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "oci-infinity",
+    "body": "<Octicons name=\"infinity\" color=\"black\" size={25}/>$0",
+    "description": "infinity icon from Octicons font."
+  },
+  "oci-info": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "oci-info",
+    "body": "<Octicons name=\"info\" color=\"black\" size={25}/>$0",
+    "description": "info icon from Octicons font."
+  },
+  "oci-issue-closed": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "oci-issue-closed",
+    "body": "<Octicons name=\"issue-closed\" color=\"black\" size={25}/>$0",
+    "description": "issue-closed icon from Octicons font."
+  },
+  "oci-issue-draft": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "oci-issue-draft",
+    "body": "<Octicons name=\"issue-draft\" color=\"black\" size={25}/>$0",
+    "description": "issue-draft icon from Octicons font."
+  },
+  "oci-issue-opened": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "oci-issue-opened",
+    "body": "<Octicons name=\"issue-opened\" color=\"black\" size={25}/>$0",
+    "description": "issue-opened icon from Octicons font."
+  },
+  "oci-issue-reopened": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "oci-issue-reopened",
+    "body": "<Octicons name=\"issue-reopened\" color=\"black\" size={25}/>$0",
+    "description": "issue-reopened icon from Octicons font."
+  },
+  "oci-italic": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "oci-italic",
+    "body": "<Octicons name=\"italic\" color=\"black\" size={25}/>$0",
+    "description": "italic icon from Octicons font."
+  },
+  "oci-iterations": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "oci-iterations",
+    "body": "<Octicons name=\"iterations\" color=\"black\" size={25}/>$0",
+    "description": "iterations icon from Octicons font."
+  },
+  "oci-kebab-horizontal": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "oci-kebab-horizontal",
+    "body": "<Octicons name=\"kebab-horizontal\" color=\"black\" size={25}/>$0",
+    "description": "kebab-horizontal icon from Octicons font."
+  },
+  "oci-key": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "oci-key",
+    "body": "<Octicons name=\"key\" color=\"black\" size={25}/>$0",
+    "description": "key icon from Octicons font."
+  },
+  "oci-key-asterisk": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "oci-key-asterisk",
+    "body": "<Octicons name=\"key-asterisk\" color=\"black\" size={25}/>$0",
+    "description": "key-asterisk icon from Octicons font."
+  },
+  "oci-law": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "oci-law",
+    "body": "<Octicons name=\"law\" color=\"black\" size={25}/>$0",
+    "description": "law icon from Octicons font."
+  },
+  "oci-light-bulb": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "oci-light-bulb",
+    "body": "<Octicons name=\"light-bulb\" color=\"black\" size={25}/>$0",
+    "description": "light-bulb icon from Octicons font."
+  },
+  "oci-link": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "oci-link",
+    "body": "<Octicons name=\"link\" color=\"black\" size={25}/>$0",
+    "description": "link icon from Octicons font."
+  },
+  "oci-link-external": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "oci-link-external",
+    "body": "<Octicons name=\"link-external\" color=\"black\" size={25}/>$0",
+    "description": "link-external icon from Octicons font."
+  },
+  "oci-list-ordered": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "oci-list-ordered",
+    "body": "<Octicons name=\"list-ordered\" color=\"black\" size={25}/>$0",
+    "description": "list-ordered icon from Octicons font."
+  },
+  "oci-list-unordered": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "oci-list-unordered",
+    "body": "<Octicons name=\"list-unordered\" color=\"black\" size={25}/>$0",
+    "description": "list-unordered icon from Octicons font."
+  },
+  "oci-location": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "oci-location",
+    "body": "<Octicons name=\"location\" color=\"black\" size={25}/>$0",
+    "description": "location icon from Octicons font."
+  },
+  "oci-lock": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "oci-lock",
+    "body": "<Octicons name=\"lock\" color=\"black\" size={25}/>$0",
+    "description": "lock icon from Octicons font."
+  },
+  "oci-log": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "oci-log",
+    "body": "<Octicons name=\"log\" color=\"black\" size={25}/>$0",
+    "description": "log icon from Octicons font."
+  },
+  "oci-logo-gist": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "oci-logo-gist",
+    "body": "<Octicons name=\"logo-gist\" color=\"black\" size={25}/>$0",
+    "description": "logo-gist icon from Octicons font."
+  },
+  "oci-logo-github": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "oci-logo-github",
+    "body": "<Octicons name=\"logo-github\" color=\"black\" size={25}/>$0",
+    "description": "logo-github icon from Octicons font."
+  },
+  "oci-mail": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "oci-mail",
+    "body": "<Octicons name=\"mail\" color=\"black\" size={25}/>$0",
+    "description": "mail icon from Octicons font."
+  },
+  "oci-mark-github": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "oci-mark-github",
+    "body": "<Octicons name=\"mark-github\" color=\"black\" size={25}/>$0",
+    "description": "mark-github icon from Octicons font."
+  },
+  "oci-markdown": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "oci-markdown",
+    "body": "<Octicons name=\"markdown\" color=\"black\" size={25}/>$0",
+    "description": "markdown icon from Octicons font."
+  },
+  "oci-megaphone": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "oci-megaphone",
+    "body": "<Octicons name=\"megaphone\" color=\"black\" size={25}/>$0",
+    "description": "megaphone icon from Octicons font."
+  },
+  "oci-mention": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "oci-mention",
+    "body": "<Octicons name=\"mention\" color=\"black\" size={25}/>$0",
+    "description": "mention icon from Octicons font."
+  },
+  "oci-meter": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "oci-meter",
+    "body": "<Octicons name=\"meter\" color=\"black\" size={25}/>$0",
+    "description": "meter icon from Octicons font."
+  },
+  "oci-milestone": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "oci-milestone",
+    "body": "<Octicons name=\"milestone\" color=\"black\" size={25}/>$0",
+    "description": "milestone icon from Octicons font."
+  },
+  "oci-mirror": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "oci-mirror",
+    "body": "<Octicons name=\"mirror\" color=\"black\" size={25}/>$0",
+    "description": "mirror icon from Octicons font."
+  },
+  "oci-moon": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "oci-moon",
+    "body": "<Octicons name=\"moon\" color=\"black\" size={25}/>$0",
+    "description": "moon icon from Octicons font."
+  },
+  "oci-mortar-board": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "oci-mortar-board",
+    "body": "<Octicons name=\"mortar-board\" color=\"black\" size={25}/>$0",
+    "description": "mortar-board icon from Octicons font."
+  },
+  "oci-multi-select": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "oci-multi-select",
+    "body": "<Octicons name=\"multi-select\" color=\"black\" size={25}/>$0",
+    "description": "multi-select icon from Octicons font."
+  },
+  "oci-mute": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "oci-mute",
+    "body": "<Octicons name=\"mute\" color=\"black\" size={25}/>$0",
+    "description": "mute icon from Octicons font."
+  },
+  "oci-no-entry": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "oci-no-entry",
+    "body": "<Octicons name=\"no-entry\" color=\"black\" size={25}/>$0",
+    "description": "no-entry icon from Octicons font."
+  },
+  "oci-north-star": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "oci-north-star",
+    "body": "<Octicons name=\"north-star\" color=\"black\" size={25}/>$0",
+    "description": "north-star icon from Octicons font."
+  },
+  "oci-note": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "oci-note",
+    "body": "<Octicons name=\"note\" color=\"black\" size={25}/>$0",
+    "description": "note icon from Octicons font."
+  },
+  "oci-number": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "oci-number",
+    "body": "<Octicons name=\"number\" color=\"black\" size={25}/>$0",
+    "description": "number icon from Octicons font."
+  },
+  "oci-organization": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "oci-organization",
+    "body": "<Octicons name=\"organization\" color=\"black\" size={25}/>$0",
+    "description": "organization icon from Octicons font."
+  },
+  "oci-package": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "oci-package",
+    "body": "<Octicons name=\"package\" color=\"black\" size={25}/>$0",
+    "description": "package icon from Octicons font."
+  },
+  "oci-package-dependencies": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "oci-package-dependencies",
+    "body": "<Octicons name=\"package-dependencies\" color=\"black\" size={25}/>$0",
+    "description": "package-dependencies icon from Octicons font."
+  },
+  "oci-package-dependents": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "oci-package-dependents",
+    "body": "<Octicons name=\"package-dependents\" color=\"black\" size={25}/>$0",
+    "description": "package-dependents icon from Octicons font."
+  },
+  "oci-paintbrush": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "oci-paintbrush",
+    "body": "<Octicons name=\"paintbrush\" color=\"black\" size={25}/>$0",
+    "description": "paintbrush icon from Octicons font."
+  },
+  "oci-paper-airplane": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "oci-paper-airplane",
+    "body": "<Octicons name=\"paper-airplane\" color=\"black\" size={25}/>$0",
+    "description": "paper-airplane icon from Octicons font."
+  },
+  "oci-paste": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "oci-paste",
+    "body": "<Octicons name=\"paste\" color=\"black\" size={25}/>$0",
+    "description": "paste icon from Octicons font."
+  },
+  "oci-pencil": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "oci-pencil",
+    "body": "<Octicons name=\"pencil\" color=\"black\" size={25}/>$0",
+    "description": "pencil icon from Octicons font."
+  },
+  "oci-people": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "oci-people",
+    "body": "<Octicons name=\"people\" color=\"black\" size={25}/>$0",
+    "description": "people icon from Octicons font."
+  },
+  "oci-person": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "oci-person",
+    "body": "<Octicons name=\"person\" color=\"black\" size={25}/>$0",
+    "description": "person icon from Octicons font."
+  },
+  "oci-person-add": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "oci-person-add",
+    "body": "<Octicons name=\"person-add\" color=\"black\" size={25}/>$0",
+    "description": "person-add icon from Octicons font."
+  },
+  "oci-person-fill": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "oci-person-fill",
+    "body": "<Octicons name=\"person-fill\" color=\"black\" size={25}/>$0",
+    "description": "person-fill icon from Octicons font."
+  },
+  "oci-pin": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "oci-pin",
+    "body": "<Octicons name=\"pin\" color=\"black\" size={25}/>$0",
+    "description": "pin icon from Octicons font."
+  },
+  "oci-play": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "oci-play",
+    "body": "<Octicons name=\"play\" color=\"black\" size={25}/>$0",
+    "description": "play icon from Octicons font."
+  },
+  "oci-plug": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "oci-plug",
+    "body": "<Octicons name=\"plug\" color=\"black\" size={25}/>$0",
+    "description": "plug icon from Octicons font."
+  },
+  "oci-plus": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "oci-plus",
+    "body": "<Octicons name=\"plus\" color=\"black\" size={25}/>$0",
+    "description": "plus icon from Octicons font."
+  },
+  "oci-plus-circle": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "oci-plus-circle",
+    "body": "<Octicons name=\"plus-circle\" color=\"black\" size={25}/>$0",
+    "description": "plus-circle icon from Octicons font."
+  },
+  "oci-project": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "oci-project",
+    "body": "<Octicons name=\"project\" color=\"black\" size={25}/>$0",
+    "description": "project icon from Octicons font."
+  },
+  "oci-pulse": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "oci-pulse",
+    "body": "<Octicons name=\"pulse\" color=\"black\" size={25}/>$0",
+    "description": "pulse icon from Octicons font."
+  },
+  "oci-question": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "oci-question",
+    "body": "<Octicons name=\"question\" color=\"black\" size={25}/>$0",
+    "description": "question icon from Octicons font."
+  },
+  "oci-quote": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "oci-quote",
+    "body": "<Octicons name=\"quote\" color=\"black\" size={25}/>$0",
+    "description": "quote icon from Octicons font."
+  },
+  "oci-reply": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "oci-reply",
+    "body": "<Octicons name=\"reply\" color=\"black\" size={25}/>$0",
+    "description": "reply icon from Octicons font."
+  },
+  "oci-repo": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "oci-repo",
+    "body": "<Octicons name=\"repo\" color=\"black\" size={25}/>$0",
+    "description": "repo icon from Octicons font."
+  },
+  "oci-repo-clone": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "oci-repo-clone",
+    "body": "<Octicons name=\"repo-clone\" color=\"black\" size={25}/>$0",
+    "description": "repo-clone icon from Octicons font."
+  },
+  "oci-repo-deleted": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "oci-repo-deleted",
+    "body": "<Octicons name=\"repo-deleted\" color=\"black\" size={25}/>$0",
+    "description": "repo-deleted icon from Octicons font."
+  },
+  "oci-repo-forked": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "oci-repo-forked",
+    "body": "<Octicons name=\"repo-forked\" color=\"black\" size={25}/>$0",
+    "description": "repo-forked icon from Octicons font."
+  },
+  "oci-repo-pull": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "oci-repo-pull",
+    "body": "<Octicons name=\"repo-pull\" color=\"black\" size={25}/>$0",
+    "description": "repo-pull icon from Octicons font."
+  },
+  "oci-repo-push": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "oci-repo-push",
+    "body": "<Octicons name=\"repo-push\" color=\"black\" size={25}/>$0",
+    "description": "repo-push icon from Octicons font."
+  },
+  "oci-repo-template": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "oci-repo-template",
+    "body": "<Octicons name=\"repo-template\" color=\"black\" size={25}/>$0",
+    "description": "repo-template icon from Octicons font."
+  },
+  "oci-report": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "oci-report",
+    "body": "<Octicons name=\"report\" color=\"black\" size={25}/>$0",
+    "description": "report icon from Octicons font."
+  },
+  "oci-rocket": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "oci-rocket",
+    "body": "<Octicons name=\"rocket\" color=\"black\" size={25}/>$0",
+    "description": "rocket icon from Octicons font."
+  },
+  "oci-rows": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "oci-rows",
+    "body": "<Octicons name=\"rows\" color=\"black\" size={25}/>$0",
+    "description": "rows icon from Octicons font."
+  },
+  "oci-rss": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "oci-rss",
+    "body": "<Octicons name=\"rss\" color=\"black\" size={25}/>$0",
+    "description": "rss icon from Octicons font."
+  },
+  "oci-ruby": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "oci-ruby",
+    "body": "<Octicons name=\"ruby\" color=\"black\" size={25}/>$0",
+    "description": "ruby icon from Octicons font."
+  },
+  "oci-screen-full": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "oci-screen-full",
+    "body": "<Octicons name=\"screen-full\" color=\"black\" size={25}/>$0",
+    "description": "screen-full icon from Octicons font."
+  },
+  "oci-screen-normal": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "oci-screen-normal",
+    "body": "<Octicons name=\"screen-normal\" color=\"black\" size={25}/>$0",
+    "description": "screen-normal icon from Octicons font."
+  },
+  "oci-search": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "oci-search",
+    "body": "<Octicons name=\"search\" color=\"black\" size={25}/>$0",
+    "description": "search icon from Octicons font."
+  },
+  "oci-server": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "oci-server",
+    "body": "<Octicons name=\"server\" color=\"black\" size={25}/>$0",
+    "description": "server icon from Octicons font."
+  },
+  "oci-share": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "oci-share",
+    "body": "<Octicons name=\"share\" color=\"black\" size={25}/>$0",
+    "description": "share icon from Octicons font."
+  },
+  "oci-share-android": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "oci-share-android",
+    "body": "<Octicons name=\"share-android\" color=\"black\" size={25}/>$0",
+    "description": "share-android icon from Octicons font."
+  },
+  "oci-shield": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "oci-shield",
+    "body": "<Octicons name=\"shield\" color=\"black\" size={25}/>$0",
+    "description": "shield icon from Octicons font."
+  },
+  "oci-shield-check": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "oci-shield-check",
+    "body": "<Octicons name=\"shield-check\" color=\"black\" size={25}/>$0",
+    "description": "shield-check icon from Octicons font."
+  },
+  "oci-shield-lock": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "oci-shield-lock",
+    "body": "<Octicons name=\"shield-lock\" color=\"black\" size={25}/>$0",
+    "description": "shield-lock icon from Octicons font."
+  },
+  "oci-shield-x": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "oci-shield-x",
+    "body": "<Octicons name=\"shield-x\" color=\"black\" size={25}/>$0",
+    "description": "shield-x icon from Octicons font."
+  },
+  "oci-sidebar-collapse": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "oci-sidebar-collapse",
+    "body": "<Octicons name=\"sidebar-collapse\" color=\"black\" size={25}/>$0",
+    "description": "sidebar-collapse icon from Octicons font."
+  },
+  "oci-sidebar-expand": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "oci-sidebar-expand",
+    "body": "<Octicons name=\"sidebar-expand\" color=\"black\" size={25}/>$0",
+    "description": "sidebar-expand icon from Octicons font."
+  },
+  "oci-sign-in": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "oci-sign-in",
+    "body": "<Octicons name=\"sign-in\" color=\"black\" size={25}/>$0",
+    "description": "sign-in icon from Octicons font."
+  },
+  "oci-sign-out": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "oci-sign-out",
+    "body": "<Octicons name=\"sign-out\" color=\"black\" size={25}/>$0",
+    "description": "sign-out icon from Octicons font."
+  },
+  "oci-single-select": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "oci-single-select",
+    "body": "<Octicons name=\"single-select\" color=\"black\" size={25}/>$0",
+    "description": "single-select icon from Octicons font."
+  },
+  "oci-skip": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "oci-skip",
+    "body": "<Octicons name=\"skip\" color=\"black\" size={25}/>$0",
+    "description": "skip icon from Octicons font."
+  },
+  "oci-smiley": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "oci-smiley",
+    "body": "<Octicons name=\"smiley\" color=\"black\" size={25}/>$0",
+    "description": "smiley icon from Octicons font."
+  },
+  "oci-sort-asc": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "oci-sort-asc",
+    "body": "<Octicons name=\"sort-asc\" color=\"black\" size={25}/>$0",
+    "description": "sort-asc icon from Octicons font."
+  },
+  "oci-sort-desc": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "oci-sort-desc",
+    "body": "<Octicons name=\"sort-desc\" color=\"black\" size={25}/>$0",
+    "description": "sort-desc icon from Octicons font."
+  },
+  "oci-square": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "oci-square",
+    "body": "<Octicons name=\"square\" color=\"black\" size={25}/>$0",
+    "description": "square icon from Octicons font."
+  },
+  "oci-square-fill": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "oci-square-fill",
+    "body": "<Octicons name=\"square-fill\" color=\"black\" size={25}/>$0",
+    "description": "square-fill icon from Octicons font."
+  },
+  "oci-squirrel": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "oci-squirrel",
+    "body": "<Octicons name=\"squirrel\" color=\"black\" size={25}/>$0",
+    "description": "squirrel icon from Octicons font."
+  },
+  "oci-stack": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "oci-stack",
+    "body": "<Octicons name=\"stack\" color=\"black\" size={25}/>$0",
+    "description": "stack icon from Octicons font."
+  },
+  "oci-star": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "oci-star",
+    "body": "<Octicons name=\"star\" color=\"black\" size={25}/>$0",
+    "description": "star icon from Octicons font."
+  },
+  "oci-star-fill": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "oci-star-fill",
+    "body": "<Octicons name=\"star-fill\" color=\"black\" size={25}/>$0",
+    "description": "star-fill icon from Octicons font."
+  },
+  "oci-stop": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "oci-stop",
+    "body": "<Octicons name=\"stop\" color=\"black\" size={25}/>$0",
+    "description": "stop icon from Octicons font."
+  },
+  "oci-stopwatch": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "oci-stopwatch",
+    "body": "<Octicons name=\"stopwatch\" color=\"black\" size={25}/>$0",
+    "description": "stopwatch icon from Octicons font."
+  },
+  "oci-strikethrough": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "oci-strikethrough",
+    "body": "<Octicons name=\"strikethrough\" color=\"black\" size={25}/>$0",
+    "description": "strikethrough icon from Octicons font."
+  },
+  "oci-sun": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "oci-sun",
+    "body": "<Octicons name=\"sun\" color=\"black\" size={25}/>$0",
+    "description": "sun icon from Octicons font."
+  },
+  "oci-sync": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "oci-sync",
+    "body": "<Octicons name=\"sync\" color=\"black\" size={25}/>$0",
+    "description": "sync icon from Octicons font."
+  },
+  "oci-tab-external": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "oci-tab-external",
+    "body": "<Octicons name=\"tab-external\" color=\"black\" size={25}/>$0",
+    "description": "tab-external icon from Octicons font."
+  },
+  "oci-table": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "oci-table",
+    "body": "<Octicons name=\"table\" color=\"black\" size={25}/>$0",
+    "description": "table icon from Octicons font."
+  },
+  "oci-tag": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "oci-tag",
+    "body": "<Octicons name=\"tag\" color=\"black\" size={25}/>$0",
+    "description": "tag icon from Octicons font."
+  },
+  "oci-tasklist": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "oci-tasklist",
+    "body": "<Octicons name=\"tasklist\" color=\"black\" size={25}/>$0",
+    "description": "tasklist icon from Octicons font."
+  },
+  "oci-telescope": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "oci-telescope",
+    "body": "<Octicons name=\"telescope\" color=\"black\" size={25}/>$0",
+    "description": "telescope icon from Octicons font."
+  },
+  "oci-telescope-fill": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "oci-telescope-fill",
+    "body": "<Octicons name=\"telescope-fill\" color=\"black\" size={25}/>$0",
+    "description": "telescope-fill icon from Octicons font."
+  },
+  "oci-terminal": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "oci-terminal",
+    "body": "<Octicons name=\"terminal\" color=\"black\" size={25}/>$0",
+    "description": "terminal icon from Octicons font."
+  },
+  "oci-three-bars": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "oci-three-bars",
+    "body": "<Octicons name=\"three-bars\" color=\"black\" size={25}/>$0",
+    "description": "three-bars icon from Octicons font."
+  },
+  "oci-thumbsdown": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "oci-thumbsdown",
+    "body": "<Octicons name=\"thumbsdown\" color=\"black\" size={25}/>$0",
+    "description": "thumbsdown icon from Octicons font."
+  },
+  "oci-thumbsup": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "oci-thumbsup",
+    "body": "<Octicons name=\"thumbsup\" color=\"black\" size={25}/>$0",
+    "description": "thumbsup icon from Octicons font."
+  },
+  "oci-tools": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "oci-tools",
+    "body": "<Octicons name=\"tools\" color=\"black\" size={25}/>$0",
+    "description": "tools icon from Octicons font."
+  },
+  "oci-trash": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "oci-trash",
+    "body": "<Octicons name=\"trash\" color=\"black\" size={25}/>$0",
+    "description": "trash icon from Octicons font."
+  },
+  "oci-triangle-down": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "oci-triangle-down",
+    "body": "<Octicons name=\"triangle-down\" color=\"black\" size={25}/>$0",
+    "description": "triangle-down icon from Octicons font."
+  },
+  "oci-triangle-left": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "oci-triangle-left",
+    "body": "<Octicons name=\"triangle-left\" color=\"black\" size={25}/>$0",
+    "description": "triangle-left icon from Octicons font."
+  },
+  "oci-triangle-right": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "oci-triangle-right",
+    "body": "<Octicons name=\"triangle-right\" color=\"black\" size={25}/>$0",
+    "description": "triangle-right icon from Octicons font."
+  },
+  "oci-triangle-up": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "oci-triangle-up",
+    "body": "<Octicons name=\"triangle-up\" color=\"black\" size={25}/>$0",
+    "description": "triangle-up icon from Octicons font."
+  },
+  "oci-typography": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "oci-typography",
+    "body": "<Octicons name=\"typography\" color=\"black\" size={25}/>$0",
+    "description": "typography icon from Octicons font."
+  },
+  "oci-unfold": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "oci-unfold",
+    "body": "<Octicons name=\"unfold\" color=\"black\" size={25}/>$0",
+    "description": "unfold icon from Octicons font."
+  },
+  "oci-unlock": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "oci-unlock",
+    "body": "<Octicons name=\"unlock\" color=\"black\" size={25}/>$0",
+    "description": "unlock icon from Octicons font."
+  },
+  "oci-unmute": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "oci-unmute",
+    "body": "<Octicons name=\"unmute\" color=\"black\" size={25}/>$0",
+    "description": "unmute icon from Octicons font."
+  },
+  "oci-unverified": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "oci-unverified",
+    "body": "<Octicons name=\"unverified\" color=\"black\" size={25}/>$0",
+    "description": "unverified icon from Octicons font."
+  },
+  "oci-upload": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "oci-upload",
+    "body": "<Octicons name=\"upload\" color=\"black\" size={25}/>$0",
+    "description": "upload icon from Octicons font."
+  },
+  "oci-verified": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "oci-verified",
+    "body": "<Octicons name=\"verified\" color=\"black\" size={25}/>$0",
+    "description": "verified icon from Octicons font."
+  },
+  "oci-versions": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "oci-versions",
+    "body": "<Octicons name=\"versions\" color=\"black\" size={25}/>$0",
+    "description": "versions icon from Octicons font."
+  },
+  "oci-video": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "oci-video",
+    "body": "<Octicons name=\"video\" color=\"black\" size={25}/>$0",
+    "description": "video icon from Octicons font."
+  },
+  "oci-webhook": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "oci-webhook",
+    "body": "<Octicons name=\"webhook\" color=\"black\" size={25}/>$0",
+    "description": "webhook icon from Octicons font."
+  },
+  "oci-workflow": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "oci-workflow",
+    "body": "<Octicons name=\"workflow\" color=\"black\" size={25}/>$0",
+    "description": "workflow icon from Octicons font."
+  },
+  "oci-x": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "oci-x",
+    "body": "<Octicons name=\"x\" color=\"black\" size={25}/>$0",
+    "description": "x icon from Octicons font."
+  },
+  "oci-x-circle": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "oci-x-circle",
+    "body": "<Octicons name=\"x-circle\" color=\"black\" size={25}/>$0",
+    "description": "x-circle icon from Octicons font."
+  },
+  "oci-x-circle-fill": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "oci-x-circle-fill",
+    "body": "<Octicons name=\"x-circle-fill\" color=\"black\" size={25}/>$0",
+    "description": "x-circle-fill icon from Octicons font."
+  },
+  "oci-zap": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "oci-zap",
+    "body": "<Octicons name=\"zap\" color=\"black\" size={25}/>$0",
+    "description": "zap icon from Octicons font."
+  }
+}

@@ -1,0 +1,1136 @@
+{
+  "si-user": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "si-user",
+    "body": "<SimpleLineIcons name=\"user\" color=\"black\" size={25}/>$0",
+    "description": "user icon from SimpleLineIcons font."
+  },
+  "si-people": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "si-people",
+    "body": "<SimpleLineIcons name=\"people\" color=\"black\" size={25}/>$0",
+    "description": "people icon from SimpleLineIcons font."
+  },
+  "si-user-female": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "si-user-female",
+    "body": "<SimpleLineIcons name=\"user-female\" color=\"black\" size={25}/>$0",
+    "description": "user-female icon from SimpleLineIcons font."
+  },
+  "si-user-follow": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "si-user-follow",
+    "body": "<SimpleLineIcons name=\"user-follow\" color=\"black\" size={25}/>$0",
+    "description": "user-follow icon from SimpleLineIcons font."
+  },
+  "si-user-following": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "si-user-following",
+    "body": "<SimpleLineIcons name=\"user-following\" color=\"black\" size={25}/>$0",
+    "description": "user-following icon from SimpleLineIcons font."
+  },
+  "si-user-unfollow": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "si-user-unfollow",
+    "body": "<SimpleLineIcons name=\"user-unfollow\" color=\"black\" size={25}/>$0",
+    "description": "user-unfollow icon from SimpleLineIcons font."
+  },
+  "si-login": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "si-login",
+    "body": "<SimpleLineIcons name=\"login\" color=\"black\" size={25}/>$0",
+    "description": "login icon from SimpleLineIcons font."
+  },
+  "si-logout": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "si-logout",
+    "body": "<SimpleLineIcons name=\"logout\" color=\"black\" size={25}/>$0",
+    "description": "logout icon from SimpleLineIcons font."
+  },
+  "si-emotsmile": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "si-emotsmile",
+    "body": "<SimpleLineIcons name=\"emotsmile\" color=\"black\" size={25}/>$0",
+    "description": "emotsmile icon from SimpleLineIcons font."
+  },
+  "si-phone": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "si-phone",
+    "body": "<SimpleLineIcons name=\"phone\" color=\"black\" size={25}/>$0",
+    "description": "phone icon from SimpleLineIcons font."
+  },
+  "si-call-end": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "si-call-end",
+    "body": "<SimpleLineIcons name=\"call-end\" color=\"black\" size={25}/>$0",
+    "description": "call-end icon from SimpleLineIcons font."
+  },
+  "si-call-in": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "si-call-in",
+    "body": "<SimpleLineIcons name=\"call-in\" color=\"black\" size={25}/>$0",
+    "description": "call-in icon from SimpleLineIcons font."
+  },
+  "si-call-out": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "si-call-out",
+    "body": "<SimpleLineIcons name=\"call-out\" color=\"black\" size={25}/>$0",
+    "description": "call-out icon from SimpleLineIcons font."
+  },
+  "si-map": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "si-map",
+    "body": "<SimpleLineIcons name=\"map\" color=\"black\" size={25}/>$0",
+    "description": "map icon from SimpleLineIcons font."
+  },
+  "si-location-pin": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "si-location-pin",
+    "body": "<SimpleLineIcons name=\"location-pin\" color=\"black\" size={25}/>$0",
+    "description": "location-pin icon from SimpleLineIcons font."
+  },
+  "si-direction": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "si-direction",
+    "body": "<SimpleLineIcons name=\"direction\" color=\"black\" size={25}/>$0",
+    "description": "direction icon from SimpleLineIcons font."
+  },
+  "si-directions": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "si-directions",
+    "body": "<SimpleLineIcons name=\"directions\" color=\"black\" size={25}/>$0",
+    "description": "directions icon from SimpleLineIcons font."
+  },
+  "si-compass": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "si-compass",
+    "body": "<SimpleLineIcons name=\"compass\" color=\"black\" size={25}/>$0",
+    "description": "compass icon from SimpleLineIcons font."
+  },
+  "si-layers": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "si-layers",
+    "body": "<SimpleLineIcons name=\"layers\" color=\"black\" size={25}/>$0",
+    "description": "layers icon from SimpleLineIcons font."
+  },
+  "si-menu": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "si-menu",
+    "body": "<SimpleLineIcons name=\"menu\" color=\"black\" size={25}/>$0",
+    "description": "menu icon from SimpleLineIcons font."
+  },
+  "si-list": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "si-list",
+    "body": "<SimpleLineIcons name=\"list\" color=\"black\" size={25}/>$0",
+    "description": "list icon from SimpleLineIcons font."
+  },
+  "si-options-vertical": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "si-options-vertical",
+    "body": "<SimpleLineIcons name=\"options-vertical\" color=\"black\" size={25}/>$0",
+    "description": "options-vertical icon from SimpleLineIcons font."
+  },
+  "si-options": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "si-options",
+    "body": "<SimpleLineIcons name=\"options\" color=\"black\" size={25}/>$0",
+    "description": "options icon from SimpleLineIcons font."
+  },
+  "si-arrow-down": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "si-arrow-down",
+    "body": "<SimpleLineIcons name=\"arrow-down\" color=\"black\" size={25}/>$0",
+    "description": "arrow-down icon from SimpleLineIcons font."
+  },
+  "si-arrow-left": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "si-arrow-left",
+    "body": "<SimpleLineIcons name=\"arrow-left\" color=\"black\" size={25}/>$0",
+    "description": "arrow-left icon from SimpleLineIcons font."
+  },
+  "si-arrow-right": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "si-arrow-right",
+    "body": "<SimpleLineIcons name=\"arrow-right\" color=\"black\" size={25}/>$0",
+    "description": "arrow-right icon from SimpleLineIcons font."
+  },
+  "si-arrow-up": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "si-arrow-up",
+    "body": "<SimpleLineIcons name=\"arrow-up\" color=\"black\" size={25}/>$0",
+    "description": "arrow-up icon from SimpleLineIcons font."
+  },
+  "si-arrow-up-circle": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "si-arrow-up-circle",
+    "body": "<SimpleLineIcons name=\"arrow-up-circle\" color=\"black\" size={25}/>$0",
+    "description": "arrow-up-circle icon from SimpleLineIcons font."
+  },
+  "si-arrow-left-circle": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "si-arrow-left-circle",
+    "body": "<SimpleLineIcons name=\"arrow-left-circle\" color=\"black\" size={25}/>$0",
+    "description": "arrow-left-circle icon from SimpleLineIcons font."
+  },
+  "si-arrow-right-circle": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "si-arrow-right-circle",
+    "body": "<SimpleLineIcons name=\"arrow-right-circle\" color=\"black\" size={25}/>$0",
+    "description": "arrow-right-circle icon from SimpleLineIcons font."
+  },
+  "si-arrow-down-circle": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "si-arrow-down-circle",
+    "body": "<SimpleLineIcons name=\"arrow-down-circle\" color=\"black\" size={25}/>$0",
+    "description": "arrow-down-circle icon from SimpleLineIcons font."
+  },
+  "si-check": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "si-check",
+    "body": "<SimpleLineIcons name=\"check\" color=\"black\" size={25}/>$0",
+    "description": "check icon from SimpleLineIcons font."
+  },
+  "si-clock": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "si-clock",
+    "body": "<SimpleLineIcons name=\"clock\" color=\"black\" size={25}/>$0",
+    "description": "clock icon from SimpleLineIcons font."
+  },
+  "si-plus": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "si-plus",
+    "body": "<SimpleLineIcons name=\"plus\" color=\"black\" size={25}/>$0",
+    "description": "plus icon from SimpleLineIcons font."
+  },
+  "si-minus": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "si-minus",
+    "body": "<SimpleLineIcons name=\"minus\" color=\"black\" size={25}/>$0",
+    "description": "minus icon from SimpleLineIcons font."
+  },
+  "si-close": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "si-close",
+    "body": "<SimpleLineIcons name=\"close\" color=\"black\" size={25}/>$0",
+    "description": "close icon from SimpleLineIcons font."
+  },
+  "si-event": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "si-event",
+    "body": "<SimpleLineIcons name=\"event\" color=\"black\" size={25}/>$0",
+    "description": "event icon from SimpleLineIcons font."
+  },
+  "si-exclamation": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "si-exclamation",
+    "body": "<SimpleLineIcons name=\"exclamation\" color=\"black\" size={25}/>$0",
+    "description": "exclamation icon from SimpleLineIcons font."
+  },
+  "si-organization": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "si-organization",
+    "body": "<SimpleLineIcons name=\"organization\" color=\"black\" size={25}/>$0",
+    "description": "organization icon from SimpleLineIcons font."
+  },
+  "si-trophy": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "si-trophy",
+    "body": "<SimpleLineIcons name=\"trophy\" color=\"black\" size={25}/>$0",
+    "description": "trophy icon from SimpleLineIcons font."
+  },
+  "si-screen-smartphone": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "si-screen-smartphone",
+    "body": "<SimpleLineIcons name=\"screen-smartphone\" color=\"black\" size={25}/>$0",
+    "description": "screen-smartphone icon from SimpleLineIcons font."
+  },
+  "si-screen-desktop": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "si-screen-desktop",
+    "body": "<SimpleLineIcons name=\"screen-desktop\" color=\"black\" size={25}/>$0",
+    "description": "screen-desktop icon from SimpleLineIcons font."
+  },
+  "si-plane": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "si-plane",
+    "body": "<SimpleLineIcons name=\"plane\" color=\"black\" size={25}/>$0",
+    "description": "plane icon from SimpleLineIcons font."
+  },
+  "si-notebook": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "si-notebook",
+    "body": "<SimpleLineIcons name=\"notebook\" color=\"black\" size={25}/>$0",
+    "description": "notebook icon from SimpleLineIcons font."
+  },
+  "si-mustache": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "si-mustache",
+    "body": "<SimpleLineIcons name=\"mustache\" color=\"black\" size={25}/>$0",
+    "description": "mustache icon from SimpleLineIcons font."
+  },
+  "si-mouse": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "si-mouse",
+    "body": "<SimpleLineIcons name=\"mouse\" color=\"black\" size={25}/>$0",
+    "description": "mouse icon from SimpleLineIcons font."
+  },
+  "si-magnet": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "si-magnet",
+    "body": "<SimpleLineIcons name=\"magnet\" color=\"black\" size={25}/>$0",
+    "description": "magnet icon from SimpleLineIcons font."
+  },
+  "si-energy": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "si-energy",
+    "body": "<SimpleLineIcons name=\"energy\" color=\"black\" size={25}/>$0",
+    "description": "energy icon from SimpleLineIcons font."
+  },
+  "si-disc": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "si-disc",
+    "body": "<SimpleLineIcons name=\"disc\" color=\"black\" size={25}/>$0",
+    "description": "disc icon from SimpleLineIcons font."
+  },
+  "si-cursor": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "si-cursor",
+    "body": "<SimpleLineIcons name=\"cursor\" color=\"black\" size={25}/>$0",
+    "description": "cursor icon from SimpleLineIcons font."
+  },
+  "si-cursor-move": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "si-cursor-move",
+    "body": "<SimpleLineIcons name=\"cursor-move\" color=\"black\" size={25}/>$0",
+    "description": "cursor-move icon from SimpleLineIcons font."
+  },
+  "si-crop": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "si-crop",
+    "body": "<SimpleLineIcons name=\"crop\" color=\"black\" size={25}/>$0",
+    "description": "crop icon from SimpleLineIcons font."
+  },
+  "si-chemistry": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "si-chemistry",
+    "body": "<SimpleLineIcons name=\"chemistry\" color=\"black\" size={25}/>$0",
+    "description": "chemistry icon from SimpleLineIcons font."
+  },
+  "si-speedometer": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "si-speedometer",
+    "body": "<SimpleLineIcons name=\"speedometer\" color=\"black\" size={25}/>$0",
+    "description": "speedometer icon from SimpleLineIcons font."
+  },
+  "si-shield": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "si-shield",
+    "body": "<SimpleLineIcons name=\"shield\" color=\"black\" size={25}/>$0",
+    "description": "shield icon from SimpleLineIcons font."
+  },
+  "si-screen-tablet": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "si-screen-tablet",
+    "body": "<SimpleLineIcons name=\"screen-tablet\" color=\"black\" size={25}/>$0",
+    "description": "screen-tablet icon from SimpleLineIcons font."
+  },
+  "si-magic-wand": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "si-magic-wand",
+    "body": "<SimpleLineIcons name=\"magic-wand\" color=\"black\" size={25}/>$0",
+    "description": "magic-wand icon from SimpleLineIcons font."
+  },
+  "si-hourglass": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "si-hourglass",
+    "body": "<SimpleLineIcons name=\"hourglass\" color=\"black\" size={25}/>$0",
+    "description": "hourglass icon from SimpleLineIcons font."
+  },
+  "si-graduation": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "si-graduation",
+    "body": "<SimpleLineIcons name=\"graduation\" color=\"black\" size={25}/>$0",
+    "description": "graduation icon from SimpleLineIcons font."
+  },
+  "si-ghost": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "si-ghost",
+    "body": "<SimpleLineIcons name=\"ghost\" color=\"black\" size={25}/>$0",
+    "description": "ghost icon from SimpleLineIcons font."
+  },
+  "si-game-controller": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "si-game-controller",
+    "body": "<SimpleLineIcons name=\"game-controller\" color=\"black\" size={25}/>$0",
+    "description": "game-controller icon from SimpleLineIcons font."
+  },
+  "si-fire": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "si-fire",
+    "body": "<SimpleLineIcons name=\"fire\" color=\"black\" size={25}/>$0",
+    "description": "fire icon from SimpleLineIcons font."
+  },
+  "si-eyeglass": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "si-eyeglass",
+    "body": "<SimpleLineIcons name=\"eyeglass\" color=\"black\" size={25}/>$0",
+    "description": "eyeglass icon from SimpleLineIcons font."
+  },
+  "si-envelope-open": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "si-envelope-open",
+    "body": "<SimpleLineIcons name=\"envelope-open\" color=\"black\" size={25}/>$0",
+    "description": "envelope-open icon from SimpleLineIcons font."
+  },
+  "si-envelope-letter": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "si-envelope-letter",
+    "body": "<SimpleLineIcons name=\"envelope-letter\" color=\"black\" size={25}/>$0",
+    "description": "envelope-letter icon from SimpleLineIcons font."
+  },
+  "si-bell": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "si-bell",
+    "body": "<SimpleLineIcons name=\"bell\" color=\"black\" size={25}/>$0",
+    "description": "bell icon from SimpleLineIcons font."
+  },
+  "si-badge": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "si-badge",
+    "body": "<SimpleLineIcons name=\"badge\" color=\"black\" size={25}/>$0",
+    "description": "badge icon from SimpleLineIcons font."
+  },
+  "si-anchor": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "si-anchor",
+    "body": "<SimpleLineIcons name=\"anchor\" color=\"black\" size={25}/>$0",
+    "description": "anchor icon from SimpleLineIcons font."
+  },
+  "si-wallet": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "si-wallet",
+    "body": "<SimpleLineIcons name=\"wallet\" color=\"black\" size={25}/>$0",
+    "description": "wallet icon from SimpleLineIcons font."
+  },
+  "si-vector": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "si-vector",
+    "body": "<SimpleLineIcons name=\"vector\" color=\"black\" size={25}/>$0",
+    "description": "vector icon from SimpleLineIcons font."
+  },
+  "si-speech": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "si-speech",
+    "body": "<SimpleLineIcons name=\"speech\" color=\"black\" size={25}/>$0",
+    "description": "speech icon from SimpleLineIcons font."
+  },
+  "si-puzzle": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "si-puzzle",
+    "body": "<SimpleLineIcons name=\"puzzle\" color=\"black\" size={25}/>$0",
+    "description": "puzzle icon from SimpleLineIcons font."
+  },
+  "si-printer": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "si-printer",
+    "body": "<SimpleLineIcons name=\"printer\" color=\"black\" size={25}/>$0",
+    "description": "printer icon from SimpleLineIcons font."
+  },
+  "si-present": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "si-present",
+    "body": "<SimpleLineIcons name=\"present\" color=\"black\" size={25}/>$0",
+    "description": "present icon from SimpleLineIcons font."
+  },
+  "si-playlist": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "si-playlist",
+    "body": "<SimpleLineIcons name=\"playlist\" color=\"black\" size={25}/>$0",
+    "description": "playlist icon from SimpleLineIcons font."
+  },
+  "si-pin": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "si-pin",
+    "body": "<SimpleLineIcons name=\"pin\" color=\"black\" size={25}/>$0",
+    "description": "pin icon from SimpleLineIcons font."
+  },
+  "si-picture": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "si-picture",
+    "body": "<SimpleLineIcons name=\"picture\" color=\"black\" size={25}/>$0",
+    "description": "picture icon from SimpleLineIcons font."
+  },
+  "si-handbag": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "si-handbag",
+    "body": "<SimpleLineIcons name=\"handbag\" color=\"black\" size={25}/>$0",
+    "description": "handbag icon from SimpleLineIcons font."
+  },
+  "si-globe-alt": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "si-globe-alt",
+    "body": "<SimpleLineIcons name=\"globe-alt\" color=\"black\" size={25}/>$0",
+    "description": "globe-alt icon from SimpleLineIcons font."
+  },
+  "si-globe": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "si-globe",
+    "body": "<SimpleLineIcons name=\"globe\" color=\"black\" size={25}/>$0",
+    "description": "globe icon from SimpleLineIcons font."
+  },
+  "si-folder-alt": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "si-folder-alt",
+    "body": "<SimpleLineIcons name=\"folder-alt\" color=\"black\" size={25}/>$0",
+    "description": "folder-alt icon from SimpleLineIcons font."
+  },
+  "si-folder": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "si-folder",
+    "body": "<SimpleLineIcons name=\"folder\" color=\"black\" size={25}/>$0",
+    "description": "folder icon from SimpleLineIcons font."
+  },
+  "si-film": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "si-film",
+    "body": "<SimpleLineIcons name=\"film\" color=\"black\" size={25}/>$0",
+    "description": "film icon from SimpleLineIcons font."
+  },
+  "si-feed": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "si-feed",
+    "body": "<SimpleLineIcons name=\"feed\" color=\"black\" size={25}/>$0",
+    "description": "feed icon from SimpleLineIcons font."
+  },
+  "si-drop": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "si-drop",
+    "body": "<SimpleLineIcons name=\"drop\" color=\"black\" size={25}/>$0",
+    "description": "drop icon from SimpleLineIcons font."
+  },
+  "si-drawer": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "si-drawer",
+    "body": "<SimpleLineIcons name=\"drawer\" color=\"black\" size={25}/>$0",
+    "description": "drawer icon from SimpleLineIcons font."
+  },
+  "si-docs": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "si-docs",
+    "body": "<SimpleLineIcons name=\"docs\" color=\"black\" size={25}/>$0",
+    "description": "docs icon from SimpleLineIcons font."
+  },
+  "si-doc": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "si-doc",
+    "body": "<SimpleLineIcons name=\"doc\" color=\"black\" size={25}/>$0",
+    "description": "doc icon from SimpleLineIcons font."
+  },
+  "si-diamond": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "si-diamond",
+    "body": "<SimpleLineIcons name=\"diamond\" color=\"black\" size={25}/>$0",
+    "description": "diamond icon from SimpleLineIcons font."
+  },
+  "si-cup": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "si-cup",
+    "body": "<SimpleLineIcons name=\"cup\" color=\"black\" size={25}/>$0",
+    "description": "cup icon from SimpleLineIcons font."
+  },
+  "si-calculator": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "si-calculator",
+    "body": "<SimpleLineIcons name=\"calculator\" color=\"black\" size={25}/>$0",
+    "description": "calculator icon from SimpleLineIcons font."
+  },
+  "si-bubbles": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "si-bubbles",
+    "body": "<SimpleLineIcons name=\"bubbles\" color=\"black\" size={25}/>$0",
+    "description": "bubbles icon from SimpleLineIcons font."
+  },
+  "si-briefcase": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "si-briefcase",
+    "body": "<SimpleLineIcons name=\"briefcase\" color=\"black\" size={25}/>$0",
+    "description": "briefcase icon from SimpleLineIcons font."
+  },
+  "si-book-open": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "si-book-open",
+    "body": "<SimpleLineIcons name=\"book-open\" color=\"black\" size={25}/>$0",
+    "description": "book-open icon from SimpleLineIcons font."
+  },
+  "si-basket-loaded": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "si-basket-loaded",
+    "body": "<SimpleLineIcons name=\"basket-loaded\" color=\"black\" size={25}/>$0",
+    "description": "basket-loaded icon from SimpleLineIcons font."
+  },
+  "si-basket": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "si-basket",
+    "body": "<SimpleLineIcons name=\"basket\" color=\"black\" size={25}/>$0",
+    "description": "basket icon from SimpleLineIcons font."
+  },
+  "si-bag": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "si-bag",
+    "body": "<SimpleLineIcons name=\"bag\" color=\"black\" size={25}/>$0",
+    "description": "bag icon from SimpleLineIcons font."
+  },
+  "si-action-undo": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "si-action-undo",
+    "body": "<SimpleLineIcons name=\"action-undo\" color=\"black\" size={25}/>$0",
+    "description": "action-undo icon from SimpleLineIcons font."
+  },
+  "si-action-redo": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "si-action-redo",
+    "body": "<SimpleLineIcons name=\"action-redo\" color=\"black\" size={25}/>$0",
+    "description": "action-redo icon from SimpleLineIcons font."
+  },
+  "si-wrench": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "si-wrench",
+    "body": "<SimpleLineIcons name=\"wrench\" color=\"black\" size={25}/>$0",
+    "description": "wrench icon from SimpleLineIcons font."
+  },
+  "si-umbrella": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "si-umbrella",
+    "body": "<SimpleLineIcons name=\"umbrella\" color=\"black\" size={25}/>$0",
+    "description": "umbrella icon from SimpleLineIcons font."
+  },
+  "si-trash": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "si-trash",
+    "body": "<SimpleLineIcons name=\"trash\" color=\"black\" size={25}/>$0",
+    "description": "trash icon from SimpleLineIcons font."
+  },
+  "si-tag": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "si-tag",
+    "body": "<SimpleLineIcons name=\"tag\" color=\"black\" size={25}/>$0",
+    "description": "tag icon from SimpleLineIcons font."
+  },
+  "si-support": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "si-support",
+    "body": "<SimpleLineIcons name=\"support\" color=\"black\" size={25}/>$0",
+    "description": "support icon from SimpleLineIcons font."
+  },
+  "si-frame": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "si-frame",
+    "body": "<SimpleLineIcons name=\"frame\" color=\"black\" size={25}/>$0",
+    "description": "frame icon from SimpleLineIcons font."
+  },
+  "si-size-fullscreen": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "si-size-fullscreen",
+    "body": "<SimpleLineIcons name=\"size-fullscreen\" color=\"black\" size={25}/>$0",
+    "description": "size-fullscreen icon from SimpleLineIcons font."
+  },
+  "si-size-actual": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "si-size-actual",
+    "body": "<SimpleLineIcons name=\"size-actual\" color=\"black\" size={25}/>$0",
+    "description": "size-actual icon from SimpleLineIcons font."
+  },
+  "si-shuffle": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "si-shuffle",
+    "body": "<SimpleLineIcons name=\"shuffle\" color=\"black\" size={25}/>$0",
+    "description": "shuffle icon from SimpleLineIcons font."
+  },
+  "si-share-alt": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "si-share-alt",
+    "body": "<SimpleLineIcons name=\"share-alt\" color=\"black\" size={25}/>$0",
+    "description": "share-alt icon from SimpleLineIcons font."
+  },
+  "si-share": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "si-share",
+    "body": "<SimpleLineIcons name=\"share\" color=\"black\" size={25}/>$0",
+    "description": "share icon from SimpleLineIcons font."
+  },
+  "si-rocket": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "si-rocket",
+    "body": "<SimpleLineIcons name=\"rocket\" color=\"black\" size={25}/>$0",
+    "description": "rocket icon from SimpleLineIcons font."
+  },
+  "si-question": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "si-question",
+    "body": "<SimpleLineIcons name=\"question\" color=\"black\" size={25}/>$0",
+    "description": "question icon from SimpleLineIcons font."
+  },
+  "si-pie-chart": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "si-pie-chart",
+    "body": "<SimpleLineIcons name=\"pie-chart\" color=\"black\" size={25}/>$0",
+    "description": "pie-chart icon from SimpleLineIcons font."
+  },
+  "si-pencil": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "si-pencil",
+    "body": "<SimpleLineIcons name=\"pencil\" color=\"black\" size={25}/>$0",
+    "description": "pencil icon from SimpleLineIcons font."
+  },
+  "si-note": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "si-note",
+    "body": "<SimpleLineIcons name=\"note\" color=\"black\" size={25}/>$0",
+    "description": "note icon from SimpleLineIcons font."
+  },
+  "si-loop": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "si-loop",
+    "body": "<SimpleLineIcons name=\"loop\" color=\"black\" size={25}/>$0",
+    "description": "loop icon from SimpleLineIcons font."
+  },
+  "si-home": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "si-home",
+    "body": "<SimpleLineIcons name=\"home\" color=\"black\" size={25}/>$0",
+    "description": "home icon from SimpleLineIcons font."
+  },
+  "si-grid": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "si-grid",
+    "body": "<SimpleLineIcons name=\"grid\" color=\"black\" size={25}/>$0",
+    "description": "grid icon from SimpleLineIcons font."
+  },
+  "si-graph": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "si-graph",
+    "body": "<SimpleLineIcons name=\"graph\" color=\"black\" size={25}/>$0",
+    "description": "graph icon from SimpleLineIcons font."
+  },
+  "si-microphone": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "si-microphone",
+    "body": "<SimpleLineIcons name=\"microphone\" color=\"black\" size={25}/>$0",
+    "description": "microphone icon from SimpleLineIcons font."
+  },
+  "si-music-tone-alt": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "si-music-tone-alt",
+    "body": "<SimpleLineIcons name=\"music-tone-alt\" color=\"black\" size={25}/>$0",
+    "description": "music-tone-alt icon from SimpleLineIcons font."
+  },
+  "si-music-tone": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "si-music-tone",
+    "body": "<SimpleLineIcons name=\"music-tone\" color=\"black\" size={25}/>$0",
+    "description": "music-tone icon from SimpleLineIcons font."
+  },
+  "si-earphones-alt": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "si-earphones-alt",
+    "body": "<SimpleLineIcons name=\"earphones-alt\" color=\"black\" size={25}/>$0",
+    "description": "earphones-alt icon from SimpleLineIcons font."
+  },
+  "si-earphones": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "si-earphones",
+    "body": "<SimpleLineIcons name=\"earphones\" color=\"black\" size={25}/>$0",
+    "description": "earphones icon from SimpleLineIcons font."
+  },
+  "si-equalizer": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "si-equalizer",
+    "body": "<SimpleLineIcons name=\"equalizer\" color=\"black\" size={25}/>$0",
+    "description": "equalizer icon from SimpleLineIcons font."
+  },
+  "si-like": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "si-like",
+    "body": "<SimpleLineIcons name=\"like\" color=\"black\" size={25}/>$0",
+    "description": "like icon from SimpleLineIcons font."
+  },
+  "si-dislike": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "si-dislike",
+    "body": "<SimpleLineIcons name=\"dislike\" color=\"black\" size={25}/>$0",
+    "description": "dislike icon from SimpleLineIcons font."
+  },
+  "si-control-start": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "si-control-start",
+    "body": "<SimpleLineIcons name=\"control-start\" color=\"black\" size={25}/>$0",
+    "description": "control-start icon from SimpleLineIcons font."
+  },
+  "si-control-rewind": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "si-control-rewind",
+    "body": "<SimpleLineIcons name=\"control-rewind\" color=\"black\" size={25}/>$0",
+    "description": "control-rewind icon from SimpleLineIcons font."
+  },
+  "si-control-play": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "si-control-play",
+    "body": "<SimpleLineIcons name=\"control-play\" color=\"black\" size={25}/>$0",
+    "description": "control-play icon from SimpleLineIcons font."
+  },
+  "si-control-pause": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "si-control-pause",
+    "body": "<SimpleLineIcons name=\"control-pause\" color=\"black\" size={25}/>$0",
+    "description": "control-pause icon from SimpleLineIcons font."
+  },
+  "si-control-forward": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "si-control-forward",
+    "body": "<SimpleLineIcons name=\"control-forward\" color=\"black\" size={25}/>$0",
+    "description": "control-forward icon from SimpleLineIcons font."
+  },
+  "si-control-end": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "si-control-end",
+    "body": "<SimpleLineIcons name=\"control-end\" color=\"black\" size={25}/>$0",
+    "description": "control-end icon from SimpleLineIcons font."
+  },
+  "si-volume-1": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "si-volume-1",
+    "body": "<SimpleLineIcons name=\"volume-1\" color=\"black\" size={25}/>$0",
+    "description": "volume-1 icon from SimpleLineIcons font."
+  },
+  "si-volume-2": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "si-volume-2",
+    "body": "<SimpleLineIcons name=\"volume-2\" color=\"black\" size={25}/>$0",
+    "description": "volume-2 icon from SimpleLineIcons font."
+  },
+  "si-volume-off": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "si-volume-off",
+    "body": "<SimpleLineIcons name=\"volume-off\" color=\"black\" size={25}/>$0",
+    "description": "volume-off icon from SimpleLineIcons font."
+  },
+  "si-calendar": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "si-calendar",
+    "body": "<SimpleLineIcons name=\"calendar\" color=\"black\" size={25}/>$0",
+    "description": "calendar icon from SimpleLineIcons font."
+  },
+  "si-bulb": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "si-bulb",
+    "body": "<SimpleLineIcons name=\"bulb\" color=\"black\" size={25}/>$0",
+    "description": "bulb icon from SimpleLineIcons font."
+  },
+  "si-chart": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "si-chart",
+    "body": "<SimpleLineIcons name=\"chart\" color=\"black\" size={25}/>$0",
+    "description": "chart icon from SimpleLineIcons font."
+  },
+  "si-ban": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "si-ban",
+    "body": "<SimpleLineIcons name=\"ban\" color=\"black\" size={25}/>$0",
+    "description": "ban icon from SimpleLineIcons font."
+  },
+  "si-bubble": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "si-bubble",
+    "body": "<SimpleLineIcons name=\"bubble\" color=\"black\" size={25}/>$0",
+    "description": "bubble icon from SimpleLineIcons font."
+  },
+  "si-camrecorder": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "si-camrecorder",
+    "body": "<SimpleLineIcons name=\"camrecorder\" color=\"black\" size={25}/>$0",
+    "description": "camrecorder icon from SimpleLineIcons font."
+  },
+  "si-camera": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "si-camera",
+    "body": "<SimpleLineIcons name=\"camera\" color=\"black\" size={25}/>$0",
+    "description": "camera icon from SimpleLineIcons font."
+  },
+  "si-cloud-download": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "si-cloud-download",
+    "body": "<SimpleLineIcons name=\"cloud-download\" color=\"black\" size={25}/>$0",
+    "description": "cloud-download icon from SimpleLineIcons font."
+  },
+  "si-cloud-upload": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "si-cloud-upload",
+    "body": "<SimpleLineIcons name=\"cloud-upload\" color=\"black\" size={25}/>$0",
+    "description": "cloud-upload icon from SimpleLineIcons font."
+  },
+  "si-envelope": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "si-envelope",
+    "body": "<SimpleLineIcons name=\"envelope\" color=\"black\" size={25}/>$0",
+    "description": "envelope icon from SimpleLineIcons font."
+  },
+  "si-eye": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "si-eye",
+    "body": "<SimpleLineIcons name=\"eye\" color=\"black\" size={25}/>$0",
+    "description": "eye icon from SimpleLineIcons font."
+  },
+  "si-flag": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "si-flag",
+    "body": "<SimpleLineIcons name=\"flag\" color=\"black\" size={25}/>$0",
+    "description": "flag icon from SimpleLineIcons font."
+  },
+  "si-heart": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "si-heart",
+    "body": "<SimpleLineIcons name=\"heart\" color=\"black\" size={25}/>$0",
+    "description": "heart icon from SimpleLineIcons font."
+  },
+  "si-info": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "si-info",
+    "body": "<SimpleLineIcons name=\"info\" color=\"black\" size={25}/>$0",
+    "description": "info icon from SimpleLineIcons font."
+  },
+  "si-key": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "si-key",
+    "body": "<SimpleLineIcons name=\"key\" color=\"black\" size={25}/>$0",
+    "description": "key icon from SimpleLineIcons font."
+  },
+  "si-link": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "si-link",
+    "body": "<SimpleLineIcons name=\"link\" color=\"black\" size={25}/>$0",
+    "description": "link icon from SimpleLineIcons font."
+  },
+  "si-lock": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "si-lock",
+    "body": "<SimpleLineIcons name=\"lock\" color=\"black\" size={25}/>$0",
+    "description": "lock icon from SimpleLineIcons font."
+  },
+  "si-lock-open": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "si-lock-open",
+    "body": "<SimpleLineIcons name=\"lock-open\" color=\"black\" size={25}/>$0",
+    "description": "lock-open icon from SimpleLineIcons font."
+  },
+  "si-magnifier": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "si-magnifier",
+    "body": "<SimpleLineIcons name=\"magnifier\" color=\"black\" size={25}/>$0",
+    "description": "magnifier icon from SimpleLineIcons font."
+  },
+  "si-magnifier-add": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "si-magnifier-add",
+    "body": "<SimpleLineIcons name=\"magnifier-add\" color=\"black\" size={25}/>$0",
+    "description": "magnifier-add icon from SimpleLineIcons font."
+  },
+  "si-magnifier-remove": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "si-magnifier-remove",
+    "body": "<SimpleLineIcons name=\"magnifier-remove\" color=\"black\" size={25}/>$0",
+    "description": "magnifier-remove icon from SimpleLineIcons font."
+  },
+  "si-paper-clip": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "si-paper-clip",
+    "body": "<SimpleLineIcons name=\"paper-clip\" color=\"black\" size={25}/>$0",
+    "description": "paper-clip icon from SimpleLineIcons font."
+  },
+  "si-paper-plane": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "si-paper-plane",
+    "body": "<SimpleLineIcons name=\"paper-plane\" color=\"black\" size={25}/>$0",
+    "description": "paper-plane icon from SimpleLineIcons font."
+  },
+  "si-power": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "si-power",
+    "body": "<SimpleLineIcons name=\"power\" color=\"black\" size={25}/>$0",
+    "description": "power icon from SimpleLineIcons font."
+  },
+  "si-refresh": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "si-refresh",
+    "body": "<SimpleLineIcons name=\"refresh\" color=\"black\" size={25}/>$0",
+    "description": "refresh icon from SimpleLineIcons font."
+  },
+  "si-reload": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "si-reload",
+    "body": "<SimpleLineIcons name=\"reload\" color=\"black\" size={25}/>$0",
+    "description": "reload icon from SimpleLineIcons font."
+  },
+  "si-settings": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "si-settings",
+    "body": "<SimpleLineIcons name=\"settings\" color=\"black\" size={25}/>$0",
+    "description": "settings icon from SimpleLineIcons font."
+  },
+  "si-star": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "si-star",
+    "body": "<SimpleLineIcons name=\"star\" color=\"black\" size={25}/>$0",
+    "description": "star icon from SimpleLineIcons font."
+  },
+  "si-symbol-female": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "si-symbol-female",
+    "body": "<SimpleLineIcons name=\"symbol-female\" color=\"black\" size={25}/>$0",
+    "description": "symbol-female icon from SimpleLineIcons font."
+  },
+  "si-symbol-male": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "si-symbol-male",
+    "body": "<SimpleLineIcons name=\"symbol-male\" color=\"black\" size={25}/>$0",
+    "description": "symbol-male icon from SimpleLineIcons font."
+  },
+  "si-target": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "si-target",
+    "body": "<SimpleLineIcons name=\"target\" color=\"black\" size={25}/>$0",
+    "description": "target icon from SimpleLineIcons font."
+  },
+  "si-credit-card": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "si-credit-card",
+    "body": "<SimpleLineIcons name=\"credit-card\" color=\"black\" size={25}/>$0",
+    "description": "credit-card icon from SimpleLineIcons font."
+  },
+  "si-paypal": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "si-paypal",
+    "body": "<SimpleLineIcons name=\"paypal\" color=\"black\" size={25}/>$0",
+    "description": "paypal icon from SimpleLineIcons font."
+  },
+  "si-social-tumblr": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "si-social-tumblr",
+    "body": "<SimpleLineIcons name=\"social-tumblr\" color=\"black\" size={25}/>$0",
+    "description": "social-tumblr icon from SimpleLineIcons font."
+  },
+  "si-social-twitter": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "si-social-twitter",
+    "body": "<SimpleLineIcons name=\"social-twitter\" color=\"black\" size={25}/>$0",
+    "description": "social-twitter icon from SimpleLineIcons font."
+  },
+  "si-social-facebook": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "si-social-facebook",
+    "body": "<SimpleLineIcons name=\"social-facebook\" color=\"black\" size={25}/>$0",
+    "description": "social-facebook icon from SimpleLineIcons font."
+  },
+  "si-social-instagram": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "si-social-instagram",
+    "body": "<SimpleLineIcons name=\"social-instagram\" color=\"black\" size={25}/>$0",
+    "description": "social-instagram icon from SimpleLineIcons font."
+  },
+  "si-social-linkedin": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "si-social-linkedin",
+    "body": "<SimpleLineIcons name=\"social-linkedin\" color=\"black\" size={25}/>$0",
+    "description": "social-linkedin icon from SimpleLineIcons font."
+  },
+  "si-social-pinterest": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "si-social-pinterest",
+    "body": "<SimpleLineIcons name=\"social-pinterest\" color=\"black\" size={25}/>$0",
+    "description": "social-pinterest icon from SimpleLineIcons font."
+  },
+  "si-social-github": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "si-social-github",
+    "body": "<SimpleLineIcons name=\"social-github\" color=\"black\" size={25}/>$0",
+    "description": "social-github icon from SimpleLineIcons font."
+  },
+  "si-social-google": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "si-social-google",
+    "body": "<SimpleLineIcons name=\"social-google\" color=\"black\" size={25}/>$0",
+    "description": "social-google icon from SimpleLineIcons font."
+  },
+  "si-social-reddit": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "si-social-reddit",
+    "body": "<SimpleLineIcons name=\"social-reddit\" color=\"black\" size={25}/>$0",
+    "description": "social-reddit icon from SimpleLineIcons font."
+  },
+  "si-social-skype": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "si-social-skype",
+    "body": "<SimpleLineIcons name=\"social-skype\" color=\"black\" size={25}/>$0",
+    "description": "social-skype icon from SimpleLineIcons font."
+  },
+  "si-social-dribbble": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "si-social-dribbble",
+    "body": "<SimpleLineIcons name=\"social-dribbble\" color=\"black\" size={25}/>$0",
+    "description": "social-dribbble icon from SimpleLineIcons font."
+  },
+  "si-social-behance": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "si-social-behance",
+    "body": "<SimpleLineIcons name=\"social-behance\" color=\"black\" size={25}/>$0",
+    "description": "social-behance icon from SimpleLineIcons font."
+  },
+  "si-social-foursqare": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "si-social-foursqare",
+    "body": "<SimpleLineIcons name=\"social-foursqare\" color=\"black\" size={25}/>$0",
+    "description": "social-foursqare icon from SimpleLineIcons font."
+  },
+  "si-social-soundcloud": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "si-social-soundcloud",
+    "body": "<SimpleLineIcons name=\"social-soundcloud\" color=\"black\" size={25}/>$0",
+    "description": "social-soundcloud icon from SimpleLineIcons font."
+  },
+  "si-social-spotify": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "si-social-spotify",
+    "body": "<SimpleLineIcons name=\"social-spotify\" color=\"black\" size={25}/>$0",
+    "description": "social-spotify icon from SimpleLineIcons font."
+  },
+  "si-social-stumbleupon": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "si-social-stumbleupon",
+    "body": "<SimpleLineIcons name=\"social-stumbleupon\" color=\"black\" size={25}/>$0",
+    "description": "social-stumbleupon icon from SimpleLineIcons font."
+  },
+  "si-social-youtube": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "si-social-youtube",
+    "body": "<SimpleLineIcons name=\"social-youtube\" color=\"black\" size={25}/>$0",
+    "description": "social-youtube icon from SimpleLineIcons font."
+  },
+  "si-social-dropbox": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "si-social-dropbox",
+    "body": "<SimpleLineIcons name=\"social-dropbox\" color=\"black\" size={25}/>$0",
+    "description": "social-dropbox icon from SimpleLineIcons font."
+  },
+  "si-social-vkontakte": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "si-social-vkontakte",
+    "body": "<SimpleLineIcons name=\"social-vkontakte\" color=\"black\" size={25}/>$0",
+    "description": "social-vkontakte icon from SimpleLineIcons font."
+  },
+  "si-social-steam": {
+    "scope": "javascriptreact, typescriptreact",
+    "prefix": "si-social-steam",
+    "body": "<SimpleLineIcons name=\"social-steam\" color=\"black\" size={25}/>$0",
+    "description": "social-steam icon from SimpleLineIcons font."
+  }
+}
