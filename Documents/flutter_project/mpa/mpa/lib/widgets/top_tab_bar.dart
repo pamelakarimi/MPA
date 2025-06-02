@@ -4,7 +4,7 @@ import 'package:mpa/themes/app_colors.dart';
 class TopTabBar extends StatelessWidget {
   final List<String> tabs;
   final int selectedIndex;
-  final Function(int) onTabSelected;
+  final ValueChanged<int> onTabSelected;
 
   const TopTabBar({
     super.key,
@@ -15,77 +15,45 @@ class TopTabBar extends StatelessWidget {
 
   @override
   Widget build(BuildContext context) {
-    return SizedBox(
-      height: 48,
-      child: LayoutBuilder(
-        builder: (context, constraints) {
-          final screenWidth = constraints.maxWidth;
+    final screenWidth = MediaQuery.of(context).size.width;
+    final isTablet = screenWidth > 600;
 
-          // Use Expanded Row for tablets
-          if (screenWidth >= 600) {
-            return Padding(
-              padding: const EdgeInsets.symmetric(horizontal: 16),
-              child: Row(
-                children: List.generate(tabs.length, (index) {
-                  final isSelected = index == selectedIndex;
-                  return Expanded(
-                    child: GestureDetector(
-                      onTap: () => onTabSelected(index),
-                      child: Container(
-                        margin: EdgeInsets.only(
-                          right: index < tabs.length - 1 ? 12 : 0,
-                        ),
-                        alignment: Alignment.center,
-                        decoration: BoxDecoration(
-                          color: isSelected ? Colors.white : darkColor,
-                          borderRadius: BorderRadius.circular(20),
-                        ),
-                        padding: const EdgeInsets.symmetric(vertical: 10),
-                        child: Text(
-                          tabs[index],
-                          style: TextStyle(
-                            color: isSelected ? darkColor : Colors.white,
-                            fontWeight: FontWeight.bold,
-                          ),
-                        ),
-                      ),
-                    ),
-                  );
-                }),
-              ),
-            );
-          }
+    return Container(
+      height: isTablet ? 60 : 48,
+      decoration: const BoxDecoration(
+        border: Border(
+          bottom: BorderSide(color: Colors.white24, width: 1),
+        ),
+      ),
+      child: ListView.builder(
+        scrollDirection: Axis.horizontal,
+        itemCount: tabs.length,
+        padding: EdgeInsets.symmetric(horizontal: isTablet ? 16 : 8),
+        itemBuilder: (context, index) {
+          final isSelected = index == selectedIndex;
 
-          // Otherwise, fall back to scrollable tabs on small screens
-          return ListView.builder(
-            scrollDirection: Axis.horizontal,
-            itemCount: tabs.length + 1,
-            padding: const EdgeInsets.symmetric(horizontal: 16),
-            itemBuilder: (context, index) {
-              if (index == tabs.length) {
-                return const SizedBox(width: 16);
-              }
-
-              final isSelected = index == selectedIndex;
-              return GestureDetector(
-                onTap: () => onTabSelected(index),
-                child: Container(
-                  padding: const EdgeInsets.symmetric(horizontal: 16, vertical: 10),
-                  margin: const EdgeInsets.only(right: 12),
-                  decoration: BoxDecoration(
-                    color: isSelected ? Colors.white : darkColor,
-                    borderRadius: BorderRadius.circular(20),
-                  ),
-                  child: Text(
-                    tabs[index],
-                    style: TextStyle(
-                      color: isSelected ? darkColor : Colors.white,
-                      fontWeight: FontWeight.bold,
-                    ),
+          return GestureDetector(
+            onTap: () => onTabSelected(index),
+            child: Container(
+              alignment: Alignment.center,
+              padding: EdgeInsets.symmetric(horizontal: isTablet ? 24 : 16),
+              decoration: BoxDecoration(
+                border: Border(
+                  bottom: BorderSide(
+                    color: isSelected ? Colors.white : Colors.transparent,
+                    width: 3,
                   ),
                 ),
-              );
-            },
+              ),
+              child: Text(
+                tabs[index],
+                style: TextStyle(
+                  color: isSelected ? Colors.white : greyColor,
+                  fontWeight: FontWeight.w600,
+                  fontSize: isTablet ? 16 : 14,
+                ),
+              ),
+            ),
           );
         },
       ),

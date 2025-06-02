@@ -1,44 +1,44 @@
 [
   {
     "title": "2024 Tesla Model S",
-    "description": "Electric, fast, and futuristic with a range of 396 miles.",
+    "subtitle": "Electric, fast, and futuristic with a range of 396 miles.",
     "category": "Electric",
-    "imageUrl": "assets/images/tesla.jpg",
-    "dateRead": "2d ago · 8 min read"
+    "image": "assets/images/tesla.jpg",
+    "meta": "2d ago · 8 min read"
   },
   {
     "title": "2023 Ford Mustang GT",
-    "description": "A classic V8 muscle car with 450 horsepower.",
+    "subtitle": "A classic V8 muscle car with 450 horsepower.",
     "category": "Performance",
-    "imageUrl": "assets/images/mustang.jpg",
-    "dateRead": "3d ago · 6 min read"
+    "image": "assets/images/mustang.jpg",
+    "meta": "3d ago · 6 min read"
   },
   {
     "title": "2024 Toyota RAV4 Hybrid",
-    "description": "The perfect blend of efficiency and SUV practicality.",
+    "subtitle": "The perfect blend of efficiency and SUV practicality.",
     "category": "Hybrid",
-    "imageUrl": "assets/images/rav4.jpg",
-    "dateRead": "1d ago · 5 min read"
+    "image": "assets/images/rav4.jpg",
+    "meta": "1d ago · 5 min read"
   },
-  {
+   {
     "title": "2024 Tesla Model S",
-    "description": "Electric, fast, and futuristic with a range of 396 miles.",
+    "subtitle": "Electric, fast, and futuristic with a range of 396 miles.",
     "category": "Electric",
-    "imageUrl": "assets/images/tesla.jpg",
-    "dateRead": "2d ago · 8 min read"
+    "image": "assets/images/tesla.jpg",
+    "meta": "2d ago · 8 min read"
   },
   {
     "title": "2023 Ford Mustang GT",
-    "description": "A classic V8 muscle car with 450 horsepower.",
+    "subtitle": "A classic V8 muscle car with 450 horsepower.",
     "category": "Performance",
-    "imageUrl": "assets/images/mustang.jpg",
-    "dateRead": "3d ago · 6 min read"
+    "image": "assets/images/mustang.jpg",
+    "meta": "3d ago · 6 min read"
   },
   {
     "title": "2024 Toyota RAV4 Hybrid",
-    "description": "The perfect blend of efficiency and SUV practicality.",
+    "subtitle": "The perfect blend of efficiency and SUV practicality.",
     "category": "Hybrid",
-    "imageUrl": "assets/images/rav4.jpg",
-    "dateRead": "1d ago · 5 min read"
+    "image": "assets/images/rav4.jpg",
+    "meta": "1d ago · 5 min read"
   }
 ]

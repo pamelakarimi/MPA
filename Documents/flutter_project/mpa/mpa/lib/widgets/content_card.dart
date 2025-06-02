@@ -9,61 +9,91 @@ class ContentCard extends StatelessWidget {
 
   @override
   Widget build(BuildContext context) {
-    final bool isTablet = MediaQuery.of(context).size.width > 600;
-
-    return ConstrainedBox(
-      constraints: const BoxConstraints(maxWidth: 400),
-      child: Container(
-        // Only apply bottom margin for non-tablet (ListView) layout
-        margin: isTablet ? EdgeInsets.zero : const EdgeInsets.only(bottom: 20),
-        decoration: BoxDecoration(
-          color: darkColor,
-          borderRadius: BorderRadius.circular(16),
-        ),
-        child: Column(
-          children: [
-            ClipRRect(
-              borderRadius: const BorderRadius.vertical(top: Radius.circular(16)),
-              child: Image.asset(
-                item.imageUrl,
-                height: 180,
-                width: double.infinity,
-                fit: BoxFit.cover,
-              ),
+    return Container(
+      margin: const EdgeInsets.only(bottom: 16),
+      decoration: BoxDecoration(
+        color: Colors.black,
+        borderRadius: BorderRadius.circular(16),
+        boxShadow: const [
+          BoxShadow(
+            color: Colors.black12,
+            blurRadius: 4,
+            offset: Offset(0, 2),
+          ),
+        ],
+      ),
+      child: Column(
+        crossAxisAlignment: CrossAxisAlignment.start,
+        children: [
+          // Image
+          ClipRRect(
+            borderRadius: const BorderRadius.vertical(top: Radius.circular(16)),
+            child: Image.asset(
+              item.image,
+              height: 180,
+              width: double.infinity,
+              fit: BoxFit.cover,
             ),
-            Padding(
-              padding: const EdgeInsets.all(12),
-              child: Column(
-                crossAxisAlignment: CrossAxisAlignment.start,
-                children: [
-                  Text(
-                    item.title,
-                    style: const TextStyle(
-                      fontSize: 16,
-                      fontWeight: FontWeight.bold,
-                      color: Colors.white,
+          ),
+
+          // Text content
+          Padding(
+            padding: const EdgeInsets.fromLTRB(12, 12, 12, 16),
+            child: Column(
+              crossAxisAlignment: CrossAxisAlignment.start,
+              children: [
+                if (item.category.isNotEmpty)
+                  Padding(
+                    padding: const EdgeInsets.only(bottom: 4),
+                    child: Text(
+                      item.category.toUpperCase(),
+                      style: const TextStyle(
+                        fontSize: 10,
+                        color: greyColor,
+                        fontWeight: FontWeight.w600,
+                      ),
                     ),
                   ),
-                  const SizedBox(height: 6),
-                  Text(
-                    item.description,
-                    style: const TextStyle(fontSize: 14, color: Colors.white70),
+
+                Text(
+                  item.title,
+                  style: const TextStyle(
+                    fontSize: 16,
+                    fontWeight: FontWeight.bold,
+                    color: Colors.white,
                   ),
-                  const SizedBox(height: 6),
+                ),
+                const SizedBox(height: 6),
+
+                if (item.subtitle.isNotEmpty) ...[
                   Text(
-                    item.category,
-                    style: TextStyle(fontSize: 12, color: greyColor),
+                    item.subtitle,
+                    style: const TextStyle(
+                      fontSize: 14,
+                      color: Colors.white70,
+                    ),
                   ),
-                  const SizedBox(height: 6),
-                  Text(
-                    item.dateRead,
-                    style: TextStyle(fontSize: 12, color: greyColor),
-                  ),
+                  const SizedBox(height: 8),
                 ],
-              ),
+
+                if (item.meta.isNotEmpty)
+                  Row(
+                    children: [
+                      const Icon(Icons.access_time, size: 14, color: greyColor),
+                      const SizedBox(width: 4),
+                      Text(
+                        item.meta,
+                        style: const TextStyle(
+                          fontSize: 12,
+                          color: Colors.white70,
+                        ),
+                      ),
+                    ],
+                  ),
+              ],
             ),
-          ],
-        ),
+          ),
+        ],
       ),
     );
   }

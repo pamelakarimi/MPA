@@ -1,26 +1,35 @@
 class ContentItem {
   final String title;
-  final String description;
+  final String subtitle;
+  final String meta;
+  final String image;
   final String category;
-  final String imageUrl;
-  final String dateRead;
 
   ContentItem({
     required this.title,
-    required this.description,
+    required this.subtitle,
+    required this.meta,
+    required this.image,
     required this.category,
-    required this.imageUrl,
-    required this.dateRead,
   });
 
   factory ContentItem.fromJson(Map<String, dynamic> json) {
     return ContentItem(
-      title: json['title'],
-      description: json['description'],
-      category: json['category'],
-      imageUrl: json['imageUrl'],
-      dateRead: json['dateRead'],
+      title: json['title'] ?? '',
+      subtitle: json['subtitle'] ?? '',
+      meta: json['meta'] ?? '',
+      image: json['image'] ?? '',
+      category: json['category'] ?? '',
     );
   }
-}
 
+  Map<String, dynamic> toJson() {
+    return {
+      'title': title,
+      'subtitle': subtitle,
+      'meta': meta,
+      'image': image,
+      'category': category,
+    };
+  }
+}

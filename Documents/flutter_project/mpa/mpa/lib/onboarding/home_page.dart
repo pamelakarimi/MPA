@@ -1,9 +1,10 @@
 import 'package:flutter/material.dart';
-import 'package:mpa/themes/app_colors.dart';
+import '../../../models/content_item_model.dart';
 import '../../../services/car_service.dart';
-import '../models/content_item_model.dart';
 import '../widgets/content_card.dart';
 import '../widgets/top_tab_bar.dart';
+import '../../../themes/app_colors.dart';
+import '../widgets/custom_app_bar.dart';
 
 class HomePage extends StatefulWidget {
   const HomePage({super.key});
@@ -15,14 +16,14 @@ class HomePage extends StatefulWidget {
 class _HomePageState extends State<HomePage> {
   int selectedTabIndex = 0;
   int bottomNavIndex = 0;
+  String searchQuery = '';
 
   final List<String> topTabs = [
     'News Café',
     'Editorial',
     'Media Center',
-    'Marketplace',
+    'Market Place',
     'Events',
-    'AI',
   ];
 
   final List<String> bottomNavSections = [
@@ -34,125 +35,148 @@ class _HomePageState extends State<HomePage> {
     'Jobs',
   ];
 
-  bool get isShowingHomepage => bottomNavIndex == 0 && selectedTabIndex == 0;
-
   @override
   Widget build(BuildContext context) {
+    final screenWidth = MediaQuery.of(context).size.width;
+    final isTablet = screenWidth > 600;
+
     return Scaffold(
-      appBar: AppBar(
-        automaticallyImplyLeading: false,
-        title: Row(
-          mainAxisAlignment: MainAxisAlignment.spaceBetween,
-          children: [
-            IconButton(
-              icon: const Icon(Icons.account_circle, size: 30,),
-              onPressed: () {
-                // Navigate to profile
-              },
-            ),
-            Image.asset('assets/images/logo.png', height: 40),
-            IconButton(
-              icon: const Icon(Icons.search, size: 30,),
-              onPressed: () {
-                // Open search
-              },
-            ),
-          ],
-        ),
-
-        bottom:
-            bottomNavIndex == 0
-                ? PreferredSize(
-                  preferredSize: const Size.fromHeight(48),
-                  child: TopTabBar(
-                    tabs: topTabs,
-                    selectedIndex: selectedTabIndex,
-                    onTabSelected: (index) {
-                      setState(() => selectedTabIndex = index);
-                    },
-                  ),
-                )
-                : null,
-      ),
-
-      body: FutureBuilder<List<ContentItem>>(
-        future: CarService.loadLocalCarData(),
-        builder: (context, snapshot) {
-          if (snapshot.connectionState == ConnectionState.waiting) {
-            return const Center(child: CircularProgressIndicator());
-          } else if (snapshot.hasError) {
-            return Center(child: Text('Error: ${snapshot.error}'));
-          } else if (!snapshot.hasData || snapshot.data!.isEmpty) {
-            return const Center(child: Text('No content available.'));
-          }
-
-          final allItems = snapshot.data!;
-          List<ContentItem> visibleItems;
-
-          if (isShowingHomepage) {
-            visibleItems = allItems;
-          } else if (bottomNavIndex == 0) {
-            visibleItems =
-                allItems
-                    .where((item) => item.category == topTabs[selectedTabIndex])
-                    .toList();
-          } else {
-            final category = bottomNavSections[bottomNavIndex];
-            visibleItems =
-                allItems.where((item) => item.category == category).toList();
-          }
-
-          final isTablet = MediaQuery.of(context).size.width > 600;
-
-          return Padding(
-            padding: const EdgeInsets.all(16),
-            child:
-                visibleItems.isEmpty
-                    ? const Center(child: Text('No matching content.'))
-                    : isTablet
-                    ? Column(
-                      children: [
-                        const SizedBox(height: 16),
-                        Expanded(
-                          child: GridView.builder(
-                            itemCount: visibleItems.length,
-                            gridDelegate:
-                                const SliverGridDelegateWithFixedCrossAxisCount(
-                                  crossAxisCount: 3,
-                                  crossAxisSpacing: 16,
-                                  mainAxisSpacing: 16,
-                                  childAspectRatio: 0.72,
-                                ),
-                            itemBuilder: (context, index) {
-                              return ContentCard(item: visibleItems[index]);
-                            },
-                          ),
-                        ),
-                      ],
-                    )
-                    : ListView.builder(
-                      itemCount: visibleItems.length + 1,
-                      itemBuilder: (context, index) {
-                        if (index == 0) return const SizedBox(height: 16);
-                        return Padding(
-                          padding: const EdgeInsets.only(bottom: 20),
-                          child: ContentCard(item: visibleItems[index - 1]),
-                        );
-                      },
-                    ),
-          );
+        resizeToAvoidBottomInset: true,
+      backgroundColor: darkColor,
+      appBar: CustomAppBar(
+        onSearchChanged: (value) {
+          setState(() {
+            searchQuery = value.toLowerCase();
+          });
         },
       ),
-
+      body:
+          SafeArea(
+            child: bottomNavIndex == 0
+                ? Column(
+                  crossAxisAlignment: CrossAxisAlignment.start,
+                  children: [
+                    SizedBox(
+                      height: isTablet ? 60 : 48,
+                      child: TopTabBar(
+                        tabs: topTabs,
+                        selectedIndex: selectedTabIndex,
+                        onTabSelected: (index) {
+                          setState(() {
+                            selectedTabIndex = index;
+                            searchQuery = '';
+                          });
+                        },
+                      ),
+                    ),
+                    SizedBox(height: isTablet ? 24 : 16),
+                    Expanded(
+                      child:
+                          selectedTabIndex == 0
+                              ? FutureBuilder<List<ContentItem>>(
+                                future: CarService.loadLocalCarData(),
+                                builder: (context, snapshot) {
+                                  if (snapshot.connectionState ==
+                                      ConnectionState.waiting) {
+                                    return const Center(
+                                      child: CircularProgressIndicator(),
+                                    );
+                                  } else if (snapshot.hasError) {
+                                    return Center(
+                                      child: Text('Error: ${snapshot.error}'),
+                                    );
+                                  } else if (!snapshot.hasData ||
+                                      snapshot.data!.isEmpty) {
+                                    return const Center(
+                                      child: Text('No content available.'),
+                                    );
+                                  }
+            
+                                  final filteredItems =
+                                      snapshot.data!
+                                          .where(
+                                            (item) =>
+                                                searchQuery.isEmpty ||
+                                                item.title.toLowerCase().contains(
+                                                  searchQuery,
+                                                ) ||
+                                                item.subtitle
+                                                    .toLowerCase()
+                                                    .contains(searchQuery),
+                                          )
+                                          .toList();
+            
+                                  if (filteredItems.isEmpty) {
+                                    return const Center(
+                                      child: Text('No results found.'),
+                                    );
+                                  }
+            
+                                  // Tablet uses grid, phone uses list
+                                  if (isTablet) {
+                                    return GridView.builder(
+                                      padding: const EdgeInsets.symmetric(
+                                        horizontal: 24,
+                                        vertical: 8,
+                                      ),
+                                      gridDelegate:
+                                          const SliverGridDelegateWithFixedCrossAxisCount(
+                                            crossAxisCount: 2,
+                                            crossAxisSpacing: 16,
+                                            mainAxisSpacing: 16,
+                                            childAspectRatio: 3 / 2,
+                                          ),
+                                      itemCount: filteredItems.length,
+                                      itemBuilder: (context, index) {
+                                        return ContentCard(
+                                          item: filteredItems[index],
+                                        );
+                                      },
+                                    );
+                                  } else {
+                                    return ListView.builder(
+                                      padding: const EdgeInsets.symmetric(
+                                        horizontal: 16,
+                                      ),
+                                      itemCount: filteredItems.length,
+                                      itemBuilder: (context, index) {
+                                        return ContentCard(
+                                          item: filteredItems[index],
+                                        );
+                                      },
+                                    );
+                                  }
+                                },
+                              )
+                              : Center(
+                                child: Text(
+                                  'No content available for "${topTabs[selectedTabIndex]}"',
+                                  style: const TextStyle(
+                                    color: Colors.white54,
+                                    fontSize: 16,
+                                  ),
+                                ),
+                              ),
+                    ),
+                  ],
+                )
+                : Center(
+                  child: Text(
+                    'No content available for "${bottomNavSections[bottomNavIndex]}"',
+                    style: const TextStyle(color: Colors.white54, fontSize: 18),
+                  ),
+                ),
+          ),
       bottomNavigationBar: BottomNavigationBar(
         currentIndex: bottomNavIndex,
         onTap: (index) {
           setState(() {
             bottomNavIndex = index;
             selectedTabIndex = 0;
+            searchQuery = '';
           });
         },
-        backgroundColor: darkColor,
+        backgroundColor: const Color(0xFF1C1C1E),
         selectedItemColor: Colors.white,
         unselectedItemColor: greyColor,
         type: BottomNavigationBarType.fixed,
